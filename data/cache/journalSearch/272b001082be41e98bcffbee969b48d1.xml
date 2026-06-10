@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>journalSearch</apiCode>
+    <title><![CDATA[철학연구]]></title>
+    <page>1</page>
+    <displayCount>10</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <resultMsg>등록되지 않은 서비스</resultMsg>
+    </result>
+  </outputData>
+</MetaData>

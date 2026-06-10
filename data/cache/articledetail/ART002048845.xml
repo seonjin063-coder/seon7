@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002048845</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000955">
+        <issn>1229-5574</issn>
+        <journal-name>프랑스어권 문화예술연구</journal-name>
+        <publisher-name>프랑스문화예술학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2015</pub-year>
+        <pub-mon>11</pub-mon>
+        <volume>54</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002048845">
+        <article-categories>인문학 &gt; 프랑스어와문학 &gt; 프랑스어학 &gt; 프랑스문화학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>프랑스어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[Jean Grenier critique d’art. Une autre leçon de liberté]]></article-title>
+          <article-title lang="foreign"><![CDATA[예술비평가 장 그르니에 : « 또 다른 자유의 방식 »]]></article-title>
+          <article-title lang="english"><![CDATA[Jean Grenier as Art critic. Another lesson of freedom.]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[Yves Millet]]></name>
+            <institution>한국외국어대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[작가이자 철학자인 장 그르니에(1898 -1971)가 예술에 관해 쓴 저작들은 그 양이나 내용으로 볼 때 그의 작품 세계에서 절대 소홀히 다룰 수 없을 만큼 중요한 부분을 차지하고 있다. 예술에 관한 그의 저작들은 작가의 사유와 감수성에 대한 이해를 도와주는 동시에 전후 프랑스의 예술사와 지성사의 한 순간을 포착할 수 있게 한다. 우리는 이 논문에서 먼저 장 그르니에가 어떤 동기에서 예술창작에 관심을 보이게 되었는지를 살펴보는 한편, 이러한 예술창작에 대한 관심이 무엇보다 자유의 문제와 관련하여 진행되었던 그의 성찰 속에서 어떻게 자리를 잡게 되는지 그 맥락을 이해하고자 한다. 이어 동시대의 예술적 표현을 확산시키고 그 자신이 « 텅 빔과 침묵의 미학 »이라고 명명했던 것을 옹호하고자 애썼던 그의 행동이 다음과 같은 사실, 즉 예술 일반, 특별히 회화가 그에게 당대 지배적이었던 사르트르의 실존주의에 의해 정식화되었던 것과는 다른 형태의 자유를 예시할 수 있는 기회를 제공하는 모델이었다는 사실에 의해 어떤 식으로 설명될 수 있는지를 살펴보게 될 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[장 그르니에 (1898-1971)]]></keyword>
+          <keyword><![CDATA[예술에 관한 저작]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[앵포르멜 미술]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[파리파]]></keyword>
+          <keyword><![CDATA[Jean Grenier (1898-1971)]]></keyword>
+          <keyword><![CDATA[Art writings]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Informal Art]]></keyword>
+          <keyword><![CDATA[School of Paris]]></keyword>
+          <keyword><![CDATA[Jean Grenier (1898-1971)]]></keyword>
+          <keyword><![CDATA[Écrits sur l’art]]></keyword>
+          <keyword><![CDATA[Liberté]]></keyword>
+          <keyword><![CDATA[Art informel]]></keyword>
+          <keyword><![CDATA[Existentialisme]]></keyword>
+          <keyword><![CDATA[École de Paris]]></keyword>
+        </keyword-group>
+        <fpage>37</fpage>
+        <lpage>61</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.21651/cfaf.2015.54..37]]></doi>
+        <uci>G704-000955.2015.54..001</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002048845]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF037319888" type-code="03" type-name="단행본">
+          <title>Dans l'amitié de la peinture, Luneau Ascot</title>
+          <author>Arland Marcel</author>
+          <pubilisher>Éditeurs</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319889" type-code="03" type-name="단행본">
+          <title>Messages révolutionnaires</title>
+          <author>Artaud Antonin</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1971</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319890" type-code="03" type-name="단행본">
+          <title>La pensée et le mouvant</title>
+          <author>Bergson Henri</author>
+          <pubilisher>Skira</pubilisher>
+          <pubi-year>1946</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319891" type-code="03" type-name="단행본">
+          <title>L’ouvre-boîtes</title>
+          <author>Bryen Camille</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1952</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319892" type-code="03" type-name="단행본">
+          <title>Écrits sur l’art (1944-1971)</title>
+          <author>Corneau Patrick</author>
+          <pubilisher>Presses Universitaires de Rennes</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319893" type-code="03" type-name="단행본">
+          <title>Le Paris des étrangers depuis 1945 d’A. Marès et P. Milza</title>
+          <author>Bertrand-Dorléac Laurence</author>
+          <pubilisher>Publications de la Sorbonne</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>403-428</page>
+        </reference>
+        <reference refebibl-id="REF037319894" type-code="03" type-name="단행본">
+          <title>Comment trouver comment chercher une première vérité</title>
+          <author>Lequier Jules</author>
+          <pubilisher>Éditions de l’éclat</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319895" type-code="03" type-name="단행본">
+          <title>L’existentialisme est un humanisme</title>
+          <author>Sartre Jean-Paul</author>
+          <pubilisher>Gallimard folio essais</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319896" type-code="03" type-name="단행본">
+          <title>Collection « Les Essais », n°5, Gallimard, Paris, 1938. Réédition : Collection Idées</title>
+          <author>Essai sur l’esprit d’orthodoxie</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1967</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319897" type-code="03" type-name="단행본">
+          <title>OEuvres choisies, introduction de Jean Grenier, traduction de Jean Grenier et de Geneviève Goron, Collection Bibliothèque philosophique Aubier</title>
+          <author>Sextus Empiricus</author>
+          <pubilisher>Edition Montaigne</pubilisher>
+          <pubi-year>1948</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319898" type-code="07" type-name="기타자료">
+          <title>Entretiens sur le bon usage de la liberté, Gallimard, Paris, 1948. Réédition : coll. Idées, Gallimard, Paris, 1982</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319899" type-code="03" type-name="단행본">
+          <title>Éditions du Chêne</title>
+          <author>Braque</author>
+          <pubilisher>Paris</pubilisher>
+          <pubi-year>1948</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319900" type-code="03" type-name="단행본">
+          <title>Suivi d’une étude sur Braque, Chagall et Lhote</title>
+          <author>L’esprit de la peinture contemporaine</author>
+          <pubilisher>Lausanne - Bâle - Paris</pubilisher>
+          <pubi-year>1955</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319901" type-code="07" type-name="기타자료">
+          <title>L’Esprit du Tao, Collection « Homo sapiens », Flammarion, Paris, 1957. Réédition : Collection Champs, Flammarion, Paris, 1973</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319902" type-code="07" type-name="기타자료">
+          <title>Les Grèves, Gallimard, Paris, 1957. Réédition : Gallimard, Paris, 1980</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319903" type-code="03" type-name="단행본">
+          <title>Collection ‘Peintres d'aujourd’hui’</title>
+          <author>André Lanskoy</author>
+          <pubilisher>Hazan</pubilisher>
+          <pubi-year>1960</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319904" type-code="03" type-name="단행본">
+          <title>Catalogue de l’exposition R.E. Gillet</title>
+          <author>Roger-Edgar Gillet</author>
+          <pubilisher>Galerie de France</pubilisher>
+          <pubi-year>1961</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319905" type-code="03" type-name="단행본">
+          <title>Verve</title>
+          <author>Borès</author>
+          <pubilisher>Paris</pubilisher>
+          <pubi-year>1961</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319906" type-code="03" type-name="단행본">
+          <title>Catalogue de l’exposition André Marfaing, Galerie Claude Bernard, avril - mai</title>
+          <author>André Marfaing</author>
+          <pubilisher>Paris</pubilisher>
+          <pubi-year>1962</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319907" type-code="07" type-name="기타자료">
+          <title>Entretiens avec 17 peintres non-figuratifs, [Suite d’entretiens effectués pour Radio France de 1959 à 1963], éd. Calmann-Lévy, Paris, 1963. Réédition aux Éditions Folle Avoine, Romillé, 1990</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319908" type-code="03" type-name="단행본">
+          <title>Un abîme ordonné, Catalogue de l’exposition ‘Choix d’oeuvres des années 1946-1966’, Le Point Cardinal, 15 mars - fin avril</title>
+          <author>Henri Michaux</author>
+          <pubilisher>Paris</pubilisher>
+          <pubi-year>1967</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319909" type-code="07" type-name="기타자료">
+          <title>L’art et ses problèmes, Bibliothèque rencontre des Lettres anciennes et modernes, éd. Rencontre, Lausanne, 1970. « Jean Paulhan critique d’art » in Jean Paulhan, OEuvres complètes, vol. V, Cercle du Livre Précieux, Paris, 1970</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319910" type-code="03" type-name="단행본">
+          <title>Jean Grenier, Correspondance. 1932-1960, avertissement et notes par Marguerite Dobrenn</title>
+          <author>Albert Camus</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319911" type-code="07" type-name="기타자료">
+          <title>Combat : « L’Art poétique de Max Jacob », n° 131, 10 novembre 1944, p. 2 ; « Kandinsky et Henri Michaux », n° 143, 24 novembre 1944, p. 2 ; « À propos de Gauguin », n° 167, 21 décembre 1944, p. 2</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF037319912" type-code="07" type-name="기타자료">
+          <title>Rétrospective Mark Tobey</title>
+          <author>Preuves</author>
+        </reference>
+        <reference refebibl-id="REF037319913" type-code="07" type-name="기타자료">
+          <title>Dessins anciens de Tal Coat</title>
+          <author>XXe Siècle</author>
+        </reference>
+        <reference refebibl-id="REF037319914" type-code="03" type-name="단행본">
+          <title>Regard sur la peinture. 1944 - 1971, Musée des Jacobins</title>
+          <author>Grenier Jean</author>
+          <pubilisher>Morlaix</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037319915" type-code="07" type-name="기타자료">
+          <title>Introduction à l’exposition Nouveau dessin. Nouvelle peinture, Août 43, Avril 44</title>
+          <author>Francastel Pierre</author>
+        </reference>
+        <reference refebibl-id="REF037319916" type-code="03" type-name="단행본">
+          <title>Les années décisives. 1945-1953, Ed. Skira - Le Musée d’art moderne de St. Étienne</title>
+          <author>L’art en Europe</author>
+          <pubilisher>Paris</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

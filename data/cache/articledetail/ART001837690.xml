@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001837690</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000019">
+        <issn>0451-0097</issn>
+        <journal-name>국어국문학</journal-name>
+        <publisher-name>국어국문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2013</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>165</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001837690">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[이용악 시의 타자인식 방법과 의미]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the Methods and Significance of Recognizing the Other in the Poetry of Lee Yong-ak]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the Methods and Significance of Recognizing the Other in the Poetry of Lee Yong-ak]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[손민달]]></name>
+            <name-eng><![CDATA[Mindal SON]]></name-eng>
+            <institution>우송대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[The purpose of this study was to investigate the literary achievements of Lee Yong-ak with his poetry by applying the three aspects of being, which are the basis of Theory of The Other by Sartre, to his poetry and analyzing them. The findings identified the following characteristics of his perception of others:In his poetry, being-in-itself forms no relations at all in spite of the contradictions in reality. They have no otherness, thus expressing the suffering of reality more clearly. In his poetry, the subject alleviates sadness by combining with the other and delivers the sadness through the other. Lee's perception of being-for-itself in his poetry contributed to the sorrowful sentiment through the identification between the other and subject, which shows that his poetic achievement becomes great when the sentiment of sorrow surfaces. In his poetry, the subject's dual structure toward the other consists of the attitude of assimilating with the other and that of objectifying the other and thus turning it into being-in-itself. In his poems, the being-for-others-based perception of the other served as a way to embody "us" poetically, which has been left as an aesthetic achievement for the destitute reality of an individual to expand to the entire community.
+Lee's personal history-based experiences result in the life of migrants driven by poverty and destitution. Such a perception of the other demonstrated by him can be a key to the illumination of his aesthetic achievements that had extended to the national dimension.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this study was to investigate the literary achievements of Lee Yong-ak with his poetry by applying the three aspects of being, which are the basis of Theory of The Other by Sartre, to his poetry and analyzing them. The findings identified the following characteristics of his perception of others:In his poetry, being-in-itself forms no relations at all in spite of the contradictions in reality. They have no otherness, thus expressing the suffering of reality more clearly. In his poetry, the subject alleviates sadness by combining with the other and delivers the sadness through the other. Lee's perception of being-for-itself in his poetry contributed to the sorrowful sentiment through the identification between the other and subject, which shows that his poetic achievement becomes great when the sentiment of sorrow surfaces. In his poetry, the subject's dual structure toward the other consists of the attitude of assimilating with the other and that of objectifying the other and thus turning it into being-in-itself. In his poems, the being-for-others-based perception of the other served as a way to embody "us" poetically, which has been left as an aesthetic achievement for the destitute reality of an individual to expand to the entire community.
+Lee's personal history-based experiences result in the life of migrants driven by poverty and destitution. Such a perception of the other demonstrated by him can be a key to the illumination of his aesthetic achievements that had extended to the national dimension.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Lee Yong-ak]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[subject]]></keyword>
+          <keyword><![CDATA[poetic subject]]></keyword>
+          <keyword><![CDATA[the other]]></keyword>
+          <keyword><![CDATA[being-in-itself]]></keyword>
+          <keyword><![CDATA[being-for-itself]]></keyword>
+          <keyword><![CDATA[being-for-others]]></keyword>
+          <keyword><![CDATA[turning it into being-in-itself]]></keyword>
+          <keyword><![CDATA[identification]]></keyword>
+          <keyword><![CDATA[us]]></keyword>
+          <keyword><![CDATA[이용악]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[시적 주체]]></keyword>
+          <keyword><![CDATA[타자]]></keyword>
+          <keyword><![CDATA[즉자존재]]></keyword>
+          <keyword><![CDATA[대자존재]]></keyword>
+          <keyword><![CDATA[대타존재]]></keyword>
+          <keyword><![CDATA[즉자화]]></keyword>
+          <keyword><![CDATA[동일화]]></keyword>
+          <keyword><![CDATA[우리들]]></keyword>
+        </keyword-group>
+        <fpage>391</fpage>
+        <lpage>423</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17291/kolali.2013..165.013]]></doi>
+        <uci>G704-000019.2013..165.011</uci>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.29</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001837690]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF031682331" type-code="03" type-name="단행본">
+          <title>낡은 집</title>
+          <author>이용악</author>
+          <pubilisher>삼문사</pubilisher>
+          <pubi-year>1937</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682332" type-code="03" type-name="단행본">
+          <title>분수령</title>
+          <author>이용악</author>
+          <pubilisher>삼문사</pubilisher>
+          <pubi-year>1938</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682333" type-code="03" type-name="단행본">
+          <title>오랑캐꽃</title>
+          <author>이용악</author>
+          <pubilisher>아문각</pubilisher>
+          <pubi-year>1947</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682334" type-code="03" type-name="단행본">
+          <title>리용악 시선집</title>
+          <author>이용악</author>
+          <pubilisher>조선작가동맹출판사</pubilisher>
+          <pubi-year>1957</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682335" type-code="03" type-name="단행본">
+          <title>이용악 시전집</title>
+          <author>윤영천 편</author>
+          <pubilisher>창작과비평사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682336" type-code="05" type-name="학위논문">
+          <title>李庸岳詩硏究</title>
+          <author>甘泰俊</author>
+          <degree>박사</degree>
+          <university>漢陽大學校 大學院</university>
+          <department>국어국문학</department>
+          <pubi-year>1990</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682337" type-code="05" type-name="학위논문">
+          <title>1920-30年代 詩의 敍事指向性과 詩的 構造</title>
+          <author>高亨鎭</author>
+          <degree>박사</degree>
+          <university>高麗大學校 大學院</university>
+          <department>국어국문학</department>
+          <pubi-year>1991</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682494" type-code="05" type-name="학위논문">
+          <title>한국 근대시의 북방의식 연구 : 김동환, 백석, 이용악을 중심으로</title>
+          <author>곽효환</author>
+          <degree>박사</degree>
+          <university>고려대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2007</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682338" type-code="01" type-name="학술지(정기간행물)">
+          <title>월북 후 이용악의 시세계- 리용악 시선집 을 중심으로</title>
+          <author>김인섭</author>
+          <journal-name>우리문학연구</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>15</volume>
+          <isseue />
+          <serno />
+          <page>233-260</page>
+          <pubilisher>우리문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682339" type-code="05" type-name="학위논문">
+          <title>李庸岳 詩 硏究 : `構造'와 `模型化'를 중심으로</title>
+          <author>류순태</author>
+          <degree>석사</degree>
+          <university>서울大學校 大學院</university>
+          <department>국어국문</department>
+          <pubi-year>1994</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682340" arti-id="ART001030524" type-code="01" type-name="학술지(정기간행물)">
+          <title>이용악 시의 기법 연구</title>
+          <author>박순원</author>
+          <journal-name>한국시학연구</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>12</volume>
+          <isseue>17</isseue>
+          <serno />
+          <page>53-74</page>
+          <pubilisher>한국시학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682341" type-code="05" type-name="학위논문">
+          <title>이용악 시 연구</title>
+          <author>배석호</author>
+          <degree>박사</degree>
+          <university>인하대학교 대학원</university>
+          <department>한국학</department>
+          <pubi-year>2011</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682342" type-code="03" type-name="단행본">
+          <title>존재와 무-자유를 향한 실존적 탐색</title>
+          <author>변광재</author>
+          <pubilisher>살림</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682343" type-code="03" type-name="단행본">
+          <title>장 폴 사르트르(시선과 타자)</title>
+          <author>변광재</author>
+          <pubilisher>살림</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682344" type-code="01" type-name="학술지(정기간행물)">
+          <title>정지용 시의 현상학적 연구</title>
+          <author>손병희</author>
+          <journal-name>문학과 언어</journal-name>
+          <pubi-year>1993</pubi-year>
+          <volume>14</volume>
+          <isseue />
+          <serno />
+          <page>319-343</page>
+          <pubilisher>문학과언어학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682345" arti-id="ART000851339" type-code="01" type-name="학술지(정기간행물)">
+          <title>정지용의 시와 타자의 문제</title>
+          <author>손병희</author>
+          <journal-name>어문학</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>78</volume>
+          <isseue />
+          <serno />
+          <page>313-337</page>
+          <pubilisher>한국어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682346" arti-id="ART001474409" type-code="01" type-name="학술지(정기간행물)">
+          <title>김춘수의 시와 타자의 문제</title>
+          <author>손병희</author>
+          <journal-name>국어교육연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>47</isseue>
+          <serno />
+          <page>299-320</page>
+          <pubilisher>국어교육학회(since1969)</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682347" type-code="05" type-name="학위논문">
+          <title>이용악 시의 발화 양상 연구 : 대화지향성을 중심으로</title>
+          <author>송현지</author>
+          <degree>석사</degree>
+          <university>고려대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2009</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031683000" arti-id="ART001779896" type-code="01" type-name="학술지(정기간행물)">
+          <title>이용악 시에 나타난 친일 성격</title>
+          <author>양은창</author>
+          <journal-name>어문연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>76</volume>
+          <isseue />
+          <serno />
+          <page>149-174</page>
+          <pubilisher>어문연구학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682348" type-code="03" type-name="단행본">
+          <title>민족시의 전진과 좌절, In 이용악 시전집</title>
+          <author>윤영천</author>
+          <pubilisher>창작과비펑사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>204-</page>
+        </reference>
+        <reference refebibl-id="REF031682349" type-code="05" type-name="학위논문">
+          <title>한국 현대시의 반복 기법과 언술 구조 : 1930년대 후반기의 백석·이용악·서정주 시를 중심으로</title>
+          <author>이경수</author>
+          <degree>박사</degree>
+          <university>고려대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2003</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682350" arti-id="ART001657957" type-code="01" type-name="학술지(정기간행물)">
+          <title>『리용악시선집』 재수록 작품의 개작과 그 의미</title>
+          <author>이경수</author>
+          <journal-name>한국근대문학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>4</volume>
+          <isseue>25</isseue>
+          <serno />
+          <page>233-276</page>
+          <pubilisher>한국근대문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682351" arti-id="ART001718199" type-code="01" type-name="학술지(정기간행물)">
+          <title>월북 이후 이용악 시에 나타난 청년의 표상과 그 의미</title>
+          <author>이경수</author>
+          <journal-name>한국시학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>12</volume>
+          <isseue>35</isseue>
+          <serno />
+          <page>201-240</page>
+          <pubilisher>한국시학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682352" arti-id="ART001702738" type-code="01" type-name="학술지(정기간행물)">
+          <title>이용악 시 연구  -반복 기법과 화자의 역할을 중심으로-</title>
+          <author>이근화</author>
+          <journal-name>Journal of korean Culture</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>21</volume>
+          <isseue />
+          <serno />
+          <page>281-304</page>
+          <pubilisher>한국어문학국제학술포럼</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682353" arti-id="ART001131198" type-code="01" type-name="학술지(정기간행물)">
+          <title>이용악 시의 발화구조 연구</title>
+          <author>이현승</author>
+          <journal-name>Comparative Korean Studies</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>14권</volume>
+          <isseue>2호</isseue>
+          <serno />
+          <page>189-215</page>
+          <pubilisher>국제비교한국학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682354" type-code="05" type-name="학위논문">
+          <title>1930년대 후반기 시의 언술구조 연구 : 백석·이용악·오장환의 시를 중심으로</title>
+          <author>이현승</author>
+          <degree>박사</degree>
+          <university>고려대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2011</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682355" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의존재와 무에서 ‘우리들’에 관한 고찰</title>
+          <author>임지혜</author>
+          <journal-name>동서사상</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>5</volume>
+          <isseue />
+          <serno />
+          <page>109-110</page>
+          <pubilisher>경북대동서사상연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682356" type-code="05" type-name="학위논문">
+          <title>이용악 시의 대화적 구조 연구</title>
+          <author>장석원</author>
+          <degree>석사</degree>
+          <university>고려대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2000</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682357" type-code="02" type-name="학술대회논문">
+          <title>사르트르, 부버, 레비나스의 타자론-주변부 타자 문학론을 위한 시론</title>
+          <author>정정호</author>
+          <conference-name>새한영어영문학회 2001년 겨울 워크샵</conference-name>
+          <pubi-year>2001</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>9-</page>
+          <pubilisher>새한영어영문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031682358" type-code="03" type-name="단행본">
+          <title>북의 시인 이용악론, In 평정의 시학을 위하여</title>
+          <author>최동호</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>25-</page>
+        </reference>
+        <reference refebibl-id="REF031682359" type-code="05" type-name="학위논문">
+          <title>이용악 시의 언술 분석</title>
+          <author>黃仁敎</author>
+          <degree>박사</degree>
+          <university>梨花女子大學校 大學院</university>
+          <department>국어국문학</department>
+          <pubi-year>1991</pubi-year>
+        </reference>
+        <reference refebibl-id="REF031682360" type-code="03" type-name="단행본">
+          <title>자크 라캉</title>
+          <author>이미선</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682361" type-code="03" type-name="단행본">
+          <title>인정투쟁 -사회적 갈등의 도덕적 형식론</title>
+          <author>문성훈</author>
+          <pubilisher>사월의책</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682362" type-code="03" type-name="단행본">
+          <title>시간과 타자</title>
+          <author>에마뉘엘 레비나스</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031682363" type-code="03" type-name="단행본">
+          <title>기호와 문학</title>
+          <author>위르겐 링크</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

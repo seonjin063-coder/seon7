@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001449198</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001317">
+        <issn>1226-8682</issn>
+        <journal-name>영어영문학연구</journal-name>
+        <publisher-name>대한영어영문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2010</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>36</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001449198">
+        <article-categories>인문학 &gt; 영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[실존주의 휴머니즘과 기독교 신앙 —문학 서술로 본 자유와 선택을 중심으로—]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existential Humanism and Christian Faith Centering on Freedom and Choice in Literature]]></article-title>
+          <article-title lang="english"><![CDATA[Existential Humanism and Christian Faith Centering on Freedom and Choice in Literature]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[양병현]]></name>
+            <name-eng><![CDATA[Yang, Byong-hyoun]]></name-eng>
+            <institution>상지대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Humanism and Christian faith of the 20th century evolved with existential ideas, which were part of the modern conception of the self. Actually, existentialism was a philosophically oriented idea of the search for selfhood. Kierkegaard and Nietzsche contributed to developing the idea of existence and the self. The fact that one was Christian, the other not, perpetuated a division that still stays with us. Existential humanism then signifies freedom and choice by individual in reaction to conflicts between traditional Christian ideas to find the roots of human existence. Human spirit in literature is to be doubtful of traditional Christian faith and to be nihilistic towards contemporary values in an extreme way; thereby it defines itself as an individual form of faith depending on how each writer experiences Christianity in terms of worldly conditions. Actually, today Christian faith evolves with postmodern ideas to experience the liberation of the self. (Sangji University)]]></abstract>
+          <abstract lang="english"><![CDATA[Humanism and Christian faith of the 20th century evolved with existential ideas, which were part of the modern conception of the self. Actually, existentialism was a philosophically oriented idea of the search for selfhood. Kierkegaard and Nietzsche contributed to developing the idea of existence and the self. The fact that one was Christian, the other not, perpetuated a division that still stays with us. Existential humanism then signifies freedom and choice by individual in reaction to conflicts between traditional Christian ideas to find the roots of human existence. Human spirit in literature is to be doubtful of traditional Christian faith and to be nihilistic towards contemporary values in an extreme way; thereby it defines itself as an individual form of faith depending on how each writer experiences Christianity in terms of worldly conditions. Actually, today Christian faith evolves with postmodern ideas to experience the liberation of the self. (Sangji University)]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[humanism]]></keyword>
+          <keyword><![CDATA[Christian faith]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[choice]]></keyword>
+        </keyword-group>
+        <fpage>91</fpage>
+        <lpage>104</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.21559/aellk.2010.36.2.006]]></doi>
+        <uci>G704-001317.2010.36.2.010</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001449198]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF021958605" type-code="06" type-name="인터넷자원">
+          <title>짜라투스트라는 이렇게 말했다</title>
+          <author>양혜림</author>
+          <url><![CDATA[http://library.kangwon.ac.kr/ DLiWeb20/Components/Sites/Kangwon/ LibService/sasang/sasang16.htm]]></url>
+          <citation-day>2009</citation-day>
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+        <reference refebibl-id="REF021958606" arti-id="ART001254211" type-code="01" type-name="학술지(정기간행물)">
+          <title>여성스러운 사내: 댄 브라운의 『다빈치 코드』</title>
+          <author>양병현</author>
+          <journal-name>문학과 종교</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>13</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>19-51</page>
+          <pubilisher>한국문학과종교학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021958607" type-code="06" type-name="인터넷자원">
+          <title>현대신학의 이해</title>
+          <author>호오던, 윌리엄</author>
+          <url><![CDATA[http://www.biblenara.org/gospel/gospel4-4.htm]]></url>
+          <citation-day>2009</citation-day>
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+        <reference refebibl-id="REF021958608" type-code="03" type-name="단행본">
+          <title>The Study of Poetry, in : Essays in Criticism</title>
+          <author>Arnold,Matthew</author>
+          <pubilisher>Macmillan</pubilisher>
+          <pubi-year>1888</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958609" type-code="03" type-name="단행본">
+          <title>The Knowledge of God and the Service of God</title>
+          <author>Barth, Karl</author>
+          <pubilisher>Hodder &amp; Stoughton</pubilisher>
+          <pubi-year>1938</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958610" type-code="03" type-name="단행본">
+          <title>Annotations to Dr. Thornton’s ‘New Translation of the Lord’s Prayer’. 1827. Complete Writings</title>
+          <author>Blake, William</author>
+          <pubilisher>Nonsuch Press</pubilisher>
+          <pubi-year>1827</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958611" type-code="03" type-name="단행본">
+          <title>The Brothers Karamazov. 1880</title>
+          <author>Dostoevskii, Fyodor M.</author>
+          <pubilisher>Heinemann</pubilisher>
+          <pubi-year>1912</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958612" type-code="03" type-name="단행본">
+          <title>The Modern Tradition: Background of Modern Literature</title>
+          <author>Ellmann, Richard</author>
+          <pubilisher>Oxford UP</pubilisher>
+          <pubi-year>1965</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958613" type-code="01" type-name="학술지(정기간행물)">
+          <title>Salvation on Earth</title>
+          <author>Gide, Andrė</author>
+          <journal-name>Journals</journal-name>
+          <pubi-year>1937</pubi-year>
+          <volume>3</volume>
+          <isseue />
+          <serno />
+          <page>370-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021958614" type-code="03" type-name="단행본">
+          <title>The Concept of Dread. 1844</title>
+          <author>Kierkegaard, Soren</author>
+          <pubilisher>Princeton UP</pubilisher>
+          <pubi-year>1844</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958615" type-code="03" type-name="단행본">
+          <title>The Risen Lord, in : Assorted Articles</title>
+          <author>Lawrence, D. H.</author>
+          <pubilisher>Random House</pubilisher>
+          <pubi-year>1930</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958616" type-code="03" type-name="단행본">
+          <title>The Correspondence, 1899-1926, between Paul Claudel and Andre Gide</title>
+          <author>Millet, Robert</author>
+          <pubilisher>Pantheon</pubilisher>
+          <pubi-year>1952</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958617" type-code="03" type-name="단행본">
+          <title>The Gay Science. 1882</title>
+          <author>Nietzsche, Friedrich</author>
+          <pubilisher>Vintage</pubilisher>
+          <pubi-year>1882</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958618" type-code="03" type-name="단행본">
+          <title>Speculations</title>
+          <author>Read, Herbert</author>
+          <pubilisher>Routledge &amp; Kegan Paul</pubilisher>
+          <pubi-year>1924</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958619" type-code="03" type-name="단행본">
+          <title>Existentialism, in : The Norton Reader</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>W. W. Norton &amp; Co.</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021958620" type-code="03" type-name="단행본">
+          <title>The Courage to Be</title>
+          <author>Tillich, Paul</author>
+          <pubilisher>Yale UP</pubilisher>
+          <pubi-year>1952</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

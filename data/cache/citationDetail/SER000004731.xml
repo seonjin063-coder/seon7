@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000004731</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004731">
+        <registration>
+          <kci-registration>KCI 등재</kci-registration>
+        </registration>
+        <journal-kor-name>트랜스-</journal-kor-name>
+        <journal-kor-abbr-name>trans</journal-kor-abbr-name>
+        <journal-fola-name>trans-</journal-fola-name>
+        <journal-fola-abbr-name>trans</journal-fola-abbr-name>
+        <major>사회과학 &gt; 신문방송학 &gt; 영상학 &gt; 뉴미디어</major>
+        <issn>2508-3309</issn>
+        <eissn />
+        <fsed-yr>2016년</fsed-yr>
+        <impr>연2회, 08월 25일, 02월 25일</impr>
+        <current-issue>2026년 02월 20</current-issue>
+        <use-lang>한국어, 영어</use-lang>
+        <publisher>
+          <publisher-kor-name>성균관대학교 트랜스미디어연구소</publisher-kor-name>
+          <publisher-eng-name>TRANS MEDIA INSTITUTE</publisher-eng-name>
+          <publisher-tel>02-760-0669</publisher-tel>
+          <publisher-homp>http://tmi.or.kr</publisher-homp>
+          <publisher-addr>서울특별시 종로구 성균관로 25-2, 수선관 4층 61045호 트랜스미디어연구소 (명륜3가)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2026" div-cd="8"><![CDATA[계속평가 신청대상 (재인증평가)]]></journal-change>
+        <journal-change date="2023-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (계속평가)]]></journal-change>
+        <journal-change date="2021-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>1.29</impactFactor>
+          <impactFactor3>0.97</impactFactor3>
+          <impactFactor4>0.8</impactFactor4>
+          <impactFactor5>0.65</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.214</sjr>
+          <immediacyIndex>0.27</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>24</yearsArticles2>
+          <yearsCited2>31</yearsCited2>
+          <exImpactFactor>1.29</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>1.2</impactFactor>
+          <impactFactor3>1.0</impactFactor3>
+          <impactFactor4>0.83</impactFactor4>
+          <impactFactor5>0.71</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.18</sjr>
+          <immediacyIndex>0.22</immediacyIndex>
+          <selfCitedRate>20.0%</selfCitedRate>
+          <yearsArticles2>25</yearsArticles2>
+          <yearsCited2>30</yearsCited2>
+          <exImpactFactor>0.96</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2022">
+          <impactFactor>0.3</impactFactor>
+          <impactFactor3>0.29</impactFactor3>
+          <impactFactor4>0.25</impactFactor4>
+          <impactFactor5>0.24</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.53</sjr>
+          <immediacyIndex>0.53</immediacyIndex>
+          <selfCitedRate>33.33%</selfCitedRate>
+          <yearsArticles2>20</yearsArticles2>
+          <yearsCited2>6</yearsCited2>
+          <exImpactFactor>0.2</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2021">
+          <impactFactor>0.14</impactFactor>
+          <impactFactor3>0.1</impactFactor3>
+          <impactFactor4>0.11</impactFactor4>
+          <impactFactor5>0.12</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.356</sjr>
+          <immediacyIndex>0.1</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>21</yearsArticles2>
+          <yearsCited2>3</yearsCited2>
+          <exImpactFactor>0.14</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

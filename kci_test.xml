@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleSearch</apiCode>
+    <keyword>실존주의</keyword>
+    <page>1</page>
+    <displayCount>10</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <total>449</total>
+    </result>
+    <record>
+      <journalInfo>
+        <journal-name>유럽문화예술학논집</journal-name>
+        <publisher-name>유럽문화예술학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>14</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002942704">
+        <article-categories>문화이론</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[프랑시스 그뤼버의 <욥> 연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on Francis Gruber's <Job>]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Francis Gruber's <Job>]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim, Seung Hwan">김승환(조선대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 제1,2차 세계대전을 겪고, 평생을 천식이란 지병과 투병하면서도 자신만의 독특한 미술세계를 보여주었던 그뤼버를 소개하고자 한다. 그의 대표작 중 하나로 평가되는 <욥>을 통해 그가얼마나 서양미술의 전통을 당대의 정치, 사회적 상황과 연결하고자 했는지를 이해하고자 하였다.
+그뤼버의 작품 속 주인공인 욥은 전통적인 멜랑콜리의 자세인 팔을 머리에 괴고 있는 모습으로나타난다. 이렇게 ‘욥’을 표현하는 도상은 독일 르네상스의 거장 뒤러의 작품 속 욥의 자세와 관련이있다. 뒤러의 작품 속 욥이 당시 유행하던 페스트와 같은 유행병에 대한 두려움에서 그려졌듯, 그뤼버는 ‘욥’이란 주제를 독일군의 프랑스 점령 시기의 큰 고통을 경험했던 파리 시민들의 억압 상징으로서탐구하고자 했다.
+그뤼버의 작품 속 멜랑콜리한 욥은 고민하고 회의한다. 그는 보편적 윤리, 인권 등의 문제를 핵심으로 부각한다. 결국 전쟁으로 인한 혼란 이후, 모두가 징벌과 재건의 수단에 대해 궁금해하는 시기에그뤼버는 인간의 구원과 도덕적 교화에 대해 성찰했다.]]></abstract>
+          <abstract lang="english"><![CDATA[Francis Gruber is not classified as a so-called avant-garde artist in the first half of the 20th century.
+Besides he died at the young age of 36. For that reason, his works are not widely known and have not even been properly evaluated. This study aims to introduce Gruber, who went through World War I and II and showed his own unique art world while struggling with asthma all his life. Through <Job>, which is evaluated as one of his representative works, this article tried to understand how much he tried to connect the tradition of Western art with the political and social situation of the time.
+Job, the main character in Gruber's work, appears with his arms resting on his head, a traditional posture of melancholy. The iconography of ‘Job’ like this is related to the posture of Job in the work of Durer, a master of the German Renaissance. Frederick III, Elector of Saxony, who ordered this painting from Durer in his work <Job and his wife>, ordered this painting out of fear of an epidemic like the plague. In a similar vein, Gruber's desire to explore the theme of 'Job' as an allegory for Paris during the German occupation of France, that is, as a symbol of oppression of Parisians who did not lose hope and faith and experienced great suffering, is well illustrated.
+Job in the traditional Bible is a man who has not lost his absolute faith in God. However, the melancholic Job in Gruber's work agonizes and doubts. He is rebellious. Dangerously, he gets to the point of articulating human beliefs. Now, the story of Job highlights issues such as universal ethics, human rights, and the question of divine justice and human justice. Gruber found in Job a figure who evoked the ethical, legal, and theological ambiguity raised by the purges and expulsions in France during and after the German occupation.]]></abstract>
+        </abstract-group>
+        <fpage>1</fpage>
+        <lpage>23</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002942704]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>중국어문학</journal-name>
+        <publisher-name>영남중국어문학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume />
+        <issue>92</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002956052">
+        <article-categories>중국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[대만 여성문학과 실존주의 연구 －≪文學雜誌≫와 ≪現代文學≫을 중심으로－]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on Taiwan women literature and existentialism: Focused on magazine Literary Review and Modern Literature]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Taiwan women literature and existentialism: Focused on magazine Literary Review and Modern Literature]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Hee-young">이희영(유원대학교 교양융합학부)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[The 1960s was also a time when new women's literature was created as a large number of many writers appeared through ≪Literary Review≫ and ≪Modern Literature≫, which led the attempts and initiatives of modernism in Taiwan. The Taiwanese literary acceptance of modernism is a reaction to the coercive political environment such as the surveillance culture of white terror and martial law. At that time, it was difficult for writers to deal with sensitive sanctions such as the reflection of the social reality claimed by the Literary Magazine. For this reason, as an antithesis, he tried to find an answer in subjective reality, emphasizing inner experience and individual consciousness. Existence and death, which are constantly questioned and thought about in the works of Taiwanese women in the 1960s, are ultimately a philosophical interpretation of the fear and pain they faced.]]></abstract>
+          <abstract lang="english"><![CDATA[The 1960s was also a time when new women's literature was created as a large number of many writers appeared through ≪Literary Review≫ and ≪Modern Literature≫, which led the attempts and initiatives of modernism in Taiwan. The Taiwanese literary acceptance of modernism is a reaction to the coercive political environment such as the surveillance culture of white terror and martial law. At that time, it was difficult for writers to deal with sensitive sanctions such as the reflection of the social reality claimed by the Literary Magazine. For this reason, as an antithesis, he tried to find an answer in subjective reality, emphasizing inner experience and individual consciousness. Existence and death, which are constantly questioned and thought about in the works of Taiwanese women in the 1960s, are ultimately a philosophical interpretation of the fear and pain they faced.]]></abstract>
+        </abstract-group>
+        <fpage>175</fpage>
+        <lpage>207</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15792/clsyn..92.202304.175]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002956052]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국조직신학논총</journal-name>
+        <publisher-name>한국조직신학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume />
+        <issue>76</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003119820">
+        <article-categories>조직신학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology]]></article-title>
+          <article-title lang="foreign"><![CDATA[불안 너머의 윤리적 연대: 폴 틸리히 신학에서의 불안의 윤리]]></article-title>
+          <article-title lang="english"><![CDATA[Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="An, Taeha">안태하(Yale University)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper delves into the ontological and ethical dimensions of anxiety as explored in Paul Tillich’s The Courage to Be. It investigates the role of anxiety in Tillich’s theological framework, particularly in relation to one’s encounter with Being(Sein) and other beings(Seiende). Using a phenomenological appropriation of Mikhail Bakhtin’s theory of polyphony as the method of analysis, the paper begins by examining the teleological aspects of anxiety in Tillich’s thought. The study then explores how anxiety, as a fundamental human condition, is articulated primarily in ontological terms and much less in ethical terms. It is made explicit in disclosing Martin Heidegger’s influence on Tillich. The paper aims to bridge the ontological and ethical implications of anxiety, suggesting that Tillich’s emphasis on the notion of “courage” is central to compre- hending the affirmation of existence despite the presence of nonbeing, as manifested in anxiety. Courage, as an ethical concept, not only affirms one’s existence but also potentially affirms other’s existence. This paper argues that anxiety reveals the finitude of human existence and highlights the necessity for external affirmation. By facing anxiety and affirming one’s being “in spite of” nonbeing, there emerges a capacity for solidarity with other finite beings, rendering an ethical response to shared suffering and anxiety possible. This exploration aims to clarify how existential anxiety, traditionally discussed within continental philosophy’s ontological frameworks, can also be studied with ethical considerations of vulnerability and responsibility.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper delves into the ontological and ethical dimensions of anxiety as explored in Paul Tillich’s The Courage to Be. It investigates the role of anxiety in Tillich’s theological framework, particularly in relation to one’s encounter with Being(Sein) and other beings(Seiende). Using a phenomenological appropriation of Mikhail Bakhtin’s theory of polyphony as the method of analysis, the paper begins by examining the teleological aspects of anxiety in Tillich’s thought. The study then explores how anxiety, as a fundamental human condition, is articulated primarily in ontological terms and much less in ethical terms. It is made explicit in disclosing Martin Heidegger’s influence on Tillich. The paper aims to bridge the ontological and ethical implications of anxiety, suggesting that Tillich’s emphasis on the notion of “courage” is central to compre- hending the affirmation of existence despite the presence of nonbeing, as manifested in anxiety. Courage, as an ethical concept, not only affirms one’s existence but also potentially affirms other’s existence. This paper argues that anxiety reveals the finitude of human existence and highlights the necessity for external affirmation. By facing anxiety and affirming one’s being “in spite of” nonbeing, there emerges a capacity for solidarity with other finite beings, rendering an ethical response to shared suffering and anxiety possible. This exploration aims to clarify how existential anxiety, traditionally discussed within continental philosophy’s ontological frameworks, can also be studied with ethical considerations of vulnerability and responsibility.]]></abstract>
+        </abstract-group>
+        <fpage>159</fpage>
+        <lpage>192</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.21650/ksst..76.202409.159]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003119820]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>독일언어문학</journal-name>
+        <publisher-name>한국독일어문학회</publisher-name>
+        <pub-year>2016</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>71</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002094090">
+        <article-categories>독일어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의와 쥐스킨트의 소설 <비둘기>]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartres Existenzialismus und die Taube von Patrick Süskind]]></article-title>
+          <article-title lang="english"><![CDATA[Sartres Existenzialismus und die Taube von Patrick Süskind]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Cho, hyunchon">조현천(제주대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Den Zusammenhang von Blick und Scham analysiert Jean Paul Sartres Theorie des Blicks, die den Kern seiner Intersubjektivitätstheorie darstellt. Er entwickelt sie in seinem Versuch einer phänomenologischen Ontologie Das Sein und das Nichts(1943), einem der grundlegenden Texte der Existenzphilosophie. Nach Sartre ist Scham nur intersubjektiv möglich im Moment des Erblicktwerdens durch ein anderes Subjekt, unter dessen Blick das erblickte Individuum sich als Objekt empfindet.
+In der vorliegenden Arbeit wird versucht, die Bedeutung des Blicks des Anderen und Schamgefühls von Jean-Paul Sartre in der prototypischen Novelle Die Taube(1987) von Patrick Süskind zu untersuchen, in der Scham gegenüber Menschen ein wiederkehrendes Gefühl ist. Jonathan Noel, die Hauptfigur der Novelle, ist ein Sonderling, der jegliche menschliche Kontakte meidet. Am Ende der Novelle begreift er, dass Schamgefühl ein Sichschämen über sich vor dem Anderen ist. Er überwindet das Schamgefühl und entschließt sich, mit den anderen Leuten zusammen zu leben.]]></abstract>
+          <abstract lang="english"><![CDATA[Den Zusammenhang von Blick und Scham analysiert Jean Paul Sartres Theorie des Blicks, die den Kern seiner Intersubjektivitätstheorie darstellt. Er entwickelt sie in seinem Versuch einer phänomenologischen Ontologie Das Sein und das Nichts(1943), einem der grundlegenden Texte der Existenzphilosophie. Nach Sartre ist Scham nur intersubjektiv möglich im Moment des Erblicktwerdens durch ein anderes Subjekt, unter dessen Blick das erblickte Individuum sich als Objekt empfindet.
+In der vorliegenden Arbeit wird versucht, die Bedeutung des Blicks des Anderen und Schamgefühls von Jean-Paul Sartre in der prototypischen Novelle Die Taube(1987) von Patrick Süskind zu untersuchen, in der Scham gegenüber Menschen ein wiederkehrendes Gefühl ist. Jonathan Noel, die Hauptfigur der Novelle, ist ein Sonderling, der jegliche menschliche Kontakte meidet. Am Ende der Novelle begreift er, dass Schamgefühl ein Sichschämen über sich vor dem Anderen ist. Er überwindet das Schamgefühl und entschließt sich, mit den anderen Leuten zusammen zu leben.]]></abstract>
+        </abstract-group>
+        <fpage>115</fpage>
+        <lpage>131</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.30947/zfdsl.2016..71.115]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002094090]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>교육철학연구</journal-name>
+        <publisher-name>한국교육철학학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>44</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002823040">
+        <article-categories>교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[Superfluous Men: A Recurring Challenge for Pro-Democracy Educators]]></article-title>
+          <article-title lang="foreign"><![CDATA[잉여인간: 민주주의 교육의 반복되는 도전]]></article-title>
+          <article-title lang="english"><![CDATA[Superfluous Men: A Recurring Challenge for Pro-Democracy Educators]]></article-title>
+        </title-group>
+        <author-group>
+          <author>Ben Garrido(목원대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper seeks to analyze totalitarian pedagogy in the context of modern education. In pursuance of this goal, the beneficiaries of totalitarianism must be investigated and understood. Beginning in Hannah Arendt’s 1951 book The Origins of Totalitarianism it is suggested that the rise of totalitarianism owed much to the plight of “superfluous men” – people whose acts of will cease to matter. Arendt sees totalitarianism as an effort to reduce the pain of these superfluous men by assuring them that they are good because of race, class, etc. and, correspondingly, that acts of will do not matter. Since the superfluous man is defined by the inconsequential nature of his actions, this is comforting to him, or rarely, her. This paper finds that similarly superfluous men are reemerging in the early 21st century and, correspondingly, that totalitarian-style solutions to their suffering are also reemerging. In particular, this study seeks to understand the following factors: 1. What are the characteristics leading to superfluity? 2. What are the effects of totalitarian “compassion” on traditional, democratic or citizenship education strategies? 3. How does totalitarian education interact with 21st century education? It is found that superfluity tends to come about from a lack of available social roles, particularly for males, that totalitarian succor makes traditional civic education strategies impossible and that 21st century education, while still mostly conducted on democratic, citizenship or civic education principles, is beginning to show features similar to totalitarian science, totalitarian compassion and totalitarian fatalism. Pedagogical conclusions are drawn from a comparison of Nazi textbook Nazi Primer and representative texts from the democratic education canon, the Confucian citizenship education canon and the classical Greek pedagogical canon.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper seeks to analyze totalitarian pedagogy in the context of modern education. In pursuance of this goal, the beneficiaries of totalitarianism must be investigated and understood. Beginning in Hannah Arendt’s 1951 book The Origins of Totalitarianism it is suggested that the rise of totalitarianism owed much to the plight of “superfluous men” – people whose acts of will cease to matter. Arendt sees totalitarianism as an effort to reduce the pain of these superfluous men by assuring them that they are good because of race, class, etc. and, correspondingly, that acts of will do not matter. Since the superfluous man is defined by the inconsequential nature of his actions, this is comforting to him, or rarely, her. This paper finds that similarly superfluous men are reemerging in the early 21st century and, correspondingly, that totalitarian-style solutions to their suffering are also reemerging. In particular, this study seeks to understand the following factors: 1. What are the characteristics leading to superfluity? 2. What are the effects of totalitarian “compassion” on traditional, democratic or citizenship education strategies? 3. How does totalitarian education interact with 21st century education? It is found that superfluity tends to come about from a lack of available social roles, particularly for males, that totalitarian succor makes traditional civic education strategies impossible and that 21st century education, while still mostly conducted on democratic, citizenship or civic education principles, is beginning to show features similar to totalitarian science, totalitarian compassion and totalitarian fatalism. Pedagogical conclusions are drawn from a comparison of Nazi textbook Nazi Primer and representative texts from the democratic education canon, the Confucian citizenship education canon and the classical Greek pedagogical canon.]]></abstract>
+        </abstract-group>
+        <fpage>57</fpage>
+        <lpage>89</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002823040]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>倫理硏究</journal-name>
+        <publisher-name>한국윤리학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume>1</volume>
+        <issue>142</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003002490">
+        <article-categories>학제간연구</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의와 윤리의 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre’s Existentialism and Its Ethical Meaning]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre’s Existentialism and Its Ethical Meaning]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim, Nam-Joon">김남준(충북대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르의 실존주의의 특성과 윤리적 의미를 논구하는 것을 목적으로 한다. 이를 위해 본 논문은 사르트르의 실존주의를 대표하는 『존재와 무』와 『실존주의는 휴머니즘이다』라는 두 저서를 통해 ‘존재와 무’, ‘실존은 본질에 앞선다’, ‘실존의 조건’(자유, 책임, 불안), ‘실존주의는 휴머니즘이다’ 등과 같은 주요 주제를 체계적으로 논의할 것이다. 다음으로, 본 논문은 사르트르의 실존주의가 갖는 윤리학의 가능성과 윤리적 의미를 실존주의적 휴머니즘을 중심으로 논구할 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This papar aims to discuss the characteristics of Sartre’s existentialism and its ethical meaning. For this purpose, I first discuss key themes like ‘being and nothingness’, ‘existence precedes essence’, ‘the conditions of existentialism’(freedom, responsibility, anguish), ‘existentialism is a humanism’ etc by analyzing Sartre’s two major works, and . I then discuss the possibility of ethics in Sartre’s existentialism and its ethical meaning, focusing on existentialist humanism.]]></abstract>
+        </abstract-group>
+        <fpage>241</fpage>
+        <lpage>262</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15801/je.1.142.202309.241]]></doi>
+        <uci />
+        <citation-count kci="3" wos="0">3</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003002490]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>문화기술의 융합</journal-name>
+        <publisher-name>국제문화기술진흥원</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>10</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003083530">
+        <article-categories>기타과학기술학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[Directorial Characteristics Depicting Nietzschean Nihilism in Animation: A Focus on 'Attack on Titan']]></article-title>
+          <article-title lang="english"><![CDATA[Directorial Characteristics Depicting Nietzschean Nihilism in Animation: A Focus on 'Attack on Titan']]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim Jiwoong">김지웅(부산대학교 디자인학과)</author>
+          <author english="Lee Hyunseok">이현석(부산대학교 디자인학과)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[니체의 허무주의 주창 이후 많은 문학, 드라마, 영화에서 허무주의와 연관한 인간 심리에 대한 묘사가 이루어졌으며, 애니메이션 또한 허무주의를 담아낸 서사가 TV 시리즈와 극장용 애니메이션으로 제작되고 있다. 특히, 애니메이션은 여타 매체와 달리 어떠한 상상의 이미지도 구현할 수 있는 시각 영상매체로써 실사 촬영 영상과 다른 특성을 보이며, 시간적 속성을 가짐으로써 만화와 차별된다. 이에 본 연구는 니체가 정의한 허무주의의 세 단계가 어떻게 애니메이션 캐릭터에서 재현되고, 어떠한 상황을 연출하는지 애니메이션 <진격의 거인>을 사례로 분석하고자 한다. 이를 위한 연구의 전개는 첫째, 니체의 허무주의의 유형과 세 단계에 대해 문헌을 중심으로 고찰하고, 대중매체에 재현된 허무주의와 애니메이션의 특성에 대해 살펴본다. 둘째, 문헌연구에 기초하여 사례분석 대상의 서사와 구축된 세계관을 통해 허무주의적 관점에서 해석하며, 수동적 허무주의, 능동적 허무주의, 영원회귀의 삶의 세 단계 허무주의를 통해 네 명의 주요 등장인물을 분석한다. 그 결과 해당 애니메이션은 자신의 삶과 존재의 의미를 향한 부정과 긍정이라는 두 가지 메시지를 전달하며, 이를 통해 관객들은 인간의 실존에 대해 심도 있게 고찰할 기회를 맞이한다. 본 연구는 니체의 허무주의가 대중오락 매체인 애니메이션에서 어떻게 재현되는지 살펴볼 수 있는 연구라 사료된다.]]></abstract>
+          <abstract lang="english"><![CDATA[After Friedrich Nietzsche's advocacy of nihilism, many literary works, dramas, and films have depicted aspects of human psychology associated with nihilism. Animation, too, has been used to convey nihilism, with narratives infused with nihilistic themes produced as both TV series and theatrical animations. Particularly, animation, as a visual medium capable of realizing any imaginative image unlike other media, possesses distinctive characteristics from live-action cinematography and differs from comics in its temporal properties. Hence, this study aims to analyze how Nietzsche's defined three stages of nihilism are represented within animation characters and how they construct various scenarios, using the anime "Attack on Titan" as a case study. The research unfolds by first examining Nietzsche's types of nihilism and the three stages through a review of literature, while also investigating the portrayal of nihilism in mass media and considering the unique attributes of animation. Secondly, building upon the literature review, the analysis interprets the narrative and constructed world of the chosen case study from a nihilistic perspective, examining four major characters through the stages of passive nihilism, active nihilism, and eternal recurrence. The findings demonstrate that the anime conveys two messages regarding negation and affirmation of one's life and existence, thereby offering viewers an opportunity to deeply contemplate human existence. This study is considered significant as it examines how Nietzschean nihilism is portrayed within the popular entertainment medium of animation.]]></abstract>
+        </abstract-group>
+        <fpage>413</fpage>
+        <lpage>420</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17703/JCCT.2024.10.3.413]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003083530]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>도덕교육연구</journal-name>
+        <publisher-name>한국도덕교육학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>34</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002850814">
+        <article-categories>교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의 철학이 도덕교육에 주는 시사]]></article-title>
+          <article-title lang="foreign"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+          <article-title lang="english"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Han-Jin">이한진(연동초등학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르는 인간의 근원적인 불안이 자유에 기인하는 것으로 파악한다. 의식으로서의 대자(對自)는 타인의 시선에서 결코 자유로울 수 없다. 그러나 인간은 불안을 지우기 위해서 자유를 포기하고 자기기만에 빠지는 경향이 있다. 실존으로서의 인간은 스스로 자신을 만들어가는 존재자다. 사르트르는 인간 실존의 핵심으로 자유를 꼽는다. 인간존재는 고정되어 있지 않다. 끊임없이 변화하며 다수성을 내포하고 있는 자유로운 의식의 존재다. 대자는 자신을 대상화하여 바라볼 수 있다. 대자는 실체로서 존재하지 않지만 자유롭게 즉자(卽自)를 부정할 수 있다. 자유로운 인간은 자기 내면성에 대한 내적 부정을 통해서 자기 자신을 새롭게 형성할 수 있다. 자율적 선택에 따라 자기 삶을 사는 사람만이 도덕적 주체로서 자신의 존재론적 책임을 다할 수 있다. 인간의 자기기만 극복과 자유를 강조한 사르트르의 실존주의 철학은 도덕적 주체의 정립을 추구하는 도덕교육과 관련하여 이론적 뒷받침이 되어준다.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre understands that the fundamental human anxiety is caused by freedom. For itself as consciousness can never be free from the gaze of others. However, humans tend to give up their freedom to get rid of their anxiety and fall into self-deception. Human beings as existential beings are beings who create themselves. According to Sartre, freedom is the essence of human existence. Human existence is not fixed. It is an existence of free consciousness that is constantly changing and contains a plurality. For itself can objectify itself and look at it. Although for itself does not exist as a substance, it can freely deny in itself. A free man can reshape himself through an inner denial of his inner self. Only those who live their lives according to their autonomous choices can fulfill their ontological responsibilities as a moral subject. Sartre's existentialist philosophy, which emphasized overcoming human self-deception and freedom, provides theoretical support in relation to moral education that seeks to establish a moral subject.]]></abstract>
+        </abstract-group>
+        <fpage>131</fpage>
+        <lpage>149</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17715/jme.2022.6.34.2.131]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850814]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>아시아태평양융합연구교류논문지</journal-name>
+        <publisher-name>사단법인 한국융합기술연구학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>11</volume>
+        <issue>10</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003258974">
+        <article-categories>학제간연구</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의]]></article-title>
+          <article-title lang="foreign"><![CDATA[Poetics of Existential Anxiety and Human Recovery: Humanistic Existentialism in the Poetry of Jeon Bong-geon and Park In-hwan]]></article-title>
+          <article-title lang="english"><![CDATA[Poetics of Existential Anxiety and Human Recovery: Humanistic Existentialism in the Poetry of Jeon Bong-geon and Park In-hwan]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Jung Eun Shin">신정은(한남대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 한국 전후 시에 나타난 내면적 특성을 휴머니즘적 실존주의 관점에서 고찰하고자 하였다. 전쟁 이후 인간 존재에 대한 근원적 물음과 회복 의지를 동시에 담고 있는 시들을 중심으로 분석하였다. 특히 실존의 불안과 고독을 직면하면서도 인간다움의 회복 가능성을 모색하는 시적 태도에 주목하였다. 전후 시인들은 죽음과 절망의식 속에서도 인간 존재의 존엄성과 연대의 가능성을 탐색하였다. 이러한 시 세계는 실존주의적 고뇌 위에 휴머니즘적 윤리의식을 포개는 특징을 보인다. 본 연구는 이를 통해 단순한 허무주의를 넘어선 윤리적 실존, 감성적 회복의 길을 밝히고자 하였다. 전봉건의 시는 순수 서정을 통해 전쟁으로 말살되어 가는 인간성과 그 속에서 소생하는 사랑을 다양하게 변주시킨다는 평가를 받고 있다. 박인환은 전쟁체험에 따른 실존적 불안의식을 드러낸다. 종군기자였던 그의 현실적 체험이 작품에 그대로 나타나는 것이다. 그리고 전쟁의 체험은 이념의 대립과 실존적 존재의 불안감을 대두시킨다. 박인환은 인간성의 상실과 아픔을 시적 주체로 표현하면서 억압받고 있는 의식을 표현하고 있다. 전쟁을 체험한 시인들은 현실의 모순과 부조리를 작품 속에 투영하고자 했다. 이들의 전후 시는 대체로 시적 자아의 부정적 정서와 현실의 비극을 표출하고 있다. 전봉건, 박인환의 전후 시를 통해 전쟁의 상처를 극복하고 문학의 정체성을 회찾기 위한 노력을 살펴볼 수 있었다. 이를 통해 한국 전후 시는 인간 내면의 위기와 그 극복 과정을 통합적으로 드러내는 문학적 증언이라 할 수 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study aims to examine the inner characteristics of Korean postwar poetry from a humanistic existentialist perspective. It analyzes poems that simultaneously contain fundamental questions about human existence and the will to recover after the war. In particular, it focuses on the poetic attitude that seeks to recover humanity in the face of existential anxiety and loneliness. Postwar poets explored the dignity of human existence and the possibility of solidarity even in the midst of death and despair. This poetic world shows the characteristic of overlaying humanistic ethical consciousness on existentialist agony. Through this, this study aims to reveal the path to ethical existence and emotional recovery that goes beyond simple nihilism. Jeon Bong-geon’s poetry is evaluated as having transformed the humanity being destroyed by war and the love that is revived in it through pure lyricism. Park In-hwan reveals existential anxiety resulting from his war experience. His realistic experience as a war correspondent is directly reflected in his work. In addition, the experience of war highlights the conflict between ideologies and the anxiety of existential existence. Park In-hwan expresses the loss of humanity and pain as a poetic subject, conveying while expressing the oppressed consciousness. Poets who experienced war attempted to convey the contradictions and absurdities of reality through their works. Their postwar poems generally express the negative emotions of the poetic self and the tragedy of reality. Through the postwar poems of Jeon Bong-geon and Park In-hwan, we can examine their efforts to overcome the wounds of war and find the identity of literature. Through this, Korean postwar poetry can be said to be a literary testimony that comprehensively reveals the crisis of the human mind and the process of overcoming it.]]></abstract>
+        </abstract-group>
+        <fpage>771</fpage>
+        <lpage>786</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.47116/apjcri.2025.10.53]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003258974]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>인문사회 21</journal-name>
+        <publisher-name>인문사회 21</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>13</volume>
+        <issue>6</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002908437">
+        <article-categories>기타사회과학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the Community of ‘Death’ and ‘Love’ Shown in Son Chang-seop’s Novels of the 1950s -Based on the Thoughts of Community by Maurice Blanchot and Jean-Luc Nancy-]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the Community of ‘Death’ and ‘Love’ Shown in Son Chang-seop’s Novels of the 1950s -Based on the Thoughts of Community by Maurice Blanchot and Jean-Luc Nancy-]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Eungyeong Shin">신은경(충북대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[연구 목적: 이 연구는 블라쇼와 낭시가 논의한 ‘공동체’의 의미를 통해서 1950년대 손창섭 소설에서 발생하는 공동체적 의식을 살펴보고자 한다.
+연구 방법: 연구 방법은 손창섭 소설에서 공동체 생성 원리는 ‘결핍’에서 비롯되며, 이러한 공동체는 ‘죽음’, ‘사랑’의 형태로 구현된다. 이는 블랑쇼와 낭시가 주장한 공동체의 특징을 통해 연구하였다.
+연구 내용: 이 논문의 연구내용은 손창섭의 소설에서 ‘죽음’과 ‘사랑’의 두 갈래는 공동체의 속성을 띠며, 이는 타자와의 관계에서 자신의 실존적 인간의 모습으로 구현되었다. ‘죽음’은 타자와 나와의 관계성 즉, 공통의 의식적 소산에서 발생하는 내적 지향성이었다. ‘사랑’은 남녀 간의 사랑, 타인에 대한 이타적인 사랑의 등 다양한 대상과의 관계에서 공동체를 이루고 있었다.
+결론 및 제언: 손창섭의 1950년대 소설에서 제시되는 죽음과 사랑이라는 극단적 사유의 방식은 전후의 공동체를 해석할 수 있는 인식적 지표가 되며, 당대 현실을 사유하게 하는 바탕이 된다는 점에서 의의가 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study aims to examine the communal consciousness shown in Son Chang-seop’s novels of the 1950s, based on the meanings of ‘community’ discussed by Blanchot and Nancy. In Son Chang-seop’s novels, the principle of forming a community is originated from ‘deficiency’, and this community is realized in the form of ‘death’ and ‘love’. This was studied through the characteristics of community argued by Blanchot and Nancy. In Son Chang-seop’s novels, both ‘death’ and ‘love’ showed the attributes of community, which was realized as the look of existent human in relationships with others. ‘Death’ was internal orientation that was generated in relationships with others, which was a product of common consciousness. ‘Love’ was forming a community in relation with various objects such as love between man and woman, and selfless love for others. The extreme thinking of death and love presented in Son Chang-seop’s novels of the 1950s, is significant in the aspect of becoming the foundation of thinking about the reality of the time, as an epistemic index for interpreting the post-war community.]]></abstract>
+        </abstract-group>
+        <fpage>1585</fpage>
+        <lpage>1596</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="3" wos="0">3</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002908437]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

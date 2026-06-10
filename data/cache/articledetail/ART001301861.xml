@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001301861</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001857">
+        <issn>1229-4373</issn>
+        <journal-name>한국문학연구</journal-name>
+        <publisher-name>동국대학교 한국문학연구소</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2008</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>35</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001301861">
+        <article-categories>인문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[실존, 자유부인, 프래그머티즘 ― 1950년대의 두 가지 ‘자유’ 개념과 문화]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existentialism, Pragmatism, and Madame Freedom ― Two Sources of ‘Liberty’ Concept and the Cultural Practices in 1950's Korea]]></article-title>
+          <article-title lang="english"><![CDATA[Existentialism, Pragmatism, and Madame Freedom ― Two Sources of ‘Liberty’ Concept and the Cultural Practices in 1950's Korea]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[권보드래]]></name>
+            <name-eng><![CDATA[Kwon, Boduerae]]></name-eng>
+            <institution>고려대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[해방기에 새로 등장해 1950년대까지 한국 사회를 휩쓸었던 ‘자유’는, 그 합법적(legitimate) 원천을 따지자면 프랑스 실존주의와 미국 사회과학이라는 두 가지 지적 조류에서 유래되었다. 실존주의를 통해 ‘자유’와 함께 ‘실존’이, 미국 사회과학을 통해 ‘자유’와 함께 ‘민주주의’가 들어오고 정련되는 과정에서, 그러나 두 가지 ‘자유’ 개념은 판연히 이질적인 것이었다. 존재의 부조리와 공포를 자각하는 데서 출발한 실존주의의 ‘자유’는 개인성의 수준에서 한국 전쟁의 충격을 명명하는 데 기여했고, 전체주의와의 대결 의식을 내재한 미국 사회과학의 ‘자유’는 사회체의 수준에서 자본주의와 보통 선거와 정당 정치 등 새로운 정치·경제적 조건을 수용하는 데 도움을 주었다. 전자는 작가를 중심으로 문학과 철학·예술 분야에 깊은 영향력을 끼쳤고 후자는 대학 중심의 아카데미에 압도적 위세를 떨쳤다. 문제적인 사회 현상을 스펙트럼화하는 다소 무리한 작업을 시도해 볼 수 있다면, 1950년대에 화제가 되고 과제로 떠올랐던 많은 현상 중 상당수는 이 두 가지 ‘자유’ 개념 사이에 분포한다고 말할 수 있다. 예컨대 한국 전쟁 이후 문제된 ‘아프레 걸’이라는 여성군은 실존주의의 통속적 판본으로서 그 절망을 모방한 존재이자 미국 대중문화로 치장한 물질주의적 존재였으며, ‘자유 부인’이라는 명칭은 ‘아프레 걸’에 이웃하면서도 미국 대중문화를 더 일방적으로 편식하는 데 대해 붙여진 조롱의 레테르였다. 실존주의와 미국 사회과학의 ‘자유’가 남성­지식인 사이의 언어요 현상이었다면, 보다 대중적인 문화 실천은 그 언어를 절단·채취하면서도 심각한 혼란과 좌충우돌과 자의적 해석을 드러내 보였다. 한국 전쟁의 충격이 소화되고 1950년대 당대 현실이 점점 중요한 문제로 부상하면서 ‘자유’의 이러한 상황 또한 변화하기 시작한다. 1950년대 전반에는 전쟁의 폭력으로 인한 트라우마를 극복하고 새로운 이념을 주조하기 위해 먼저 ‘부정’의 자세가 필요했다면, 따라서 ‘부정’을 통해 형성된 모호성의 지대를 두고 실존주의와 미국 사회과학에 의한 ‘자유’가 각축하고 그 사이의 다양한 문화적 스펙트럼이 전개될 수 있었다면, 정치·경제적 불만이 팽배했던 1950년대 후반에 ‘자유’는 적극적 이념을 향해 수렴되어 갔던 것이다. 한국 전쟁 이후 4·19에 이르는 1950년대 한국 사회의 변화란, 다기했던 ‘자유’의 이해와 실천이 단일화되어 간 과정과 일치한다고 할 수 있을 터인데, 4·19로 상징되는 종합은 그러나 이후까지 계속되는 분열의 계기 또한 간직하고 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[‘Liberty’ or ‘freedom’ was a new token in the 1950's. It stemmed from two legitimate sources of French existentialism and American pragmatism, which formed the bifurcated configuration of the concept of ‘freedom’. Existentialism dominated the spheres of philosophy, art, literature, while pragmatism had a profound influence on the academic practices, especially social sciences. The former helped people to endure the trauma of Korean war, and the latter suggested them to rebuild the society over the ruins of the war. The existentialism's ‘liberty’ was negative one which focuses to take a step backward from the violent world, while the pragmatism's ‘liberty’ was more or less positive one which projects the new vision of society. A variety of cultural phenomena was formulated in the tension of these two liberties. The notorious but attractive ‘après-girl’ was circulated as popular version of existentialism, and the famous Madame Freedom was coined by the authoritative voice of American style liberal democracy. The various practices of ‘freedom’ in the field of popular culture inaugurated against the backdrop of such an interaction, and influence of American mass culture played a leading role in such a process. The political event which ends 1950's, 4·19 became possible when these diverse ‘liberty' or ‘freedom’ converge on the demand for political freedom and democracy.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[프로그머티즘]]></keyword>
+          <keyword><![CDATA[아프레 걸]]></keyword>
+          <keyword><![CDATA[『자유 부인』]]></keyword>
+          <keyword><![CDATA[「불꽃」]]></keyword>
+          <keyword><![CDATA[『슬픔이여 안녕』]]></keyword>
+          <keyword><![CDATA[소극적 자유]]></keyword>
+          <keyword><![CDATA[적극적 자유]]></keyword>
+          <keyword><![CDATA[자유 민주주의]]></keyword>
+          <keyword><![CDATA[자유주의]]></keyword>
+          <keyword><![CDATA[4·19]]></keyword>
+          <keyword><![CDATA[버트런드 러셀]]></keyword>
+          <keyword><![CDATA[라인홀드 니버]]></keyword>
+          <keyword><![CDATA[시드니 후크]]></keyword>
+          <keyword><![CDATA[아놀드 토인비]]></keyword>
+          <keyword><![CDATA[『사상계』]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[pragmatism]]></keyword>
+          <keyword><![CDATA[après-girl]]></keyword>
+          <keyword><![CDATA[Madame Freedom(Jayu Pu'in)]]></keyword>
+          <keyword><![CDATA[“Flame(Bulkkot)”]]></keyword>
+          <keyword><![CDATA[Bonjour Tristesse]]></keyword>
+          <keyword><![CDATA[negative liberty positive liberty]]></keyword>
+          <keyword><![CDATA[liberal democracy]]></keyword>
+          <keyword><![CDATA[liberalism]]></keyword>
+          <keyword><![CDATA[4·19]]></keyword>
+          <keyword><![CDATA[Betrand Russel]]></keyword>
+          <keyword><![CDATA[Reinhold Niebuhr]]></keyword>
+          <keyword><![CDATA[Sydney Hook]]></keyword>
+          <keyword><![CDATA[Arnold Toynbee]]></keyword>
+          <keyword><![CDATA[Sasa'ng-gye]]></keyword>
+        </keyword-group>
+        <fpage>101</fpage>
+        <lpage>147</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.20881/skl.2008..35.004]]></doi>
+        <uci>G704-001857.2008..35.003</uci>
+        <citation-count kci="34" wos="0">34</citation-count>
+        <fwci create-dt="2025-08-04">3.52</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001301861]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF017717375" type-code="07" type-name="기타자료">
+          <title>『사상계』</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF017717376" type-code="07" type-name="기타자료">
+          <title>『신태양』</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF017717377" type-code="07" type-name="기타자료">
+          <title>『동아일보』</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF017717378" type-code="07" type-name="기타자료">
+          <title>『한국일보』</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF017717379" type-code="07" type-name="기타자료">
+          <title>『동인문학상 수상작 모음집 1: 1956~60』, 조선일보사, 2004</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF017717380" type-code="03" type-name="단행본">
+          <title>김성한 중단편 전집</title>
+          <author />
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717381" type-code="03" type-name="단행본">
+          <title>김동리 대표작 선집</title>
+          <author />
+          <pubilisher>삼성출판사</pubilisher>
+          <pubi-year>1967</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717382" type-code="03" type-name="단행본">
+          <title>한국 전후 문제작품집</title>
+          <author />
+          <pubilisher>신구문화사</pubilisher>
+          <pubi-year>1961</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717383" type-code="03" type-name="단행본">
+          <title>불란서 전후 문제작품집</title>
+          <author />
+          <pubilisher>신구문화사</pubilisher>
+          <pubi-year>1961</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717489" type-code="03" type-name="단행본">
+          <title>자유부인</title>
+          <author>정비석</author>
+          <pubilisher>고려원</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717490" type-code="03" type-name="단행본">
+          <title>나는 너를 싫어한다(한국문학전집 25: 석방인,파도,기타)</title>
+          <author>김광주</author>
+          <pubilisher>민중서관</pubilisher>
+          <pubi-year>1959</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717491" type-code="03" type-name="단행본">
+          <title>아방궁(신 한국문학 전집 13)</title>
+          <author>김광주</author>
+          <pubilisher>어문각</pubilisher>
+          <pubi-year>1973</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717492" type-code="03" type-name="단행본">
+          <title>균열(한국대표단편문학전집 7)</title>
+          <author>오상원</author>
+          <pubilisher>경미문화사</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717493" type-code="03" type-name="단행본">
+          <title>태양의 계곡</title>
+          <author>손소희</author>
+          <pubilisher>현대문학사</pubilisher>
+          <pubi-year>1957</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717494" type-code="03" type-name="단행본">
+          <title>장준하 문집 1:민족주의자의 길</title>
+          <author>장준하</author>
+          <pubilisher>사상</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717495" type-code="03" type-name="단행본">
+          <title>별빛 속의 계절</title>
+          <author>한무숙</author>
+          <pubilisher>현대문학</pubilisher>
+          <pubi-year>1956</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717496" type-code="03" type-name="단행본">
+          <title>신화의 단애, 덜레스 공항을 떠나며</title>
+          <author>한무숙</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717497" type-code="03" type-name="단행본">
+          <title>1950년대 후반의 사회 이념: 민주주의와 민족주의(한국 현대사의 재인식 4: 1950년대 후반기의 한국 사회와 이승만 정부의 붕괴)</title>
+          <author>김경일</author>
+          <pubilisher>오름</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717498" type-code="03" type-name="단행본">
+          <title>1950년대 한국교육(1950년대 한국사의 재조명)</title>
+          <author>김기석</author>
+          <pubilisher>선인</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717499" type-code="01" type-name="학술지(정기간행물)">
+          <title>로크, 자유주의, 신자유주의</title>
+          <author>김성우</author>
+          <journal-name>시대와 철학</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>12</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017717500" type-code="03" type-name="단행본">
+          <title>한국 근대문학 사상사 연구 2</title>
+          <author>김윤식</author>
+          <pubilisher>아세아문화사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717501" arti-id="ART001034975" type-code="01" type-name="학술지(정기간행물)">
+          <title>전후 국가 근대화와 “아프레 걸(전후 여성)” 표상의 의미</title>
+          <author>김은하</author>
+          <journal-name>여성문학연구</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume />
+          <isseue>16</isseue>
+          <serno />
+          <page>177-209</page>
+          <pubilisher>한국여성문학학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017717502" type-code="01" type-name="학술지(정기간행물)">
+          <title>마샬 플랜의 결정과정</title>
+          <author>김정배</author>
+          <journal-name>부산사학</journal-name>
+          <pubi-year>1996</pubi-year>
+          <volume>31</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017717503" type-code="03" type-name="단행본">
+          <title>자유주의의 원리와 역사</title>
+          <author>노명식</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717504" type-code="03" type-name="단행본">
+          <title>1950년대 한국의 민주주의와 권위주의 in : 1950년대 남북한의 선택과 굴절</title>
+          <author>박명림</author>
+          <pubilisher>역사비평사</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717505" type-code="03" type-name="단행본">
+          <title>이승만과 제 1 공화국: 해방에서 4월 혁명까지</title>
+          <author>서중석</author>
+          <pubilisher>역사비평사</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717506" type-code="03" type-name="단행본">
+          <title>감시에서 동원으로, 동원에서 규율로: 1950년대 학도호국단을 중심으로 in : 죽엄으로써 나라를 지키자: 1950년대, 반공,동원,감시의 시대</title>
+          <author>연정은</author>
+          <pubilisher>선인</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717507" type-code="05" type-name="학위논문">
+          <title>듀이 교육사상이 한국 교육과정에 미친 영향</title>
+          <author>예철해</author>
+          <degree>박사</degree>
+          <university>동국대</university>
+          <department />
+          <pubi-year>2004</pubi-year>
+        </reference>
+        <reference refebibl-id="REF017717508" type-code="03" type-name="단행본">
+          <title>1950년대 한국 영화와 문화 담론</title>
+          <author>오영숙</author>
+          <pubilisher>소명출판</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717509" type-code="03" type-name="단행본">
+          <title>비합리성 이면의 합리성을 찾아서: 이승만 시대 수입대체산업화의 정치경제학(해방 전후사의 재인식 2)</title>
+          <author>우정은</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717510" type-code="03" type-name="단행본">
+          <title>여성,전쟁을 넘어 일어서다</title>
+          <author>이임하</author>
+          <pubilisher>서해문집</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717511" type-code="01" type-name="학술지(정기간행물)">
+          <title>미국 지성사에서 라인홀드 니버의 위치</title>
+          <author>이형대</author>
+          <journal-name>미국사 연구</journal-name>
+          <pubi-year>1997</pubi-year>
+          <volume>6</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017717512" arti-id="ART000973321" type-code="01" type-name="학술지(정기간행물)">
+          <title>제 1공화국 초기 대한민국의 가족국가화와 내파</title>
+          <author>임종명</author>
+          <journal-name>한국사연구</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume>130</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017717513" type-code="03" type-name="단행본">
+          <title>한국의 경제학 연구(한국 사회과학 연구: 경향과 해제)</title>
+          <author>임종철</author>
+          <pubilisher>범문사</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717514" type-code="03" type-name="단행본">
+          <title>음악(한국 현대 예술사대계 2)</title>
+          <author>전정임</author>
+          <pubilisher>시공사</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717515" type-code="03" type-name="단행본">
+          <title>실존철학</title>
+          <author>조가경</author>
+          <pubilisher>박영사</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717516" type-code="03" type-name="단행본">
+          <title>4월 혁명과 한국 문학</title>
+          <author>최원식</author>
+          <pubilisher>창작과비평사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717517" type-code="03" type-name="단행본">
+          <title>한국 현대의 이념과 성격</title>
+          <author>한수영</author>
+          <pubilisher>국학자료원</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717518" type-code="03" type-name="단행본">
+          <title>미국의 헤게모니와 한국 민족주의</title>
+          <author>허은</author>
+          <pubilisher>고대 민족문화연구원</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717519" type-code="03" type-name="단행본">
+          <title>싸르트르의 사상과 문학</title>
+          <author>Alberes, R.M.</author>
+          <pubilisher>신양사</pubilisher>
+          <pubi-year>1958</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717520" type-code="03" type-name="단행본">
+          <title>자유</title>
+          <author>Bauman, Z.</author>
+          <pubilisher>이후</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717521" type-code="03" type-name="단행본">
+          <title>Four Essays on Liberty</title>
+          <author>Berlin, I.</author>
+          <pubilisher>Oxford Univ. Press</pubilisher>
+          <pubi-year>1969</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017717522" type-code="03" type-name="단행본">
+          <title>Les Etudes sur Bonjour Tristesse</title>
+          <author>Bieber, H.</author>
+          <pubilisher>Ellipses</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715553" type-code="03" type-name="단행본">
+          <title>정의의 사람들</title>
+          <author>Camus, A.</author>
+          <pubilisher>서문당</pubilisher>
+          <pubi-year>1972</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715554" type-code="01" type-name="학술지(정기간행물)">
+          <title>Fran?oise Sagang: The Superficial Classic</title>
+          <author>Cismaru, A.</author>
+          <journal-name>World Literature Today</journal-name>
+          <pubi-year>1993</pubi-year>
+          <volume>67</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017715555" type-code="01" type-name="학술지(정기간행물)">
+          <title>민주주의의 딜렘마: 특히 자유와 평등을 중심으로</title>
+          <author>Ebestein, A.</author>
+          <journal-name>법정논총</journal-name>
+          <pubi-year>1959</pubi-year>
+          <volume />
+          <isseue>9</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017715556" type-code="03" type-name="단행본">
+          <title>Liberalism</title>
+          <author>Gray, J.</author>
+          <pubilisher>Open Univ. Press</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715557" type-code="03" type-name="단행본">
+          <title>Spheres of Liberty: Changing Perceptions of Liberty in American Culture</title>
+          <author>Kammen, M.</author>
+          <pubilisher>Cornell Univ. Press</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715558" type-code="03" type-name="단행본">
+          <title>프랑스혁명</title>
+          <author>Lefebvre, G.</author>
+          <pubilisher>을유문화사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715559" type-code="03" type-name="단행본">
+          <title>전환기의 자유 민주주의</title>
+          <author>Macpherson, C. B.</author>
+          <pubilisher>청사</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715560" type-code="03" type-name="단행본">
+          <title>정치의 이상</title>
+          <author>Russel, B.</author>
+          <pubilisher>민중서관</pubilisher>
+          <pubi-year>1958</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715561" type-code="03" type-name="단행본">
+          <title>미국의 민주주의</title>
+          <author>Toqueville, A.</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017715562" type-code="03" type-name="단행본">
+          <title>미국과 세계</title>
+          <author>Ungar, F.</author>
+          <pubilisher>사상계사</pubilisher>
+          <pubi-year>1954</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

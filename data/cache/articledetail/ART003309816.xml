@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003309816</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000001533">
+        <issn>1738-9429</issn>
+        <journal-name>교육연구논총</journal-name>
+        <publisher-name>충남대학교 교육연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2026</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>47</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003309816">
+        <article-categories />
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[중국인 여성 유학생들의 실존적 변화와 주체성 형성에 관한 내러티브 탐구]]></article-title>
+          <article-title lang="english"><![CDATA[A Narrative Inquiry into Existential Change and Agency Formation among Chinese Female International Students]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[묘 동]]></name>
+            <institution>충남대학교</institution>
+          </author>
+          <author author-division="2">
+            <name><![CDATA[허창수]]></name>
+            <institution>충남대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 한국에서 유학하는 중국인 여성 대학원생들의 내러티브를 통해 그들의 실존적 변화와 주체성 형성 과정을 탐색하였다. 4명의 참여자를 대상으로 면담을 시행하였으며, 내러티브 탐구 방법과 보부아르의 실존주의 페미니즘을 분석 틀로 활용하였다. 연구 결과는 다음과 같이 나타났다. 첫째, 유학은 가족, 개인, 사회적 요인이 교차하는 맥락 속에서 시작되었다. 둘째, 언어의 장벽을 넘어서는 학업 여정이 전개되었다. 학문적 글쓰기는 단순한 언어 능력의 문제가 아니라 학문적 주체로 성장하는 실존적 실천의 과정이었다. 셋째, 생활 전반을 스스로 감당하는 경험을 통해 인격적 독립을 향한 내적 성장이 이루어졌다. 넷째, 여성의 몸에 대한 통제와 대상화의 경험 속에서도 침묵을 넘어 자신의 권리와 경계를 세우는 주체적 변화가 나타났다. 다섯째, 가족의 기대와 개인적 열망 사이에서 ‘딸’이라는 위치를 재협상하며 복합적인 협상이 진행되었다. 여섯째, 진로와 가치관을 재구성하는 새로운 관점이 형성되었으며, 참여자들은 기존의 성공 및 결혼 규범을 넘어 자신의 속도와 언어로 삶을 기획하는 주체로 변화하였다. 이러한 결과는 여성, 유학생이라는 복합적 타자성 속에서도, 보부아르가 제시한 타자성의 자각과 초월의 실천을 통해 유학 경험이 주체적 성장의 장이 될 수 있음을 보여준다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study explored the existential transformations and the processes of subjectivity formation experienced by Chinese female graduate students studying in Korea. In-depth interviews were conducted with four participants, employing narrative inquiry methods and Beauvoir’s existentialist feminist perspective as the analytical framework. The findings revealed the following: First, participants’ decisions to study abroad were initially shaped primarily by their fathers, reflecting patriarchal family structures and limited agency. Second, academic writing transcended mere language proficiency, serving as an existential practice in becoming scholarly subjects. Third, during the doctoral admission process, participants encountered familial opposition and social norms but gradually expanded their capacity for self-determination. Fourth, through experiences of sexual harassment and bodily objectification, they oscillated between silence and resistance, contributing to the formation of their subjectivity. Fifth, the study abroad experience prompted participants to reconstruct norms related to marriage, career, values, and personal independence, enabling them to orient their lives according to their own pace and meanings rather than external expectations. Overall, these findings demonstrate that, despite the dual otherness associated with being women and international students, study abroad can serve as a site for subjective growth through what Beauvoir conceptualized as “awareness of otherness” and the “practice of transcendence.”]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Chinese female international students]]></keyword>
+          <keyword><![CDATA[narrative inquiry]]></keyword>
+          <keyword><![CDATA[existentialist feminism]]></keyword>
+          <keyword><![CDATA[Beauvoir]]></keyword>
+          <keyword><![CDATA[otherness]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+          <keyword><![CDATA[중국인 여성 유학생]]></keyword>
+          <keyword><![CDATA[내러티브 탐구]]></keyword>
+          <keyword><![CDATA[실존주의 페미니즘]]></keyword>
+          <keyword><![CDATA[보부아르]]></keyword>
+          <keyword><![CDATA[타자성]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+        </keyword-group>
+        <fpage>147</fpage>
+        <lpage>179</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci />
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003309816]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

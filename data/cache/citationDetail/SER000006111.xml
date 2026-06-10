@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000006111</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000006111">
+        <registration>
+          <kci-registration>KCI 등재 후보</kci-registration>
+        </registration>
+        <journal-kor-name>교회교육·복지실천 연구</journal-kor-name>
+        <journal-fola-name>Journal of Church Education &amp; Welfare Practice</journal-fola-name>
+        <major>인문학 &gt; 기독교신학</major>
+        <issn>2635-4225</issn>
+        <eissn>2982-7337</eissn>
+        <fsed-yr>2018년</fsed-yr>
+        <impr>연3회, 04월 30일, 08월 30일, 12월 31일</impr>
+        <current-issue>2026년 04월 8(1)</current-issue>
+        <use-lang>한국어, 영어</use-lang>
+        <publisher>
+          <publisher-kor-name>한국교회교육복지실천학회</publisher-kor-name>
+          <publisher-eng-name>The Korean Church Education·Welfare Practice Academics</publisher-eng-name>
+          <publisher-tel>02-335-5511</publisher-tel>
+          <publisher-homp>http://www.churchedu.or.kr/site/index.php</publisher-homp>
+          <publisher-addr>서울특별시 마포구 잔다리로7길 31, 4층 한국교회교육복지실천학회 (서교동)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2026" div-cd="8"><![CDATA[계속평가 신청대상 (계속평가)]]></journal-change>
+        <journal-change date="2025-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 유지 (계속평가)]]></journal-change>
+        <journal-change date="2023-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>2.0</impactFactor>
+          <impactFactor3>1.8</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.913</sjr>
+          <immediacyIndex>0.21</immediacyIndex>
+          <selfCitedRate>62.5%</selfCitedRate>
+          <yearsArticles2>24</yearsArticles2>
+          <yearsCited2>48</yearsCited2>
+          <exImpactFactor>0.75</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>0.68</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.31</immediacyIndex>
+          <selfCitedRate>86.67%</selfCitedRate>
+          <yearsArticles2>22</yearsArticles2>
+          <yearsCited2>15</yearsCited2>
+          <exImpactFactor>0.09</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

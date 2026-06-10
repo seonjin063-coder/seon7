@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001722590</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001913">
+        <issn>1738-6675</issn>
+        <journal-name>교육의 이론과 실천</journal-name>
+        <publisher-name>한독교육학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2012</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>17</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001722590">
+        <article-categories>사회과학 &gt; 교육학 &gt; 교육학일반 &gt; 교육철학/사상</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[연습의 교육적 의미에 대한 고찰 - Bollnow의 견해를 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[Study on the Educational Meaning of Exercise(Übung) - From the Viewpoint of Pedagogical Anthropogoy of Otto F. Bollnow]]></article-title>
+          <article-title lang="english"><![CDATA[Study on the Educational Meaning of Exercise(Übung) - From the Viewpoint of Pedagogical Anthropogoy of Otto F. Bollnow]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[정창호]]></name>
+            <name-eng><![CDATA[Chang-Ho Jeong]]></name-eng>
+            <institution>고려대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[독일의 교육철학자인 Otto F. Bollnow는 『연습의 정신에 관하여』에서 ‘연습’이라고 불리는 인간 고유의 활동이 인간의 자기실현에 있어서 핵심적인 역할을 한다고 주장한다. 그가 보기에 인간의 본질은 ‘연습하는 존재’라는 데에 있다. 본고는 인간 존재의 본질적 활동으로서의 ‘연습’에 관한 Bollnow의 철학적 논의를 토대로 하여 현대 교육의 지형에서 연습이 가질 수 있는 교수학적 및 교육인간학적 의의를 규명하는 데에 그 목적을 두고 있다. 그리하여 본고는 먼저 현재 한국의 교수학적 이론과 실천에서 연습의 과정이 경시되고 있다는 반성에서 출발하여 연습이 인간 정신의 도야에 미치는 긍정적 영향들을 예증한다(제2장), 이어서 Bollnow가 제시한 연습에 대한 섬세한 철학적 논의를 논자의 관점에서 분석하고 재구성한다(제3장). 그리고 결론적으로 탈근대적인 현대 사회의 변화된 지형과 관점 위에서 Bollnow가 70년대에 구상했던 ‘연습의 교수학’을 다시 진지하게 검토할 필요성이 있음을 지적하고, 더불어 최근 불거진 학교폭력 문제와 연관하여 연습에 대한 올바른 인식의 중요성을 재 강조한다(제4장).]]></abstract>
+          <abstract lang="english"><![CDATA[Otto F. Bollnow, a philosopher of existentialism, suggested in a book published 1978 an intimate relationship between the exercise(Übung) as a special human activity and the self-realization of a human-being. He regards the human-being as 'an exercising being(ein übender Mensch)'. This article is written in order to examine und reconstruct the pedagogical and philosophical meanings of exercise in the recent education. It relies mainly on the book of Bollnow, Vom Geist des Übens.
+In the first place, I begin with a reflection, that the exercise is mostly ignored in the theory and practice of Korean education and I would show some examples, which imply a close relationship between exercise and self-realization. Secondly I would analyse and articulate the fine philosophical arguments of Bollnow about the relationship. Conclusively I would insist that the 'didactics of exercise'(Didaktik der Übung), which Bollnow suggested and advocated, should be seriously reconsidered, especially in the face of many demands from the post-modern situations of today.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Otto F. Bollnow]]></keyword>
+          <keyword><![CDATA[exercise(Übung)]]></keyword>
+          <keyword><![CDATA[training]]></keyword>
+          <keyword><![CDATA[self-realization]]></keyword>
+          <keyword><![CDATA[didactic of exercise]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[whole sports.]]></keyword>
+          <keyword><![CDATA[볼노우]]></keyword>
+          <keyword><![CDATA[연습]]></keyword>
+          <keyword><![CDATA[훈련]]></keyword>
+          <keyword><![CDATA[내면적 자유]]></keyword>
+          <keyword><![CDATA[교수학]]></keyword>
+          <keyword><![CDATA[교육 인간학]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+        </keyword-group>
+        <fpage>99</fpage>
+        <lpage>124</lpage>
+        <doi />
+        <uci>G704-001913.2012.17.3.006</uci>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.13</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001722590]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF028922066" type-code="07" type-name="기타자료">
+          <title>학교폭력근절 종합대책</title>
+          <author>국무총리실</author>
+        </reference>
+        <reference refebibl-id="REF028922067" type-code="01" type-name="학술지(정기간행물)">
+          <title>관심의 집중화 현상</title>
+          <author>박은현</author>
+          <journal-name>음악교육</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>3</volume>
+          <isseue />
+          <serno />
+          <page>314-317</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF028922068" type-code="03" type-name="단행본">
+          <title>교직실무-이론과 실제</title>
+          <author>이철웅</author>
+          <pubilisher>서현사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922069" arti-id="ART001394224" type-code="01" type-name="학술지(정기간행물)">
+          <title>전인지향적 체육교육론으로서의 인문적 체육교육: 탐색적 분석</title>
+          <author>최의창</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume>48</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>243-260</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF028922070" type-code="03" type-name="단행본">
+          <title>교육학 대백과 사전</title>
+          <author>서울대학교 교육연구소</author>
+          <pubilisher>하우</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922071" type-code="03" type-name="단행본">
+          <title>알기 쉬운 교육학용어사전</title>
+          <author>박호근</author>
+          <pubilisher>원미사</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922072" type-code="03" type-name="단행본">
+          <title>프로타고라스, 라헤스, 메논</title>
+          <author>플라톤</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922073" type-code="03" type-name="단행본">
+          <title>Vom Geist des Übens, In Eine Rückbesinnung auf elementare didaktische Erfahrung</title>
+          <author>Bollnow, O.</author>
+          <pubilisher>Herderbüchereie</pubilisher>
+          <pubi-year>1978</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922074" type-code="03" type-name="단행본">
+          <title>Experience and Education</title>
+          <author>Dewey, J.</author>
+          <pubilisher>Macmillan &amp; Co</pubilisher>
+          <pubi-year>1938</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922075" type-code="03" type-name="단행본">
+          <title>Überwachen und Strafe</title>
+          <author>Foucalult, M.</author>
+          <pubilisher>Frankfurt am Main</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922076" type-code="03" type-name="단행본">
+          <title>마음을 쏘다.활</title>
+          <author>Herrigel, E.</author>
+          <pubilisher>걷는책</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922077" type-code="03" type-name="단행본">
+          <title>Philosophie - Einführung in die Welt des Denkens</title>
+          <author>Holzamer, K.</author>
+          <pubilisher>Bertelsmann Verlag</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922078" type-code="03" type-name="단행본">
+          <title>Anthropologie in pragmatischer Hinsicht</title>
+          <author>Kant, I.</author>
+          <pubilisher>Felix Meiner Verlag</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922263" type-code="01" type-name="학술지(정기간행물)">
+          <title>Das spezifische Können der Philosophie als ευ λεγειν</title>
+          <author>König, J.</author>
+          <journal-name>Blätter für Deutsche Philosophie</journal-name>
+          <pubi-year>1916</pubi-year>
+          <volume>7</volume>
+          <isseue />
+          <serno />
+          <page>129-136</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF028922079" type-code="01" type-name="학술지(정기간행물)">
+          <title>Die Übung im Unterricht und ihre Bedeutung für eine pädagogische Theorie des Lehrens und Lernens</title>
+          <author>Loser, F.</author>
+          <journal-name>Zeitschrift für Pädagogik</journal-name>
+          <pubi-year>1968</pubi-year>
+          <volume>14</volume>
+          <isseue />
+          <serno />
+          <page>145-165</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF028922080" type-code="03" type-name="단행본">
+          <title>좋은 수업이란 무엇인가?</title>
+          <author>손승남</author>
+          <pubilisher>삼우반</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922081" type-code="03" type-name="단행본">
+          <title>서양교육사</title>
+          <author>Reble, A.</author>
+          <pubilisher>문음사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922082" type-code="03" type-name="단행본">
+          <title>Conversations with Great Teachers</title>
+          <author>Smoot, B.</author>
+          <pubilisher>Indiana Univ. Press</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF028922083" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Myth of Zen in the Art of Archery</title>
+          <author>Shoji, J.</author>
+          <journal-name>Japanese Journal of Religious Studies</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>28</volume>
+          <isseue>1-2</isseue>
+          <serno />
+          <page>1-30</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF028922084" type-code="03" type-name="단행본">
+          <title>프레데릭 테일러. 과학적 관리법</title>
+          <author>Taylor, F.</author>
+          <pubilisher>21세기북스</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

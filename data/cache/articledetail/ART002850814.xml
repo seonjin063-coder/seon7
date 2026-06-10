@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002850814</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001006">
+        <issn>1229-375X</issn>
+        <journal-name>도덕교육연구</journal-name>
+        <publisher-name>한국도덕교육학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2022</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>34</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002850814">
+        <article-categories>사회과학 &gt; 교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의 철학이 도덕교육에 주는 시사]]></article-title>
+          <article-title lang="foreign"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+          <article-title lang="english"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이한진]]></name>
+            <name-eng><![CDATA[Lee, Han-Jin]]></name-eng>
+            <institution>연동초등학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르는 인간의 근원적인 불안이 자유에 기인하는 것으로 파악한다. 의식으로서의 대자(對自)는 타인의 시선에서 결코 자유로울 수 없다. 그러나 인간은 불안을 지우기 위해서 자유를 포기하고 자기기만에 빠지는 경향이 있다. 실존으로서의 인간은 스스로 자신을 만들어가는 존재자다. 사르트르는 인간 실존의 핵심으로 자유를 꼽는다. 인간존재는 고정되어 있지 않다. 끊임없이 변화하며 다수성을 내포하고 있는 자유로운 의식의 존재다. 대자는 자신을 대상화하여 바라볼 수 있다. 대자는 실체로서 존재하지 않지만 자유롭게 즉자(卽自)를 부정할 수 있다. 자유로운 인간은 자기 내면성에 대한 내적 부정을 통해서 자기 자신을 새롭게 형성할 수 있다. 자율적 선택에 따라 자기 삶을 사는 사람만이 도덕적 주체로서 자신의 존재론적 책임을 다할 수 있다. 인간의 자기기만 극복과 자유를 강조한 사르트르의 실존주의 철학은 도덕적 주체의 정립을 추구하는 도덕교육과 관련하여 이론적 뒷받침이 되어준다.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre understands that the fundamental human anxiety is caused by freedom. For itself as consciousness can never be free from the gaze of others. However, humans tend to give up their freedom to get rid of their anxiety and fall into self-deception. Human beings as existential beings are beings who create themselves. According to Sartre, freedom is the essence of human existence. Human existence is not fixed. It is an existence of free consciousness that is constantly changing and contains a plurality. For itself can objectify itself and look at it. Although for itself does not exist as a substance, it can freely deny in itself. A free man can reshape himself through an inner denial of his inner self. Only those who live their lives according to their autonomous choices can fulfill their ontological responsibilities as a moral subject. Sartre's existentialist philosophy, which emphasized overcoming human self-deception and freedom, provides theoretical support in relation to moral education that seeks to establish a moral subject.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[도덕교육]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[자기기만]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[moral education]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[self-deception]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+        </keyword-group>
+        <fpage>131</fpage>
+        <lpage>149</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17715/jme.2022.6.34.2.131]]></doi>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.26</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850814]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF064508113" type-code="03" type-name="단행본">
+          <title>사르트르 VS 메를로퐁티</title>
+          <author>강미라</author>
+          <pubilisher>세창출판사</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508114" type-code="03" type-name="단행본">
+          <title>타인의 얼굴</title>
+          <author>강영안</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508115" arti-id="ART000907889" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『도덕에 관한 노트』 : '도덕적 전환'의 존재론</title>
+          <author>강충권</author>
+          <journal-name>프랑스학연구</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>22</volume>
+          <isseue />
+          <serno />
+          <page>43-63</page>
+          <pubilisher>프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF064508116" type-code="03" type-name="단행본">
+          <title>2015 개정 도덕과 교육과정</title>
+          <author>교육부</author>
+          <pubilisher>교육부</pubilisher>
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508117" arti-id="ART002058744" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르 철학에서 도덕 주체에 대한 탐구</title>
+          <author>김선영</author>
+          <journal-name>헤겔연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>38</isseue>
+          <serno />
+          <page>219-240</page>
+          <pubilisher>한국헤겔학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17281/khegel.2015..38.010]]></doi>
+        </reference>
+        <reference refebibl-id="REF064508118" arti-id="ART000887090" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 철학과 폭력의 문제</title>
+          <author>김희봉</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>1</volume>
+          <isseue>35</isseue>
+          <serno />
+          <page>151-170</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF064508119" arti-id="ART001280016" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 실존주의 도덕 : 자기기만의 극복과 가치를 창조하는 삶</title>
+          <author>박정태</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume />
+          <isseue>49</isseue>
+          <serno />
+          <page>317-345</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15841/kspew..49.200809.317]]></doi>
+        </reference>
+        <reference refebibl-id="REF064508120" arti-id="ART001338253" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『존재와 무』에 나타난 윤리학적 문제의식에 관한 소고</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>19</isseue>
+          <serno />
+          <page>263-301</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF064508121" type-code="03" type-name="단행본">
+          <title>구토</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508122" type-code="03" type-name="단행본">
+          <title>닫힌 방·악마와 선한 신</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508123" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508124" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508125" type-code="03" type-name="단행본">
+          <title>자아의 초월성</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2020</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF064508126" type-code="05" type-name="학위논문">
+          <title>Ethical Implications of Sartre's Existentialism</title>
+          <author>Schombert, P</author>
+          <degree>Doctor</degree>
+          <university>University of California</university>
+          <department />
+          <pubi-year>2013</pubi-year>
+        </reference>
+        <reference refebibl-id="REF064508127" type-code="03" type-name="단행본">
+          <title>Jean-Paul Sartre: To Freedom Condemned: A Guide to His Philosophy</title>
+          <author>Streller, J.</author>
+          <pubilisher>Philosophical Library</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

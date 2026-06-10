@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART000953474</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001590">
+        <issn>1598-2653</issn>
+        <journal-name>언론과학연구</journal-name>
+        <publisher-name>한국지역언론학회</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2004</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>4</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART000953474">
+        <article-categories>사회과학 &gt; 신문방송학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[실존주의자들의 저널리즘 비판에 관한 연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[On the Existential Critics of Journalism]]></article-title>
+          <article-title lang="english"><![CDATA[On the Existential Critics of Journalism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[박영학]]></name>
+            <name-eng><![CDATA[Bak YoungHak]]></name-eng>
+            <institution>원광대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문의 연구 목적은 언론의 자유와 권위의 대립을 극복하고 조화를 탐구하는 데 있다. 자유가 넘치면 사회적 책임을 돌보지 않으며 책임을 강조하면 자유가 둔화된다. 그 결과 어느 한편에 기우는 편향성을 드러낸다. 이런 양면성을 종합을 실존주의자들의 저널리즘 비판에서 찾았다. 
+저널리즘의 맥락에서 보면 모든 언론 체제는 최종적으로 자유로우면서도 권위적이라 할 수 있다. 그럼으로 자유와 권위의 제휴 과정에 고려되어야 할 것은 자유의 중용이다. 그런데 저널리즘의 자유는 언론조직체의 자유로 이해되며 개별 저널리스트의 자유는 안중에 두지 않는다. 거대 조직의 유순한 톱니로 전락한 개별 저널리스트의 실천적 자유를 회복하는 문제는 실존주의자들의 인간 이해에서 실마리를 찾을 수 있다. 전통적 저널리즘의 자유론에 드리운 그림자를 걷어낼 수 있기 때문이다.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this paper is to investigate problems brought forth from confrontations between the freedom of journalism and its authority and explore the possible resolutions. When we allow too much freedom to journals, social responsibility may be overlooked. If we place too much emphasis on social responsibility, freedom of journalism may be harmed. As a result, it is not difficult to see the unbalance between the two. This paper tried to find solutions from existential journalism. 
+Viewed from journalist perspectives, all the system of journalism can be understood as a social entity holding freedom and authority at the same time. Because of these traits of journalism, what has to be considered in the process of compromise between freedom and authority is the moderation of freedom. 
+Existential Journalism takes the position of supporting individual improvement compatible with social development while paying attention to freedom and responsible use of freedom.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[저널리즘]]></keyword>
+          <keyword><![CDATA[변증법]]></keyword>
+          <keyword><![CDATA[저널리스트의 자유]]></keyword>
+          <keyword><![CDATA[자유의 중용]]></keyword>
+          <keyword><![CDATA[권위주의]]></keyword>
+          <keyword><![CDATA[실존주의.]]></keyword>
+          <keyword><![CDATA[journalism]]></keyword>
+          <keyword><![CDATA[dialectic]]></keyword>
+          <keyword><![CDATA[journalistic freedom]]></keyword>
+          <keyword><![CDATA[freedom's middle way]]></keyword>
+          <keyword><![CDATA[authoritarian]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[journalism]]></keyword>
+          <keyword><![CDATA[dialectic]]></keyword>
+          <keyword><![CDATA[journalistic freedom]]></keyword>
+          <keyword><![CDATA[freedom's middle way]]></keyword>
+          <keyword><![CDATA[authoritarian]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+        </keyword-group>
+        <fpage>83</fpage>
+        <lpage>112</lpage>
+        <doi />
+        <uci>G704-001590.2004.4.3.002</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000953474]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF014902070" type-code="01" type-name="학술지(정기간행물)">
+          <title>20세기 프랑스지성인사</title>
+          <author>이기언</author>
+          <journal-name />
+          <pubi-year>2001</pubi-year>
+          <volume />
+          <isseue>4</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>생각의 나무</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014932513" type-code="01" type-name="학술지(정기간행물)">
+          <title>Camus as Jaurnalist</title>
+          <author>Jean Daniel</author>
+          <journal-name />
+          <pubi-year>1964</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014951349" type-code="01" type-name="학술지(정기간행물)">
+          <title>언론과 철학</title>
+          <author>박영상 편</author>
+          <journal-name />
+          <pubi-year>1994</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>나남 출판</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014951350" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Media Monopoly</title>
+          <author>Ben H. Bagdikian</author>
+          <journal-name />
+          <pubi-year>1997</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>Beacon Press</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014951351" type-code="01" type-name="학술지(정기간행물)">
+          <title>Men of Ideas</title>
+          <author>Bryan Magee ed</author>
+          <journal-name />
+          <pubi-year>1982</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014932510" type-code="01" type-name="학술지(정기간행물)">
+          <title>Tow Concceps of Liberty</title>
+          <author>Isaiah Berlin</author>
+          <journal-name />
+          <pubi-year>1958</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014932514" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Press and the Decline of Democracy</title>
+          <author>Robert C</author>
+          <journal-name />
+          <pubi-year>1985</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925340" type-code="01" type-name="학술지(정기간행물)">
+          <title>Einfuhrung in die Existenzphiosophie</title>
+          <author>Franz Zimmermann</author>
+          <journal-name />
+          <pubi-year>1987</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925341" type-code="01" type-name="학술지(정기간행물)">
+          <title>Four theories of the Press 언론의 4이론</title>
+          <author>Fred Siebert</author>
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925342" type-code="01" type-name="학술지(정기간행물)">
+          <title>Agents of Power 지배권력과 제도 언론</title>
+          <author>Herbert Altschull</author>
+          <journal-name />
+          <pubi-year>19841913</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925343" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Jean－Paul Sartre</author>
+          <journal-name />
+          <pubi-year>1996</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문예출판사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925344" type-code="01" type-name="학술지(정기간행물)">
+          <title>Massenmedien und Publikum</title>
+          <author>Karl Jaspers</author>
+          <journal-name />
+          <pubi-year>1977</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014925435" type-code="01" type-name="학술지(정기간행물)">
+          <title>현대의 이성과 반이성</title>
+          <author />
+          <journal-name />
+          <pubi-year>1977</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문예출판사</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

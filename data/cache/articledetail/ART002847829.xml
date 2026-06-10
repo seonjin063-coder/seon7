@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002847829</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004233">
+        <journal-name>한국융합과학회지</journal-name>
+        <publisher-name>한국융합과학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2022</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>11</volume>
+        <issue>5</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002847829">
+        <article-categories>예술체육학 &gt; 기타예술체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[현대사회 실존적 공허에 대처하는 여가참여의 방향]]></article-title>
+          <article-title lang="foreign"><![CDATA[Leisure and the Existential Vacuum in Modern Society]]></article-title>
+          <article-title lang="english"><![CDATA[Leisure and the Existential Vacuum in Modern Society]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[김미혜]]></name>
+            <name-eng><![CDATA[Kim, Mi-Hye]]></name-eng>
+            <institution>서울과학기술대학교</institution>
+          </author>
+          <author author-division="2" author-part="교신">
+            <name><![CDATA[신규리]]></name>
+            <name-eng><![CDATA[Shin Kyulee]]></name-eng>
+            <institution>서울과학기술대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[연구목적 본 연구의 목적은 현대사회의 실존적 공허와 여가의 관계를 비판적으로 탐색하고, 실존적 공허에 대처하기 위한 여가참여의 방향을 실존주의 철학을 기반으로 제시하고자 하였다. 연구방법 이를 위해 실존주의의 핵심적인 네 가지 개념(사랑, 고독, 죽음, 자기초월)을 기반으로 실존적 공허에 대처하는 여가참여의 방향성을 제시하였다. 결과 첫째, 여가활동은 깊고 진정한 관계를 발전시키는데 기여해야 한다. 이는 사랑의 표현이다. 둘째, 여가에서 고독은 타인들에게서 벗어나 자기치유와 자기성찰의 시간이어야 한다. 셋째, 레저활동(암벽등반, 스카이다이빙)은 여가참여자에게 죽음을 상기하고, 이를 통해 현재를 어떻게 살지 결정하도록 이끌어야 한다. 넷째, 예술적 여가활동(그림, 글 등)은 일과 일상의 억압으로부터 탈출하는 통로이어야 한다. 결론 이러한 결과는 주체적 존재 상태로서의 여가를 강조한 피에퍼(Pieper)의 존재론적 여가개념에 대한 이해를 확장한다. 또한, 실존적 공허에 대처하기 위해서는 현실에서 벗어나고자 여가활동에 전력투구할 것이 아니라, 자기표현과 자기성찰을 위한 수단이어야 함을 제안한다.]]></abstract>
+          <abstract lang="english"><![CDATA[Purpose The purpose of this study was to critically explore the existential vacuum of modern people and limitations of freedom in leisure, and to present the direction of leisure participation in order to cope with existential vacuum based on existentialism. Methods To achieve these research objectives, the direction of leisure participation was suggested based on the four core concepts of existentialism (love, solitude, death, and self-transcendence). Result First, leisure engagement should develop deep relationships in which each person in valued for themselves. This is an expression of love. Second, engagement in solitary leisure should be a time of self-care and self-reflection. Third, high risk activities (rock climbing, sky diving, etc.) should provide reminders of the participants’ mortality, there by teaching people to live in the present moment. Fourth, artistic leisure (painting, writing, etc.) should be a pathway to escape from one’s daily pressure through art activities. Conclusion These results expand Pieper's understanding of the ontological leisure concept, which emphasizes leisure as a state of existence. In addition, in order to deal with an existential vacuum, leisure should not be devoted to activities to escape reality, but should be a means of expressing self-transcendence.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[여가]]></keyword>
+          <keyword><![CDATA[실존적 공허]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[선택의 자유]]></keyword>
+          <keyword><![CDATA[책임]]></keyword>
+          <keyword><![CDATA[Leisure]]></keyword>
+          <keyword><![CDATA[Existential Vacuum]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Freedom Of Choice]]></keyword>
+          <keyword><![CDATA[Responsibility]]></keyword>
+        </keyword-group>
+        <fpage>71</fpage>
+        <lpage>80</lpage>
+        <doi />
+        <citation-count kci="8" wos="0">8</citation-count>
+        <fwci create-dt="2025-08-04">3.12</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002847829]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF063611761" arti-id="ART001861898" type-code="01" type-name="학술지(정기간행물)">
+          <title>현대여가에서의 쉼의 의미와 방향 탐색</title>
+          <author>김미혜 ; 원형중 ; 신규리</author>
+          <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>22</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>155-172</page>
+          <pubilisher>한국체육철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611762" arti-id="ART002058744" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르 철학에서 도덕 주체에 대한 탐구</title>
+          <author>김선영</author>
+          <journal-name>헤겔연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>38</isseue>
+          <serno />
+          <page>219-240</page>
+          <pubilisher>한국헤겔학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17281/khegel.2015..38.010]]></doi>
+        </reference>
+        <reference refebibl-id="REF063611763" arti-id="ART001499047" type-code="01" type-name="학술지(정기간행물)">
+          <title>여가 강박 개념화 연구</title>
+          <author>김용희 ; 허태균 ; 장훈</author>
+          <journal-name>여가학연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>8</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>59-82</page>
+          <pubilisher>여가문화학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22879/slos.2010.8.2.59]]></doi>
+        </reference>
+        <reference refebibl-id="REF063611764" type-code="03" type-name="단행본">
+          <title>여가와 경신</title>
+          <author>Pieper. J</author>
+          <pubilisher>가톨릭대학교출판부</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611765" arti-id="ART001938596" type-code="01" type-name="학술지(정기간행물)">
+          <title>삶의 진리를 성찰하는 해석학으로서의 철학상담: 고통받는 한국 청소년을 중심으로</title>
+          <author>노성숙</author>
+          <journal-name>신학전망</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue>187</isseue>
+          <serno />
+          <page>88-126</page>
+          <pubilisher>신학연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611766" arti-id="ART001264828" type-code="01" type-name="학술지(정기간행물)">
+          <title>로젝의 계급과 여가이론의 비판- 여가소비양식을 중심으로 -</title>
+          <author>박상곤</author>
+          <journal-name>관광학연구</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>32</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>355-374</page>
+          <pubilisher>한국관광학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611767" arti-id="ART001604899" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거에 있어서 ‘죽음’의 의의</title>
+          <author>박서현</author>
+          <journal-name>철학</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>109</isseue>
+          <serno />
+          <page>177-202</page>
+          <pubilisher>한국철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611768" type-code="03" type-name="단행본">
+          <title>처음 읽는 서양철학사</title>
+          <author>안광복</author>
+          <pubilisher>웅진지식하우스</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611769" type-code="03" type-name="단행본">
+          <title>감시와 처벌</title>
+          <author>Foucault, M</author>
+          <pubilisher>나남출판사</pubilisher>
+          <pubi-year>2020</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611770" arti-id="ART001474078" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 &lt;행위&gt;의 존재론</title>
+          <author>이성환</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>115</volume>
+          <isseue />
+          <serno />
+          <page>193-219</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611771" type-code="03" type-name="단행본">
+          <title>빅터프랭클의 죽음의 수용소에서</title>
+          <author>Frankl, V. E</author>
+          <pubilisher>청아출판사</pubilisher>
+          <pubi-year>2020</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611772" arti-id="ART002003352" type-code="01" type-name="학술지(정기간행물)">
+          <title>대학생의 자살시도 경험</title>
+          <author>이용미</author>
+          <journal-name>Journal of Korean Academy of Nursing</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>45</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>397-411</page>
+          <pubilisher>한국간호과학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611773" type-code="03" type-name="단행본">
+          <title>실존주의자들에게 인생의 즐거움을 묻다</title>
+          <author>이하준</author>
+          <pubilisher>책읽는수요일</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611774" arti-id="ART001214209" type-code="01" type-name="학술지(정기간행물)">
+          <title>여가소비에 있어 부르디외 문화자본론의 비판- 포스트모던 소비현상의 관점으로</title>
+          <author>장윤정</author>
+          <journal-name>한국여가레크리에이션학회지</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume>31</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>16-16</page>
+          <pubilisher>한국여가레크리에이션학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611775" type-code="03" type-name="단행본">
+          <title>정신의 삶</title>
+          <author>Arendt, H</author>
+          <pubilisher>양장</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611776" type-code="01" type-name="학술지(정기간행물)">
+          <title>Re-thinking the relation between leisure and freedom</title>
+          <author>Carr, N</author>
+          <journal-name>Annals of Leisure Research</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume>20</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>137-151</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611777" type-code="03" type-name="단행본">
+          <title>Polyarchy: Participation and opposition</title>
+          <author>Dahl, Robert A</author>
+          <pubilisher>Yale university press</pubilisher>
+          <pubi-year>1971</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611778" type-code="01" type-name="학술지(정기간행물)">
+          <title>Prototype analysis of the concepts of love and commitment</title>
+          <author>Fehr, B</author>
+          <journal-name>Journal of Personality and Social Psychology</journal-name>
+          <pubi-year>1988</pubi-year>
+          <volume>55</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>557-579</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611779" type-code="01" type-name="학술지(정기간행물)">
+          <title>The spiritual dimension in existential analysis and logotherapy.</title>
+          <author>Frankl, V. E</author>
+          <journal-name>Journal of Individual Psychology</journal-name>
+          <pubi-year>1959</pubi-year>
+          <volume>15</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>157-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611780" type-code="01" type-name="학술지(정기간행물)">
+          <title>Logotherapy and existential analysis—a review</title>
+          <author>Frankl, V. E</author>
+          <journal-name>American Journal of Psychotherapy</journal-name>
+          <pubi-year>1966</pubi-year>
+          <volume>20</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>252-260</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611781" type-code="01" type-name="학술지(정기간행물)">
+          <title>The feeling of meaninglessness : A challenge to psychotherapy</title>
+          <author>Frankl, V. E</author>
+          <journal-name>American Journal of Psychoanalysis</journal-name>
+          <pubi-year>1972</pubi-year>
+          <volume>32</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>85-89</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF063611782" type-code="03" type-name="단행본">
+          <title>Leisure: the Basis of Culture</title>
+          <author>Pieper, I</author>
+          <pubilisher>Pantheon</pubilisher>
+          <pubi-year>1963</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611783" type-code="03" type-name="단행본">
+          <title>Liking and loving: An invitation to social psychology</title>
+          <author>Rubin, Z</author>
+          <pubilisher>Holt, Rinehart &amp; Winston</pubilisher>
+          <pubi-year>1973</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611784" type-code="03" type-name="단행본">
+          <title>Existentialism is a Humanism</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>Yale University Press</pubilisher>
+          <pubi-year>2021</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF063611785" type-code="03" type-name="단행본">
+          <title>Theory of the Leisure Class</title>
+          <author>Veblen, T</author>
+          <pubilisher>BW Huebsch</pubilisher>
+          <pubi-year>1918</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

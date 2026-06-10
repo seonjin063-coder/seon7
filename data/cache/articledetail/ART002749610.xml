@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002749610</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001738">
+        <issn>1229-6740</issn>
+        <journal-name>인간연구</journal-name>
+        <publisher-name>가톨릭대학교 인간학연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume />
+        <issue>44</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002749610">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르와 들뢰즈에게서의 상상(imagination)의 의미: 흄의 이미지 이론에 관한 해석을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Meaning of the “lmagination” in Sartre and Deleuze: The Interpretation of Hume’s Image Theory]]></article-title>
+          <article-title lang="english"><![CDATA[The Meaning of the “lmagination” in Sartre and Deleuze: The Interpretation of Hume’s Image Theory]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이솔]]></name>
+            <name-eng><![CDATA[Lee, Sol]]></name-eng>
+            <institution>서강대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 글은 사르트르와 들뢰즈에게 있어 ‘상상(imagination)’이 무엇인가를 보여주고자 한다. 전통 철학에서 상상력은 늘 우리를 착각 및 기만에 빠뜨리는 오류의 원천으로 간주되어 왔다. 그러나 서로 전혀 다른 철학적 입장을 가진 두 사상임에도, 사르트르와 들뢰즈는 모두 이미지를 오류의 원천으로 배격했던 전통 철학과 상반되는 견지에서 상상적인 것의 새로운 의미를 보여준다. 그러나 이들이 이렇듯 공통적으로 전통 철학의 상상력 관념에 맞서고 있음에도 불구하고 사르트르와 들뢰즈의 상상력 이론은 그들의 서로 전혀 다른 관심을 바탕으로 만들어진 것이며, 이들은 의식 주관이라는 차원과 의식 이전적이며 주체 이전적인 차원이라는 서로 다른 수준에서 상상적인 것의 의미를 제시한다.
+그렇기에 이 글은 사르트르와 들뢰즈의 상상력 이론의 근본적인 차이를 흄의 이미지 이론에 관한 양자의 해석을 통해 밝혀보고자 한다. 양자의 이미지 개념의 차이를 이해함에 있어 흄을 경유해야 하는 이유는 무엇보다도 사르트르와 들뢰즈가 그들의 이미지 이론을 정립하는 데에 있어 직접적으로 흄에 의존하고 있기 때문이다. 상상력, 상상계에서 사르트르는 흄의 이미지 이론을 비판하는 가운데 그 자신의 현상학적 이미지 이론의 근본 정신을 분명히 보여주고 있으며, 경험주의와 주체성에서 들뢰즈는 흄의 이미지 이론을 전유함을 통해 칸트의 초월적 관념론을 넘어서는 새로운 탐구로서 초월적 경험론으로의 여정을 시작하고 있다. 흄을 경유함으로써 우리는 사르트르와 들뢰즈의 철학이 가지는 차이점을 분명히 확인할 수 있을 것이며, 나아가 그러한 차이에도 불구하고 또 어떤 측면에서 이 두 철학이 공명하고 있는가를 확인해 볼 수 있을 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[In this paper, I want to answer the question of What is “imagination” in Sartre and Deleuze. In traditional philosophy, imagination has always been regarded as a source of error that leads us into illusion and deception. From a standpoint that is contrary to the traditional philosophy, Sartre and Deleuze introduce a new meaning of the imaginary. However, despite their common criticism of the notion in traditional philosophy, Sartre and Deleuze’s concepts were built on the basis of their completely different interests. Sartre’s image theory is grounded in the dimension of subjectivity of consciousness. On the other hand, for deleuze, image and imagination constitute the very elements of reality, which are defined as pre-consciousness and pre-subjectivity.
+This paper attempts to show the fundamental difference between Sartre and Deleuze’s imagination theories through their differing interpretations of Hume’s image theory. In Imagination and Imaginaire, Sartre presents his own phenomenological image theory while criticizing Hume’s theory. In Empiricism and Subjectivity, on the other hand, Deleuze begins a journey to transcendent empiricism by appropriating Hume’s theory. Therefore, by using Hume as a conduit, we will be able to clearly show the difference between the philosophies of Sartre and Deleuze, and furthermore, we will be able to reveal in what aspect these two philosophies resonate despite their differences.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[들뢰즈]]></keyword>
+          <keyword><![CDATA[이미지]]></keyword>
+          <keyword><![CDATA[상상력]]></keyword>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[인간]]></keyword>
+          <keyword><![CDATA[현상학]]></keyword>
+          <keyword><![CDATA[초월적 경험론]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Deleuze]]></keyword>
+          <keyword><![CDATA[Image]]></keyword>
+          <keyword><![CDATA[Imagination]]></keyword>
+          <keyword><![CDATA[Subject]]></keyword>
+          <keyword><![CDATA[Human]]></keyword>
+          <keyword><![CDATA[Phenomenology]]></keyword>
+          <keyword><![CDATA[Transcendental Empiricism]]></keyword>
+        </keyword-group>
+        <fpage>7</fpage>
+        <lpage>37</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.21738/JHS.2021.08.44.7]]></doi>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002749610]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF060931231" arti-id="ART001706498" type-code="01" type-name="학술지(정기간행물)">
+          <title>흄의 철학에서 상상력의 성격과 의미</title>
+          <author>강동수</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>70</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>151-170</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060931232" arti-id="ART001214306" type-code="01" type-name="학술지(정기간행물)">
+          <title>들뢰즈의 흄 연구</title>
+          <author>김재인</author>
+          <journal-name>철학사상</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>26</isseue>
+          <serno />
+          <page>245-268</page>
+          <pubilisher>철학사상연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15750/chss..26.200712.009]]></doi>
+        </reference>
+        <reference refebibl-id="REF060931233" arti-id="ART001759363" type-code="01" type-name="학술지(정기간행물)">
+          <title>인식의 획득에서 상상력의 역할: 사르트르와 들뢰즈의 경우</title>
+          <author>서동욱</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>100</isseue>
+          <serno />
+          <page>219-239</page>
+          <pubilisher>철학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060931234" type-code="03" type-name="단행본">
+          <title>순수이성비판</title>
+          <author>Kant, I.</author>
+          <pubilisher>아카넷</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931235" type-code="03" type-name="단행본">
+          <title>인간 본성에 관한 논고 1- 오성에 관하여</title>
+          <author>Hume, D.</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931236" type-code="03" type-name="단행본">
+          <title>들뢰즈, 초월론적 경험론</title>
+          <author>Sauvagnargues, A.</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931237" type-code="03" type-name="단행본">
+          <title>자아의 초월성</title>
+          <author>Sartre, J-P.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931329" type-code="03" type-name="단행본">
+          <title>상상력</title>
+          <author>Sartre, J-P.</author>
+          <pubilisher>기파랑</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931330" type-code="03" type-name="단행본">
+          <title>상상계</title>
+          <author>Sartre, J-P.</author>
+          <pubilisher>기파랑</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931331" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre, J-P.</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931332" type-code="03" type-name="단행본">
+          <title>경험주의와 주체성</title>
+          <author>Deleuze, G.</author>
+          <pubilisher>난장</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931333" type-code="03" type-name="단행본">
+          <title>들뢰즈가 만든 철학사</title>
+          <author>Sartre, J-P</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060931334" type-code="03" type-name="단행본">
+          <title>L’île déserte et autres textes</title>
+          <author>Sartre, J-P.</author>
+          <pubilisher>Les Éditions de Minuit</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

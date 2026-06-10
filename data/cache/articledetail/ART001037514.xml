@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001037514</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001096">
+        <issn>1226-7627</issn>
+        <journal-name>한국문예비평연구</journal-name>
+        <publisher-name>한국현대문예비평학회</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2006</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>21</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001037514">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[『광장』과 사르트르 철학의 관련성]]></article-title>
+          <article-title lang="foreign"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[정영훈]]></name>
+            <name-eng><![CDATA[Young-Hoon Jeong]]></name-eng>
+            <institution>경희대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+          <abstract lang="english"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre(Seoul University)Jeong, Young-Hun]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[광장]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[영향]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[공동체]]></keyword>
+          <keyword><![CDATA[Gwangjang]]></keyword>
+          <keyword><![CDATA[Jean-Paul Sartre]]></keyword>
+          <keyword><![CDATA[influence]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[community(or collective subject)]]></keyword>
+          <keyword><![CDATA[Gwangjang]]></keyword>
+          <keyword><![CDATA[Jean-Paul Sartre]]></keyword>
+          <keyword><![CDATA[influence]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[community(or collective subject)]]></keyword>
+        </keyword-group>
+        <fpage>359</fpage>
+        <lpage>376</lpage>
+        <doi />
+        <uci>G704-001096.2006..21.006</uci>
+        <citation-count kci="6" wos="0">6</citation-count>
+        <fwci create-dt="2025-08-04">0.7</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001037514]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF012579525" type-code="01" type-name="학술지(정기간행물)">
+          <title>광장을 읽는 일곱 가지 방법</title>
+          <author />
+          <journal-name />
+          <pubi-year>1960년대1984</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문학과지성사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012579526" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재와 무-자유를 향한 실존적 탐색</title>
+          <author />
+          <journal-name />
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>살림</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012579527" type-code="01" type-name="학술지(정기간행물)">
+          <title>인문과학과 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1980</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문학과지성사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012579528" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존과 혁명</title>
+          <author />
+          <journal-name />
+          <pubi-year>1983</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012579530" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재와 무 1·2</title>
+          <author />
+          <journal-name />
+          <pubi-year>1990</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>삼성출판사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012579531" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의는 휴머니즘이다 신체의 현상학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문예출판사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013015152" type-code="01" type-name="학술지(정기간행물)">
+          <title>이데올로기라는 숭고한 대상</title>
+          <author />
+          <journal-name />
+          <pubi-year>2002</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>인간사랑</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013803346" type-code="01" type-name="학술지(정기간행물)">
+          <title>Jean-Paul Sartre and the Politics of Reason</title>
+          <author />
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>Cambridge Univ Press</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013803347" type-code="01" type-name="학술지(정기간행물)">
+          <title>University of Chicago Press</title>
+          <author />
+          <journal-name />
+          <pubi-year>1984</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013803348" type-code="01" type-name="학술지(정기간행물)">
+          <title>광장을 읽는 일곱 가지 방법</title>
+          <author />
+          <journal-name />
+          <pubi-year>1996</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문학과지성사</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

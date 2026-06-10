@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001987508</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001224">
+        <issn>1598-9313</issn>
+        <journal-name>해석학연구</journal-name>
+        <publisher-name>한국해석학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2015</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume />
+        <issue>36</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001987508">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[우리는 어떻게 공감하는가?: 메를로퐁티의 대답]]></article-title>
+          <article-title lang="foreign"><![CDATA[How can We empathize with each Other? : An Answer from Merleau-Ponty]]></article-title>
+          <article-title lang="english"><![CDATA[How can We empathize with each Other? : An Answer from Merleau-Ponty]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[강미라]]></name>
+            <name-eng><![CDATA[Mira Kang]]></name-eng>
+            <institution>강릉원주대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문의 내용은 ‘어떻게 우리가 타인의 감정을 공유할 수 있는가?’라는 질문에 대한 답을 메를로퐁티의 입장에서 제시하는 것이다. 메를로퐁티가 공감에 대해 본격적인 논의를 전개한 것은 아니지만, 그의 철학에 제시된 공동신체성 개념을 통해 공감이 가능해지는 토대가 무엇인지를 찾을 수 있다.
+공감은 타인과의 관계맺음에서 성립하기 때문에 공감의 토대를 해명하려 한다면 타인의 주체성에 대해서도 해명해야만 한다. 그런데 타인의 주체성은 몸과 마음/의식에 대한 이분법 위에서는 해명되지 않는다. 메를로퐁티의 학문적 동료인 사르트르는 심신이원론에 대한 존재론적 극복을 하려 했음에도 불구하고 타인의 주체성과 타인과의 공감은 설명하지 못했다. 이와는 달리 메를로퐁티는 인간을 신체적 존재로 파악하고, 세계 및 타인과 존재론적 연속성을 가지고 있음을 주장함으로써, 공감의 토대를 철학적으로 해명하는데 성공했다. 또한 인간과 세계의 연속성에 대한 메를로퐁티의 사유를 통해 공감의 정도 차이가 어디에서 생기는지, 그리고 연대의 필수조건으로서의 공감을 확대할 방법은 무엇인지에 대한 단초를 얻을 수 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[How can I share my sentiment with the other? This paper tries to answer to that question on the base of Merleau-Ponty's philosophy. Though he had not discussed empathy, his notion of intercorporeality is useful to research on the foundation of empathy.
+One's empathy assumes that there is the other. Therefore an explanation of empathy should imply an explanation of subjectivity of the other and also intersubjectivity. Sartre who was a colleague of Merleau-Ponty tried to overcome difficulties of the cartesian dualism but he failed to give an explanation of subjectivity of the other and foundation of empathy. Because subjectivity of the other and intersubjectivity are not explain on the base of the dualism of the mind-body. Merleau-Ponty succeeded to give an explanation of subjectivity of the other and foundation of empathy through the notion of the body-subject. According to him, human being is ontologically involved in the world. Also with this idea, Merleau-Ponty dropped some hints that why the more or less discrepancy between persons is, that how we can increase empathy as an necessary condition of solidarity.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[공감]]></keyword>
+          <keyword><![CDATA[타자]]></keyword>
+          <keyword><![CDATA[상호주체성]]></keyword>
+          <keyword><![CDATA[메를로퐁티]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[Empathy]]></keyword>
+          <keyword><![CDATA[The Other]]></keyword>
+          <keyword><![CDATA[Intersubjectivity]]></keyword>
+          <keyword><![CDATA[Merleau-Ponty]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+        </keyword-group>
+        <fpage>31</fpage>
+        <lpage>54</lpage>
+        <doi />
+        <uci>G704-001224.2015..36.002</uci>
+        <citation-count kci="10" wos="0">10</citation-count>
+        <fwci create-dt="2025-08-04">2.24</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001987508]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF039168156" type-code="03" type-name="단행본">
+          <title>현상학 사전</title>
+          <author>기다 겐</author>
+          <pubilisher>b</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168157" type-code="01" type-name="학술지(정기간행물)">
+          <title>메를로-퐁티와 공동신체성</title>
+          <author>신인섭</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>76</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039168158" type-code="03" type-name="단행본">
+          <title>해석학적 이해와 인지과학: 현대 해석학, 인지과학에 말 걸다</title>
+          <author>양해림</author>
+          <pubilisher>집문당</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168159" arti-id="ART001855755" type-code="01" type-name="학술지(정기간행물)">
+          <title>메를로-퐁티의 언어 이론과 철학 개념</title>
+          <author>박신화</author>
+          <journal-name>철학사상</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue>51</isseue>
+          <serno />
+          <page>227-259</page>
+          <pubilisher>철학사상연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039168160" arti-id="ART001008348" type-code="01" type-name="학술지(정기간행물)">
+          <title>데카르트와 칸트의 주체개념</title>
+          <author>정낙림</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>2</volume>
+          <isseue>44</isseue>
+          <serno />
+          <page>431-446</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039168161" type-code="03" type-name="단행본">
+          <title>몸의 세계, 세계의 몸</title>
+          <author>조광제</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168162" type-code="03" type-name="단행본">
+          <title>The Cambridge Companion to Sartre</title>
+          <author>Barnes, H. E.</author>
+          <pubilisher>Cambridge University Press</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168163" type-code="03" type-name="단행본">
+          <title>방법서설/정신지도를 위한 규칙들</title>
+          <author>이현복</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168164" type-code="03" type-name="단행본">
+          <title>지각의 현상학</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168165" type-code="03" type-name="단행본">
+          <title>Structure de comportement</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Presses Universitaires de France</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168166" type-code="03" type-name="단행본">
+          <title>보이는 것과 보이지 않는 것</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>동문선</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168167" type-code="03" type-name="단행본">
+          <title>간접적인 언어와 침묵의 목소리</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039168168" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre, J.-P.</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

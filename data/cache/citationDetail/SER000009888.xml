@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000009888</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000009888">
+        <registration>
+          <kci-registration>KCI 등재 후보</kci-registration>
+        </registration>
+        <journal-kor-name>동서정신과학</journal-kor-name>
+        <journal-kor-abbr-name>KEWMS</journal-kor-abbr-name>
+        <journal-fola-name>THE KOREAN JOURNAL OF EAST WEST MIND SCIENCE</journal-fola-name>
+        <journal-fola-abbr-name>KEWMS</journal-fola-abbr-name>
+        <major>인문학 &gt; 철학 &gt; 철학일반 &gt; 동서비교철학</major>
+        <issn>1738-1207</issn>
+        <eissn />
+        <fsed-yr>1998년</fsed-yr>
+        <impr>연2회, 05월 31일, 11월 30일</impr>
+        <current-issue>2025년 11월 28(2)</current-issue>
+        <use-lang>한국어, 중국어</use-lang>
+        <publisher>
+          <publisher-kor-name>한국동서정신과학회</publisher-kor-name>
+          <publisher-eng-name>The Korean East West Mind Science Association</publisher-eng-name>
+          <publisher-tel>062-670-2045</publisher-tel>
+          <publisher-homp>http://kewms.co.kr/</publisher-homp>
+          <publisher-addr>광주광역시 남구 효덕로 277 호심관 1703호</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2026" div-cd="8"><![CDATA[계속평가 신청대상 (계속평가)]]></journal-change>
+        <journal-change date="2025-12-01" div-cd="7" registration="03"><![CDATA[등재후보학술지로 하락 (재인증평가)]]></journal-change>
+        <journal-change date="2022-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (계속평가)]]></journal-change>
+        <journal-change date="2020-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>1.41</impactFactor>
+          <impactFactor3>1.26</impactFactor3>
+          <impactFactor4>1.13</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.376</sjr>
+          <immediacyIndex>0.2</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>27</yearsArticles2>
+          <yearsCited2>38</yearsCited2>
+          <exImpactFactor>1.41</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>0.81</impactFactor>
+          <impactFactor3>0.79</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.951</sjr>
+          <immediacyIndex>0.33</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>27</yearsArticles2>
+          <yearsCited2>22</yearsCited2>
+          <exImpactFactor>0.81</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2022">
+          <impactFactor>0.29</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.83</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>21</yearsArticles2>
+          <yearsCited2>6</yearsCited2>
+          <exImpactFactor>0.29</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2021">
+          <impactFactor>-</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.07</immediacyIndex>
+          <selfCitedRate>-</selfCitedRate>
+          <yearsArticles2>6</yearsArticles2>
+          <yearsCited2>2</yearsCited2>
+          <exImpactFactor>-</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2020">
+          <impactFactor>-</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>-</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>-</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

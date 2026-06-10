@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002964675</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000009888">
+        <issn>1738-1207</issn>
+        <journal-name>동서정신과학</journal-name>
+        <publisher-name>한국동서정신과학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2023</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>26</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002964675">
+        <article-categories>인문학 &gt; 철학 &gt; 철학일반 &gt; 동서비교철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 철학과 현대사회와 자유, 그리고 책임의 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[권욱혜]]></name>
+            <name-eng><![CDATA[Kwon Wook Hye]]></name-eng>
+            <institution>대구가톨릭대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[인간의 삶에 있어서 자유는 언제나 중요한 위치에 있으며 많은 철학자가 의미 있게 다루는 부분이다. 우리는 순간마다 자유의지로 결단하고 선택하고 행위하고 또 자신의 행위에 대한 책임을 생각하며 살아야 하기 때문이다. 자유는 개인의 자유를 중요하게 생각하는 현대사회로 오면서 더 많은 의미를 지닌다. 그리하여 본 연구에서는 현대 실존철학자 사르트르의 주요 작품들을 중심으로 하여 사르트르가 이야기하는 자유란 무엇인지에 대해 먼저 살펴본 다음, 자유와 책임과의 관계 도덕적 주체로서의 인간에 대해 살펴보고자 한다. 사르트르의 자유는 인간에게 무조건적으로 주어져 있는 것이다. 그리고 자유에는 항상 책임이 따르는데 사르트르가 이야기하는 책임은 개인적인 의미의 책임이 아니라 대자존재로서의 책임을 의미한다. 개인적이며 주관적인 주체가 아니라 상호주체성을 가진 인간으로서의 책임에 대해 이야기한다. 그리하여 우리는 사르트르가 이야기하는 개인의 자유와 책임, 그리고 도덕적 주체로서의 대자존재에 대한 고찰을 통해 지금 우리에게 필요한 자유에 대한 개념을 새롭게 재정비할 수 있을 것이다. 그리고 현대를 살아가는 우리의 삶과 미래세대를 위한 교육에 더욱더 실질적으로 적용될 수 있기를 기대한다]]></abstract>
+          <abstract lang="english"><![CDATA[Liberty is always in an important position in human life and is a part that many philosophers deal with meaningfully. This is because humans have to make decisions, choose, act, and live thinking about their responsibilities for actions every moment. Liberty has more meaning as it comes to a modern society that values individual liberty. Thus, in this study, focusing on the main works of modern existential philosopher Sartre, the researcher will first look at what Sartre talks about liberty, and then look at the relationship between freedom and responsibility and humans as moral subjects. Sartre's liberty is unconditionally given to humans. And liberty always comes with responsibility, and the responsibility that Sartre talks about means responsibility as a Being-for-itself, not in a personal. It talks about responsibility as a human being with mutual subjectivity, not as a personal subject. Thus, this study will be able to reorganize the concept of liberty that human need now through the consideration of Sartre's personal liberty and responsibility, and the Being-for-itself as a moral subject. And it is expected that it can be applied more and more practically to the life of humans living in modern times and education for future generations.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Existence]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Choice]]></keyword>
+          <keyword><![CDATA[Responsibility]]></keyword>
+          <keyword><![CDATA[Essenc]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[실존]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[선택]]></keyword>
+          <keyword><![CDATA[책임]]></keyword>
+        </keyword-group>
+        <fpage>81</fpage>
+        <lpage>96</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002964675]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF066790078" type-code="03" type-name="단행본">
+          <title>새 시대의 철학노트</title>
+          <author>강대석</author>
+          <pubilisher>문예미학사</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790079" arti-id="ART000907889" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『도덕에 관한 노트』 : '도덕적 전환'의 존재론</title>
+          <author>강충권</author>
+          <journal-name>프랑스학연구</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>22</volume>
+          <isseue />
+          <serno />
+          <page>43-63</page>
+          <pubilisher>프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066790080" arti-id="ART002058744" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르 철학에서 도덕 주체에 대한 탐구</title>
+          <author>김선영</author>
+          <journal-name>헤겔연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>38</isseue>
+          <serno />
+          <page>219-240</page>
+          <pubilisher>한국헤겔학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17281/khegel.2015..38.010]]></doi>
+        </reference>
+        <reference refebibl-id="REF066790081" type-code="03" type-name="단행본">
+          <title>자유와 비극</title>
+          <author>신오현</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790082" arti-id="ART000977605" type-code="01" type-name="학술지(정기간행물)">
+          <title>『파리떼 』의 신화 연구</title>
+          <author>윤정임</author>
+          <journal-name>한국프랑스학논집</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>48</volume>
+          <isseue />
+          <serno />
+          <page>247-268</page>
+          <pubilisher>한국프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066790083" arti-id="ART002850814" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 실존주의 철학이 도덕교육에 주는 시사</title>
+          <author>이한진</author>
+          <journal-name>도덕교육연구</journal-name>
+          <pubi-year>2022</pubi-year>
+          <volume>34</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>131-149</page>
+          <pubilisher>한국도덕교육학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17715/jme.2022.6.34.2.131]]></doi>
+        </reference>
+        <reference refebibl-id="REF066790084" arti-id="ART002106266" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르(J. P. Sartre)의 ‘앙가주망(engagement)’ 개념이 현대 교육에 주는 시사점</title>
+          <author>최재정</author>
+          <journal-name>교육의 이론과 실천</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>21</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>95-118</page>
+          <pubilisher>한독교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066790085" type-code="03" type-name="단행본">
+          <title>사르트르와 20세기</title>
+          <author>한국사르트르연구회</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790086" arti-id="ART001338253" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『존재와 무』에 나타난 윤리학적 문제의식에 관한 소고</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>19</isseue>
+          <serno />
+          <page>263-301</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066790087" type-code="01" type-name="학술지(정기간행물)">
+          <title>싸르트르 작품에 있어서의 자유의 문제</title>
+          <author>한원순</author>
+          <journal-name>인문과학</journal-name>
+          <pubi-year>1992</pubi-year>
+          <volume>22</volume>
+          <isseue />
+          <serno />
+          <page>55-67</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066790088" type-code="03" type-name="단행본">
+          <title>실천이성비판</title>
+          <author>Kant I.</author>
+          <pubilisher>아카넷</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790089" type-code="03" type-name="단행본">
+          <title>차라투스트라는 이렇게 말했다</title>
+          <author>Nietzsche. F. W.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790090" type-code="03" type-name="단행본">
+          <title>파리떼</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>가정문고사</pubilisher>
+          <pubi-year>1976</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790091" type-code="03" type-name="단행본">
+          <title>말</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790092" type-code="03" type-name="단행본">
+          <title>문학이란 무엇인가</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790093" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>청아출판사</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790094" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790095" type-code="03" type-name="단행본">
+          <title>구토</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790096" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790097" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>살림출판사</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790098" type-code="03" type-name="단행본">
+          <title>닫힌 방, 악마와 선한 신</title>
+          <author>Sartre. J. P.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066790099" type-code="03" type-name="단행본">
+          <title>사르트르</title>
+          <author>Walter, B</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>001224</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001224">
+        <registration>
+          <kci-registration>구)KCI등재(통합)</kci-registration>
+        </registration>
+        <journal-kor-name>해석학연구</journal-kor-name>
+        <journal-kor-abbr-name>해석학</journal-kor-abbr-name>
+        <journal-fola-name>Hermeneutik Studien</journal-fola-name>
+        <major>인문학 &gt; 철학</major>
+        <issn>1598-9313</issn>
+        <eissn />
+        <fsed-yr>1995년</fsed-yr>
+        <impr>연2회, 04월 30일, 10월 31일</impr>
+        <current-issue>2015년 04월 (36)</current-issue>
+        <use-lang>한국어, 한국어</use-lang>
+        <publisher>
+          <publisher-kor-name>한국해석학회</publisher-kor-name>
+          <publisher-eng-name>Korea Society Of Hermeneutics</publisher-eng-name>
+          <publisher-tel>042-821-6325</publisher-tel>
+          <publisher-homp>www.hermes.or.kr</publisher-homp>
+          <publisher-addr>경기도 부천시 호현로489번길 52, 서울신학대학교(소사본동)</publisher-addr>
+        </publisher>
+        <publisher>
+          <publisher-kor-name>한국하이데거학회</publisher-kor-name>
+          <publisher-eng-name>Heidegger-Gesellschaft In Korea</publisher-eng-name>
+          <publisher-tel>010-9800-8061</publisher-tel>
+          <publisher-homp>https://rcep.jams.or.kr/co/main/jmMain.kci</publisher-homp>
+          <publisher-addr>서울특별시 동작구 상도로 369, 숭실대학교 글로벌브레인홀 109호 (상도동)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2015-06-15" div-cd="4" registration="08">
+          <before journal-id="001223"><![CDATA[존재론 연구(한국하이데거학회)]]></before>
+          <before journal-id="001224"><![CDATA[해석학연구(한국해석학회)]]></before>
+          <after journal-id="001223"><![CDATA[존재론 연구(한국하이데거학회)]]></after>
+        </journal-change>
+        <journal-change date="2011-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (등재유지)]]></journal-change>
+        <journal-change date="2009-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (등재유지)]]></journal-change>
+        <journal-change date="2006-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (등재후보2차)]]></journal-change>
+        <journal-change date="2005-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 1차 PASS (등재후보1차)]]></journal-change>
+        <journal-change date="2004-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 유지 (등재후보1차)]]></journal-change>
+        <journal-change date="2003-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2013">
+          <impactFactor>0.72</impactFactor>
+          <impactFactor3>0.61</impactFactor3>
+          <impactFactor4>0.54</impactFactor4>
+          <impactFactor5>0.48</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.366</sjr>
+          <immediacyIndex>0.15</immediacyIndex>
+          <selfCitedRate>42.31%</selfCitedRate>
+          <yearsArticles2>36</yearsArticles2>
+          <yearsCited2>26</yearsCited2>
+          <exImpactFactor>0.42</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2012">
+          <impactFactor>0.66</impactFactor>
+          <impactFactor3>0.53</impactFactor3>
+          <impactFactor4>0.49</impactFactor4>
+          <impactFactor5>0.46</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.441</sjr>
+          <immediacyIndex>0.21</immediacyIndex>
+          <selfCitedRate>19.05%</selfCitedRate>
+          <yearsArticles2>32</yearsArticles2>
+          <yearsCited2>21</yearsCited2>
+          <exImpactFactor>0.53</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2011">
+          <impactFactor>0.47</impactFactor>
+          <impactFactor3>0.5</impactFactor3>
+          <impactFactor4>0.52</impactFactor4>
+          <impactFactor5>0.51</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.35</immediacyIndex>
+          <selfCitedRate>13.33%</selfCitedRate>
+          <yearsArticles2>32</yearsArticles2>
+          <yearsCited2>15</yearsCited2>
+          <exImpactFactor>0.41</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2010">
+          <impactFactor>0.62</impactFactor>
+          <impactFactor3>0.55</impactFactor3>
+          <impactFactor4>0.56</impactFactor4>
+          <impactFactor5>0.52</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.13</immediacyIndex>
+          <selfCitedRate>20.83%</selfCitedRate>
+          <yearsArticles2>39</yearsArticles2>
+          <yearsCited2>24</yearsCited2>
+          <exImpactFactor>0.49</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2009">
+          <impactFactor>0.93</impactFactor>
+          <impactFactor3>0.83</impactFactor3>
+          <impactFactor4>0.66</impactFactor4>
+          <impactFactor5>0.62</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.24</immediacyIndex>
+          <selfCitedRate>40.0%</selfCitedRate>
+          <yearsArticles2>43</yearsArticles2>
+          <yearsCited2>40</yearsCited2>
+          <exImpactFactor>0.56</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2008">
+          <impactFactor>0.63</impactFactor>
+          <impactFactor3>0.55</impactFactor3>
+          <impactFactor4>0.53</impactFactor4>
+          <impactFactor5>0.41</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.32</immediacyIndex>
+          <selfCitedRate>23.08%</selfCitedRate>
+          <yearsArticles2>41</yearsArticles2>
+          <yearsCited2>26</yearsCited2>
+          <exImpactFactor>0.49</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

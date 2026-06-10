@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002098848</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001586">
+        <issn>1598-2106</issn>
+        <journal-name>학습자중심교과교육연구</journal-name>
+        <publisher-name>학습자중심교과교육학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2016</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>16</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002098848">
+        <article-categories>사회과학 &gt; 교육학 &gt; 교과교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[자유학기제의 철학적 기반 형성 가능성 탐색: 실존주의 철학과의 비교를 바탕으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[Feasibility exploration about philosophical base of the Semester of Free Learning: based on comparison to the philosophy of existentialism]]></article-title>
+          <article-title lang="english"><![CDATA[Feasibility exploration about philosophical base of the Semester of Free Learning: based on comparison to the philosophy of existentialism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[이재창]]></name>
+            <name-eng><![CDATA[Lee Jae Chang]]></name-eng>
+            <institution>고려대학교</institution>
+          </author>
+          <author author-division="2" author-part="참여">
+            <name><![CDATA[조한아]]></name>
+            <institution>고려대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[지금까지 자유학기제와 관련하여 여타 실천적인 논의는 진행되었으나 철학적 기조에 대한 논의가 충분히 이루어지지 않았다. 교육과정의 기반이 되는 교육철학은 교육과정을 운영하는 과정에서 예상치 못하게 발생하는 문제점과 변수들에 대해 일관된 해결방향을 제시해준다. 이에 본 연구에서는 자유학기제와 실존주의 철학이 지니는 연관성과 차이점을 중심으로 자유학기제의 기저 철학이 실존주의가 될 수 있을지에 대한 가능성을 탐색해보았다. 연구결과, 자유학기제는 정책 기조, 정의, 교육목표, 교육과정 등에서 실존주의 철학과 많은 유사점이 발견되었다. 이에 반해, 실제 교육구현양상에서는 다소간 차이를 보이고 있었다. 결론적으로 자유학기제 정책과 실존주의 철학은 온전히 일치한다고 결론지을 수는 없었다. 하지만 자유학기제의 기본 틀이 실존주의 철학과 많은 유사점을 보이고 있다는 점을 볼 때 실존주의 철학이 교육에 대해 제시하는 제안들이 자유학기제에 줄 수 있는 시사점이 상당히 많다는 점이 확인되었다.]]></abstract>
+          <abstract lang="english"><![CDATA[The Free Learning Semester hasn't discussed about it's educational philosophy even though it will be introduced to the all of the Korean middle school in this year. The philosophy of curriculum provides consistent guideline to solve unexpected problems which are caused during the curriculum operating. Therefore, If we successfully discuss about the philosophical base of the Free Learning Semester, then, we can expect that curriculum philosophy of the Free Learning Semester will provide the Free Learning Semester policy the achieving of educational purpose and helping the excellent curriculum operating. So this study researched central aim of the Free Learning Semester and investigated the view of human and education in the philosophy of existentialism. And this study explored whether the philosophy of existentialism could be the educational philosophy of the Free Learning Semester through analyzing the relationship between the philosophy of existentialism and the Free Learning Semester. The study result shows that keynote of the Free Learning Semester policy, definition, educational purpose and curriculum are similar with the philosophy of existentialism. But there are some gap in aspect of practice. So we can not conclude the philosophy of existentialism affected to the Free Learning Semester policy. And we can judge there are some problem with presuming the philosophy of existentialism a foundational philosophy for the Free Learning Semester policy. But the fact that basic frame of the Free Learning Semester is similar with the philosophy of existentialism informs us that the philosophy of existentialism can provide several important implication to the Free Learning Semester.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[자유학기제]]></keyword>
+          <keyword><![CDATA[자유학기제 교육과정의 철학적 기반]]></keyword>
+          <keyword><![CDATA[실존주의 철학]]></keyword>
+          <keyword><![CDATA[the Free Learning Semester]]></keyword>
+          <keyword><![CDATA[the Free Learning Semester policy's philosophical base]]></keyword>
+          <keyword><![CDATA[the philosophy of education of existentialism]]></keyword>
+        </keyword-group>
+        <fpage>611</fpage>
+        <lpage>634</lpage>
+        <doi />
+        <uci>G704-001586.2016.16.3.034</uci>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">0.36</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002098848]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF039394893" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존적 아이디어의 교육방법적 원용에 관한 연구</title>
+          <author>강선보</author>
+          <journal-name>한국교육사학</journal-name>
+          <pubi-year>1999</pubi-year>
+          <volume>21</volume>
+          <isseue>0</isseue>
+          <serno />
+          <page>299-314</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394894" arti-id="ART001968367" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 청소년 진로체험이 진로탐색과 진로직업역량에 미치는 영향 연구</title>
+          <author>권일남</author>
+          <journal-name>청소년시설환경</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>13</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>17-26</page>
+          <pubilisher>한국청소년시설환경학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394895" type-code="04" type-name="보고서">
+          <title>중학교 자유학기제 시범 운영계획(안)(2013.05.28.)</title>
+          <author>교육부</author>
+          <pubilisher />
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394896" type-code="04" type-name="보고서">
+          <title>중학교 자유학기제 시행 계획(안)(2015. 8. 6.)</title>
+          <author>교육부</author>
+          <pubilisher />
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394897" arti-id="ART001883312" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 연구학교의 교육과정 특성 분석: 2013 자유학기제 연구학교 보고서 분석을 중심으로</title>
+          <author>김미진 ; 홍후조 ; 이재창 ; 임재일</author>
+          <journal-name>교육과정연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>32</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>215-241</page>
+          <pubilisher>한국교육과정학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15708/kscs.32.2.201406.009]]></doi>
+        </reference>
+        <reference refebibl-id="REF039394898" arti-id="ART001808706" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 도입에 따른 기술·가정 교과통합 진로교육 운용 방안- 가정 교과 영역을 중심으로 -</title>
+          <author>김은정</author>
+          <journal-name>한국가정과교육학회지</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>25</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>105-121</page>
+          <pubilisher>한국가정과교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394899" type-code="05" type-name="학위논문">
+          <title>자유학기제에 대한 중학교 교사들의 인식조사</title>
+          <author>김진섭</author>
+          <degree>석사</degree>
+          <university>부산대학교 교육대학원</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF039394900" arti-id="ART001990509" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제에 대한 중학교 교사들의 인식</title>
+          <author>김진섭 ; 문성배</author>
+          <journal-name>대한지구과학교육학회지</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>8</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>12-24</page>
+          <pubilisher>대한지구과학교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394901" type-code="02" type-name="학술대회논문">
+          <title>중학교 자유학기제 정책 방향</title>
+          <author>류정섭</author>
+          <conference-name>한국통합교육과정학회 학술발표자료</conference-name>
+          <pubi-year>2013</pubi-year>
+          <volume>13</volume>
+          <isseue>0</isseue>
+          <serno />
+          <page>47-58</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394902" type-code="05" type-name="학위논문">
+          <title>미술 진로교육을 위한 자유학기제 동아리 활동 프로그램 개발 연구 : 중학생을 중심으로</title>
+          <author>민보경</author>
+          <degree>석사</degree>
+          <university>경희대학교 교육대학원</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF039394903" arti-id="ART001870789" type-code="01" type-name="학술지(정기간행물)">
+          <title>공교육 내실화를 위한 자유학기제 정책의 방향과 과제</title>
+          <author>박균열 ; 주영효 ; 고영종</author>
+          <journal-name>교육행정학연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>32</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>25-51</page>
+          <pubilisher>한국교육행정학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394904" arti-id="ART001889311" type-code="01" type-name="학술지(정기간행물)">
+          <title>‘자유학기제’의 수학평가 실태 및 교사 인식 탐색</title>
+          <author>박은숙 ; 김인수</author>
+          <journal-name>학습자중심교과교육연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>14</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>243-272</page>
+          <pubilisher>학습자중심교과교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394905" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제를 활용한 진로체험활동이 학생들의 진로인식 변화에 미치는 영향</title>
+          <author>박현진</author>
+          <journal-name>과학교육논집</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>21</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>11-31</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394906" type-code="05" type-name="학위논문">
+          <title>자유학기제를 활용한 진로체험활동이 학생들의 진로인식 변화에 미치는 영향</title>
+          <author>박현진</author>
+          <degree>석사</degree>
+          <university>한국교원대학교 교육대학원</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF039394907" arti-id="ART001767512" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제의 성공적 추진을 위한 헌법적 쟁점 분석</title>
+          <author>손희권</author>
+          <journal-name>교육법학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>25</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>151-180</page>
+          <pubilisher>대한교육법학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394908" arti-id="ART001955219" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 시행에 따른 중학교 체육진로교육의 방향과 과제탐색</title>
+          <author>유정애</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>53</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>235-246</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394909" type-code="03" type-name="단행본">
+          <title>교육의 철학적 접근</title>
+          <author>윤완</author>
+          <pubilisher>책과책사이</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394910" arti-id="ART001966079" type-code="01" type-name="학술지(정기간행물)">
+          <title>연구학교 사례분석을 통한 자유학기제 활성화 방안 탐색</title>
+          <author>이병환 ; 권민석</author>
+          <journal-name>교육문화연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>21</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>51-74</page>
+          <pubilisher>교육연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394911" arti-id="ART001917099" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 1차 연구학교의 가정교과 관련 운영 실태</title>
+          <author>이은영 ; 손주영 ; 김예슬 ; 조재순</author>
+          <journal-name>한국가정과교육학회지</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>26</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>69-89</page>
+          <pubilisher>한국가정과교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394912" arti-id="ART001952332" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 연구학교의 수업과 교육활동의 특징 분석</title>
+          <author>이재창 ; 홍후조 ; 김미진 ; 임재일</author>
+          <journal-name>교과교육학연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>18</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>1135-1161</page>
+          <pubilisher>교과교육연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394913" arti-id="ART001157770" type-code="01" type-name="학술지(정기간행물)">
+          <title>국어능력 향상을 위한 철학적 기반 탐색-국어교육의 개념과 관련하여</title>
+          <author>임경순</author>
+          <journal-name>국어교육학연구</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume />
+          <isseue>25</isseue>
+          <serno />
+          <page>365-388</page>
+          <pubilisher>국어교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394914" arti-id="ART002048005" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제 연구학교의 학생평가 특징 분석</title>
+          <author>임재일 ; 홍후조 ; 이재창 ; 김미진</author>
+          <journal-name>교육과정평가연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>18</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>233-255</page>
+          <pubilisher>한국교육과정평가원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394915" arti-id="ART001896319" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유학기제에 따른 미술교과 융합교육 방안 연구</title>
+          <author>정병흠</author>
+          <journal-name>미술교육논총</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>28</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>59-84</page>
+          <pubilisher>한국미술교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394916" arti-id="ART001786881" type-code="01" type-name="학술지(정기간행물)">
+          <title>관련자 의견조사에 기초한 자유학기제 운영 방안 탐색 연구</title>
+          <author>홍후조 ; 임유나 ; 장소영</author>
+          <journal-name>한국교육학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>19</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>33-68</page>
+          <pubilisher>안암교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394917" type-code="05" type-name="학위논문">
+          <title>자유학기제를 활용한 진로교육 수업방안 연구 : 아일랜드 전환학년제 사례를 중심으로</title>
+          <author>황세원</author>
+          <degree>석사</degree>
+          <university>숙명여자대학교 교육대학원</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF039394918" type-code="03" type-name="단행본">
+          <title>An Introduction to the Foundations of Education</title>
+          <author>Ornstein, A. C.</author>
+          <pubilisher>Rand McNally College Publishing Company</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394919" type-code="03" type-name="단행본">
+          <title>Philosophy and Education: A Total View</title>
+          <author>Dupuis, A. M.</author>
+          <pubilisher>The Blue Publishing company</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394920" type-code="03" type-name="단행본">
+          <title>Philosophy of Education</title>
+          <author>Power, J. E.</author>
+          <pubilisher>Prentice-Hall</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394921" type-code="03" type-name="단행본">
+          <title>Existentialism and Education</title>
+          <author>Keller, F. G.</author>
+          <pubilisher>John Wiley &amp; Sons, Inc</pubilisher>
+          <pubi-year>1958</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394922" type-code="03" type-name="단행본">
+          <title>Foundations of Education</title>
+          <author>Keller, F. G.</author>
+          <pubilisher>John Wiley &amp; Sons, Inc</pubilisher>
+          <pubi-year>1971</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394923" type-code="03" type-name="단행본">
+          <title>Philosophy &amp; Education</title>
+          <author>Knight, R. G.</author>
+          <pubilisher>ANDREWS UNIVERSITY PRESS</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394924" type-code="03" type-name="단행본">
+          <title>Philosophical Foundations of Education</title>
+          <author>Ozmon, A. H.</author>
+          <pubilisher>Pearson Education</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394925" type-code="01" type-name="학술지(정기간행물)">
+          <title>Existentialism : Practical Classroom Application</title>
+          <author>Gary, H.</author>
+          <journal-name>The Educational Forum</journal-name>
+          <pubi-year>1993</pubi-year>
+          <volume>57</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>191-196</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF039394926" type-code="03" type-name="단행본">
+          <title>Philosophical Foundations of Education</title>
+          <author>Ozmon, H.</author>
+          <pubilisher>Charles E. Merrill Publishing Company</pubilisher>
+          <pubi-year>1976</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394927" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>(주)이학사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394928" type-code="03" type-name="단행본">
+          <title>The philosophical and sociological foundations of Education</title>
+          <author>Bhatia, K.</author>
+          <pubilisher>DOABA HOUSE ebook Publishing Company</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF039394929" type-code="03" type-name="단행본">
+          <title>Modern Movements in Educational Philosophy</title>
+          <author>Morris, V. C.</author>
+          <pubilisher>Houghton Mifflim Publishing Company</pubilisher>
+          <pubi-year>1969</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

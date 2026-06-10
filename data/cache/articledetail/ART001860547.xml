@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001860547</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001482">
+        <issn>1226-900X</issn>
+        <journal-name>무용예술학연구</journal-name>
+        <publisher-name>한국무용예술학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2014</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>47</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001860547">
+        <article-categories>예술체육학 &gt; 무용</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[20세기 초엽 독일 현대춤에 나타난 실존적 의미와 해석]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existential Meaning and Interpretation of German Modern Dance in the 20th Century]]></article-title>
+          <article-title lang="english"><![CDATA[Existential Meaning and Interpretation of German Modern Dance in the 20th Century]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[김말복]]></name>
+            <name-eng><![CDATA[MalborgKim]]></name-eng>
+            <institution>이화여자대학교</institution>
+          </author>
+          <author author-division="2" author-part="교신">
+            <name><![CDATA[이지원]]></name>
+            <name-eng><![CDATA[ji-won Lee]]></name-eng>
+            <institution>이화여자대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Opposition to Positivism and Rationalism, Existentialism was born out ofsocial unrest and, a futile and unreasonable reality that pierced the 20th century.
+Starting from Kierkegarrd, Niche, Heidegger, and to Sarte, humanity wasdisappointed and suspicious within the relative faith. So the focus of existentialismis on looking toward the inner self, establishing a true human character and goingback to our ego. As Sarte once said, where everyone faces death, being human is achoice between life and death. Actionable movement, where we know theproperties of life, choose life’s problems on our own, and take responsibility for it,encounters the art, movement, and worries of the modern society of moderndancers.
+Dances of early modern dancers can be explained in several characteristicswhen interpreted with Existentialism. First is that they stand strongly againstrationalism that ignores one’s true identity, will and emotion. They are also againsta uniform beauty that combines all other specific characteristics of individuals witha rational standard and they have made their own new beauty. This is an emotionalside or of their experience and identity. Second is men’s irrational existence in astruggle that started with anxiety of living and emptiness of life to find one’s trueself expressed in death. The various interpretations and development of death is aface of transcendent humanity that confronts reality, does not lose hope and showsstrength. The third is a recreation of open construct, space and time. Existentialistportrayed one’s unique value in thought of space, time and images of color, andrefused a fixed frame or limitations utilizing open endings.
+Representative of this philosophy was the German dancers Wigman and JoossAbstractwho depicted active men in their work. They did not portray someone in astereotype or within a set of values but showed ones’ self with the results of whatthey experienced. Wigman expressed with the body an existential being through awitch who realized her destiny with her own will and at the same time anincomplete being who sought self-salvation while denying traditional rules. Joossalso made experienced confessions and autonomous movement by creatingdivergent interpretations and characters of death. Their s are a confession ofsubjective thought, truth, introspection and action that leads to limitations ofexistentialism and conquest.
+This research dealt with early modern dance but has limits to encompassingthe existential being dominantly seen today. One hopes that diverse interpretationsof dance will be achieved upon the conceptual properties of Existentialism.]]></abstract>
+          <abstract lang="english"><![CDATA[Opposition to Positivism and Rationalism, Existentialism was born out ofsocial unrest and, a futile and unreasonable reality that pierced the 20th century.
+Starting from Kierkegarrd, Niche, Heidegger, and to Sarte, humanity wasdisappointed and suspicious within the relative faith. So the focus of existentialismis on looking toward the inner self, establishing a true human character and goingback to our ego. As Sarte once said, where everyone faces death, being human is achoice between life and death. Actionable movement, where we know theproperties of life, choose life’s problems on our own, and take responsibility for it,encounters the art, movement, and worries of the modern society of moderndancers.
+Dances of early modern dancers can be explained in several characteristicswhen interpreted with Existentialism. First is that they stand strongly againstrationalism that ignores one’s true identity, will and emotion. They are also againsta uniform beauty that combines all other specific characteristics of individuals witha rational standard and they have made their own new beauty. This is an emotionalside or of their experience and identity. Second is men’s irrational existence in astruggle that started with anxiety of living and emptiness of life to find one’s trueself expressed in death. The various interpretations and development of death is aface of transcendent humanity that confronts reality, does not lose hope and showsstrength. The third is a recreation of open construct, space and time. Existentialistportrayed one’s unique value in thought of space, time and images of color, andrefused a fixed frame or limitations utilizing open endings.
+Representative of this philosophy was the German dancers Wigman and JoossAbstractwho depicted active men in their work. They did not portray someone in astereotype or within a set of values but showed ones’ self with the results of whatthey experienced. Wigman expressed with the body an existential being through awitch who realized her destiny with her own will and at the same time anincomplete being who sought self-salvation while denying traditional rules. Joossalso made experienced confessions and autonomous movement by creatingdivergent interpretations and characters of death. Their s are a confession ofsubjective thought, truth, introspection and action that leads to limitations ofexistentialism and conquest.
+This research dealt with early modern dance but has limits to encompassingthe existential being dominantly seen today. One hopes that diverse interpretationsof dance will be achieved upon the conceptual properties of Existentialism.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Existentialism Philosophy]]></keyword>
+          <keyword><![CDATA[Mary Wigman]]></keyword>
+          <keyword><![CDATA[Kurt Jooss]]></keyword>
+          <keyword><![CDATA[death]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+          <keyword><![CDATA[실존주의 철학]]></keyword>
+          <keyword><![CDATA[마리 뷔그만]]></keyword>
+          <keyword><![CDATA[쿠르트 요스]]></keyword>
+          <keyword><![CDATA[죽음]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+        </keyword-group>
+        <fpage>21</fpage>
+        <lpage>54</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.16877/kjds.47.2.201403.21]]></doi>
+        <uci>G704-001482.2014.47.2.004</uci>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">0.64</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001860547]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF034369986" type-code="03" type-name="단행본">
+          <title>그런 하나님을 어떻게 믿어요?</title>
+          <author>김기현</author>
+          <pubilisher>SFC출판부</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369987" type-code="03" type-name="단행본">
+          <title>역사철학I</title>
+          <author>김종호</author>
+          <pubilisher>삼성출판사</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369988" type-code="03" type-name="단행본">
+          <title>개념어사전</title>
+          <author>남경태</author>
+          <pubilisher>들녘</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369989" type-code="03" type-name="단행본">
+          <title>실존철학과 현대</title>
+          <author>백승균</author>
+          <pubilisher>계명대학교 출판부</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369990" type-code="03" type-name="단행본">
+          <title>존 업다이크의 실존주의 문학세계</title>
+          <author>변종민</author>
+          <pubilisher>태학사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369991" type-code="03" type-name="단행본">
+          <title>교육과 사상</title>
+          <author>이중</author>
+          <pubilisher>배영사</pubilisher>
+          <pubi-year>1972</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369992" type-code="03" type-name="단행본">
+          <title>춤 테마로 읽다</title>
+          <author>이지원</author>
+          <pubilisher>두솔</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369993" type-code="03" type-name="단행본">
+          <title>키에르케고르의 생애와 사상</title>
+          <author>임춘감</author>
+          <pubilisher>종로서적</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369994" type-code="03" type-name="단행본">
+          <title>현대사회와 인간 소외</title>
+          <author>임춘식</author>
+          <pubilisher>한남대학교 출판부</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369995" type-code="03" type-name="단행본">
+          <title>키에르케고어의 단독자 개념</title>
+          <author>표재명</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369996" type-code="03" type-name="단행본">
+          <title>무용의 언어</title>
+          <author>마리 뷔그만</author>
+          <pubilisher>현대미학사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369997" type-code="03" type-name="단행본">
+          <title>예술과 사회</title>
+          <author>아놀드 하우저</author>
+          <pubilisher>홍성사</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369998" type-code="03" type-name="단행본">
+          <title>예술의 사회학</title>
+          <author>아놀드 하우저</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034369999" type-code="03" type-name="단행본">
+          <title>니체 사르트르, 프로이드, 키에르케고르</title>
+          <author>반리이센</author>
+          <pubilisher>종로서적</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370000" type-code="03" type-name="단행본">
+          <title>실존철학</title>
+          <author>Frite Heineman</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370001" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>장폴 샤르트르</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370002" type-code="03" type-name="단행본">
+          <title>역사 속 춤</title>
+          <author>조안 카스</author>
+          <pubilisher>이화여자대학교출판부</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370003" type-code="03" type-name="단행본">
+          <title>실존철학</title>
+          <author>O.F 볼노브</author>
+          <pubilisher>간디서원</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370004" type-code="03" type-name="단행본">
+          <title>춤추는 여성</title>
+          <author>김현정</author>
+          <pubilisher>성균관대학교출판부</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370005" type-code="03" type-name="단행본">
+          <title>철학의 이해</title>
+          <author>S.E. 프로스트</author>
+          <pubilisher>현암사</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370006" type-code="03" type-name="단행본">
+          <title>서양 춤 예술의 역사</title>
+          <author>수잔 오</author>
+          <pubilisher>이론과 실천</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370007" type-code="03" type-name="단행본">
+          <title>탄츠테아터</title>
+          <author>수잔네 슐리허</author>
+          <pubilisher>범우사</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370008" type-code="03" type-name="단행본">
+          <title>실존주의</title>
+          <author>Paul Foulquie</author>
+          <pubilisher>정음사</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370009" type-code="03" type-name="단행본">
+          <title>20세기 무용사</title>
+          <author>가미자와카즈오</author>
+          <pubilisher>현대미학사</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370010" type-code="05" type-name="학위논문">
+          <title>인체형상을 통한 현대인의 내면세계 표현 연구 : 작품제작 중심으로</title>
+          <author>마종수</author>
+          <degree>석사</degree>
+          <university>이화여자대학교</university>
+          <department>섬유예술</department>
+          <pubi-year>2001</pubi-year>
+        </reference>
+        <reference refebibl-id="REF034370011" type-code="05" type-name="학위논문">
+          <title>도시 주변개체의 일상 표현</title>
+          <author>백은정</author>
+          <degree>석사</degree>
+          <university>이화여자대학교</university>
+          <department>조소</department>
+          <pubi-year>2001</pubi-year>
+        </reference>
+        <reference refebibl-id="REF034370012" type-code="05" type-name="학위논문">
+          <title>실존주의 철학을 통한 무용의 접근</title>
+          <author>朴仁舜</author>
+          <degree>석사</degree>
+          <university>이화여자대학교</university>
+          <department>무용학</department>
+          <pubi-year>1993</pubi-year>
+        </reference>
+        <reference refebibl-id="REF034370013" type-code="05" type-name="학위논문">
+          <title>카프카의 「변신」에 나타난 인간소외의 문제</title>
+          <author>張眞庚</author>
+          <degree>석사</degree>
+          <university>이화여자대학교</university>
+          <department>독일어교육</department>
+          <pubi-year>1993</pubi-year>
+        </reference>
+        <reference refebibl-id="REF034370014" type-code="03" type-name="단행본">
+          <title>Ecstasy and the Demon: Feminism and Nationalism in the Dances of Mary Wigman</title>
+          <author>Manning, Susan A.</author>
+          <pubilisher>University of Califonia Press</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF034370015" type-code="06" type-name="인터넷자원">
+          <title>Mary Wigman and German Modern Dance: A Modernist Witch?</title>
+          <author>Jiyun Jung</author>
+          <url><![CDATA[http://fmls.oxfordjournals.org]]></url>
+          <citation-day>2013</citation-day>
+          <site-name />
+          <pubilisher />
+          <registration-day>2013</registration-day>
+        </reference>
+        <reference refebibl-id="REF034370016" type-code="07" type-name="기타자료">
+          <title>Narrated by Isa Partsch-Bergsohn. Volumes 1 &amp; 2</title>
+          <author>The Makers of Modern Dance in Germany</author>
+        </reference>
+        <reference refebibl-id="REF034370017" type-code="07" type-name="기타자료">
+          <title>The Green Table: a dance of death in eight scenes and “Swansong”</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF034370018" type-code="06" type-name="인터넷자원">
+          <title>http://www.dance-teacher.com/2011/08/kurt-jooss/</title>
+          <author />
+          <url><![CDATA[http://www.dance-teacher.com/2011/08/kurt-jooss/]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day>2014</registration-day>
+        </reference>
+        <reference refebibl-id="REF034370019" type-code="06" type-name="인터넷자원">
+          <title>http://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-6dc45b097f2ca147939be4c4eddea5f&amp;param.idSource=FR_E-fb2b12d84d474cee225dd6c8898dc8f</title>
+          <author />
+          <url><![CDATA[http://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-6dc45b097f2ca147939be4c4eddea5f&param.idSource=FR_E-fb2b12d84d474cee225dd6c8898dc8f]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day>2014</registration-day>
+        </reference>
+        <reference refebibl-id="REF034370020" type-code="06" type-name="인터넷자원">
+          <title>http://www.legalaffairs.org/issues/January-February-2004/exhibit_janfeb04.msp</title>
+          <author />
+          <url><![CDATA[http://www.legalaffairs.org/issues/January-February-2004/exhibit_janfeb04.msp]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day>2014</registration-day>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

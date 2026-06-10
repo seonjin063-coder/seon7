@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002518012</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001223">
+        <issn>2093-4440</issn>
+        <journal-name>현대유럽철학연구</journal-name>
+        <publisher-name>한국하이데거학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2019</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume />
+        <issue>55</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002518012">
+        <article-categories>인문학 &gt; 철학 &gt; 서양철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[자유의 절대성과 현존재]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Absoluteness of Ontological Freedom and Dasein]]></article-title>
+          <article-title lang="english"><![CDATA[The Absoluteness of Ontological Freedom and Dasein]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[한상연]]></name>
+            <name-eng><![CDATA[Han, Sang-Youn]]></name-eng>
+            <institution>가천대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 글은 사르트르의 실존주의적 자유 개념과 하이데거의 존재론적 자유 개념의 철학적 관계를 밝히고자 한다. 잘 알려진 것처럼 하이데거는 사르트르의 실존주의를 받아들이지 않는다. 그 대표적인 사례는 「인본주의에 대한 편지」이다. 이 유명한 서간에서 하이데거는 장 보프레가 1946년 11월 10일의 편지에서 프랑스 실존주의의 발전에 관해 제기한 일련의 물음들에 대해 응답하며 사르트르의 입장과 실존주의 일반과 비판적 거리를 둔다. 사르트르의 실존주의가 하이데거의 존재론과 조화될 수 있는지는 여전히 해결되지 않은 문제이다. 그러나 필자는 사르트르의 실존주의적 자유 개념이 하이데거의 존재론적 현존재 개념과 전혀 모순되지 않는다고 여긴다. 사르트르뿐 아니라 하이데거 역시 현존재의 존재가 인과율의 법칙에 의해 결정되는 물리적 사물과도 같이 고찰되어야 한다는 것에 동의하지 않는다. 현존재의 존재는 그 고유한 가능존재와의 관계 속에서 고찰되어야 한다. 현존재는 그 자신의 존재를 도래할 미래를 향해 기획투사해나가는 존재자인 것이다. 물론 현존재는 세계-안에-있는 존재자이며, 그 때문에 현존재의 기획은 언제나 상황에 의해 조건 지어져 있다. 그러나 이것이 현존재의 존재가 인과율의 법칙에 의해 제약되어 있다는 것을 뜻하지는 않는다. 세계의 근원적 근거는 바로 현존재이기 때문이다. 존재론적으로 세계는, 도구적 의미연관의 지시적 총체로서, 그 자신의 존재를 미래를 향해 기획투사할 현존재의 자유에 기초해 있는 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper seeks to clarify the philosophical relationships between J.-P. Sartre’s existentialist concept of freedom and M. Heidegger’s ontological concept of Dasein. As is well known, Heidegger does not accept Sartre’s existentialism. In Letter on Humanism, a famous letter written by Martin Heidegger in December 1946 in response to a series of questions by Jean Beaufret (10 November 1946) about the development of French existentialism, Heidegger distanced himself from Sartre's position and existentialism in general. The problem of whether Sartre’s existentialism is with Heidegger’s ontology in general is still unsettled. But I firmly believe that Sartre’s existentialist concept of freedom is not at all at odds with Heidegger’s ontological concept of Dasein. Not only Sartre, but Heidegger also denies that Dasein’ being should be considered as a physical thing that is determined by the law of causality: Dasein’s being should be considered in the relationship with its ownmost possible-beings, which means that Dasein projects itself towards the future. Of course, Dasein is a being-in-the-world and therefore Dasein’s project is always a situated one. But this does not mean that Dasein’s freedom is restricted by the law of cause and effect. The reason for that is that the Dasein is the fundamental ground for the world, which means that the world as a referential totality is based on Dasein’s Freedom to project itself towards the future.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[하이데거]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[존재론]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[현존재]]></keyword>
+          <keyword><![CDATA[자기를-위해-있음(대자 존재)]]></keyword>
+          <keyword><![CDATA[자체로-있음(즉자 존재)]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Heidegger]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Ontology]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Dasein]]></keyword>
+          <keyword><![CDATA[being-for-itself]]></keyword>
+          <keyword><![CDATA[being-in-itself]]></keyword>
+        </keyword-group>
+        <fpage>1</fpage>
+        <lpage>32</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.20974/dasein.2019..55.1]]></doi>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">1.65</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002518012]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF050742232" arti-id="ART002043777" type-code="01" type-name="학술지(정기간행물)">
+          <title>정신의학과 하이데거의 대화 – 졸리콘-세미나를 중심으로</title>
+          <author>김재철</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>39</isseue>
+          <serno />
+          <page>31-73</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742233" type-code="03" type-name="단행본">
+          <title>하이데거</title>
+          <author>달마이어, F.</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742234" arti-id="ART002128552" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르, 마르크스와 프로이트 사이: ‘종합적 인간학’을 위한 ‘방법’의 문제를 중심으로</title>
+          <author>변광배</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>42</isseue>
+          <serno />
+          <page>167-194</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742235" arti-id="ART002014773" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르와 매체</title>
+          <author>변광배</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>38</isseue>
+          <serno />
+          <page>33-59</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742236" type-code="03" type-name="단행본">
+          <title>시대의 초상</title>
+          <author>사르트르, J.-P.</author>
+          <pubilisher>생각의 나무</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742237" arti-id="ART001602809" type-code="01" type-name="학술지(정기간행물)">
+          <title>『집안의 천치』와 사르트르의 “전진－후진적 방법”</title>
+          <author>지영래</author>
+          <journal-name>프랑스학연구</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>58</isseue>
+          <serno />
+          <page>549-576</page>
+          <pubilisher>프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742238" arti-id="ART001338253" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『존재와 무』에 나타난 윤리학적 문제의식에 관한 소고</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>19</isseue>
+          <serno />
+          <page>263-301</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742239" type-code="03" type-name="단행본">
+          <title>Abenteuer Existenz</title>
+          <author>Coenen-Mennemeier, B.</author>
+          <pubilisher />
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742240" type-code="03" type-name="단행본">
+          <title>Sein und Zeit</title>
+          <author>Heidegger, M.</author>
+          <pubilisher />
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742241" type-code="03" type-name="단행본">
+          <title>Wegmarken</title>
+          <author>Heidegger, M.</author>
+          <pubilisher />
+          <pubi-year>1976</pubi-year>
+          <page>313-364</page>
+        </reference>
+        <reference refebibl-id="REF050742242" type-code="03" type-name="단행본">
+          <title>Zollikoner Seminare: Protokolle - Zwiegesprache – Briefe</title>
+          <author>Heidegger, M.</author>
+          <pubilisher />
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742243" type-code="03" type-name="단행본">
+          <title>Metaphisische Angangsgründe der Logik im Ausgang von Logik</title>
+          <author>Heidegger, M.</author>
+          <pubilisher />
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742244" type-code="03" type-name="단행본">
+          <title>Schelling: Vom Wesen der menschlichen Freiheit</title>
+          <author>Heidegger, M.</author>
+          <pubilisher />
+          <pubi-year>1988</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742245" type-code="01" type-name="학술지(정기간행물)">
+          <title>Existentialism: Remarks on Jean-paul Sartre's L'Être et le Néant</title>
+          <author>Marcuse, H.</author>
+          <journal-name>Philosophy and Phenemenological Research. A quarterly Journal</journal-name>
+          <pubi-year>1948</pubi-year>
+          <volume>VIII</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050742246" type-code="03" type-name="단행본">
+          <title>Sartre et la praxis, ontologie de la liberté et praxis dans la pensée de Jean-Paul Sartre</title>
+          <author>Münster, A.</author>
+          <pubilisher />
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742247" type-code="03" type-name="단행본">
+          <title>L'être et le néant. Essai d'ontologie phénoménologique</title>
+          <author>Sartre, J.-P.</author>
+          <pubilisher />
+          <pubi-year>1988</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742248" type-code="03" type-name="단행본">
+          <title>L'existentialisme est un humanisme</title>
+          <author>Sartre, J.-P.</author>
+          <pubilisher />
+          <pubi-year>1946</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742249" type-code="03" type-name="단행본">
+          <title>Authentische Freiheit. Zur Begründung einer Ethik nach Sartre</title>
+          <author>Schönwälder-Kuntze, T.</author>
+          <pubilisher />
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742250" type-code="03" type-name="단행본">
+          <title>Sartre and Adorno</title>
+          <author>Sherman, D.</author>
+          <pubilisher />
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742251" type-code="03" type-name="단행본">
+          <title>Phänomenologie in Frankreich</title>
+          <author>Waldenfels, B.</author>
+          <pubilisher />
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050742252" type-code="03" type-name="단행본">
+          <title>The Existentialism of Jean-Paul Sartre</title>
+          <author>Webber, J.</author>
+          <pubilisher />
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

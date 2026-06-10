@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001782685</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001242">
+        <issn>1225-1968</issn>
+        <journal-name>동서철학연구</journal-name>
+        <publisher-name>한국동서철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2013</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>1</volume>
+        <issue>68</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001782685">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성]]></article-title>
+          <article-title lang="foreign"><![CDATA[Deux perspectives de l'existentialisme sur la compréhension de l'homme et l'inter-subjectivité chez G. Marcel]]></article-title>
+          <article-title lang="english"><![CDATA[Deux perspectives de l'existentialisme sur la compréhension de l'homme et l'inter-subjectivité chez G. Marcel]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[이명곤]]></name>
+            <name-eng><![CDATA[Lee, Myung-Gon]]></name-eng>
+            <institution>제주대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[실존주의에서 ‘무신론적 실존주의’와 ‘유신론적 실존주의’는 동일하게 ‘실존이 본질에 앞선다’는 출발점을 지니고 있으며, 동일하게 휴머니즘을 지향하고 있지만 서로 다른 두 얼굴을 지니고 있다. 인간에 대한 일체의 ‘일반적인’ 혹은 ‘보편적인’ 관념을 규정할 수 없으며, 인간의 본질은 스스로 선택하고 책임을 져야 한다고 생각하는 사르트르에게 있어서 신에 대한 부정은 필연적인 것이다. 신 중심의 사유를 부정하고 나아가 인간의 개별적이고 실존적인 자유를 억압하는 일체의 ‘유형화’와 ‘이데올로기적인 것’을 부정하고 있는 사르트르에게 있어서 인간이 추구해야할 가장 소중한 가치는 ‘자유’이다. 그에게 있어서 경험적 자아에 앞서는 초월적인 주관이라는 것도 자아가 성립하기 위한 가능성의 조건으로서만 의미가 있을 뿐 개별자에 대한 어떠한 실체화도 있을 수가 없다. 이러한 사르트르의 사유에서 ‘타인’과의 실존적인 소통은 불가능한 것이며, 인간실존의 근원적 상황은 고독과 불안처럼 나타난다. 반면 가브리엘 마르셀은 인간의 실존을 분석함에 있어서 ‘소통의 갈망’과 하나의 ‘역설적인 상황’에 주목하고 있다. 이 역설은 자유의 박탈감을 체험하는 것이 곧 ‘자유롭고자 갈망하는 것’이다. 가브리엘 마르셀에게 있어서 자유란 곧 자신의 실현이라는 것을 의미하기에 개별자의 실체성은 부정될 수 없으며, 개별자의 실체성을 파괴하는 모든 유형적, 이데올로기적 문화를 비판하고 있다. 실존에 선행하는 본질이 있을 수 없기에 개별자의 실체성(본질)은 실존적인 삶을 통해서 실현되어야 하는 것이며, 따라서 나에 대한 앎은 곧 너와의 관계성 속에서 가능하다. 즉 인간은 근원적으로 ‘너’와의 관계성을 통해서 ‘나’를 알고 ‘나 자신인 것’을 형성해가는 존재이다. 바로 이러한 특성이 ‘상호-주관적 특성(le caractère inter-subjectif)’이다. 이러한 상호주관적 특성은 사르트르의 무신론적인 실존주의와 근본적으로 다른 점이며, 신을 긍정하게 되는 계기가 된다. 인간실존의 ‘상호주관적 특성’은 절대적인 너를 요청하며, 절대자와의 어떤 상호적인 관여는 불안과 비극의 현대적 상황 안에서도 ‘희망’을 가지게 하고, 형제적 사랑을 가능하게 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[Pour l'existentialisme, l'existentialisme athée et celui de théiste ont un même point de départ comme l'idée que "l'existence précéde l'essence", et ils ont tous pour but l'humanisme. Pourtant ils ont les deux figures différentes. Pour Sartre qui pense qu'il est impossible d'avoir une notion générale ou universelle sur l'homme, l'homme doit choisir lui-même son essence, et avoir la résponsablité. Donc pour lui nier l'existence de Dieu est nécessaire. En rejettant la pensée ayant Dieu comme centre et en refussant toute sorte de idéologie qui fait pression la liberté personnelle et existentielle de l'homme, Sartre insiste que ce qui est le plus important pour l'homme est de chercher la liberté. Pour lui 'la conscience transcendantale' qui précéde 'la conscience empirique' n'est sinificative que comme condition de possibilité pour la constitution de la conscience de soi, et elle n'a aucune substentialité. Alors chez Sartre la communication entre les hommes au niveau de l'existence est impossible, de sorte que la situation fondamentale de l'existence humaine appraît comme 'solitude' et comme 'inquietude'. Tandis que G. Marcel fixe son regard, en analysant l'existence humaine, au désir de communication et à la situation paradoxale. Ce paradoxe est que l'expérience de l'absence de la liberté est le signe de désir de la liberté. Parce que pour G. marcel la liberté signifie de la réalisation de lui-même, la substantialité de la personne est une chose indéniable. Puisque l'existence précéde l'essence, la substentialité d'un individu doit réaliser d'après sa vie existentielle, et donc la connaissance sur moi-même n'est possible que par la relation avec l'autre. C'est-à-dire l'homme est à l'origine un être qui constitue soi-même par la relation avec le toi. G. Marcel appelle ce caractère comme 'inter-subjectivité'. Cette notion de 'l'intersubjectivité' est ce qui fait différencier son idée radicalement avec celle de Sartre et devient l'occasion du déisme. L'intersubjectivité de l'homme exisge 'le Toi absolu', et la participation au être absolu fait l'homme d'avoir 'l'espérence' dans la situation inquiète et tragique de la scociété moderne, et fait rendre possible l'amour fraternel.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[휴머니즘]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[관계성]]></keyword>
+          <keyword><![CDATA[상호주관성.]]></keyword>
+          <keyword><![CDATA[existentialisme]]></keyword>
+          <keyword><![CDATA[humanisme]]></keyword>
+          <keyword><![CDATA[liberté]]></keyword>
+          <keyword><![CDATA[relation]]></keyword>
+          <keyword><![CDATA[inter-subjectivité.]]></keyword>
+        </keyword-group>
+        <fpage>135</fpage>
+        <lpage>166</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15841/kspew.1.68.201306.135]]></doi>
+        <uci>G704-001242.2013.1.68.005</uci>
+        <citation-count kci="10" wos="0">10</citation-count>
+        <fwci create-dt="2025-08-04">1.98</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001782685]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF031137234" type-code="03" type-name="단행본">
+          <title>가브리엘 마르셀의 구체철학과 여정의 형이상학</title>
+          <author>김형효</author>
+          <pubilisher>인간사랑</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137235" type-code="03" type-name="단행본">
+          <title>말과 사물</title>
+          <author>미셸 푸코</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1988</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137236" type-code="03" type-name="단행본">
+          <title>현대 프랑스 사상의 파노라마</title>
+          <author>장 라크르와</author>
+          <pubilisher>탐구당</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137237" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137238" type-code="03" type-name="단행본">
+          <title>변증법적 이성비판 1</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>나남</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137239" type-code="03" type-name="단행본">
+          <title>지식인을 위한 변명</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137240" type-code="03" type-name="단행본">
+          <title>들의 백합 공중의 새</title>
+          <author>키에르케고르</author>
+          <pubilisher>종로서적</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137241" type-code="03" type-name="단행본">
+          <title>실존주의</title>
+          <author>풀끼에 (P.)</author>
+          <pubilisher>탐구당</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137242" type-code="03" type-name="단행본">
+          <title>(Gabriel Marcel의)희망의 철학</title>
+          <author>홍승식</author>
+          <pubilisher>가톨릭출판사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137243" type-code="03" type-name="단행본">
+          <title>Méditation cartésienne</title>
+          <author>Edmund Husserl</author>
+          <pubilisher>Vrin</pubilisher>
+          <pubi-year>1953</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137244" type-code="03" type-name="단행본">
+          <title>Autrement qu'être ou au-delà de l'essence</title>
+          <author>E. Levinas</author>
+          <pubilisher>LGF</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137245" type-code="03" type-name="단행본">
+          <title>Le journale métaphysique</title>
+          <author>G. Marcel</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1927</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137246" type-code="03" type-name="단행본">
+          <title>Le mystère de l'être II</title>
+          <author>G. Marcel</author>
+          <pubilisher>Aubier</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137247" type-code="03" type-name="단행본">
+          <title>La dignité humaine et ses assises existentielles</title>
+          <author>G. Marcel</author>
+          <pubilisher>Aubier</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137248" type-code="03" type-name="단행본">
+          <title>Homo Viator</title>
+          <author>G. Marcel</author>
+          <pubilisher>APGM</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137249" type-code="03" type-name="단행본">
+          <title>L'existentialisme est un humanisme</title>
+          <author>J. P. Sartre</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137250" type-code="03" type-name="단행본">
+          <title>La transcendance de l'Ego</title>
+          <author>J. P. Sartre</author>
+          <pubilisher>J. Vrin</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137251" type-code="03" type-name="단행본">
+          <title>L'erreur de Narcisse</title>
+          <author>Louis Lavelle</author>
+          <pubilisher>Bernard Grasset</pubilisher>
+          <pubi-year>1939</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137252" type-code="03" type-name="단행본">
+          <title>Les mots et les choses</title>
+          <author>M. Foucault</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1966</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137253" type-code="03" type-name="단행본">
+          <title>Summa Theologica, I-II</title>
+          <author>Thomae Aquinatis</author>
+          <pubilisher>Petit-Montrouge</pubilisher>
+          <pubi-year>1841</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF031137254" arti-id="ART001082628" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 권태</title>
+          <author>구연상</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>45</isseue>
+          <serno />
+          <page>247-268</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031137255" arti-id="ART001084913" type-code="01" type-name="학술지(정기간행물)">
+          <title>현존재의 실존과 유식불교의 삼성설 － 실존의 비본래성과 변계소집성 －</title>
+          <author>권순홍</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume>3</volume>
+          <isseue>49</isseue>
+          <serno />
+          <page>3-50</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031137256" arti-id="ART000881320" type-code="01" type-name="학술지(정기간행물)">
+          <title>레비나스 ; 제일철학으로서의 윤리학</title>
+          <author>이명곤</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume />
+          <isseue>26</isseue>
+          <serno />
+          <page>138-162</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF031137257" arti-id="ART001649374" type-code="01" type-name="학술지(정기간행물)">
+          <title>슐라이어마허의 인간성 개념</title>
+          <author>최신한</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>63</volume>
+          <isseue>63</isseue>
+          <serno />
+          <page>75-95</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

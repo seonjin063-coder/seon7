@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002274717</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000013278">
+        <issn>1598-3439</issn>
+        <journal-name>대순사상논총</journal-name>
+        <publisher-name>대진대학교 대순사상학술원</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2017</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>28</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002274717">
+        <article-categories>인문학 &gt; 종교학 &gt; 한국자생종교</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[대순사상과 하이데거의 ‘양심’ 개념에 대한 비교연구 - 근원을 향한 ‘양심’의 회귀적 특성에 대한 논의를 중심으로 -]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Comparative Study Concerning the Idea of ‘Conscience’ in Daesoon Thought and Heidegger: Focusing on the Tendency of ‘Conscience’ to Return to Itself]]></article-title>
+          <article-title lang="english"><![CDATA[A Comparative Study Concerning the Idea of ‘Conscience’ in Daesoon Thought and Heidegger: Focusing on the Tendency of ‘Conscience’ to Return to Itself]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[김대현]]></name>
+            <name-eng><![CDATA[Kim Dae-hyeon]]></name-eng>
+            <institution>대순진리회 교무부</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본고는 대순사상의 ‘양심(良心)’ 개념을 ‘근원을 향한 회귀적 특성’이라고 정의한다. 양심이라는 한 개념의 지평은 인간 존재자의 근원에 대한 이탈과 회귀라는 구조를 형성하며 또한 인간 완성이라는 수도의 목적으로 이어진다. 달리 말해 양심은 인간의 잠재적 가능성을 가늠하게 하고 그 잠재적 가능성의 발현을 근원으로의 회귀라는 개념으로 이끌어간다. 근원을 사이에 둔 이탈과 회귀 가운데서 양심은 인존적 인간의 주체적 힘으로서 작용하는 것이다.
+대순사상의 ‘양심’ 개념은 대순사상의 주체 개념인 ‘인존’과 ‘자유의사, 성사재인’과 체계적 구도 속에서 연결되며 이러한 주체의 특성이 하이데거 실존주의 체계의 주체가 가진 현대적 특성과 공통된 문제의식을 가진다는 사실을 확인했다. 피투의 사실성과 기투의 실존성이라는 인간 현존재를 하이데거는 인간의 숙명이라고 보고 자기 자신의 고독한 실존적 구축 속에서 자신을 회복하는 것으로 인간 실존을 규명하였다. 이에 대해 대순사상은 하이데거의 실존적 인간의 내던져짐과는 달리 그 궁극적 실재의 근원을 가지면서 그 근원 자체를 주체 내부와 합일된 상태의 인간을 이야기한다. 이를 인존의 신명성이라고 할 수 있는데 이것은 독자적 주체도 아니며 그렇다고 근원에 종속된 주체도 아니다. 근원을 제시하지만 합일되어 있으므로 그것은 종속이 아닌 자유의사이다. 하이데거의 실존적 주체가 가진 자율성과 독자성을 다 가지고 있으면서도 근원을 제시하는 중층적 체계는 대순사상이 가진 독특한 현대적 특성이라 할 수 있겠다.]]></abstract>
+          <abstract lang="english"><![CDATA[In this research, I define ‘conscience’ in Daesoon thought as the ‘Restorative capability of returning to one’s roots.’ The notion of conscience forms a structure of separation and return, and it is connected to the ascetic aim of realizing human perfection. The conscience opens up potential possibilities and leads realization of potential possibilities by returning to the the point of origin. In the middle of separation and return, the conscience acts as the power of subjectivity possessed by human beings which is known as ‘In jon (Human Nobility)’ in Daesoon thought.
+The concept of conscience in Daesoon thought is connected with the subjectivity of In jon and free will as well as the character of subjectivity. This shares commonalities with critical thinking, modern characteristics, and the subjectivity of Heidegger’s existentialism.
+Heidegger describes human fate from an existentialist vantage point using terms such as dasein, Geworfenheit, and Entwurf, and establishes human existence as an act of self-recovery from within in a lonely existential establishment. Daesoon thought implies that humanity is the root of ultimate reality, and this description is in sharp contrast with the thrownness (Geworfenheit) of Heidegger’s subjectivity. Therefore, Daesoon thought can be seen as unique in its characterization of humanity as being connected to the root of ultimate reality, autonomy, and independent existence.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[양심]]></keyword>
+          <keyword><![CDATA[현상학]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[궁극적 실재]]></keyword>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[conscience]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[ultimate reality]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+        </keyword-group>
+        <fpage>243</fpage>
+        <lpage>265</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.25050/jdaos.2017.28.0.243]]></doi>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">1.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002274717]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF043813495" type-code="03" type-name="단행본">
+          <title>전경</title>
+          <author />
+          <pubilisher>대순진리회 출판부</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813496" type-code="03" type-name="단행본">
+          <title>대순지침</title>
+          <author />
+          <pubilisher>대순진리회 출판부</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813497" type-code="03" type-name="단행본">
+          <title>순진리회요람</title>
+          <author />
+          <pubilisher>대순진리회 교무부</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813498" type-code="03" type-name="단행본">
+          <title>현상학사전</title>
+          <author>기다 겐</author>
+          <pubilisher>도서출판 b</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813499" type-code="03" type-name="단행본">
+          <title>현대철학의 이해</title>
+          <author>박정호</author>
+          <pubilisher>동녘</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813500" type-code="01" type-name="학술지(정기간행물)">
+          <title>대순사상의 인간관 연구</title>
+          <author>이경원</author>
+          <journal-name>신종교 연구</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume>12</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043813501" arti-id="ART000920046" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 실존론적 양심 개념</title>
+          <author>이유택</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>62</volume>
+          <isseue />
+          <serno />
+          <page>113-128</page>
+          <pubilisher>철학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043813502" type-code="01" type-name="학술지(정기간행물)">
+          <title>Kant 윤리학에서 양심의 문제</title>
+          <author>구연상</author>
+          <journal-name>인문학연구</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>8</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043813503" arti-id="ART001252034" type-code="01" type-name="학술지(정기간행물)">
+          <title>孟子의 良心論 — 양심과 관련된 세 가지 문제[원천ㆍ형성ㆍ저항권]를 중심으로 —</title>
+          <author>장승희</author>
+          <journal-name>유교사상문화연구</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume />
+          <isseue>32</isseue>
+          <serno />
+          <page>219-250</page>
+          <pubilisher>한국유교학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043813504" type-code="03" type-name="단행본">
+          <title>주희 대학(해제)</title>
+          <author>박성규</author>
+          <pubilisher>서울대학교 철학사상연구소</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813506" type-code="03" type-name="단행본">
+          <title>원불교대사전</title>
+          <author>원광대학교 원불교사상연구원</author>
+          <pubilisher>원불교100년기념성업회</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043813505" type-code="03" type-name="단행본">
+          <title>존재와 시간</title>
+          <author>하이데거</author>
+          <pubilisher>까치글방</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

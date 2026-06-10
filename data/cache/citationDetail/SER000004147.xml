@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000004147</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004147">
+        <registration>
+          <kci-registration>KCI 등재</kci-registration>
+        </registration>
+        <journal-kor-name>스토리앤이미지텔링</journal-kor-name>
+        <journal-kor-abbr-name>스앤이</journal-kor-abbr-name>
+        <journal-fola-name>Story &amp; Image Telling</journal-fola-name>
+        <journal-fola-abbr-name>S &amp; I</journal-fola-abbr-name>
+        <major>인문학 &gt; 기타인문학</major>
+        <issn>2234-3431</issn>
+        <eissn />
+        <fsed-yr>2011년</fsed-yr>
+        <impr>연2회, 12월 31일, 06월 30일</impr>
+        <current-issue>2025년 12월 (30)</current-issue>
+        <use-lang>한국어, 영어</use-lang>
+        <publisher>
+          <publisher-kor-name>건국대학교 GLOCAL(글로컬)캠퍼스 스토리앤이미지텔링연구소</publisher-kor-name>
+          <publisher-eng-name>Story &amp; Image Telling Research Institute</publisher-eng-name>
+          <publisher-tel>043-840-4970</publisher-tel>
+          <publisher-homp>http://www.storynimage.or.kr</publisher-homp>
+          <publisher-addr>충청북도 충주시 충원대로 268, 건국대학교 글로컬캠퍼스 교수연구동 205호 (단월동)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2026" div-cd="8"><![CDATA[계속평가 신청대상 (재인증평가)]]></journal-change>
+        <journal-change date="2020-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (재인증평가)]]></journal-change>
+        <journal-change date="2017-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (계속평가)]]></journal-change>
+        <journal-change date="2015-10-22" div-cd="6" registration="03"><![CDATA[한글명 : 스토리 앤 이미지텔링 연구소 -> 스토리앤이미지텔링연구소
+영문명 : story & image telling of research center -> Story & Image Telling Research Institute]]></journal-change>
+        <journal-change date="2015-10-21" div-cd="2" registration="03"><![CDATA[한글명 : 스토리&이미지텔링연구 -> 스토리앤이미지텔링
+외국어명 : Story and Imagetelling -> Story & Image Telling]]></journal-change>
+        <journal-change date="2015-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>0.49</impactFactor>
+          <impactFactor3>0.49</impactFactor3>
+          <impactFactor4>0.43</impactFactor4>
+          <impactFactor5>0.51</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.746</sjr>
+          <immediacyIndex>0.06</immediacyIndex>
+          <selfCitedRate>9.52%</selfCitedRate>
+          <yearsArticles2>43</yearsArticles2>
+          <yearsCited2>21</yearsCited2>
+          <exImpactFactor>0.44</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>0.69</impactFactor>
+          <impactFactor3>0.76</impactFactor3>
+          <impactFactor4>0.67</impactFactor4>
+          <impactFactor5>0.6</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.174</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>9.09%</selfCitedRate>
+          <yearsArticles2>48</yearsArticles2>
+          <yearsCited2>33</yearsCited2>
+          <exImpactFactor>0.63</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2022">
+          <impactFactor>0.71</impactFactor>
+          <impactFactor3>0.66</impactFactor3>
+          <impactFactor4>0.57</impactFactor4>
+          <impactFactor5>0.5</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.971</sjr>
+          <immediacyIndex>0.04</immediacyIndex>
+          <selfCitedRate>2.78%</selfCitedRate>
+          <yearsArticles2>51</yearsArticles2>
+          <yearsCited2>36</yearsCited2>
+          <exImpactFactor>0.69</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2021">
+          <impactFactor>0.73</impactFactor>
+          <impactFactor3>0.61</impactFactor3>
+          <impactFactor4>0.58</impactFactor4>
+          <impactFactor5>0.56</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.884</sjr>
+          <immediacyIndex>0.04</immediacyIndex>
+          <selfCitedRate>5.26%</selfCitedRate>
+          <yearsArticles2>52</yearsArticles2>
+          <yearsCited2>38</yearsCited2>
+          <exImpactFactor>0.69</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2020">
+          <impactFactor>0.4</impactFactor>
+          <impactFactor3>0.35</impactFactor3>
+          <impactFactor4>0.35</impactFactor4>
+          <impactFactor5>0.34</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.688</sjr>
+          <immediacyIndex>0.26</immediacyIndex>
+          <selfCitedRate>5.0%</selfCitedRate>
+          <yearsArticles2>50</yearsArticles2>
+          <yearsCited2>20</yearsCited2>
+          <exImpactFactor>0.38</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2019">
+          <impactFactor>0.28</impactFactor>
+          <impactFactor3>0.29</impactFactor3>
+          <impactFactor4>0.32</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.507</sjr>
+          <immediacyIndex>0.08</immediacyIndex>
+          <selfCitedRate>6.67%</selfCitedRate>
+          <yearsArticles2>53</yearsArticles2>
+          <yearsCited2>15</yearsCited2>
+          <exImpactFactor>0.26</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2018">
+          <impactFactor>0.24</impactFactor>
+          <impactFactor3>0.32</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.752</sjr>
+          <immediacyIndex>0.08</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>51</yearsArticles2>
+          <yearsCited2>12</yearsCited2>
+          <exImpactFactor>0.24</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2017">
+          <impactFactor>0.34</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.14</immediacyIndex>
+          <selfCitedRate>14.29%</selfCitedRate>
+          <yearsArticles2>41</yearsArticles2>
+          <yearsCited2>14</yearsCited2>
+          <exImpactFactor>0.29</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2016">
+          <impactFactor>-</impactFactor>
+          <impactFactor3>-</impactFactor3>
+          <impactFactor4>-</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.09</immediacyIndex>
+          <selfCitedRate>-</selfCitedRate>
+          <yearsArticles2>18</yearsArticles2>
+          <yearsCited2>4</yearsCited2>
+          <exImpactFactor>-</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2015">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2014">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2013">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

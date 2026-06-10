@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001646677</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000994">
+        <issn>1229-0580</issn>
+        <journal-name>영미어문학</journal-name>
+        <publisher-name>한국영미어문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2012</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>102</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001646677">
+        <article-categories>인문학 &gt; 영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[폭력과 실존: 리차드 라이트의『아웃사이더』]]></article-title>
+          <article-title lang="foreign"><![CDATA[Violence and Existence: Richard Wright’s The Outsider]]></article-title>
+          <article-title lang="english"><![CDATA[Violence and Existence: Richard Wright’s The Outsider]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[강기남]]></name>
+            <name-eng><![CDATA[Kan, KiNam]]></name-eng>
+            <institution>동아대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Richard Wright’s The Outsider tends to be viewed as if there is no connection between violence and existentialism; in other words, only one aspect of the two is so emphasized that each work of his is categorized as either a work of violence or one of existentialism. However, the two cannot be separated in The Outsider. They work together as one because the protagonist establish their subjectivity through violence even though Wright did not consider violence as a key to resolving the absurdities into which blacks were thrust.
+Unlike the previous works dealing with racial discrimination, in The Outsider violence is used toward men in power, both communists and fascists, who want to be as god and dominate others. Cross Damon, who had absorbed existential philosophy at the University of Chicago, rejects the totalitarianism of such power-hungry men that destroys human authenticity. He eliminates those who try to control him to evade the objectification of himself and engage with others for their own good. In the end, he kills himself to atone for what he has done to others. Therefore, in the work Wright dose not regard violence as a means of revenge against racial discrimination but as an inevitable attempt for existence by the oppressed people who are cast into a world of absurdities.]]></abstract>
+          <abstract lang="english"><![CDATA[Richard Wright’s The Outsider tends to be viewed as if there is no connection between violence and existentialism; in other words, only one aspect of the two is so emphasized that each work of his is categorized as either a work of violence or one of existentialism. However, the two cannot be separated in The Outsider. They work together as one because the protagonist establish their subjectivity through violence even though Wright did not consider violence as a key to resolving the absurdities into which blacks were thrust.
+Unlike the previous works dealing with racial discrimination, in The Outsider violence is used toward men in power, both communists and fascists, who want to be as god and dominate others. Cross Damon, who had absorbed existential philosophy at the University of Chicago, rejects the totalitarianism of such power-hungry men that destroys human authenticity. He eliminates those who try to control him to evade the objectification of himself and engage with others for their own good. In the end, he kills himself to atone for what he has done to others. Therefore, in the work Wright dose not regard violence as a means of revenge against racial discrimination but as an inevitable attempt for existence by the oppressed people who are cast into a world of absurdities.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[리차드 라이트]]></keyword>
+          <keyword><![CDATA[아웃사이더]]></keyword>
+          <keyword><![CDATA[폭력]]></keyword>
+          <keyword><![CDATA[실존]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[Richard Wright]]></keyword>
+          <keyword><![CDATA[the Outsider]]></keyword>
+          <keyword><![CDATA[violence]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+        </keyword-group>
+        <fpage>41</fpage>
+        <lpage>55</lpage>
+        <doi />
+        <uci>G704-000994.2012..102.012</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001646677]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF027039440" type-code="03" type-name="단행본">
+          <title>카페의 아나키스트, 사르트르</title>
+          <author>박홍규</author>
+          <pubilisher>영남대학교출판부</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039441" type-code="03" type-name="단행본">
+          <title>The Rebel: An Essay on Man in Revolt</title>
+          <author>Camus, Albert</author>
+          <pubilisher>Vintage Books</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039442" type-code="03" type-name="단행본">
+          <title>Black Theology and Black Power</title>
+          <author>Cone, James H</author>
+          <pubilisher>Orbis Books</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039443" type-code="03" type-name="단행본">
+          <title>The Case of Bigger Thomas. in Critical Essays on Richard Wright’s Native Son</title>
+          <author>Cowley, Malcom</author>
+          <pubilisher>Twayne Publishers</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>37-42</page>
+        </reference>
+        <reference refebibl-id="REF027039444" type-code="03" type-name="단행본">
+          <title>Affirmations</title>
+          <author>Ellis, Havelock</author>
+          <pubilisher>Houghton Mifflin Company</pubilisher>
+          <pubi-year>1915</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039445" type-code="03" type-name="단행본">
+          <title>Black Skin, White Masks</title>
+          <author>Fanon, Frantz</author>
+          <pubilisher>Grove Press, Inc</pubilisher>
+          <pubi-year>1967</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039446" type-code="03" type-name="단행본">
+          <title>Waiting for the End</title>
+          <author>Fiedler, Leslie A</author>
+          <pubilisher>Stein and Day</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039447" type-code="03" type-name="단행본">
+          <title>Existentialism</title>
+          <author>Foulquie, Paul</author>
+          <pubilisher>D. Dobson</pubilisher>
+          <pubi-year>1963</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039448" type-code="03" type-name="단행본">
+          <title>On Native Grounds</title>
+          <author>Kazin, Alfred</author>
+          <pubilisher>Harcourt Brace Jovanovich, Inc</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039449" type-code="01" type-name="학술지(정기간행물)">
+          <title>Haunted by Innocence: The Debate with Dostoevsky in Wright’s Other Novel, The Outsider</title>
+          <author>Lynch, Michael F</author>
+          <journal-name>African American Review</journal-name>
+          <pubi-year>1996</pubi-year>
+          <volume>30</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>255-266</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027039450" type-code="03" type-name="단행본">
+          <title>From St. Petersburg to Chicago: Wright’s Crime and Punishment, In Richard Wright</title>
+          <author>Magistrale, Tony</author>
+          <pubilisher>Prentice Hall</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>53-62</page>
+        </reference>
+        <reference refebibl-id="REF027039451" type-code="03" type-name="단행본">
+          <title>Black Orpheus, In What is Literature?</title>
+          <author>Sartre, Jean-Paul</author>
+          <pubilisher>Harvard UP</pubilisher>
+          <pubi-year>1988</pubi-year>
+          <page>289-332</page>
+        </reference>
+        <reference refebibl-id="REF027039452" type-code="03" type-name="단행본">
+          <title>Existentialism is a Humanism</title>
+          <author>Sartre, Jean-Paul</author>
+          <pubilisher>Yale UP</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039453" type-code="01" type-name="학술지(정기간행물)">
+          <title>Richard Wright, Writing and Identity</title>
+          <author>Skerrett T. Joseph</author>
+          <journal-name>Callaloo</journal-name>
+          <pubi-year>1979</pubi-year>
+          <volume>7</volume>
+          <isseue />
+          <serno />
+          <page>84-94</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027039454" type-code="03" type-name="단행본">
+          <title>The Outsider: Revision of an Idea, In Richard Wright</title>
+          <author>Turner, Darwin T</author>
+          <pubilisher>Prentice-Hall, Inc</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>164-172</page>
+        </reference>
+        <reference refebibl-id="REF027039455" type-code="03" type-name="단행본">
+          <title>Black Existentialism: Richard Wright, In Richard Wright</title>
+          <author>Widmer, Kingsley</author>
+          <pubilisher>Prentice-Hall, Inc</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>173-182</page>
+        </reference>
+        <reference refebibl-id="REF027039456" type-code="03" type-name="단행본">
+          <title>Black Boy</title>
+          <author>Wright, Richard</author>
+          <pubilisher>Harper and Row</pubilisher>
+          <pubi-year>1966</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027039457" type-code="03" type-name="단행본">
+          <title>The Outsider</title>
+          <author>Wright, Richard</author>
+          <pubilisher>Harper Perennial Classics</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

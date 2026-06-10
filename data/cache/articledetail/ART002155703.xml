@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002155703</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000009652">
+        <issn>1229-6406</issn>
+        <journal-name>어문론집</journal-name>
+        <publisher-name>중앙어문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2016</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume>67</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002155703">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[1950년대 후반 ‘자유’의 해석을 둘러싼 갈등 —『사상계』에 실린 평론과 심사평을 중심으로—]]></article-title>
+          <article-title lang="foreign"><![CDATA[Analysis of Conflict in the Interpretation of Freedom in the Late 1950s -Focusing on the Review and Commentary of Sasangye-]]></article-title>
+          <article-title lang="english"><![CDATA[Analysis of Conflict in the Interpretation of Freedom in the Late 1950s -Focusing on the Review and Commentary of Sasangye-]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[최창근]]></name>
+            <name-eng><![CDATA[CHOI CHANG GEUN]]></name-eng>
+            <institution>전남대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문은 1950년대 남한 사회 내에서 벌어진 담론의 갈등을 다루고 있다. 한국전쟁이 ‘민주주의’의 의미에 대한 갈등이었다면 남한 사회는 ‘자유’를 가지고 투쟁했다. 그동안 해방 후부터 한국전쟁을 지나 1960년대까지 한국사회가 자유를 어떤 식으로 전유했는지에 대한 연구는 많이 있어왔다. 그러나 본 논문은 단순히 자유에 대한 의미규정을 나열하는데 그치지 않고 그 안에 들어있는 이데올로기와 현실적 배경을 바탕으로 분석했다.
+‘자유’의 가치를 선점하고 자신들에게 유리하게 활용하기 위한 경쟁은 전쟁과 같은 담론의 충돌을 불러왔다. 따라서 전선을 나누고 이분법적인 관점으로 나누어 접근하는 것은 논의를 단순화시킨다는 우려에도 불구하고 큰 틀에서 다양한 담론들의 숨은 의도를 파악할 수 있다는 점에서 효과적인 방법이라 할 수 있다.
+실존주의적 입장에서 자유는 전후의 혼란 속에서 새로운 가치를 찾기 시작한 인류에게 과거의 전통과 권위를 부정할 수 있게 하는 이론적 토대였으며 사유의 경계를 넓혀 인류의 새로운 도전을 가능하게 했다. 반면 의지할 만한 가치가 사라지고 인간성에 대한 믿음마저 사라진 현대 사회에서 자유는 불안을 더욱 가속화시키는 요소이기도 했다. 이에 자유의 무제한적인 향유를 구속할 만한 적절한 경계가 필요했고 그 과정에서 휴머니즘이 부각되었다. 휴머니즘은 자유를 해방과 투쟁의 의미로 치환시켰으며 인류애의 실천을 위한 수단으로 한정했다. 따라서 휴머니즘은 자유를 얻기까지에 과정에 대해서만 이야기하며 자유를 얻고 난 후에 대해서는 오히려 부자유를 강요하는 아이러니한 상황을 불러왔다.
+또한 현대사회의 예측불가능성을 극복하고 부조리하고 불확실한 인간세계를 구원하기 위해서 유신론적 실존주의가 각광을 받게 된다. 즉 실존주의는 유신론적 실존주의에 한해서 휴머니즘과 연합하게 되고 무신론적 실존주의는 이 과정에서 소외와 몰락의 길을 가게 된다. 신으로의 복귀는 회복 불가능할 정도로 파괴된 인간 사회의 질서와 가치, 윤리와 도덕을 대신해 인간이 믿고 의지할 수 있는 확실성을 부여해준다.
+1950년대라는 복잡미묘한 정치 현실에서 자유는 다양한 층위의 담론과 결합하며 자신의 의미를 확장해 나갔으며 한편으로는 이데올로기의 갈등 속에서 의미의 왜곡과 변형을 당하기도 했다. 단어의 의미가 고정되어 있는 것이 아니라 하나의 구조 속에서 나아가 사회 내의 힘의 역학 관계에 의해서 결정된다는 사실을 고려한다면 자유의 의미가 변하는 것은 당연한 현실이다. 본 논문은 이러한 배경을 바탕으로 ‘자유’가 가지고 있는 의미가 어떻게 변하고 있는지를 살펴보았다는데 의의가 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[This article addresses the conflict that has arisen in the discussion of South Korean society in the 1950s. South Korean society struggled for freedom, and the Korean War was fought for democracy. There have been numerous studies about how Korean society was occupied with freedom after the liberation and the Korean War until the 1960s. This article analyzes Korean society during this time on the basis of ideology and realistic background, rather than simply enumerating the definitions of freedom.
+The competition surrounding preoccupying and utilizing freedom for personal gain brought about collisions in discussion. Dividing the fields and approaching the discussion with a dichotomous point of view can simplify it, and this is an effective way to understand hidden intentions.
+With an existential point of view, freedom was the theoretical ground that enabled the negation of tradition and authority, and it resulted in new challenges as the borders of reason expanded. However, freedom was also one of the elements that accelerated anxiety in modern society, where there were no reliable values or faith. Then, there emerged a need for boundaries to restrain the immoderate freedom, so humanism rose up. Humanism transposed freedom into the meaning of liberation and struggle, and it confined itself to the means of practicing brotherhood. Thus, humanism handles only the procedure of achieving freedom; after the procedure, it forced ironic restriction.
+In addition, in favor of overcoming and saving an unpredictable and irrational world, theistic existentialism stood out. In other words, existentialism, specifically theistic existentialism, cooperated with humanism, and atheistic existentialism led to its downfall. Returning to God granted reliability upon human society instead of irrevocably damaging social orders, virtues, ethics, and moralities.
+In the complex political situation of the 1950s, freedom expanded its meaning and combined with several layers of discussion. On the other hand, it was also distorted and deformed through ideological conflict. With regard to the fact that the meanings of words are not fixed and they are rather determined by power dynamics, the changes in the meaning of freedom are reasonable. This article is significant in that it examines and addresses the variation of the meaning of freedom.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[유신론적 실존주의]]></keyword>
+          <keyword><![CDATA[무신론적 실존주의 휴머니즘]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[1950년대]]></keyword>
+          <keyword><![CDATA[신]]></keyword>
+          <keyword><![CDATA[<사상계>]]></keyword>
+          <keyword><![CDATA[좌담회]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[theistic existentialism]]></keyword>
+          <keyword><![CDATA[humanism of atheistic existentialism]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[1950s]]></keyword>
+          <keyword><![CDATA[god]]></keyword>
+          <keyword><![CDATA[Sasangye]]></keyword>
+          <keyword><![CDATA[symposium]]></keyword>
+        </keyword-group>
+        <fpage>257</fpage>
+        <lpage>288</lpage>
+        <doi />
+        <uci>G704-SER000009652.2016.67..002</uci>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.2</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002155703]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF040687141" type-code="07" type-name="기타자료">
+          <title>사상계</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF040687142" type-code="07" type-name="기타자료">
+          <title>현대공론</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF040687143" type-code="07" type-name="기타자료">
+          <title>문예</title>
+          <author />
+        </reference>
+        <reference refebibl-id="REF040687144" arti-id="ART001400324" type-code="01" type-name="학술지(정기간행물)">
+          <title>1964년의 담론 지형 :반공주의, 민족주의, 민주주의, 자유주의, 성장주의</title>
+          <author>김건우</author>
+          <journal-name>대중서사연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>22</isseue>
+          <serno />
+          <page>71-90</page>
+          <pubilisher>대중서사학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687145" arti-id="ART001301861" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존, 자유부인, 프래그머티즘  ― 1950년대의 두 가지 ‘자유’ 개념과 문화</title>
+          <author>권보드래</author>
+          <journal-name>한국문학연구</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume />
+          <isseue>35</isseue>
+          <serno />
+          <page>101-147</page>
+          <pubilisher>한국문학연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687146" arti-id="ART001490460" type-code="01" type-name="학술지(정기간행물)">
+          <title>1950년대 한국철학계에서의 실존주의  - 박종홍과 조가경을 중심으로 -</title>
+          <author>나종석</author>
+          <journal-name>사회와 철학</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>20</isseue>
+          <serno />
+          <page>1-32</page>
+          <pubilisher>한국사회와철학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687147" type-code="01" type-name="학술지(정기간행물)">
+          <title>김성한 소설 연구</title>
+          <author>민현기</author>
+          <journal-name>어문학</journal-name>
+          <pubi-year>1997</pubi-year>
+          <volume />
+          <isseue>60</isseue>
+          <serno />
+          <page>345-363</page>
+          <pubilisher>한국어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687148" arti-id="ART000873362" type-code="01" type-name="학술지(정기간행물)">
+          <title>50년대 실존주의론</title>
+          <author>배경열</author>
+          <journal-name>한국문학이론과 비평</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>7</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>229-261</page>
+          <pubilisher>한국문학이론과비평학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687149" arti-id="ART000929388" type-code="01" type-name="학술지(정기간행물)">
+          <title>한국의 프랑스 문학 수용에 대하여 ―샤르트르의 실존주의를 중심으로</title>
+          <author>윤정임</author>
+          <journal-name>국제어문</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue>27</isseue>
+          <serno />
+          <page>227-252</page>
+          <pubilisher>국제어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687150" arti-id="ART001702935" type-code="01" type-name="학술지(정기간행물)">
+          <title>1950~60년대 반공주의 담론과 감성 정치</title>
+          <author>이하나</author>
+          <journal-name>사회와역사(구 한국사회사학회논문집)</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>95</isseue>
+          <serno />
+          <page>201-241</page>
+          <pubilisher>한국사회사학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687151" type-code="01" type-name="학술지(정기간행물)">
+          <title>해방후 실존주의 문학의 수용양상과 한국문학 비평의 모색</title>
+          <author>전기철</author>
+          <journal-name>한국현대문학 연구</journal-name>
+          <pubi-year>1991</pubi-year>
+          <volume />
+          <isseue>1</isseue>
+          <serno />
+          <page>149-167</page>
+          <pubilisher>한국현대문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687152" arti-id="ART001986512" type-code="01" type-name="학술지(정기간행물)">
+          <title>1950년대 지식인의 자유주의 담론 연구 - 사상계를 중심으로</title>
+          <author>정영진</author>
+          <journal-name>사회와 철학</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>29</isseue>
+          <serno />
+          <page>157-184</page>
+          <pubilisher>한국사회와철학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687153" type-code="01" type-name="학술지(정기간행물)">
+          <title>근대담론의 전도사, 『사상계』를 말하다</title>
+          <author>최강민</author>
+          <journal-name>오늘의 문예비평</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>56</isseue>
+          <serno />
+          <page>51-67</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF040687154" type-code="03" type-name="단행본">
+          <title>혁명론</title>
+          <author>한나아렌트</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002667346</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001210">
+        <issn>1225-0430</issn>
+        <journal-name>비평문학</journal-name>
+        <publisher-name>한국비평문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2020</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>78</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002667346">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[손창섭 대중소설의 실존주의적 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existentialism in Son Chang-seop’s Popular Novels]]></article-title>
+          <article-title lang="english"><![CDATA[Existentialism in Son Chang-seop’s Popular Novels]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[양미영]]></name>
+            <name-eng><![CDATA[Yang Miyoung]]></name-eng>
+            <institution>충남대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문은 손창섭의 60년대 신문 장편소설 『인간교실』을 분석대상으로 삼아 손창섭 대중소설이 초기문학의 변질이 아닌 확장이자 연장선상에 있다는 것을 밝히고, 손창섭 작품 세계를 관통하는 핵심 사상은 무엇인지 탐구하고자 하였다. 연구방법으로 실존주의를 택했는데, 실존주의 사상이 손창섭의 50년대와 60년대 작품을 하나로 묶어주는 사상적 거점이 될 수 있을 것이라고 판단하였기 때문이다. 손창섭의 전후소설은 이미 실존주의 문학으로서 연구되어 왔으며, 인간의 존재 방식에 관한 물음을 가지고 고투하는 작가 손창섭의 실존주의적 관심은 60년대 이후에도 문학 활동 전반에 걸쳐 변함없이 지속된다는 것이 본고의 입장이다.
+손창섭은 『인간교실』에 다양한 인간상을 등장시켜 ‘인간은 어떤 존재인가’, ‘인간은 어떻게 실존하는가’에 대한 작가의 생각을 생생하게 전달하고 있다. 손창섭의 인간 존재에 대한 가치관은 타락과 통속이라는 키워드로 표현될 수 있을 것인데, 손창섭은 타락한 삶을 일상성의 특징으로 인정하며 여기에 윤리적 가치의 문제를 제기하지 않는다. 이를 바탕으로 『인간교실』에서 나타나는 가십, 훔쳐보기, 위선 등의 요소를 하이데거의 빈말, 호기심, 애매함의 세 가지 일상적 존재양상에 빗대어 살펴보았으며, 실존주의의 핵심인 자유가 소설 속에서 어떤 방식으로 실천되고 있는지도 검토하였다. 이를 통해 『인간교실』이 존재의 통속성에도 불구하고 진정한 실존을 추구하는 주체의 기투(企投) 가능성을 보여주고 있다는 것을 알 수 있었다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analysed Son Chang-seop’s one of novels of 1960s called “A Classroom of Human Being”(InganGyosil) with existentialism of Martin Heidegger and Jean Paul Sartre.
+“A Classroom of Human Being” is a novel about studying ‘human’. The writer created various kind of human being to represent his thought about ‘what human being is’ and ‘how human exists’. The reason why I analysed this novel with existentialism is that the author Son, for his entire life of writing, considered and studied about human and being as existentialists did.
+This essay first looked at the elements of ‘gossip, peeping and hypocrisy’ in the narrative of “A Classroom of Human Being”, comparing with Heidegger’s concept of the patterns of being-in-the-world; ‘idle talk, curiosity and ambiguity’. In addition, I examined how ‘freedom’, as core value of existentialism, is practiced in the story, and could find existential possibilities of human being even though its worldliness.
+This paper could be a case study of investigations about the relation between Son Chang-seop’s 1950s and 1960s works. Furthermore, in consideration of a convention that existentialism generally has been applied to studies on postwar literature, this comparison between “A Classroom of Human Being” (as Son’s one of popular novels in 60s) and existentialism is a new and significant try.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Son Chang-seop]]></keyword>
+          <keyword><![CDATA[Popular Noverl]]></keyword>
+          <keyword><![CDATA[“A Classroom of Human Being”(InganGyosil)]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Heidegger]]></keyword>
+          <keyword><![CDATA[Being-in-the-world.]]></keyword>
+          <keyword><![CDATA[손창섭]]></keyword>
+          <keyword><![CDATA[대중소설]]></keyword>
+          <keyword><![CDATA[『인간교실』]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[하이데거]]></keyword>
+          <keyword><![CDATA[타락]]></keyword>
+          <keyword><![CDATA[일상성]]></keyword>
+          <keyword><![CDATA[통속성]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+        </keyword-group>
+        <fpage>213</fpage>
+        <lpage>237</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.31313/LC.2020.12.78.213]]></doi>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.61</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002667346]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF056599413" arti-id="ART001461613" type-code="01" type-name="학술지(정기간행물)">
+          <title>손창섭의 『인간교실』론</title>
+          <author>공종구</author>
+          <journal-name>현대문학이론연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>41</isseue>
+          <serno />
+          <page>25-43</page>
+          <pubilisher>현대문학이론학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056599414" type-code="05" type-name="학위논문">
+          <title>손창섭 신문연재소설 연구</title>
+          <author>곽상인</author>
+          <degree>박사</degree>
+          <university>서울시립대학교 대학원</university>
+          <department>국어국문학과</department>
+          <pubi-year>2013</pubi-year>
+        </reference>
+        <reference refebibl-id="REF056599415" arti-id="ART001755773" type-code="01" type-name="학술지(정기간행물)">
+          <title>손창섭 소설과 『사상계』</title>
+          <author>김진기</author>
+          <journal-name>한국언어문학</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>84</isseue>
+          <serno />
+          <page>327-364</page>
+          <pubilisher>한국언어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056599416" type-code="03" type-name="단행본">
+          <title>존재와 시간</title>
+          <author>마르틴 하이데거</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599417" type-code="03" type-name="단행본">
+          <title>실존주의</title>
+          <author>메리 워낙</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599418" type-code="03" type-name="단행본">
+          <title>대중예술의 이론들</title>
+          <author>박성봉</author>
+          <pubilisher>동연출판사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599419" type-code="03" type-name="단행본">
+          <title>하이데거의 『존재와 시간』 강독</title>
+          <author>박찬국</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599420" arti-id="ART002346046" type-code="01" type-name="학술지(정기간행물)">
+          <title>전후의 이어령 비평과 하이데거적 실존주의</title>
+          <author>방민호</author>
+          <journal-name>이화어문논집</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>44</isseue>
+          <serno />
+          <page>119-143</page>
+          <pubilisher>이화어문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.29190/JEKLL.2018.44.119]]></doi>
+        </reference>
+        <reference refebibl-id="REF056599421" type-code="03" type-name="단행본">
+          <title>한국 전후 실존주의 소설 연구</title>
+          <author>배경열</author>
+          <pubilisher>태학사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599422" type-code="03" type-name="단행본">
+          <title>살구 칵테일을 마시는 철학자들</title>
+          <author>사라 베이크웰</author>
+          <pubilisher>이론과실천</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599423" type-code="01" type-name="학술지(정기간행물)">
+          <title>나의 작가수업</title>
+          <author>손창섭</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1955</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056599424" type-code="01" type-name="학술지(정기간행물)">
+          <title>괴짜의 변-수상소감</title>
+          <author>손창섭</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1956</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056599425" type-code="03" type-name="단행본">
+          <title>인간교실</title>
+          <author>손창섭</author>
+          <pubilisher>예옥</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599426" arti-id="ART002497213" type-code="01" type-name="학술지(정기간행물)">
+          <title>손창섭과 사카구치 안고(坂口安吾)의 전후(戰後)소설에 나타난 실존과 본질 - 여성인물의 타락과 그 의미를 중심으로 -</title>
+          <author>양미영</author>
+          <journal-name>한국문학이론과 비평</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>23</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>211-238</page>
+          <pubilisher>한국문학이론과비평학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.20461/KLTC.2019.8.84.211]]></doi>
+        </reference>
+        <reference refebibl-id="REF056599427" type-code="03" type-name="단행본">
+          <title>손창섭 단편 전집1</title>
+          <author>유종호</author>
+          <pubilisher>가람기획</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599428" type-code="03" type-name="단행본">
+          <title>문학이란 무엇인가</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599429" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599430" type-code="03" type-name="단행본">
+          <title>한국의 대중문학</title>
+          <author>정영아</author>
+          <pubilisher>소화</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599431" type-code="03" type-name="단행본">
+          <title>1960년대 대중소설의 서사전략 연구</title>
+          <author>최미진</author>
+          <pubilisher>푸른사상</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056599432" type-code="01" type-name="학술지(정기간행물)">
+          <title>한국의 전후소설과 실존주의적 경향 연구 : 장용학과 손창섭의 소설을 중심으로</title>
+          <author>홍성암</author>
+          <journal-name>한민족문화연구</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>8</volume>
+          <isseue />
+          <serno />
+          <page>145-186</page>
+          <pubilisher>한민족문화학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056599434" type-code="03" type-name="단행본">
+          <title>실존철학이란 무엇인가</title>
+          <author>O.F.볼노브</author>
+          <pubilisher>서문당</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

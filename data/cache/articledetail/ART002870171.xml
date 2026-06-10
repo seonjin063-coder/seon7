@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002870171</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001529">
+        <issn>1226-3230</issn>
+        <journal-name>인도철학</journal-name>
+        <publisher-name>인도철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2022</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume />
+        <issue>65</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002870171">
+        <article-categories>인문학 &gt; 철학 &gt; 동양철학 &gt; 인도철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[『유식이십론』과 유식성 개념의 변화_『섭대승론』과『유식이십론』을 중심으로_]]></article-title>
+          <article-title lang="foreign"><![CDATA[Viṁśikā and a Conceptual Change in Vijñaptimātratā: Based on the textual study on *Mahāyānasaṁgraha and Viṁśikā]]></article-title>
+          <article-title lang="english"><![CDATA[Viṁśikā and a Conceptual Change in Vijñaptimātratā: Based on the textual study on *Mahāyānasaṁgraha and Viṁśikā]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이길산]]></name>
+            <name-eng><![CDATA[LEE, Gil-San]]></name-eng>
+            <institution>경남대학교 교양교육연구소</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본고에서는 『유식이십론』의 키워드인 유식성을 역사적 관점에서 조망한다. 인도철학사에 『유식이십론』이 끼친 기여는 흔히 생각하는 것처럼 정교한 논변을 제공하여 본격적인 토론의 장을 열었다는 점에 한정될 수 없다. 이에 더해 유식성의 개념 자체에 변화를 주고 있다는 점에 주목할 필요가 있다. 이점은 특히 제11송부터 제15송까지의 내용에서 잘 드러난다.
+여기서 바수반두는 극미 개념의 이율배반성에 기반해 물질 자체가 성립할 수 없음을 적극적으로 논변한다. 해당 논변의 성패와 별도로, 물질의 개념 자체를 허물어 버리려는 이 시도는 바수반두 이전 유식성 논의에서는 전혀 보이지 않던 요소라고 할 수 있다.
+이 역사적 변화를 포착하기 위해 『섭대승론』과 『유식이십론』의 유식성 논증의 공통점과 차이점을 살펴볼 필요가 있다. 양자는 많은 각도에서 비교가 가능하나 특히 물질의 정체에 대한 첨예한 입장의 차이를 보인다. 이로써 바수반두의 유식성 이해에 기존에는 보이지 않던 급진적인 물질성 비판이라는, 버클리의 비물질주의(immaterialism)에 상당하는, 새로운 차원이 추가되고 있음을 확인할 수 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[In this paper, I closely look at the central notion of vijñaptimātratā from a historical perspective. Common understanding holds that Viṁśikā opened a full-fledged debate with philosophical rivals by offering elaborate arguments. However, it has been overlooked that Viṁśikā made a remarkable difference in the very idea of vijñaptimātratā itself. From Verse 11 to Verse 15 in Viṁśikā with its own commentary, Vasubandhu aggressively argues that corporeality is never possible due to the antinomies of the very idea of atoms. Successful or not, this kind of metaphysical attempt to deny the very notion of materiality is never found even in the discourses of Yogācāra-Vijñānavādins before Vasubandhu.
+To capture this conceptual change, I sketch out a conceptual history of vijñaptimātratā by contrasting Viṁśikā to *Mahāyānasaṁgraha that precedes it. Comparing the vijñaptimātratā proofs found in both texts, we can easily notice that Viṁśikā has inherited many points from the vijñaptimātratā proofs or illustrations presented in the 2nd chapter of *Mahāyānasaṁgraha. It repeats with little modifications the metaphor of dreaming and waking, the citation of the famous passage “O sons of the Conqueror, what belongs to the triple world is mind-only.” in Daśabhūmika-sūtra, the example of those with vitreous floaters, and the so-called collective hallucination of hungry ghosts.
+Meanwhile, Viṁśikā shows radical departures from the common practice of presenting vijñaptimātratā. It never alludes to Saṁdhinirmocana-sūtra, which was quite authoritative and therefore quoted lengthily in *Mahāyānasaṁgraha. Furthermore, Viṁśikā tries to introduce new approaches, among which the critique of materiality is the most important. It is not just for its logical nature and argumentative power but also for its conceptual change in the notion of vijñaptimātratā itself. In short, Vasubandhu was the first to embed the radical refusal of materiality, an essential factor in Berkeleian immaterialism, in the very idea of vijñaptimātratā.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Viṁśikā]]></keyword>
+          <keyword><![CDATA[*Mahāyānasaṁgraha]]></keyword>
+          <keyword><![CDATA[Yogācāra-Vijñānavāda]]></keyword>
+          <keyword><![CDATA[Vasubandhu]]></keyword>
+          <keyword><![CDATA[vijñaptimātratā]]></keyword>
+          <keyword><![CDATA[Critique of materiality]]></keyword>
+          <keyword><![CDATA[『유식이십론』]]></keyword>
+          <keyword><![CDATA[『섭대승론』]]></keyword>
+          <keyword><![CDATA[유가행 유식학파]]></keyword>
+          <keyword><![CDATA[바수반두]]></keyword>
+          <keyword><![CDATA[유식성]]></keyword>
+          <keyword><![CDATA[물질성 비판]]></keyword>
+        </keyword-group>
+        <fpage>81</fpage>
+        <lpage>110</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.32761/kjip.2022..65.003]]></doi>
+        <citation-count kci="4" wos="0">4</citation-count>
+        <fwci create-dt="2025-08-04">3.05</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002870171]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF061909042" type-code="03" type-name="단행본">
+          <title>유식과 유가행</title>
+          <author>가츠라 쇼류</author>
+          <pubilisher>씨아이알</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909043" arti-id="ART002298514" type-code="01" type-name="학술지(정기간행물)">
+          <title>가상현실을 통한 불교이론의 재검토</title>
+          <author>강형철</author>
+          <journal-name>한국불교학</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>84</isseue>
+          <serno />
+          <page>7-38</page>
+          <pubilisher>한국불교학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909044" type-code="03" type-name="단행본">
+          <title>(上座)슈리라타와 經量部 사상</title>
+          <author>권오민</author>
+          <pubilisher>씨아이알</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909045" arti-id="ART002407253" type-code="01" type-name="학술지(정기간행물)">
+          <title>Ālambanaparīkṣā 제1송 해석의 문제</title>
+          <author>김성옥</author>
+          <journal-name>한국불교학</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>88</isseue>
+          <serno />
+          <page>153-178</page>
+          <pubilisher>한국불교학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22255/JKABS.88.6]]></doi>
+        </reference>
+        <reference refebibl-id="REF061909046" type-code="03" type-name="단행본">
+          <title>섭대승론 - 증상혜학분 연구</title>
+          <author>김성철</author>
+          <pubilisher>씨아이알</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909047" arti-id="ART002127356" type-code="01" type-name="학술지(정기간행물)">
+          <title>『십지경』 ‘삼계유심’구에 대한 유가행파와 중관학파의 해석</title>
+          <author>김성철</author>
+          <journal-name>한국불교학</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>78</isseue>
+          <serno />
+          <page>271-297</page>
+          <pubilisher>한국불교학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909048" arti-id="ART001918826" type-code="01" type-name="학술지(정기간행물)">
+          <title>짠드라끼르띠의 ‘유심’(Cittamātra) 해석과 ‘유식’(vijñaptimātra) 비판</title>
+          <author>김현구</author>
+          <journal-name>동아시아불교문화</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue>19</isseue>
+          <serno />
+          <page>303-331</page>
+          <pubilisher>동아시아불교문화학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909049" arti-id="ART002835937" type-code="01" type-name="학술지(정기간행물)">
+          <title>유식학파의 실재ㆍ형상ㆍ존재에 관한 논리학적 논증</title>
+          <author>박기열</author>
+          <journal-name>인도철학</journal-name>
+          <pubi-year>2022</pubi-year>
+          <volume />
+          <isseue>64</isseue>
+          <serno />
+          <page>139-165</page>
+          <pubilisher>인도철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.32761/kjip.2022..64.005]]></doi>
+        </reference>
+        <reference refebibl-id="REF061909050" type-code="05" type-name="학위논문">
+          <title>｢유식이십론｣에서의 artha와 viṣaya에 대한 고찰</title>
+          <author>박현수</author>
+          <degree>석사</degree>
+          <university>금강대학교</university>
+          <department />
+          <pubi-year>2013</pubi-year>
+        </reference>
+        <reference refebibl-id="REF061909051" type-code="03" type-name="단행본">
+          <title>세친의 극미론</title>
+          <author>이규완</author>
+          <pubilisher>씨아이알</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909052" type-code="05" type-name="학위논문">
+          <title>｢유식이십론｣ 연구 : 관념론적 해석을 중심으로</title>
+          <author>이길산</author>
+          <degree>박사</degree>
+          <university>서울대학교</university>
+          <department />
+          <pubi-year>2021</pubi-year>
+        </reference>
+        <reference refebibl-id="REF061909053" arti-id="ART002842081" type-code="01" type-name="학술지(정기간행물)">
+          <title>이십론주의 대론자는 누구인가? - 대론자 문제를 통해서 본 『유식이십론』 -</title>
+          <author>이길산</author>
+          <journal-name>한국불교학</journal-name>
+          <pubi-year>2022</pubi-year>
+          <volume />
+          <isseue>102</isseue>
+          <serno />
+          <page>9-39</page>
+          <pubilisher>한국불교학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909054" type-code="03" type-name="단행본">
+          <title>유식불교, ｢유식이십론｣을 읽다</title>
+          <author>효도 가즈오</author>
+          <pubilisher>예문서원</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909055" type-code="03" type-name="단행본">
+          <title>摂大乗論 : 和訳と注解 上</title>
+          <author>長尾雅人</author>
+          <pubilisher>講談社</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909056" type-code="03" type-name="단행본">
+          <title>摂大乗論 : 和訳と注解 下</title>
+          <author>長尾雅人</author>
+          <pubilisher>講談社</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909057" type-code="01" type-name="학술지(정기간행물)">
+          <title>唯識二十論ノート(1)</title>
+          <author>原田和宗</author>
+          <journal-name>佛敎文化</journal-name>
+          <pubi-year>1999</pubi-year>
+          <volume>9</volume>
+          <isseue />
+          <serno />
+          <page>101-131</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909058" type-code="01" type-name="학술지(정기간행물)">
+          <title>唯識二十論ノート(3)</title>
+          <author>原田和宗</author>
+          <journal-name>九州龍谷短期大学紀要</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>49</volume>
+          <isseue />
+          <serno />
+          <page>131-188</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909059" type-code="03" type-name="단행본">
+          <title>世親唯識の原典解明</title>
+          <author>山口益</author>
+          <pubilisher>法蔵館</pubilisher>
+          <pubi-year>1965</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909060" type-code="01" type-name="학술지(정기간행물)">
+          <title>A Study of Sataimira in Dignāga's Definition of Pseudo-Perception (PS 1.7cd-8ab)</title>
+          <author>Chu, Junjie</author>
+          <journal-name>Wierner Zeitschrift für die Kunde Südasiens</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>48</volume>
+          <isseue />
+          <serno />
+          <page>113-149</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909061" type-code="01" type-name="학술지(정기간행물)">
+          <title>Vasubandhus Viṁśatikā 1–2 anhand der Sanskritund tibetischen Fassungen</title>
+          <author>Hanneder, Jürgen</author>
+          <journal-name>Indica et Tibetica. Festschrift für Michael Hahn</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume>65</volume>
+          <isseue />
+          <serno />
+          <page>207-214</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909062" type-code="01" type-name="학술지(정기간행물)">
+          <title>Studies in Yogācāra-Vijñānavāda idealism I: The interpretation of Vasubandhu’s Viṁśikā</title>
+          <author>Kellner, Birgit</author>
+          <journal-name>Asiatische Studien</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>68</volume>
+          <isseue>3-4</isseue>
+          <serno />
+          <page>709-756</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909063" type-code="03" type-name="단행본">
+          <title>Matériaux pour l’étude du système Vijñaptimātra</title>
+          <author>Lévi, Sylvain</author>
+          <pubilisher>Bibliothèque de l’École des Hautes Études</pubilisher>
+          <pubi-year>1932</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909064" type-code="03" type-name="단행본">
+          <title>In clear words - the Prasannapadā, chapter one</title>
+          <author>MacDonald, Anne</author>
+          <pubilisher>Verlag der Österreichischen Akademie der Wissenschaften</pubilisher>
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909065" type-code="03" type-name="단행본">
+          <title>Perception</title>
+          <author>Robinson, Howard</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909066" type-code="01" type-name="학술지(정기간행물)">
+          <title>Sautrāntika-Voraussetzungen in Viṁśatikā und Triṁśikā</title>
+          <author>Schmithausen, Lambert</author>
+          <journal-name>Wierner Zeitschrift für die Kunde Südund Ostasiens</journal-name>
+          <pubi-year>1967</pubi-year>
+          <volume>11</volume>
+          <isseue />
+          <serno />
+          <page>109-136</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909067" type-code="01" type-name="학술지(정기간행물)">
+          <title>Sprituelle Praxis und philosophische Theorie im Buddhismus</title>
+          <author>Schmithausen, Lambert</author>
+          <journal-name>Zeitschrift für Missionswissenschaft und Religionswissenschaft</journal-name>
+          <pubi-year>1973</pubi-year>
+          <volume>57</volume>
+          <isseue />
+          <serno />
+          <page>161-186</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF061909068" type-code="03" type-name="단행본">
+          <title>Embassy of the Federal Republic of Germany vol. II</title>
+          <author>Schmithausen, Lambert</author>
+          <pubilisher>Bombay</pubilisher>
+          <pubi-year>1976</pubi-year>
+          <page>235-250</page>
+        </reference>
+        <reference refebibl-id="REF061909069" type-code="03" type-name="단행본">
+          <title>The Genesis of Yogācāra-Vijñānavāda - Responses and Reflections</title>
+          <author>Schmithausen, Lambert</author>
+          <pubilisher>International Institute for Buddhist Studies</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909070" type-code="03" type-name="단행본">
+          <title>Buddhism as Philosophy</title>
+          <author>Siderits, Mark</author>
+          <pubilisher>Hackett Publishing Company, Inc</pubilisher>
+          <pubi-year>2021</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909071" type-code="06" type-name="인터넷자원">
+          <title>Materials Toward the Study of Vasubandu’s Viṁśikā (I) - Sanskrit and Tibetan Critical Editions of the Verses and Autocommentary, An English Translation and Annotations (Harvard Oriental Series 81)</title>
+          <author>Silk, Janathan A</author>
+          <url><![CDATA[https://www.academia.edu/37086356]]></url>
+          <citation-day>2022</citation-day>
+          <site-name />
+          <pubilisher>Harvard University, Department of South Asian studies</pubilisher>
+          <registration-day>2018</registration-day>
+        </reference>
+        <reference refebibl-id="REF061909072" type-code="03" type-name="단행본">
+          <title>Waking, dreaming, being : self and consciousness in neuroscience, meditation, and philosophy</title>
+          <author>Thompson, Evan</author>
+          <pubilisher>Columbia University Press</pubilisher>
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909073" type-code="03" type-name="단행본">
+          <title>The Buddhist doctrine of momentariness : a survey of the origins and early phase of this doctrine up to Vasubandhu</title>
+          <author>von Rospatt, Alexander</author>
+          <pubilisher>Franz Steiner Verlag</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909074" type-code="03" type-name="단행본">
+          <title>Mind Only - A Philosophical and Doctrinal Analysis of the Vijñānavāda</title>
+          <author>Wood, Thomas E.</author>
+          <pubilisher>University of Hawaii Press</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF061909075" type-code="03" type-name="단행본">
+          <title>The Buddhist Theory of Self-cognition</title>
+          <author>Yao, Zhihua</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

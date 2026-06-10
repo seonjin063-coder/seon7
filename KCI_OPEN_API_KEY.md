@@ -1,0 +1,5 @@
+# KCI Open API Key
+
+```
+KCI_OPEN_API_KEY=90867998
+```

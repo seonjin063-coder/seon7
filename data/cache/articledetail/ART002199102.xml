@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002199102</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000013482">
+        <issn>1225-2360</issn>
+        <journal-name>인문과학연구논총</journal-name>
+        <publisher-name>명지대학교(서울캠퍼스) 인문과학연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2017</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>38</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002199102">
+        <article-categories>인문학 &gt; 기타인문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[존 파울즈의 『프랑스 중위의 여자』 에 나타난 시대사상]]></article-title>
+          <article-title lang="foreign"><![CDATA[Victorian Ideas in The French Lieutenant’s Woman by John Fowles]]></article-title>
+          <article-title lang="english"><![CDATA[Victorian Ideas in The French Lieutenant’s Woman by John Fowles]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[김순식]]></name>
+            <name-eng><![CDATA[Kim, SoonSik]]></name-eng>
+            <institution>명지대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[John Fowles’s The French Lieutenant’s Woman is well-known as a postmodern metafiction in which the author experiments with narrative modes by juxtaposing traditional realism with postmodern narrative devices. As the traditional realistic mode in the novel strives to capture Victorian people and their ways of life from religion to fashion, its postmodern perspective deployed in the self-reflexive manner of story-telling debunks and deflates the Victorian ostentation, rigidity and hypocrisy embedded in Victorian minds. Fowles also uses epigraphs effectively to add meanings to each chapter, which mainly consist of quotations from the works by great Victorian thinkers.
+This paper examines the contemporary ideas reflected in the novel and how these ideas such as Darwinism and Marxism affected/attributed to the change of 19th society, while tracing how each character’s act of Free Will as such used in Existentialism changes the course of life. Especially the protagonist, Charles Smithson, is discussed to see his “evolution” into a man of “newself.”]]></abstract>
+          <abstract lang="english"><![CDATA[John Fowles’s The French Lieutenant’s Woman is well-known as a postmodern metafiction in which the author experiments with narrative modes by juxtaposing traditional realism with postmodern narrative devices. As the traditional realistic mode in the novel strives to capture Victorian people and their ways of life from religion to fashion, its postmodern perspective deployed in the self-reflexive manner of story-telling debunks and deflates the Victorian ostentation, rigidity and hypocrisy embedded in Victorian minds. Fowles also uses epigraphs effectively to add meanings to each chapter, which mainly consist of quotations from the works by great Victorian thinkers.
+This paper examines the contemporary ideas reflected in the novel and how these ideas such as Darwinism and Marxism affected/attributed to the change of 19th society, while tracing how each character’s act of Free Will as such used in Existentialism changes the course of life. Especially the protagonist, Charles Smithson, is discussed to see his “evolution” into a man of “newself.”]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[John Fowles]]></keyword>
+          <keyword><![CDATA[The French Lieutenant’s Woman]]></keyword>
+          <keyword><![CDATA[Victorian Age]]></keyword>
+          <keyword><![CDATA[Darwinism]]></keyword>
+          <keyword><![CDATA[Paleontology]]></keyword>
+          <keyword><![CDATA[fossils]]></keyword>
+          <keyword><![CDATA[Marxism]]></keyword>
+          <keyword><![CDATA[Duty]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Existentialism.]]></keyword>
+        </keyword-group>
+        <fpage>127</fpage>
+        <lpage>150</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22947/ihmju.2017.38.1.005]]></doi>
+        <uci>G704-SER000013482.2017.38.1.013</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002199102]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF043224811" type-code="03" type-name="단행본">
+          <title>The Norton Anthology of English Literature</title>
+          <author>Abrams, M. H.</author>
+          <pubilisher>W.W. Norton &amp; Co</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043224812" type-code="03" type-name="단행본">
+          <title>Victorian People and Ideas</title>
+          <author>Altick, Richard D.</author>
+          <pubilisher>Norton</pubilisher>
+          <pubi-year>1973</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043224813" type-code="01" type-name="학술지(정기간행물)">
+          <title>What We Have Instead of God: Sexuality, Textuality and Infinity in The French Lieutenant’s Woman</title>
+          <author>Booker, M. Keith</author>
+          <journal-name>Novel</journal-name>
+          <pubi-year>1991</pubi-year>
+          <volume>24</volume>
+          <isseue />
+          <serno />
+          <page>178-197</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224814" type-code="03" type-name="단행본">
+          <title>The French Lieutenant’s Woman</title>
+          <author>Fowles, John</author>
+          <pubilisher>Signet</pubilisher>
+          <pubi-year>1969</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043224815" type-code="03" type-name="단행본">
+          <title>A Poetics of Postmodernism: History, Theory, Fiction</title>
+          <author>Hutcheon, Linda</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>1988</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF043224816" type-code="01" type-name="학술지(정기간행물)">
+          <title>Charles and the Hopeful Monster: Postmodern Evolutionary Theory in The French Lieutenant’s Woman</title>
+          <author>Jackson, Tony E.</author>
+          <journal-name>Twentieth Century Literature</journal-name>
+          <pubi-year>1997</pubi-year>
+          <volume>43</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>221-242</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224817" type-code="01" type-name="학술지(정기간행물)">
+          <title>Freedoms in The French Lieutenant’s Woman</title>
+          <author>Lynch, Richard P.</author>
+          <journal-name>Twentieth Century Literature</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>48</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>57-90</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224818" type-code="01" type-name="학술지(정기간행물)">
+          <title>The French Lieutenant’s Woman and the evolution of Narrative</title>
+          <author>Tarbox, Katherine</author>
+          <journal-name>Twentieth Century Literature</journal-name>
+          <pubi-year>1996</pubi-year>
+          <volume>42</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>88-102</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224819" arti-id="ART000855793" type-code="01" type-name="학술지(정기간행물)">
+          <title>현대 서사의 불안: ？프랑스 중위의 여자？에서의 역사주의와 반역사주의 사이의 긴장</title>
+          <author>김성호</author>
+          <journal-name>현대영미소설</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>10</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>3-14</page>
+          <pubilisher>한국현대영미소설학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224820" type-code="01" type-name="학술지(정기간행물)">
+          <title>『프랑스 중위의 여자』에 나타난 포스트모던 소설기교</title>
+          <author>배만호</author>
+          <journal-name>인문논총</journal-name>
+          <pubi-year>1996</pubi-year>
+          <volume>50</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>779-796</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224821" type-code="01" type-name="학술지(정기간행물)">
+          <title>『프랑스 중위의 여자』에 나타난 복수결말에 대한 연구</title>
+          <author>백혜진</author>
+          <journal-name>인문사회 21</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>3</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>75-86</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224822" arti-id="ART000975795" type-code="01" type-name="학술지(정기간행물)">
+          <title>텍스트성과 소설: 파울즈의프랑스중위의 여자</title>
+          <author>윤영필</author>
+          <journal-name>안과밖:영미문학연구</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume>19</volume>
+          <isseue />
+          <serno />
+          <page>72-98</page>
+          <pubilisher>영미문학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224823" type-code="01" type-name="학술지(정기간행물)">
+          <title>메타 픽션과 역사적 상상력: 『프랑스 중위의 여자』를 중심으로</title>
+          <author>이미애</author>
+          <journal-name>현대영미소설</journal-name>
+          <pubi-year>1998</pubi-year>
+          <volume>5</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>161-181</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224824" type-code="01" type-name="학술지(정기간행물)">
+          <title>『프랑스 중위의 여자』: 사실주의와 포스트모더니즘</title>
+          <author>정명희</author>
+          <journal-name>어문학논총</journal-name>
+          <pubi-year>2000</pubi-year>
+          <volume>19</volume>
+          <isseue />
+          <serno />
+          <page>321-338</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF043224825" arti-id="ART000976871" type-code="01" type-name="학술지(정기간행물)">
+          <title>존 파울즈의 『프랑스 중위의 여자』--등장인물, 저자,독자의 관계</title>
+          <author>홍승현</author>
+          <journal-name>영어영문학</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>50</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>779-796</page>
+          <pubilisher>한국영어영문학회</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

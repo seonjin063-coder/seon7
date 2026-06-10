@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002458643</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001715">
+        <issn>1229-5752</issn>
+        <journal-name>대한건축학회연합논문집</journal-name>
+        <publisher-name>대한건축학회지회연합회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2019</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume>21</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002458643">
+        <article-categories>공학 &gt; 건축공학 &gt; 건축계획 및 설계</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[근대 새로운 ‘자아’ 인식과 실존주의적 예술-의지의 표현에 관한 연구 - 근대 실존주의적 창조성 탐구와 개인 주거에서의 ‘정방형’의 표현적 특성을 중심으로 -]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on Modern New ‘Self’ and Representation of its Existential Kunstwollen -Focused on Search for Existential Creativity and Expression of ‘Square’ in Modern Private Housing-]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Modern New ‘Self’ and Representation of its Existential Kunstwollen -Focused on Search for Existential Creativity and Expression of ‘Square’ in Modern Private Housing-]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[오장환]]></name>
+            <name-eng><![CDATA[Oh, Zhang-Huan]]></name-eng>
+            <institution>부경대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[근대에 접어들어 새로운 창조성-의지를 지닌 많은 아방가르드 예술가들의 작품에서 보이는 정방형에 대한 표현적 특징들처럼, 건축의 근대성을 만든 근대 건축가들의 주택작품에서 나타나는 정사각형의 표상들에 대한 의미를 근대성과 관련지어 고찰할 필요가 있다. 즉, 본 연구는 이러한 근원적 형태들에 대한 의미를 근대 실존주의적 의미의 ‘자아’ 인식과 관련지어 논하여 그 의미를 파악하고자 한다.
+새로운 근대성을 지향하는 과정에서 아방가르드 예술가들은, 과학자들, 철학자들 혹은 신학자들과 마찬가지로, 신과 인간이라는 근원적 문제에 대한 지성사적 탐구를 시작한 이래로, 근본적으로 그들이 공통적으로 새로운 실존적 자아를 발견하였던 것처럼 보인다. 그래서 당연히, 그들은 궁극적으로 신과 동일한 ‘자유-의지’를 지닌 인간으로서 자신을 자각하고 있었고, 근대 실존적 자아의 ‘신적’ 창조성에 대한 새로운 자각과 확신에 이르렀을 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[Undoubtedly, like scientists, philosophers or theologians in the process toward a new modernity, Avant-garde artists seems to find fundamentally new existential self in common since the beginning of intellectual quest on the underlying problem of God and Humane. Thus naturally, they were awakening themselves as human having ‘free-will’ ultimately like God, and they reached a new recognition and confidence in the ‘divine’ creativity of modern existential self.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[근대성]]></keyword>
+          <keyword><![CDATA[휴머니티]]></keyword>
+          <keyword><![CDATA[창조적 자유-의지]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[유기적 통일성]]></keyword>
+          <keyword><![CDATA[Modernity]]></keyword>
+          <keyword><![CDATA[Humanity]]></keyword>
+          <keyword><![CDATA[Creative free-will]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Organic unification]]></keyword>
+        </keyword-group>
+        <fpage>95</fpage>
+        <lpage>102</lpage>
+        <doi />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">1.2</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002458643]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF052450194" arti-id="ART001300436" type-code="01" type-name="학술지(정기간행물)">
+          <title>근대의 ‘생성(Becoming)’의 미학과 그 형태-공간 표현에 관한 연구 - 생성으로의 미학적 전개와 20세기 전환기 데 스틸의 ‘관념조형’의 사상을 중심으로 -</title>
+          <author>오장환</author>
+          <journal-name>대한건축학회연합논문집</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>10</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>9-16</page>
+          <pubilisher>대한건축학회지회연합회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF052450195" arti-id="ART001762891" type-code="01" type-name="학술지(정기간행물)">
+          <title>근대 창조성-예술과 예술적 자유의지에 미친 종교철학의 영향 - 세기의 전환기에 아방가르드 건축 예술가들에게서 나타난 ‘범재신론’ 사상을 중심으로 -</title>
+          <author>오장환</author>
+          <journal-name>한국실내디자인학회 논문집</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>22</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>112-119</page>
+          <pubilisher>한국실내디자인학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF052450196" type-code="03" type-name="단행본">
+          <title>Le Corbusier and the Concept of Self</title>
+          <author>Simon Richards</author>
+          <pubilisher>Yale University Press</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>271-</page>
+        </reference>
+        <reference refebibl-id="REF052450197" type-code="03" type-name="단행본">
+          <title>The Spiritual in Art: Abstract Painting 1890-1985</title>
+          <author>Maurice Tuchman</author>
+          <pubilisher>Abbeville Press</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>371-</page>
+        </reference>
+        <reference refebibl-id="REF052450198" type-code="03" type-name="단행본">
+          <title>Modern European Thought: Continuity and Change in Ideas, 1600-1950</title>
+          <author>Franklin Le Van Baumer</author>
+          <pubilisher>Macmillan Pub Co.</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>182-</page>
+        </reference>
+        <reference refebibl-id="REF052450199" type-code="04" type-name="보고서">
+          <title>Nietzsche and An Architecture of Our Minds</title>
+          <author>Alexandre Kostka</author>
+          <pubilisher>Getty Research Institute</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>267-</page>
+        </reference>
+        <reference refebibl-id="REF052450200" type-code="03" type-name="단행본">
+          <title>The artless word: Mies van der Rohe on the building art</title>
+          <author>Fritz Neumeyer</author>
+          <pubilisher>MIT Press</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>54-</page>
+        </reference>
+        <reference refebibl-id="REF052450201" type-code="03" type-name="단행본">
+          <title>Peter Behrens and a New Arch itecture for the Twentieth Century</title>
+          <author>Stanford Anderson</author>
+          <pubilisher>The MIT Press</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>23-</page>
+        </reference>
+        <reference refebibl-id="REF052450202" type-code="03" type-name="단행본">
+          <title>Reminiscences of Friedrich Froebel</title>
+          <author>B. von Marenholz-Bulow</author>
+          <pubilisher>BiblioBazaar</pubilisher>
+          <pubi-year>1877</pubi-year>
+          <page>227-</page>
+        </reference>
+        <reference refebibl-id="REF052450203" type-code="03" type-name="단행본">
+          <title>The Education of Man</title>
+          <author>Friedrich Froebel</author>
+          <pubilisher>Dover Publications</pubilisher>
+          <pubi-year>1906</pubi-year>
+          <page>1-2</page>
+        </reference>
+        <reference refebibl-id="REF052450204" type-code="03" type-name="단행본">
+          <title>Beyond the Finite:The Sublime in Art and Science</title>
+          <author>Ronald Hoffmann</author>
+          <pubilisher>Oxford University Press</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>108-109</page>
+        </reference>
+        <reference refebibl-id="REF052450205" type-code="03" type-name="단행본">
+          <title>The Future of Architecture</title>
+          <author>F. L. Wright</author>
+          <pubilisher>Bramhall Hous</pubilisher>
+          <pubi-year>1953</pubi-year>
+          <page>322-</page>
+        </reference>
+        <reference refebibl-id="REF052450206" type-code="03" type-name="단행본">
+          <title>Nietzsche and An Architecture of Our Minds</title>
+          <author>Alexandre Kostka</author>
+          <pubilisher>Getty Research Institute</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>317-</page>
+        </reference>
+        <reference refebibl-id="REF052450207" type-code="03" type-name="단행본">
+          <title>Le Corbusier, the Noble Savage: Toward an Archaeology of Modernism</title>
+          <author>Adolf Max Vogt</author>
+          <pubilisher>Mit Pr.</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>290-</page>
+        </reference>
+        <reference refebibl-id="REF052450208" arti-id="ART002175835" type-code="01" type-name="학술지(정기간행물)">
+          <title>르 꼬르뷔지에의 형태로의 ‘응시’와 낭만적 유산에 관한 연구</title>
+          <author>오장환</author>
+          <journal-name>대한건축학회연합논문집</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>18</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>29-36</page>
+          <pubilisher>대한건축학회지회연합회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF052450209" type-code="03" type-name="단행본">
+          <title>Kindergarten Chats and other Writings</title>
+          <author>Louis H. Sullivan</author>
+          <pubilisher>George Wittenborn, Inc.</pubilisher>
+          <pubi-year>1918</pubi-year>
+          <page>51-</page>
+        </reference>
+        <reference refebibl-id="REF052450210" type-code="03" type-name="단행본">
+          <title>Educational Ideas of Froebel</title>
+          <author>Jessie White</author>
+          <pubilisher>Univer sity Tutorial Press</pubilisher>
+          <pubi-year>1905</pubi-year>
+          <page>146-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

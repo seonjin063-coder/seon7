@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>referenceSearch</apiCode>
+    <id>ART002131988</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>16</total>
+    </result>
+    <record article-id="ART002131988">Cahiers pour une morale, Gallimard, 1983</record>
+    <record article-id="ART002131988">Sartre, Jean-Paul et Lévy, Benny, L’espoir maintenant, Verdier, 1991</record>
+    <record article-id="ART002131988">Beauvoir, Simone de, La Force des choses, Gallimard, 1963</record>
+    <record article-id="ART002131988">Beauvoir, Simone de, La cérémonie des adieux, Gallimard, 1981</record>
+    <record article-id="ART002131988">Situations V, Gallimard, 1964</record>
+    <record article-id="ART002131988">Les Mots, Gallimard, 1964</record>
+    <record article-id="ART002131988">Burnier, Michel-Antoine, Les existentialistes et la politique, Gallimard, 1966</record>
+    <record article-id="ART002131988">Vérité et Existence, Gallimard, 1989</record>
+    <record article-id="ART002131988">Contat, Michel et Rybalka, Michel, Les Écrits de Sartre, Gallimard, 1970</record>
+    <record article-id="ART002131988">Situations X, Gallimard, 1976</record>
+  </outputData>
+</MetaData>

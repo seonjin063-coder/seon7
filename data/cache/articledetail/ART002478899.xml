@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002478899</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001651">
+        <issn>1229-697X</issn>
+        <journal-name>프랑스 문화 연구</journal-name>
+        <publisher-name>한국프랑스문화학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2019</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>41</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002478899">
+        <article-categories>인문학 &gt; 프랑스어와문학 &gt; 프랑스어학 &gt; 프랑스문화학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 문학작품을 통해 본 실존적 인간]]></article-title>
+          <article-title lang="foreign"><![CDATA[L’homme existentiel de Sartre décrit dans ses œuvres littéraires]]></article-title>
+          <article-title lang="english"><![CDATA[L’homme existentiel de Sartre décrit dans ses œuvres littéraires]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이경희]]></name>
+            <name-eng><![CDATA[Lee, Kyung-hee]]></name-eng>
+            <institution>대구가톨릭대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Sartre est un penseur de l’après-guerre qui a étudié les questions fondamentales de l’existence humaine. Les études visaient à répondre à la demande de l’époque et à répondre à sa propre demande. C’était un intellectuel engageant, qui adhérait au principe «être, c’est faire»; c’est pourquoi son nom est devenu plus tard synonyme de philosophie existentielle. La pensée de Sartre s’est concrétisée dans ses œuvres littéraires, puisqu’il a souligné: «écris roman pour philosopher, philosopher pour écrire roman». Si, selon son principe, on analyse les personnages tel que Roquentin dans La Nausée, Orestes dans Les Mouches, et Garcin dans Huis clos, le résultat ne serait autre que les caractéristiques des êtres humains existentiels.
+La philosophie existentielle est une théorie sévère, mais elle peut aussi être définie comme une proposition: «L’existence précède l’essence.» Ainsi, les êtres humains existentiels reconnaissent avant tout que les êtres humains sont libres et temporaires. Puisque la nature de l’homme n’est pas prédéterminée, l’homme est jeté dans le monde alors que tout est permis. La richesse et l’honneur ne peuvent compromettre la liberté; ils ne peuvent pas non plus compenser le caractère temporaire de l’existence humaine. Un être humain existentiel choisit et décide librement de son action pour chaque situation. Même si le choix devait conduire à un résultat grave, il assume seul la responsabilité de ses actes sans regret ni conscience.
+La liberté qui semble être une punition, en revanche, a le pouvoir de transcender son propre être, le pouvoir de transformation. Roquentin, par exemple, estime: «Que puis-je bien faire? Quelles sont les choses qui justifient mon existence?» Tout en agonisant de désespoir et de solitude après le départ de son amoureux. Oreste entreprend un voyage dans l’inconnu pour découvrir son vrai moi, rejetant le trône. Garcin essaie également de trouver le meilleur moyen d’aller avec les autres, tout en mettant à mal l’existence des autres. Ainsi, un être humain existentiel ne reconnaît d’autre sauveur que lui-même et cherche à s’améliorer constamment. En ce sens, un être humain existentiel est un optimiste et un être en action.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre est un penseur de l’après-guerre qui a étudié les questions fondamentales de l’existence humaine. Les études visaient à répondre à la demande de l’époque et à répondre à sa propre demande. C’était un intellectuel engageant, qui adhérait au principe «être, c’est faire»; c’est pourquoi son nom est devenu plus tard synonyme de philosophie existentielle. La pensée de Sartre s’est concrétisée dans ses œuvres littéraires, puisqu’il a souligné: «écris roman pour philosopher, philosopher pour écrire roman». Si, selon son principe, on analyse les personnages tel que Roquentin dans La Nausée, Orestes dans Les Mouches, et Garcin dans Huis clos, le résultat ne serait autre que les caractéristiques des êtres humains existentiels.
+La philosophie existentielle est une théorie sévère, mais elle peut aussi être définie comme une proposition: «L’existence précède l’essence.» Ainsi, les êtres humains existentiels reconnaissent avant tout que les êtres humains sont libres et temporaires. Puisque la nature de l’homme n’est pas prédéterminée, l’homme est jeté dans le monde alors que tout est permis. La richesse et l’honneur ne peuvent compromettre la liberté; ils ne peuvent pas non plus compenser le caractère temporaire de l’existence humaine. Un être humain existentiel choisit et décide librement de son action pour chaque situation. Même si le choix devait conduire à un résultat grave, il assume seul la responsabilité de ses actes sans regret ni conscience.
+La liberté qui semble être une punition, en revanche, a le pouvoir de transcender son propre être, le pouvoir de transformation. Roquentin, par exemple, estime: «Que puis-je bien faire? Quelles sont les choses qui justifient mon existence?» Tout en agonisant de désespoir et de solitude après le départ de son amoureux. Oreste entreprend un voyage dans l’inconnu pour découvrir son vrai moi, rejetant le trône. Garcin essaie également de trouver le meilleur moyen d’aller avec les autres, tout en mettant à mal l’existence des autres. Ainsi, un être humain existentiel ne reconnaît d’autre sauveur que lui-même et cherche à s’améliorer constamment. En ce sens, un être humain existentiel est un optimiste et un être en action.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[인간]]></keyword>
+          <keyword><![CDATA[실존]]></keyword>
+          <keyword><![CDATA[본질]]></keyword>
+          <keyword><![CDATA[선택]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[행위]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[être humain]]></keyword>
+          <keyword><![CDATA[existence]]></keyword>
+          <keyword><![CDATA[essence]]></keyword>
+          <keyword><![CDATA[choix]]></keyword>
+          <keyword><![CDATA[liberté]]></keyword>
+          <keyword><![CDATA[action]]></keyword>
+        </keyword-group>
+        <fpage>165</fpage>
+        <lpage>188</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.18022/acfco.2019.41.1.007]]></doi>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">2.38</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002478899]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF051411828" type-code="03" type-name="단행본">
+          <title>차라투스트라는 이렇게 말했다</title>
+          <author>니체, F</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411829" type-code="03" type-name="단행본">
+          <title>도덕의 계보</title>
+          <author>니체, F</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411830" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 행위 이론</title>
+          <author>박만준</author>
+          <journal-name>프랑스 문화연구</journal-name>
+          <pubi-year>2000</pubi-year>
+          <volume>5</volume>
+          <isseue />
+          <serno />
+          <page>85-100</page>
+          <pubilisher>한국프랑스문화학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF051411831" type-code="03" type-name="단행본">
+          <title>그 산이 정말 거기 있었을까</title>
+          <author>박완서</author>
+          <pubilisher>웅진지식하우스</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411832" type-code="03" type-name="단행본">
+          <title>구토</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411833" type-code="03" type-name="단행본">
+          <title>파리떼</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>가정문고사</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411834" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411835" type-code="03" type-name="단행본">
+          <title>닫힌 방</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411836" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411837" type-code="03" type-name="단행본">
+          <title>말</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411838" type-code="03" type-name="단행본">
+          <title>상황극</title>
+          <author>사르트르, 장 폴</author>
+          <pubilisher>영남대학교 출판부</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411839" type-code="03" type-name="단행본">
+          <title>보봐르에게 남긴 사르트르 최후의 말</title>
+          <author>보봐르, 시몬느</author>
+          <pubilisher>두레출판</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411840" type-code="03" type-name="단행본">
+          <title>自由와 悲劇-사르트르의 인간존재론-</title>
+          <author>신오현</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411841" arti-id="ART001555163" type-code="01" type-name="학술지(정기간행물)">
+          <title>운명애의 사도 : 니체－Zarathustra를 중심으로－</title>
+          <author>이경희</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume>118</volume>
+          <isseue />
+          <serno />
+          <page>171-196</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF051411842" arti-id="ART001810552" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거와 사르트르의 타자개념에 대한 고찰</title>
+          <author>이서규</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>69</isseue>
+          <serno />
+          <page>531-559</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15841/kspew..69.201309.531]]></doi>
+        </reference>
+        <reference refebibl-id="REF051411843" arti-id="ART000977605" type-code="01" type-name="학술지(정기간행물)">
+          <title>『파리떼 』의 신화 연구</title>
+          <author>윤정임</author>
+          <journal-name>한국프랑스학논집</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>48</volume>
+          <isseue />
+          <serno />
+          <page>247-268</page>
+          <pubilisher>한국프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF051411844" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 사랑과 모험</title>
+          <author>장근상</author>
+          <journal-name>프랑스어문교육</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>12</volume>
+          <isseue />
+          <serno />
+          <page>299-315</page>
+          <pubilisher>한국프랑스어문교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF051411845" type-code="03" type-name="단행본">
+          <title>그리스인 조르바</title>
+          <author>카잔차키스, 니코스</author>
+          <pubilisher>열린책들</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411846" type-code="03" type-name="단행본">
+          <title>시간의 개념</title>
+          <author>Heidegger, Martin</author>
+          <pubilisher>누멘</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411847" type-code="03" type-name="단행본">
+          <title>How to Read Sartre</title>
+          <author>Bernasconi, Robert</author>
+          <pubilisher>Granta</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411848" type-code="03" type-name="단행본">
+          <title>Jean-Paul Sartre : The Existentialist Ethic</title>
+          <author>Greene, Norman N</author>
+          <pubilisher>Greenwood Press</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411849" type-code="03" type-name="단행본">
+          <title>The Sartre Dictionary</title>
+          <author>Cox, Gary</author>
+          <pubilisher>Great Britain by Athenaeum Press Ltd</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF051411850" type-code="03" type-name="단행본">
+          <title>The Essential Sartre</title>
+          <author>Sarthern, Paul</author>
+          <pubilisher>Virgin Books</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

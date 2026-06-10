@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001313866</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001019">
+        <issn>1225-8695</issn>
+        <journal-name>중국연구</journal-name>
+        <publisher-name>한국외국어대학교 중국연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2009</pub-year>
+        <pub-mon>01</pub-mon>
+        <volume>45</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART001313866">
+        <article-categories>인문학 &gt; 중국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[馮至의 역사소설 「伍子胥」 연구 - 「伍子胥」의 人生哲理的인 선택의 문제 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[A study of Feng zhi(馮至)’s historical novel 「Wu zi xu(伍子胥)」]]></article-title>
+          <article-title lang="english"><![CDATA[A study of Feng zhi(馮至)’s historical novel 「Wu zi xu(伍子胥)」]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[유봉구]]></name>
+            <name-eng><![CDATA[Yoo, Bonggu]]></name-eng>
+            <institution>중앙대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+          <abstract lang="english"><![CDATA[The researcher has analyzed 「Wu zi xu(伍子胥)」, Feng zhi(馮至)’s novel with aspects of existentialism written based on the philosophical principles of human life and Wu zi xu Gu shi(伍子胥 故事), a Chinese ancient story, with the focus on the existential theme word ‘choice.’
+Wu zi xu Gu shi(伍子胥 故事) was described in lots of history and cultural books, including 「Zuo zhun(左傳)」, 「Shi ji(史記)」, 「Guo yu(國語)」, 「Lu shi chun qiu(呂氏春秋)」, 「Wu yue chun qiu(吳越春秋)」, 「Yue jue shu(越絶書)」, 「Hui nan zi(淮南子)」and 「Xin xu(新序)」. Besides, it was appraised by philosophers of many generations, such as Mo zi(墨子), Zhuang zi(莊子), Xun zi(荀子) and Jia yi(賈誼), and handed down to the public after being adapted into lots of ‘Ping hua(平話)’, ‘novels’, ‘Nan xi(南戱)’, ‘Da qu(大曲)’, ‘Za ju(雜劇)’, ‘Chuan ji(傳奇)’ and ‘local Xi qu(地方戱曲)’. That is, Wu zi xu Gu shi(伍子胥 故事) was widely enjoyed through lots of magnificent works ranging from the history book 「Zuo zhun(左傳)」to Feng zhi(馮至)’s novel 「Wu zi xu(伍子胥)」. 
+The big difference between Feng zhi(馮至)’s 「Wu zi xu(伍子胥)」and Wu zi xu Gu shi(伍子胥 故事) is that while Wu zi xu story(伍子胥 故事) is composed of the motive of escape, the story of the fisherman, the story of the woman doing the laundry, the process of being appointed to a government post and revenge, and describes Wu zi xu(伍子胥)’s loyalty and filial piety, Feng zhi(馮至)’s 「Wu zi xu(伍子胥)」tells only the motive of escape, the story of the fisherman and the story of the woman doing the laundry without saying anything about what happened after being appointed to the government post. That is because Feng zhi(馮至) put more value on the process of taking revenge than revenge itself.
+Feng zhi(馮至)’s 「Wu zi xu(伍子胥)」has aspects of existentialism. It was when he studied in Germany that he was first influenced by existentialism. It is not right to call him an existentialist only because he was related to existentialists’ thoughts. He, however, used in 「Wu zi xu(伍子胥)」and other several works words often used in relation to existentialism. They included words such as ‘existence,’ ‘decision,’ ‘responsibility,’ ‘choice’ and ‘experience.’ Especially the theme word ‘choice’ is important in analyzing Wu zi xu(伍子胥)’s life. Therefore, it can be said that existential thoughts is an important clue to understanding ideologies contained in Feng zhi(馮至)’s literary works. 
+Feng zhi says in 「Wu zi xu(伍子胥)」that things existing outside my body and Wu zi xu(伍子胥)’s awareness of life are fused into the unity of human beings and nature, without conflicting against each other. This tells how Wu zi xu(伍子胥)’s choice ends.
+Feng zhi(馮至)’s 「Wu zi xu(伍子胥)」 is significant in the history of modern Chinese literature because it made a new attempt called the reconciliation of the awareness of life with the focus on an individual’s anxiety, when other writers conflicted over the resolutions of the war and revolution while preoccupying themselves with literature of war and ideologies under emergency situation in the 1940s when China waged war against Japan.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Wu zi xu Gu shi]]></keyword>
+          <keyword><![CDATA[choice]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[the unity of human beings and nature]]></keyword>
+          <keyword><![CDATA[the awareness of life]]></keyword>
+          <keyword><![CDATA[Absolute freedom]]></keyword>
+        </keyword-group>
+        <fpage>135</fpage>
+        <lpage>163</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.18077/chss.2009.45..008]]></doi>
+        <uci>G704-001019.2009.45..005</uci>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">1.2</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001313866]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF021299082" type-code="03" type-name="단행본">
+          <title>馮至選集</title>
+          <author>馮至</author>
+          <pubilisher>四川文藝出版社</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299083" type-code="03" type-name="단행본">
+          <title>馮至與他的世界</title>
+          <author>馮姚平</author>
+          <pubilisher>河北敎育出版社</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299084" type-code="03" type-name="단행본">
+          <title>馮至評傳</title>
+          <author>蔣勤國</author>
+          <pubilisher>人民出版社</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299085" type-code="03" type-name="단행본">
+          <title>馮至先生紀念論文集</title>
+          <author>中國社會科學院外國文學硏究所</author>
+          <pubilisher>社會科學文獻出版社</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299086" type-code="03" type-name="단행본">
+          <title>馮至學術精華錄</title>
+          <author>鮑霽</author>
+          <pubilisher>北京師範學院出版社</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299087" type-code="03" type-name="단행본">
+          <title>綠衣人ㆍ伍子胥</title>
+          <author>馮至</author>
+          <pubilisher>復旦大學出版社</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299088" type-code="03" type-name="단행본">
+          <title>中國現代文學思潮史</title>
+          <author>馬良春</author>
+          <pubilisher>十月文藝出版社</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299089" type-code="03" type-name="단행본">
+          <title>薩特硏究編選者序 in 薩特硏究</title>
+          <author>柳鳴九</author>
+          <pubilisher>中國社會科學出版社</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299090" type-code="03" type-name="단행본">
+          <title>中國現代作家評傳</title>
+          <author>徐迺翔</author>
+          <pubilisher>山東敎育出版社</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299091" type-code="03" type-name="단행본">
+          <title>魯迅全集</title>
+          <author>魯迅</author>
+          <pubilisher>人民文學出版社</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299092" type-code="03" type-name="단행본">
+          <title>中國現代小說史</title>
+          <author>楊義</author>
+          <pubilisher>人民文學出版社</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299093" type-code="03" type-name="단행본">
+          <title>中國新文學大系 1937-1949</title>
+          <author />
+          <pubilisher>文藝出版社</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299094" type-code="03" type-name="단행본">
+          <title>中國現代作家歷史小說選</title>
+          <author>上海社會科學院</author>
+          <pubilisher>社會科學院出版社</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299095" type-code="03" type-name="단행본">
+          <title>中國現代歷史小說大系</title>
+          <author>王富仁</author>
+          <pubilisher>河北人民出版社</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299096" type-code="03" type-name="단행본">
+          <title>中國現代文論選</title>
+          <author>王永生</author>
+          <pubilisher>人民出版社</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299097" type-code="03" type-name="단행본">
+          <title>生命在深思-馮至</title>
+          <author>王邵軍</author>
+          <pubilisher>花山文藝出版社</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299098" type-code="01" type-name="학술지(정기간행물)">
+          <title>伍子胥故事의 中國小說史的 傳承과 變容樣相</title>
+          <author>全寅初</author>
+          <journal-name>中國語文論叢</journal-name>
+          <pubi-year>1998</pubi-year>
+          <volume />
+          <isseue>15</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>中國語文硏究會</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299099" arti-id="ART000965521" type-code="01" type-name="학술지(정기간행물)">
+          <title>馮至 ≪伍子胥≫의 ‘怨恨’ 敍事構造</title>
+          <author>白永吉</author>
+          <journal-name>중국어문논총</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>28</isseue>
+          <serno />
+          <page>683-702</page>
+          <pubilisher>중국어문연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299100" type-code="03" type-name="단행본">
+          <title>루쉰 잡문예술의 세계</title>
+          <author>袁良駿</author>
+          <pubilisher>학고방</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF021299101" type-code="01" type-name="학술지(정기간행물)">
+          <title>伍子胥散論</title>
+          <author>葉文憲</author>
+          <journal-name>蘇州科技學院學報(社會科學版)</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>1</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299102" type-code="01" type-name="학술지(정기간행물)">
+          <title />
+          <author>夏子賢</author>
+          <journal-name>安慶師範學院學報(社會科學版)</journal-name>
+          <pubi-year>1998</pubi-year>
+          <volume />
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299104" type-code="01" type-name="학술지(정기간행물)">
+          <title>復仇母題在中國現代小説中的 對話 與嬗變——解讀 鑄劍、伍子胥、復仇</title>
+          <author>袁筱芬</author>
+          <journal-name>海南師範學院學報(社會科學版)</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue>1</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299106" type-code="01" type-name="학술지(정기간행물)">
+          <title>伍子胥和楚國的復仇模式</title>
+          <author>舒大清</author>
+          <journal-name>中國文化研究</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>2</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF021299108" type-code="03" type-name="단행본">
+          <title>歷代名家評史記</title>
+          <author>楊燕起</author>
+          <pubilisher>北京師範大學出版社</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

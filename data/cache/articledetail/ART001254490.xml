@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001254490</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000875">
+        <issn>1229-0750</issn>
+        <journal-name>대동철학</journal-name>
+        <publisher-name>대동철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2008</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>43</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001254490">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[‘주체로의 복귀’와 새로운 윤리의 가능성: 바디우와 지젝]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Return to the Subject and the Possibility of Ethics: Badiou and Žižek]]></article-title>
+          <article-title lang="english"><![CDATA[The Return to the Subject and the Possibility of Ethics: Badiou and Žižek]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[김용규]]></name>
+            <institution>부산대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[1960년대 이후 이론의 장에서 벌어진 중요한 논쟁은 ‘주체의 죽음’을 둘러싸고 진행되었다. 이 논쟁은 실존주의에서 구조주의로의 전환을 상징적으로 나타내는 논쟁이었고 구조와 주체 간의 관계를 실천적 주체보다는 주체를 구성하는 구조의 관점에서 설명하고자 한 논쟁이었다. 특히 주체의 죽음을 주장하는 (포스트)구조주의는 68년 혁명을 계기로 근대적 주체와 자아를 탈역사적으로 구성해온 기존 이데올로기와 그 제도적 형성을 정면으로 문제 삼았다. 하지만 이런 문제제기를 통해 등장했던 주체의 죽음은 1980년대 프랑스 정치체제의 우경화와 소비자본주의의 분위기 속에서 차이와 다양성이라는 포스트모던 문화논리 속으로 급속히 통합되어갔다. 그 결과 주체의 죽음이라는 개념은 그것이 1960년대에 지녔던 급진적이고 비판적인 의미를 더 이상 갖지 못한 채 오히려 체제를 승인하고 주체의 책임과 윤리를 회피하기 위한 구실로 전락한다.주체로의 복귀가 요구되었던 것은 이런 현실에 정치적으로 개입해야 할 필요성 때문이었다. 다음에 살펴볼 바디우와 지젝이 말하는 진리와 행위는 이런 현실과 단절하는 진리를 위해 모험을 무릅쓰는 주체의 개입을 강조하거나, 그런 현실이 은폐하고 억압하는 실재의 부정성과의 대면을 강조한다. 두 이론가 사이에는 이론적 유사성 못지않은 차이 또한 존재한다. 지젝은 공백과 우연성과 부정성에 근거하는 실재와의 대면을 강조하는 데 반해, 바디우는 그 대면 이후에 그것을 진리로 명명하고 진리에 충실한 주체를 강조한다. 본 글은 주체의 죽음과 그 이후 주체로의 복귀가 이루어지는 과정을 바디우와 지젝의 이론을 통해 검토해보고자 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper aims to examine the idea of the return to the subject after the death of the subject through Badiou's philosophy of the subject and Žižek's criticism of Badiou. One of the most important debate of theory since the 1960s was organized around the theme of ‘the death of the subject.’ This debate was symbolized as the turn from existentialism to structuralism, from subject to structure, and from agency to disposition, in that it was primarily led by such (post-)structuralists as Althusser, Foucault, Derrida and so on, and explained in terms of the mechanism which interpellated and managed the subject. In particular, those who argued for the death of the subject in the moment of May 1968 called into question the dominant ideologies and institutions which tended to dehistoricize the conception of the modern subject. But the death of the subject risen as a radical question to the existing social order is rapidly incorporated into the postmodern cultural logic of difference and diversity when the regime of politics leans to the right and the culture of the late-capitalism tends to be postmodern in the 1980s. As a result, the idea of the death of the subject has no more radical and critical sense and serves as the advocate for the dominant culture. It is as a practical alternative to this situation that the idea of the return to the subject is demanded. Both Badiou's truth and Žižek's action pay attention to the subject's resolute decision and action taking risk breaking with the present situation or the symbolic order. This paper will examine the change from the death of the subject to the return to the subject in Badiou's and Žižek's theories.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[주체의 죽음]]></keyword>
+          <keyword><![CDATA[바디우]]></keyword>
+          <keyword><![CDATA[지젝]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[진리]]></keyword>
+          <keyword><![CDATA[사건]]></keyword>
+          <keyword><![CDATA[윤리]]></keyword>
+          <keyword><![CDATA[the subject]]></keyword>
+          <keyword><![CDATA[the death of the subject]]></keyword>
+          <keyword><![CDATA[Badiou]]></keyword>
+          <keyword><![CDATA[iek']]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[the event]]></keyword>
+          <keyword><![CDATA[the truth]]></keyword>
+          <keyword><![CDATA[ethics]]></keyword>
+        </keyword-group>
+        <fpage>59</fpage>
+        <lpage>86</lpage>
+        <doi />
+        <uci>G704-000875.2008..43.016</uci>
+        <citation-count kci="11" wos="0">11</citation-count>
+        <fwci create-dt="2025-08-04">1.71</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001254490]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF017969902" type-code="03" type-name="단행본">
+          <title>Manifesto for Philosophy</title>
+          <author>A. Badiou</author>
+          <pubilisher>State University of New York Press</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969908" type-code="03" type-name="단행본">
+          <title>Ethics: An Essay on the Understanding of Evil</title>
+          <author>A. Badiou</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969912" type-code="03" type-name="단행본">
+          <title>들뢰즈—존재의 함성</title>
+          <author>A. Badiou</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969931" type-code="03" type-name="단행본">
+          <title>Infinite Thought: Truth and the Return of Philosophy</title>
+          <author>A. Badiou</author>
+          <pubilisher>Continuum</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969932" type-code="03" type-name="단행본">
+          <title>Saint Paul: The Foundation of Universalism</title>
+          <author>A. Badiou</author>
+          <pubilisher>Stanford University Press</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969934" type-code="03" type-name="단행본">
+          <title>Being and Event</title>
+          <author>A. Badiou</author>
+          <pubilisher>Continuum</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969938" type-code="03" type-name="단행본">
+          <title>Against Postmodernism</title>
+          <author>A. Callinicos</author>
+          <pubilisher>Cambridge</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969941" type-code="03" type-name="단행본">
+          <title>Can Change Be Thought?: A Dialogue with Alain Badiou, in Alain Badiou: Philosophy and Its Conditions</title>
+          <author>B. Bosteels</author>
+          <pubilisher>State University of New York Press</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969945" type-code="03" type-name="단행본">
+          <title>Postmodernism or, The Cultural Logic of Late Capitalism</title>
+          <author>F, Jameson</author>
+          <pubilisher>Duke University Press</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969946" type-code="03" type-name="단행본">
+          <title>History of Structuralism, vol 2</title>
+          <author>F. Dosse</author>
+          <pubilisher>University of Minnesota Press</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969948" type-code="03" type-name="단행본">
+          <title>In the Shadow of Silent Majorities or, The End of the Social and Other Essays</title>
+          <author>J. Baurdrillard</author>
+          <pubilisher>Semiotext</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969950" type-code="03" type-name="단행본">
+          <title>Margins of Philosophy</title>
+          <author>J. Derrida</author>
+          <pubilisher>Chicago University Press</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969952" type-code="03" type-name="단행본">
+          <title>Ecrits</title>
+          <author>J. Lacan</author>
+          <pubilisher>Norton</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969955" type-code="03" type-name="단행본">
+          <title>The Postmodern Condition: A Report on Knowledge</title>
+          <author>Jean-Francois Lyotard</author>
+          <pubilisher>University of Minnesota Press</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969956" type-code="03" type-name="단행본">
+          <title>Critique of Dialectical Reason, vol.1</title>
+          <author>Jean-Paul Sartre</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>1976</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969958" type-code="03" type-name="단행본">
+          <title>Humanism and Anti-Humanism</title>
+          <author>K. Soper</author>
+          <pubilisher>Open Court</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969963" type-code="03" type-name="단행본">
+          <title>Lenin and Philosophy and Other Essays</title>
+          <author>L. Althusser</author>
+          <pubilisher>Monthly Review</pubilisher>
+          <pubi-year>1971</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969966" type-code="03" type-name="단행본">
+          <title>맑스를 위하여</title>
+          <author>L. Althusser</author>
+          <pubilisher>백의</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969968" type-code="03" type-name="단행본">
+          <title>The Twilight of American Culture</title>
+          <author>M. Berman</author>
+          <pubilisher>W. W. Norton</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969983" type-code="03" type-name="단행본">
+          <title>감시와 처벌</title>
+          <author>M. Foucault</author>
+          <pubilisher>나남</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969986" type-code="03" type-name="단행본">
+          <title>Badiou, Balibar, Rancière: Rethinking Emancipation</title>
+          <author>N. Hewlett</author>
+          <pubilisher>Continuum</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969987" type-code="03" type-name="단행본">
+          <title>In the Tracks of Historical Materialism</title>
+          <author>P. Anderson</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969990" type-code="03" type-name="단행본">
+          <title>Translator's Introduction, in Ethics: An Essay on the Understanding of Evil</title>
+          <author>P. Hallward</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969993" type-code="03" type-name="단행본">
+          <title>White Mythologies: Writing History and the West</title>
+          <author>R. Young</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017969999" type-code="03" type-name="단행본">
+          <title>Žižek: A Critical Introduction</title>
+          <author>S. Kay</author>
+          <pubilisher>Polity</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970004" type-code="03" type-name="단행본">
+          <title>당신의 징후를 즐겨라</title>
+          <author>S. Žižek</author>
+          <pubilisher>한나래</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970006" type-code="03" type-name="단행본">
+          <title>Welcome to the Desert of the Real</title>
+          <author>S. Žižek</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970008" type-code="03" type-name="단행본">
+          <title>그들은 자기가 하는 일을 알지 못하나이다</title>
+          <author>S. Žižek</author>
+          <pubilisher>인간사랑</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970011" type-code="03" type-name="단행본">
+          <title>까다로운 주체</title>
+          <author>S. Žižek</author>
+          <pubilisher>도서출판b</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970014" type-code="03" type-name="단행본">
+          <title>Figures of Dissent: Critical Essays on Fish, Žižek and Others</title>
+          <author>T. Eagleton</author>
+          <pubilisher>Verso</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017970016" type-code="03" type-name="단행본">
+          <title>Modern French Philosophy</title>
+          <author>V. Descombes</author>
+          <pubilisher>Cambridge University Press</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

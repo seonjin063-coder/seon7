@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003318164</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001226">
+        <issn>1598-7434</issn>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2026</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>108</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003318164">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[나의 자유는 어떻게 타인의 자유를 요구하는가? : 사르트르 자유 개념의 존재론적 재구성]]></article-title>
+          <article-title lang="english"><![CDATA[How Does My Freedom Require the Freedom of Others? An Ontological Reconstruction of Sartre’s Concept of Freedom]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[박현정]]></name>
+            <name-eng><![CDATA[Hyun Jung PARK]]></name-eng>
+            <institution>서울대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르 철학에서 개인의 자유가 어떻게 타인의 자유와 내재적으로 연결되는지를 밝히기 위해 자유의 존재론적 구조를 분석한다. 기존 해석들은 나와 타인의 자유 사이의 관계를 부분적으로 외재적인 것으로 설명해 왔으며, 그 결과 자유와 상호성의 존재론적 결합은 충분히 긴밀하게 해명되지 못한 채 남아 있었다. 본 연구는 이러한 한계가 자유의 존재론적 구조 자체를 충분히 검토하지 않은 데서 비롯된 것이라고 비판한다.
+본 논문은 자유를 사실성으로부터의 초월이라는 자기 관계적 운동으로 재정식화하고, 이 구조 안에서 타인의 자유가 나의 자유가 성립하기 위한 내적 계기로 작동함을 보인다. 타인은 나를 객체화함으로써 내가 넘어설 구체적 사실성을 제공하는 동시에, 공동 실천 속에서 나의 초월을 촉발하고 증폭시키는 상호 매개의 역할을 수행한다. 이러한 분석은 자유가 타인을 단순한 제한으로만 다루는 것이 아니라, 함께 존재함으로써 오히려 자기 자신을 형성하고 현실화하는 관계적 운동임을 드러낸다.
+이로써 사르트르의 자유 개념은 개인주의적 자유라는 통상적 이해를 넘어, 상호 공존의 가능성을 그 존재론적 구조 안에서부터 함축하고 있음이 밝혀진다. 본 논문은 자유와 상호성 사이의 간극을 외재적 규범으로 메우는 대신, 자유의 구조 자체 안에서 재구성함으로써 개인의 자유에 근거한 보편 윤리의 존재론적 토대를 제시한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analyzes the ontological structure of freedom in Sartre in order to clarify how individual freedom is intrinsically connected to the freedom of others. Prevailing interpretations have tended to treat the relation between my freedom and that of others as partially external, leaving the ontological unity of freedom and reciprocity insufficiently elucidated. This study argues that this limitation arises from an inadequate examination of the ontological structure of freedom itself.
+The paper rearticulates freedom as a self relational movement of transcendence from facticity and demonstrates that, within this structure, the freedom of others functions as an internal moment in the constitution of my own freedom. The other provides the concrete facticity that I must transcend by objectifying me, while at the same time, within shared praxis, playing a mediating role that provokes and intensifies my transcendence. This analysis shows that freedom does not merely encounter the other as a limitation but unfolds as a relational movement in which the self is formed and actualized through being with others.
+In this way, Sartre’s concept of freedom is shown to imply, at the level of its ontological structure, the possibility of coexistence beyond the conventional interpretation of freedom as individualistic. Rather than bridging the gap between freedom and reciprocity through external norms, this paper reconstructs their connection within the structure of freedom itself, thereby presenting an ontological foundation for a universal ethics grounded in individual freedom.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[사실성과 초월]]></keyword>
+          <keyword><![CDATA[타자성]]></keyword>
+          <keyword><![CDATA[상호성]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Facticity and Transcendence]]></keyword>
+          <keyword><![CDATA[Otherness]]></keyword>
+          <keyword><![CDATA[Reciprocity]]></keyword>
+        </keyword-group>
+        <fpage>68</fpage>
+        <lpage>99</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci />
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003318164]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

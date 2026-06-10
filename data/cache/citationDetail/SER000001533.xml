@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000001533</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000001533">
+        <registration>
+          <kci-registration>KCI 등재</kci-registration>
+        </registration>
+        <journal-kor-name>교육연구논총</journal-kor-name>
+        <journal-fola-name>CNU Journal of Educational Studies</journal-fola-name>
+        <journal-fola-abbr-name>CNUJES</journal-fola-abbr-name>
+        <major>사회과학 &gt; 교육학 &gt; 교육사회학</major>
+        <issn>1738-9429</issn>
+        <eissn />
+        <fsed-yr>1978년</fsed-yr>
+        <impr>연4회, 08월 31일, 11월 30일, 02월 28일, 05월 31일</impr>
+        <current-issue>2026년 02월 47(1)</current-issue>
+        <use-lang>한국어, 영어</use-lang>
+        <publisher>
+          <publisher-kor-name>충남대학교 교육연구소</publisher-kor-name>
+          <publisher-eng-name>CNU Research Institute of Education</publisher-eng-name>
+          <publisher-tel>042-821-6122</publisher-tel>
+          <publisher-homp>http://cnuedu.cnu.ac.kr</publisher-homp>
+          <publisher-addr>대전 대전시 유성구 대학로 99(궁동 220) 충남대학교 교육연구소(W15 건물, 사범대학 212호)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2028" div-cd="8"><![CDATA[계속평가 신청대상 (재인증평가)]]></journal-change>
+        <journal-change date="2022-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (재인증평가)]]></journal-change>
+        <journal-change date="2019-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (계속평가)]]></journal-change>
+        <journal-change date="2016-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (계속평가)]]></journal-change>
+        <journal-change date="2015-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 유지 (계속평가)]]></journal-change>
+        <journal-change date="2013-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 1차 FAIL (등재후보1차)]]></journal-change>
+        <journal-change date="2012-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 유지 (기타)]]></journal-change>
+        <journal-change date="2010-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+        <journal-change date="2006-05-15" div-cd="6" registration="01"><![CDATA[한글명 : 교육발전연구소 -> 교육연구소
+영문명 : Educational research & development institute -> CNU Research Institute of Education]]></journal-change>
+        <journal-change date="2005-10-25" div-cd="6" registration="01"><![CDATA[한글명 : 교육발전연구소 -> 교육연구소
+영문명 : Educational research & development institute -> CNU Research Inxtitute of Education]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>1.75</impactFactor>
+          <impactFactor3>1.99</impactFactor3>
+          <impactFactor4>2.24</impactFactor4>
+          <impactFactor5>2.32</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>2.235</sjr>
+          <immediacyIndex>0.43</immediacyIndex>
+          <selfCitedRate>2.86%</selfCitedRate>
+          <yearsArticles2>60</yearsArticles2>
+          <yearsCited2>105</yearsCited2>
+          <exImpactFactor>1.7</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>2.22</impactFactor>
+          <impactFactor3>2.26</impactFactor3>
+          <impactFactor4>2.28</impactFactor4>
+          <impactFactor5>2.13</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>2.462</sjr>
+          <immediacyIndex>0.59</immediacyIndex>
+          <selfCitedRate>2.5%</selfCitedRate>
+          <yearsArticles2>72</yearsArticles2>
+          <yearsCited2>160</yearsCited2>
+          <exImpactFactor>2.17</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2022">
+          <impactFactor>3.39</impactFactor>
+          <impactFactor3>3.25</impactFactor3>
+          <impactFactor4>2.84</impactFactor4>
+          <impactFactor5>2.56</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>3.357</sjr>
+          <immediacyIndex>0.73</immediacyIndex>
+          <selfCitedRate>0.36%</selfCitedRate>
+          <yearsArticles2>83</yearsArticles2>
+          <yearsCited2>281</yearsCited2>
+          <exImpactFactor>3.37</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2021">
+          <impactFactor>1.98</impactFactor>
+          <impactFactor3>1.84</impactFactor3>
+          <impactFactor4>1.8</impactFactor4>
+          <impactFactor5>1.8</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>2.077</sjr>
+          <immediacyIndex>1.28</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>66</yearsArticles2>
+          <yearsCited2>131</yearsCited2>
+          <exImpactFactor>1.98</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2020">
+          <impactFactor>1.56</impactFactor>
+          <impactFactor3>1.45</impactFactor3>
+          <impactFactor4>1.61</impactFactor4>
+          <impactFactor5>1.47</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.788</sjr>
+          <immediacyIndex>0.36</immediacyIndex>
+          <selfCitedRate>1.23%</selfCitedRate>
+          <yearsArticles2>52</yearsArticles2>
+          <yearsCited2>81</yearsCited2>
+          <exImpactFactor>1.54</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2019">
+          <impactFactor>1.4</impactFactor>
+          <impactFactor3>1.46</impactFactor3>
+          <impactFactor4>1.32</impactFactor4>
+          <impactFactor5>1.31</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.702</sjr>
+          <immediacyIndex>0.27</immediacyIndex>
+          <selfCitedRate>4.6%</selfCitedRate>
+          <yearsArticles2>62</yearsArticles2>
+          <yearsCited2>87</yearsCited2>
+          <exImpactFactor>1.34</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2018">
+          <impactFactor>1.45</impactFactor>
+          <impactFactor3>1.16</impactFactor3>
+          <impactFactor4>1.24</impactFactor4>
+          <impactFactor5>1.35</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.482</sjr>
+          <immediacyIndex>0.23</immediacyIndex>
+          <selfCitedRate>1.11%</selfCitedRate>
+          <yearsArticles2>62</yearsArticles2>
+          <yearsCited2>90</yearsCited2>
+          <exImpactFactor>1.44</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2017">
+          <impactFactor>0.73</impactFactor>
+          <impactFactor3>0.97</impactFactor3>
+          <impactFactor4>1.16</impactFactor4>
+          <impactFactor5>1.19</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.315</sjr>
+          <immediacyIndex>0.59</immediacyIndex>
+          <selfCitedRate>5.56%</selfCitedRate>
+          <yearsArticles2>49</yearsArticles2>
+          <yearsCited2>36</yearsCited2>
+          <exImpactFactor>0.69</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2016">
+          <impactFactor>0.94</impactFactor>
+          <impactFactor3>1.49</impactFactor3>
+          <impactFactor4>1.56</impactFactor4>
+          <impactFactor5>1.48</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.7</sjr>
+          <immediacyIndex>0.33</immediacyIndex>
+          <selfCitedRate>6.9%</selfCitedRate>
+          <yearsArticles2>31</yearsArticles2>
+          <yearsCited2>29</yearsCited2>
+          <exImpactFactor>0.87</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2015">
+          <impactFactor>1.75</impactFactor>
+          <impactFactor3>1.75</impactFactor3>
+          <impactFactor4>1.72</impactFactor4>
+          <impactFactor5>1.51</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.993</sjr>
+          <immediacyIndex>0.05</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>36</yearsArticles2>
+          <yearsCited2>63</yearsCited2>
+          <exImpactFactor>1.75</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2014">
+          <impactFactor>1.1</impactFactor>
+          <impactFactor3>1.25</impactFactor3>
+          <impactFactor4>1.18</impactFactor4>
+          <impactFactor5>1.18</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.689</sjr>
+          <immediacyIndex>0.25</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>41</yearsArticles2>
+          <yearsCited2>45</yearsCited2>
+          <exImpactFactor>1.1</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2013">
+          <impactFactor>0.97</impactFactor>
+          <impactFactor3>0.84</impactFactor3>
+          <impactFactor4>0.84</impactFactor4>
+          <impactFactor5>0.84</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.087</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>6.45%</selfCitedRate>
+          <yearsArticles2>32</yearsArticles2>
+          <yearsCited2>31</yearsCited2>
+          <exImpactFactor>0.91</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2012">
+          <impactFactor>0.78</impactFactor>
+          <impactFactor3>0.78</impactFactor3>
+          <impactFactor4>0.78</impactFactor4>
+          <impactFactor5>0.78</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.18</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>27</yearsArticles2>
+          <yearsCited2>21</yearsCited2>
+          <exImpactFactor>0.78</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2011">
+          <impactFactor>0.25</impactFactor>
+          <impactFactor3>0.25</impactFactor3>
+          <impactFactor4>0.25</impactFactor4>
+          <impactFactor5>0.25</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.13</immediacyIndex>
+          <selfCitedRate>0.0%</selfCitedRate>
+          <yearsArticles2>12</yearsArticles2>
+          <yearsCited2>3</yearsCited2>
+          <exImpactFactor>0.25</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2010">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2009">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2008">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002754480</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001818">
+        <issn>1598-9267</issn>
+        <journal-name>한국문예창작</journal-name>
+        <publisher-name>한국문예창작학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume>20</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002754480">
+        <article-categories>인문학 &gt; 문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[황순원이 이해한 실존주의 사상과 문학 — 황순원 장편소설 3편을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existentialist Ideas and Literature understood by Hwang Soonwon — Focusing on Hwang Soonwon’s three feature novels]]></article-title>
+          <article-title lang="english"><![CDATA[Existentialist Ideas and Literature understood by Hwang Soonwon — Focusing on Hwang Soonwon’s three feature novels]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이승하]]></name>
+            <name-eng><![CDATA[Lee Seung-Ha]]></name-eng>
+            <institution>중앙대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[한국에서 실존주의에 대한 논의가 가장 활발히 전개되던 시점에 황순원은 장편소설 『카인의 후예』 『인간접목』 『나무들 비탈에 서다』를 썼다. 작가 자신 서구에서 유입된 실존주의를 의식하고서 이들 소설을 썼다고 말한 적은 없었다. 하지만 사르트르와 카뮈의 저작을 읽거나 문예지상의 실존주의에 대한 논의를 읽었다면 실존주의의 영향을 음으로건 양으로건 받았다고 봐야 할 것이다. 또한 동시대의 소설가 장용학・손창섭・오상원・이호철・ 이범선 등이 쓴 전후소설도 읽었다면 실존주의와 등을 돌릴 이유는 없었다고 본다. 연구자는 『카인의 후예』에서 이성에 대한 사랑의 실천을 인간 최고의 덕목으로 본 황순원 나름의 실존주의적 휴머니즘을 읽어냈다. 『인간접목』은 악과 싸워 이기고자 한 선의 실천적 노력과 부조리한 현실로부터 벗어나려는 인물들의 의지, 생명에 대한 연민과 옹호라는 주제가 담겨 있어 실존주의와 연관이 있다고 보았다. 『나무들 비탈에 서다』에서는 책임의식이 동반되어야지만 자유에 대한 이해가 온전하다, 자유 과잉상태는 인간을 파멸케 한다는 실존주의적인 명제가 제시되어 있다고 보았다.]]></abstract>
+          <abstract lang="english"><![CDATA[At a time when discussions on existentialism were most active in Korea, Hwang Soonwon wrote a long novel, Descendant of Cain, Human Graft, and Stand on a slope of trees. The writer himself never said that he wrote these novels, conscious of the existentialism that flowed from the West. However, if you have read Sartre and Camus’ books or read discussions on existentialism in the literary world, you can say that it has been influenced negatively or positively by existentialism.
+If he had read post-war novels written by Jang Yonghak, Son Changseop, Oh Sangwon, Lee Hochul and Lee Bumsun in the same era, there would be no reason to turn his back on existentialism. The researcher read Hwang Soonwon‘s own existentialist humanism, which saw the practice of love for reason as the best virtue of human beings in Descendant of Cain. Human Graft is related to existentialism because it contains the themes of a good’s practical efforts to fight evil and their willingness to escape from irrational reality, compassion and advocacy for life. Stand on a slope of trees, a sense of responsibility must be accompanied, but an understanding of freedom is intact, and an existentialistic proposition that over-freedom destroys humans is suggested. In this regard, Hwang Sunwon can be regarded as a writer who knows the ideology of existentialism and digests it in his own way.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Hwang Soonwon]]></keyword>
+          <keyword><![CDATA[Humanism]]></keyword>
+          <keyword><![CDATA[Irrationality]]></keyword>
+          <keyword><![CDATA[sense of responsibility]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[situation limite]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[황순원]]></keyword>
+          <keyword><![CDATA[휴머니즘]]></keyword>
+          <keyword><![CDATA[부조리]]></keyword>
+          <keyword><![CDATA[책임의식]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[한계상황]]></keyword>
+        </keyword-group>
+        <fpage>45</fpage>
+        <lpage>73</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.47057/jklcw.2021.52.02]]></doi>
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.6</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002754480]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF058744906" type-code="03" type-name="단행본">
+          <title>카인의 後裔/나무들 비탈에 서다</title>
+          <author>황순원</author>
+          <pubilisher>(주)삼중당</pubilisher>
+          <pubi-year>1972</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744907" type-code="03" type-name="단행본">
+          <title>人間接木</title>
+          <author>황순원</author>
+          <pubilisher>(주)삼중당</pubilisher>
+          <pubi-year>1975</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744908" type-code="03" type-name="단행본">
+          <title>문예사조</title>
+          <author>사르트르</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744909" type-code="03" type-name="단행본">
+          <title>시지프의 신화</title>
+          <author>알베르 카뮈</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744910" type-code="03" type-name="단행본">
+          <title>문예사조의 새로운 이해</title>
+          <author>임헌영</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744911" type-code="03" type-name="단행본">
+          <title>한국전후문제작품집 제1권</title>
+          <author>장용학</author>
+          <pubilisher>신구문화사</pubilisher>
+          <pubi-year>1960</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744912" type-code="03" type-name="단행본">
+          <title>황순원 문학 연구</title>
+          <author>장현숙</author>
+          <pubilisher>시와시학사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744913" type-code="03" type-name="단행본">
+          <title>문예사조</title>
+          <author>정명환</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744914" type-code="03" type-name="단행본">
+          <title>황순원 문학과 인간 탐구</title>
+          <author>최동호</author>
+          <pubilisher>서정시학</pubilisher>
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF058744915" type-code="03" type-name="단행본">
+          <title>월북작가 대표문학 23</title>
+          <author>김동석</author>
+          <pubilisher>서음출판사</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>348-</page>
+        </reference>
+        <reference refebibl-id="REF058744916" type-code="07" type-name="기타자료">
+          <title>사르트르의 실존주의</title>
+          <author>박인환</author>
+        </reference>
+        <reference refebibl-id="REF058744917" type-code="03" type-name="단행본">
+          <title>해방 전후사의 인식 1</title>
+          <author>유인호</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>462-463</page>
+        </reference>
+        <reference refebibl-id="REF058744918" type-code="03" type-name="단행본">
+          <title>한국 대표 명작/황순원</title>
+          <author>이보영</author>
+          <pubilisher>지학사</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>246-</page>
+        </reference>
+        <reference refebibl-id="REF058744919" type-code="01" type-name="학술지(정기간행물)">
+          <title>實存的 現實과 美學的 顯現</title>
+          <author>이태동</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1980</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>10-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF058744920" arti-id="ART000956748" type-code="01" type-name="학술지(정기간행물)">
+          <title>黃順元 장편 &lt;나무들 비탈에 서다&gt;의 실존주의 문학적 성격</title>
+          <author>장양수</author>
+          <journal-name>한국문학논총</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>39</isseue>
+          <serno />
+          <page>357-372</page>
+          <pubilisher>한국문학회</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

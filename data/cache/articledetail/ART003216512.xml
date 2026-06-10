@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003216512</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001463">
+        <issn>1598-138X</issn>
+        <journal-name>현대영미시연구</journal-name>
+        <publisher-name>한국현대영미시학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2025</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>31</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003216512">
+        <article-categories>인문학 &gt; 영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Existential Implications of “Freedom” in Bob Dylan’s Lyrics]]></article-title>
+          <article-title lang="english"><![CDATA[The Existential Implications of “Freedom” in Bob Dylan’s Lyrics]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[조영호]]></name>
+            <name-eng><![CDATA[Yeong-Ho Cho]]></name-eng>
+            <institution>경희대학교</institution>
+          </author>
+          <author author-division="2" author-part="교신">
+            <name><![CDATA[홍성규]]></name>
+            <name-eng><![CDATA[Sung-Kyoo Hong]]></name-eng>
+            <institution>경희대학교 대학원 포스트모던음악학과</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper analyzes the existential implications of “freedom” embedded in the lyrics of Bob Dylan through the lens of Jean-Paul Sartre’s existentialist philosophy. Centered on Dylan’s 1960s works, it investigates how his poetic voice intersects with Sartre’s core existential concepts. Set against the sociopolitical context of the Vietnam War, civil rights movements, and the Beat Generation, Dylan’s music resonates with Sartrean themes of radical freedom and individual responsibility. Songs such as “Blowin’ in the Wind” and “The Times They Are a-Changin’” clearly express Sartre’s spirit of engagement, emphasizing the artist’s moral involvement in history and society. After 1964, Dylan’s lyrics begin to reveal deeper existential inquiries, particularly through the concept of être-pour-autrui (being-for-others). His 1965-1966 compositions are especially rich in existential meaning. This study discusses that Dylan’s lyrics during this period reflect four Sartrean dimensions of freedom as outlined in Being and Nothingness: freedom as the condition for action, freedom within limitation, freedom in anxiety, and freedom through engagement. These categories serve as interpretive tools for understanding Dylan’s work beyond protest music. Through this study, Dylan’s music is positioned as more than resistance art; it becomes an extension of existential literature and a valuable form of popular art that provides philosophical insight into the nature of freedom.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analyzes the existential implications of “freedom” embedded in the lyrics of Bob Dylan through the lens of Jean-Paul Sartre’s existentialist philosophy. Centered on Dylan’s 1960s works, it investigates how his poetic voice intersects with Sartre’s core existential concepts. Set against the sociopolitical context of the Vietnam War, civil rights movements, and the Beat Generation, Dylan’s music resonates with Sartrean themes of radical freedom and individual responsibility. Songs such as “Blowin’ in the Wind” and “The Times They Are a-Changin’” clearly express Sartre’s spirit of engagement, emphasizing the artist’s moral involvement in history and society. After 1964, Dylan’s lyrics begin to reveal deeper existential inquiries, particularly through the concept of être-pour-autrui (being-for-others). His 1965-1966 compositions are especially rich in existential meaning. This study discusses that Dylan’s lyrics during this period reflect four Sartrean dimensions of freedom as outlined in Being and Nothingness: freedom as the condition for action, freedom within limitation, freedom in anxiety, and freedom through engagement. These categories serve as interpretive tools for understanding Dylan’s work beyond protest music. Through this study, Dylan’s music is positioned as more than resistance art; it becomes an extension of existential literature and a valuable form of popular art that provides philosophical insight into the nature of freedom.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Bob Dylan]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Jean-Paul Sartre]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Popular Art]]></keyword>
+          <keyword><![CDATA[밥 딜런]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[대중예술]]></keyword>
+        </keyword-group>
+        <fpage>57</fpage>
+        <lpage>88</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22536/bapoet.2025.31.1.57]]></doi>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003216512]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

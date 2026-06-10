@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleSearch</apiCode>
+    <keyword>사르트르</keyword>
+    <page>1</page>
+    <displayCount>10</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <total>236</total>
+    </result>
+    <record>
+      <journalInfo>
+        <journal-name>人文學硏究</journal-name>
+        <publisher-name>인문학연구소</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>41</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003097968">
+        <article-categories>기타인문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[History/Story and the Question of Temporality in Sartre’s Nausea]]></article-title>
+          <article-title lang="foreign"><![CDATA[사르트르의  구토 에 나타난 역사/이야기와 시간성의 문제]]></article-title>
+          <article-title lang="english"><![CDATA[History/Story and the Question of Temporality in Sartre’s Nausea]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Jeon Seenhwa">전신화(인천대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper offers a close reading of Jean-Paul Sartre’s Nausea as a literary text, focusing on the protagonist Roquentin’s exploration of the intertwined relationship between past, present, and art, and its significance for his meditations on human existence and his choice of artistic practice at the novel's conclusion. Roquentin grapples with the epistemological limitations of historical objectivity, sensing the problematic nature of the historian’s subjective perspective in reconstructing the past. Through a “pervert” imagination that subverts the distinction between subject and object, Roquentin momentarily overcomes the uncertainty inherent in re-creating scenes from his past or absent historical figures. In the chestnut root scene, he perceives existence as a process of becoming and as an excess. He opts to write a novel instead of a history book, a form oriented toward the future that illuminates his past existence. Sartre thus suggests a collaborative act between writer and reader, fostering the possibility of imagining alternative forms of existence beyond its inherent contingency.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper offers a close reading of Jean-Paul Sartre’s Nausea as a literary text, focusing on the protagonist Roquentin’s exploration of the intertwined relationship between past, present, and art, and its significance for his meditations on human existence and his choice of artistic practice at the novel's conclusion. Roquentin grapples with the epistemological limitations of historical objectivity, sensing the problematic nature of the historian’s subjective perspective in reconstructing the past. Through a “pervert” imagination that subverts the distinction between subject and object, Roquentin momentarily overcomes the uncertainty inherent in re-creating scenes from his past or absent historical figures. In the chestnut root scene, he perceives existence as a process of becoming and as an excess. He opts to write a novel instead of a history book, a form oriented toward the future that illuminates his past existence. Sartre thus suggests a collaborative act between writer and reader, fostering the possibility of imagining alternative forms of existence beyond its inherent contingency.]]></abstract>
+        </abstract-group>
+        <fpage>199</fpage>
+        <lpage>212</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.31323/SH.2024.06.41.09]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003097968]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>철학연구</journal-name>
+        <publisher-name>대한철학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>166</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002962277">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 타자론에서 소외와 갈등]]></article-title>
+          <article-title lang="foreign"><![CDATA[Alienation and Conflict in Sartre's Theory of the Other]]></article-title>
+          <article-title lang="english"><![CDATA[Alienation and Conflict in Sartre's Theory of the Other]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="SEOL, MIN">설민(성균관대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르의 타자론이 인간관계의 부정적 양상을 일반화함으로써 긍정적 양상을 무시했다는 비판이 꾸준히 제기되어왔다. 이 글은 사르트르가 ‘소외’와 ‘갈등’에 부여하는 의미를 적절히 구별함으로써 그러한 비판을 상당히 약화할 수 있음을 보이고자 한다. 이를 위해서 우선 타자의 시선에 의한 의식의 소외라는 사르트르의 핵심 논제를 가치함축적이기보다 존재론적으로 독해할 것을 제안한다. 다음으로 『존재와 무』의 “구체적 타인 관계” 장과 관련하여 사르트르에게 모든 인간관계가 갈등과 좌절로 귀결되어야만 할 필연적 이유와 같은 것은 없다고 주장할 것이다. 끝으로 『윤리학 노트』의 진술을 부분적으로 참고하면서 ‘회심’이 어떻게 인간관계의 긍정적 양상을 유도할 수 있는지 살펴볼 것이다. 이를 통해서 소외는 타자의 본질적 의미에 속하는 존재론적 현상으로서 필연적이더라도 구체적 인간관계에서의 갈등은 회심을 통해 극복될 수 있다는 것이 사르트르의 견해임을 보일 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[Criticism on Sartre’s theory of the Other has consistently been raised that it ignores the positive aspects of human relationships. This article attempts to show that such criticism can be considerably weakened by appropriately distinguishing the meanings Sartre gives to ‘alienation’ and ‘conflict.’ To this end, I propose to read Sartre’s core thesis, the alienation of consciousness by the gaze of the Other, from an ontological point of view rather than from an axiological one. Furthermore, in relation to the chapter “Concrete Relations with Others” in Being and Nothingness, I argue that for Sartre there is no such thing as an inevitable reason that all human relationships must end in conflict and frustration. Finally, we will look at how ‘conversion’ can induce positive aspects of human relationships while partially referring to Notebooks for an Ethics. Through this, it will be shown that Sartre’s view is that even though alienation is an ontological phenomenon belonging to the essential meaning of the Other, conflicts in concrete human relationships can be overcome through conversion.]]></abstract>
+        </abstract-group>
+        <fpage>173</fpage>
+        <lpage>204</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002962277]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>프랑스학연구</journal-name>
+        <publisher-name>프랑스학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume />
+        <issue>104</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003076045">
+        <article-categories>프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 『구토』 한국어 번역의 쟁점: ‘être’와 ‘exister’]]></article-title>
+          <article-title lang="foreign"><![CDATA[Les enjeux de la traduction coréenne de La Nausée de Sartre : ‘être’ et ‘exister’]]></article-title>
+          <article-title lang="english"><![CDATA[Les enjeux de la traduction coréenne de La Nausée de Sartre : ‘être’ et ‘exister’]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Young-Rae JI">지영래(고려대학교 불어불문학과)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구의 목표는 2024년 현재 국내에 유통되고 있는 사르트르의 소설 『구토La Nausée』(1938)의 한국어 번역본 3종을 비교 검토하고, 원전의 핵심적인 내용을 전달하기에 여전히 아쉬운 번역지점들을 살펴보는 것이다. 사르트르의 『구토』는 1953년 양병식에 의해 처음 국내에 번역 소개된 이후 저작권법이 제대로 작동하지 않았던 오랜 기간 동안 수많은 번역본들이 난립하며 독자들에게 많은 혼란을 주었던 작품들 중 하나이다. 최근 문예출판사에서 갈리마르 출판사와 정식 계약을 맺고 새로운 번역본을 출간함으로써 외형상 『구토』의 국내 번역 상황은 정상적인 수준에 많이 가까워 진 듯 보인다. 그러나 내용적인 면에서는 여전히 작품의 핵심을 전달하기에 부족한 부분이 남아있다.
+우리는 먼저 현재 시중에 유통되고 있는 『구토』의 세 판본(방곤 역, 이희영 역, 임호경 역)의 전반적인 내용을 간략하게 비교 검토하고, 『구토』의 이해에 있어서 핵심적인 장면들의 번역을 ‘être’ 동사와 ‘exister’ 동사를 중심으로 살펴보고자 한다. 이어서 임시적으로 새로운 번역 용어와 적용 방식을 제안할 것이고, 이 새로운 용어를 사용하여 『구토』의 주요 장면을 재검토하면서 그 타당성을 피력해보고자 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[Cette étude compare trois traductions coréennes de La Nausée (1938) de Sartre, actuellement distribuées en Corée. L'objectif est d'identifier les points de traduction insatisfaisants pour transmettre l'essence de l'œuvre originale. Depuis sa première introduction en Corée par Yang Byungsik en 1953, La Nausée a été largement traduite, en raison de problèmes de droits d'auteur, provoquant la confusion des lecteurs. Récemment, un contrat entre Gallimard et la Maison d’édition Moonye a permis une nouvelle traduction, améliorant la situation des traductions de La Nausée. Cependant, des lacunes subsistent dans la transmission du contenu essentiel de l'œuvre.
+Tout d'abord, nous envisageons de procéder à une comparaison succincte des trois éditions actuelles. Ensuite, la comparaison se penche sur la traduction des scènes clés, mettant en avant les verbes "être" et "exister" pour une meilleure compréhension. Une proposition provisoire de nouveaux termes et approches de traduction sera présentée, avec un réexamen des principales scènes de La Nausée pour justifier leur pertinence.]]></abstract>
+        </abstract-group>
+        <fpage>203</fpage>
+        <lpage>229</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.18812/refc.2024.104.203.]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003076045]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>철학</journal-name>
+        <publisher-name>한국철학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume />
+        <issue>155</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002963539">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르와 타자 존재의 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre and the Problem of the Existence of the Other]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre and the Problem of the Existence of the Other]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="SEOL, MIN">설민(성균관대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르의 유아론 논박 요지를 포착하기란 까다로운 일이다. 이 글의 목적은 사르트르의 타자론을 파악하기 위한 여러 독해 방식을 검토하면서 그의 진의와 요지를 파악하는 것이다. 그래서 우선 사르트르의 요지로 오해되기 쉬운 두 가지 접근방식을 성급한 것으로 물리칠 것이다. 그 하나는 타인에 대한 지각이론에, 다른 하나는 내적 부정에 의한 타자와의 존재론적 연결 논제에 기대고 있다. 다음으로 몇몇 연구자가 제시하였던 시선에서의 수치 경험에 따른 논증을 비판적으로검토할 것이다. 이어서 이른바 ‘부재하는 타자’ 또는 ‘수 이전적 타자’의 문제를 다루기 위해 하이데거의 존재론적 전략과의 유비가 유용할 수 있음을 보일 것이다.
+끝으로 존재론적 전략을 활용함으로써 사르트르의 시선론을 어떻게 재독해해야하는가와 관련하여 몇 가지 사항을 부언할 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[It is tricky to capture the gist of Sartre’s refutation of solipsism. The aim of this paper is to grasp the true meaning of Sartre while examining various ways of reading his remarks on the Other. So, first of all, I will dismiss as too hasty two approaches that are easily misunderstood as Sartre’s points. One is based on the theory of perception of other persons, and the other is based on the ontological connection with the Other through internal negation. Next, I will critically review the arguments based on shame in the gaze of the Other which are presented by several researchers. Then, I will show that an analogy with Heidegger’s ontological strategy can be useful to deal with the problem of the so-called ‘absent Other’ or ‘pre-numerical Other’. Finally, I will mention a few points regarding how to reread Sartre’s theory of the look by using this ontological strategy.]]></abstract>
+        </abstract-group>
+        <fpage>79</fpage>
+        <lpage>104</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002963539]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현대영미어문학</journal-name>
+        <publisher-name>현대영미어문학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>41</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002940374">
+        <article-categories>영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르, 버틀러 그리고 <블루>]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre, Butler and Blue.]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre, Butler and Blue.]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Seung Jin Baek">백승진(경상국립대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[The purpose of the paper is to show how Jean-Paul Sartre’s existentialism is reflected in Judith Butler’s Queer theory in Gender Trouble. Sartre’s existentialism says that “existence precedes essence” in Being and Nothingness and Existentialism is a Humanism. This means that there is no given and specific human nature. Man first of all exists and defines himself afterwards. Sartre takes an example of a waiter in a cafe. The waiter acts in bad faith because he thinks the waiter is his essence. Butler makes a concept of “performativity” to show that gender is an imitative structure and that gender is constructed through a stylized repetition of acts. Also, Butler argues that the notion of an original gender identity is often parodied within the cultural practices of drag, cross-dressing, and the sexual stylization of butch/femme identities. Both Sartre’s existentialism and Butler’s Queer theory basically deny the concept of “essence.”]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of the paper is to show how Jean-Paul Sartre’s existentialism is reflected in Judith Butler’s Queer theory in Gender Trouble. Sartre’s existentialism says that “existence precedes essence” in Being and Nothingness and Existentialism is a Humanism. This means that there is no given and specific human nature. Man first of all exists and defines himself afterwards. Sartre takes an example of a waiter in a cafe. The waiter acts in bad faith because he thinks the waiter is his essence. Butler makes a concept of “performativity” to show that gender is an imitative structure and that gender is constructed through a stylized repetition of acts. Also, Butler argues that the notion of an original gender identity is often parodied within the cultural practices of drag, cross-dressing, and the sexual stylization of butch/femme identities. Both Sartre’s existentialism and Butler’s Queer theory basically deny the concept of “essence.”]]></abstract>
+        </abstract-group>
+        <fpage>33</fpage>
+        <lpage>49</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002940374]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>동서정신과학</journal-name>
+        <publisher-name>한국동서정신과학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>26</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002964675">
+        <article-categories>동서비교철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 철학과 현대사회와 자유, 그리고 책임의 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kwon Wook Hye">권욱혜(대구가톨릭대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[인간의 삶에 있어서 자유는 언제나 중요한 위치에 있으며 많은 철학자가 의미 있게 다루는 부분이다. 우리는 순간마다 자유의지로 결단하고 선택하고 행위하고 또 자신의 행위에 대한 책임을 생각하며 살아야 하기 때문이다. 자유는 개인의 자유를 중요하게 생각하는 현대사회로 오면서 더 많은 의미를 지닌다. 그리하여 본 연구에서는 현대 실존철학자 사르트르의 주요 작품들을 중심으로 하여 사르트르가 이야기하는 자유란 무엇인지에 대해 먼저 살펴본 다음, 자유와 책임과의 관계 도덕적 주체로서의 인간에 대해 살펴보고자 한다. 사르트르의 자유는 인간에게 무조건적으로 주어져 있는 것이다. 그리고 자유에는 항상 책임이 따르는데 사르트르가 이야기하는 책임은 개인적인 의미의 책임이 아니라 대자존재로서의 책임을 의미한다. 개인적이며 주관적인 주체가 아니라 상호주체성을 가진 인간으로서의 책임에 대해 이야기한다. 그리하여 우리는 사르트르가 이야기하는 개인의 자유와 책임, 그리고 도덕적 주체로서의 대자존재에 대한 고찰을 통해 지금 우리에게 필요한 자유에 대한 개념을 새롭게 재정비할 수 있을 것이다. 그리고 현대를 살아가는 우리의 삶과 미래세대를 위한 교육에 더욱더 실질적으로 적용될 수 있기를 기대한다]]></abstract>
+          <abstract lang="english"><![CDATA[Liberty is always in an important position in human life and is a part that many philosophers deal with meaningfully. This is because humans have to make decisions, choose, act, and live thinking about their responsibilities for actions every moment. Liberty has more meaning as it comes to a modern society that values individual liberty. Thus, in this study, focusing on the main works of modern existential philosopher Sartre, the researcher will first look at what Sartre talks about liberty, and then look at the relationship between freedom and responsibility and humans as moral subjects. Sartre's liberty is unconditionally given to humans. And liberty always comes with responsibility, and the responsibility that Sartre talks about means responsibility as a Being-for-itself, not in a personal. It talks about responsibility as a human being with mutual subjectivity, not as a personal subject. Thus, this study will be able to reorganize the concept of liberty that human need now through the consideration of Sartre's personal liberty and responsibility, and the Being-for-itself as a moral subject. And it is expected that it can be applied more and more practically to the life of humans living in modern times and education for future generations.]]></abstract>
+        </abstract-group>
+        <fpage>81</fpage>
+        <lpage>96</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002964675]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>독일언어문학</journal-name>
+        <publisher-name>한국독일어문학회</publisher-name>
+        <pub-year>2016</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>71</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002094090">
+        <article-categories>독일어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의와 쥐스킨트의 소설 <비둘기>]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartres Existenzialismus und die Taube von Patrick Süskind]]></article-title>
+          <article-title lang="english"><![CDATA[Sartres Existenzialismus und die Taube von Patrick Süskind]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Cho, hyunchon">조현천(제주대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Den Zusammenhang von Blick und Scham analysiert Jean Paul Sartres Theorie des Blicks, die den Kern seiner Intersubjektivitätstheorie darstellt. Er entwickelt sie in seinem Versuch einer phänomenologischen Ontologie Das Sein und das Nichts(1943), einem der grundlegenden Texte der Existenzphilosophie. Nach Sartre ist Scham nur intersubjektiv möglich im Moment des Erblicktwerdens durch ein anderes Subjekt, unter dessen Blick das erblickte Individuum sich als Objekt empfindet.
+In der vorliegenden Arbeit wird versucht, die Bedeutung des Blicks des Anderen und Schamgefühls von Jean-Paul Sartre in der prototypischen Novelle Die Taube(1987) von Patrick Süskind zu untersuchen, in der Scham gegenüber Menschen ein wiederkehrendes Gefühl ist. Jonathan Noel, die Hauptfigur der Novelle, ist ein Sonderling, der jegliche menschliche Kontakte meidet. Am Ende der Novelle begreift er, dass Schamgefühl ein Sichschämen über sich vor dem Anderen ist. Er überwindet das Schamgefühl und entschließt sich, mit den anderen Leuten zusammen zu leben.]]></abstract>
+          <abstract lang="english"><![CDATA[Den Zusammenhang von Blick und Scham analysiert Jean Paul Sartres Theorie des Blicks, die den Kern seiner Intersubjektivitätstheorie darstellt. Er entwickelt sie in seinem Versuch einer phänomenologischen Ontologie Das Sein und das Nichts(1943), einem der grundlegenden Texte der Existenzphilosophie. Nach Sartre ist Scham nur intersubjektiv möglich im Moment des Erblicktwerdens durch ein anderes Subjekt, unter dessen Blick das erblickte Individuum sich als Objekt empfindet.
+In der vorliegenden Arbeit wird versucht, die Bedeutung des Blicks des Anderen und Schamgefühls von Jean-Paul Sartre in der prototypischen Novelle Die Taube(1987) von Patrick Süskind zu untersuchen, in der Scham gegenüber Menschen ein wiederkehrendes Gefühl ist. Jonathan Noel, die Hauptfigur der Novelle, ist ein Sonderling, der jegliche menschliche Kontakte meidet. Am Ende der Novelle begreift er, dass Schamgefühl ein Sichschämen über sich vor dem Anderen ist. Er überwindet das Schamgefühl und entschließt sich, mit den anderen Leuten zusammen zu leben.]]></abstract>
+        </abstract-group>
+        <fpage>115</fpage>
+        <lpage>131</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.30947/zfdsl.2016..71.115]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002094090]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>동서철학연구</journal-name>
+        <publisher-name>한국동서철학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume />
+        <issue>109</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003001822">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르와 레비나스에게서 절대적 타자로서 타인]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Other as the Absolute Alterity in Sartre and Levinas]]></article-title>
+          <article-title lang="english"><![CDATA[The Other as the Absolute Alterity in Sartre and Levinas]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="SEOL, MIN">설민(성균관대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르와 레비나스는 실천적 견지에서 상반된 타자론을 제시한다. 사르트르는 타인과의 관계의 근본 형태를 갈등과 소외로 파악하지만, 레비나스는 사랑과 평화로 파악한다. 우리는 먼저 사르트르와 레비나스의 타자론을 각각 ‘권력적인 시선’과 ‘호소하는 얼굴’을 중심으로 고찰할 것이다. 이어서 그들이 실천적 견지에서 대립각을 형성하게 되는 배경을 상이한 인간관에서 찾을 것이다. 자기정립적 의지를 근간으로 하는 사르트르적 인간, 곧 ‘대자’는 타인의 권력적인 시선에서 현상학적으로 결정적인 타자 경험을 발견한다. 반면에 인본주의적 전통을 타자 철학적 견지에서 일신하려는 레비나스에게 인간을 참으로 인간답게 해주는 유일무이한 것, 곧 호소하는 타인의 얼굴이야말로 진정한 타자 경험을 제공하는 것으로 이해된다. 다음으로 이러한 현격한 차이에도 불구하고 사르트르와 레비나스는 타인을 절대적 타자로 파악한다는 이제껏 충분히 주목되지 못한 사실을 환기할 것이다. 특히 그들에게 절대적 타자로서 타인은 (1) 여느 대상과 달리 인식 가능성을 초월하며, (2) 세계의 저편에 위치하고, (3) 주체를 수동적인 처지로 몰아세운다.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre and Levinas present conflicting theories of the other: Sartre understands the relationship with others as conflict and alienation, but Levinas understands it as love and peace. We will first examine their theories of the other, focusing on the ‘powerful gaze' and 'appealing face' respectively. Next, we will trace the background in which they practically formed different views of the other to different views of human beings. Sartrean human being based on self-establishing will, that is, the 'for-itself' discovers the phenomenologically decisive experience of the other in the powerful gaze of the other. On the other hand, for Levinas, who is trying to renew the humanistic tradition from the standpoint of the philosophy of the other, what makes a human truly human is the appeal of the other's face, which is understood to provide a true experience of the other. At last, we will recall the hitherto unnoticed fact that, in spite of this stark difference, they perceive others as the absolute other in common. For them, as an absolute other, the other person (1) transcends the possibility of recognizing unlike other objects, (2) is located beyond the world, and (3) drives the subject to a passive mode of being.]]></abstract>
+        </abstract-group>
+        <fpage>207</fpage>
+        <lpage>232</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15841/kspew..109.202309.207]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003001822]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2026</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>108</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003318164">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[나의 자유는 어떻게 타인의 자유를 요구하는가? : 사르트르 자유 개념의 존재론적 재구성]]></article-title>
+          <article-title lang="english"><![CDATA[How Does My Freedom Require the Freedom of Others? An Ontological Reconstruction of Sartre’s Concept of Freedom]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyun Jung PARK">박현정(서울대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르 철학에서 개인의 자유가 어떻게 타인의 자유와 내재적으로 연결되는지를 밝히기 위해 자유의 존재론적 구조를 분석한다. 기존 해석들은 나와 타인의 자유 사이의 관계를 부분적으로 외재적인 것으로 설명해 왔으며, 그 결과 자유와 상호성의 존재론적 결합은 충분히 긴밀하게 해명되지 못한 채 남아 있었다. 본 연구는 이러한 한계가 자유의 존재론적 구조 자체를 충분히 검토하지 않은 데서 비롯된 것이라고 비판한다.
+본 논문은 자유를 사실성으로부터의 초월이라는 자기 관계적 운동으로 재정식화하고, 이 구조 안에서 타인의 자유가 나의 자유가 성립하기 위한 내적 계기로 작동함을 보인다. 타인은 나를 객체화함으로써 내가 넘어설 구체적 사실성을 제공하는 동시에, 공동 실천 속에서 나의 초월을 촉발하고 증폭시키는 상호 매개의 역할을 수행한다. 이러한 분석은 자유가 타인을 단순한 제한으로만 다루는 것이 아니라, 함께 존재함으로써 오히려 자기 자신을 형성하고 현실화하는 관계적 운동임을 드러낸다.
+이로써 사르트르의 자유 개념은 개인주의적 자유라는 통상적 이해를 넘어, 상호 공존의 가능성을 그 존재론적 구조 안에서부터 함축하고 있음이 밝혀진다. 본 논문은 자유와 상호성 사이의 간극을 외재적 규범으로 메우는 대신, 자유의 구조 자체 안에서 재구성함으로써 개인의 자유에 근거한 보편 윤리의 존재론적 토대를 제시한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analyzes the ontological structure of freedom in Sartre in order to clarify how individual freedom is intrinsically connected to the freedom of others. Prevailing interpretations have tended to treat the relation between my freedom and that of others as partially external, leaving the ontological unity of freedom and reciprocity insufficiently elucidated. This study argues that this limitation arises from an inadequate examination of the ontological structure of freedom itself.
+The paper rearticulates freedom as a self relational movement of transcendence from facticity and demonstrates that, within this structure, the freedom of others functions as an internal moment in the constitution of my own freedom. The other provides the concrete facticity that I must transcend by objectifying me, while at the same time, within shared praxis, playing a mediating role that provokes and intensifies my transcendence. This analysis shows that freedom does not merely encounter the other as a limitation but unfolds as a relational movement in which the self is formed and actualized through being with others.
+In this way, Sartre’s concept of freedom is shown to imply, at the level of its ontological structure, the possibility of coexistence beyond the conventional interpretation of freedom as individualistic. Rather than bridging the gap between freedom and reciprocity through external norms, this paper reconstructs their connection within the structure of freedom itself, thereby presenting an ontological foundation for a universal ethics grounded in individual freedom.]]></abstract>
+        </abstract-group>
+        <fpage>68</fpage>
+        <lpage>99</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003318164]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>도덕교육연구</journal-name>
+        <publisher-name>한국도덕교육학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>34</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002850814">
+        <article-categories>교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의 철학이 도덕교육에 주는 시사]]></article-title>
+          <article-title lang="foreign"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+          <article-title lang="english"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Han-Jin">이한진(연동초등학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르는 인간의 근원적인 불안이 자유에 기인하는 것으로 파악한다. 의식으로서의 대자(對自)는 타인의 시선에서 결코 자유로울 수 없다. 그러나 인간은 불안을 지우기 위해서 자유를 포기하고 자기기만에 빠지는 경향이 있다. 실존으로서의 인간은 스스로 자신을 만들어가는 존재자다. 사르트르는 인간 실존의 핵심으로 자유를 꼽는다. 인간존재는 고정되어 있지 않다. 끊임없이 변화하며 다수성을 내포하고 있는 자유로운 의식의 존재다. 대자는 자신을 대상화하여 바라볼 수 있다. 대자는 실체로서 존재하지 않지만 자유롭게 즉자(卽自)를 부정할 수 있다. 자유로운 인간은 자기 내면성에 대한 내적 부정을 통해서 자기 자신을 새롭게 형성할 수 있다. 자율적 선택에 따라 자기 삶을 사는 사람만이 도덕적 주체로서 자신의 존재론적 책임을 다할 수 있다. 인간의 자기기만 극복과 자유를 강조한 사르트르의 실존주의 철학은 도덕적 주체의 정립을 추구하는 도덕교육과 관련하여 이론적 뒷받침이 되어준다.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre understands that the fundamental human anxiety is caused by freedom. For itself as consciousness can never be free from the gaze of others. However, humans tend to give up their freedom to get rid of their anxiety and fall into self-deception. Human beings as existential beings are beings who create themselves. According to Sartre, freedom is the essence of human existence. Human existence is not fixed. It is an existence of free consciousness that is constantly changing and contains a plurality. For itself can objectify itself and look at it. Although for itself does not exist as a substance, it can freely deny in itself. A free man can reshape himself through an inner denial of his inner self. Only those who live their lives according to their autonomous choices can fulfill their ontological responsibilities as a moral subject. Sartre's existentialist philosophy, which emphasized overcoming human self-deception and freedom, provides theoretical support in relation to moral education that seeks to establish a moral subject.]]></abstract>
+        </abstract-group>
+        <fpage>131</fpage>
+        <lpage>149</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17715/jme.2022.6.34.2.131]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850814]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

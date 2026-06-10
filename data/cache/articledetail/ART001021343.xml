@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001021343</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001206">
+        <issn>1229-9200</issn>
+        <journal-name>우리말글</journal-name>
+        <publisher-name>우리말글학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2006</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume>37</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART001021343">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[장용학 소설의 반전(反戰)인식과 개인주의적 아나키즘 특성연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[A study on Jang, Yong-hag's novel Recognition of Ant-war and Individualistic Anarchism]]></article-title>
+          <article-title lang="english"><![CDATA[A study on Jang, Yong-hag's novel Recognition of Ant-war and Individualistic Anarchism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[최성실]]></name>
+            <institution>경원대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[개인주의적 아나키즘(Individualistic anarchism)]]></keyword>
+          <keyword><![CDATA[제국주의(Imperialism)]]></keyword>
+          <keyword><![CDATA[국가주의(nationalism)]]></keyword>
+          <keyword><![CDATA[실존주의(existentialism)]]></keyword>
+          <keyword><![CDATA[반전(ant-war)]]></keyword>
+          <keyword><![CDATA[반전의식(warfare)]]></keyword>
+          <keyword><![CDATA[절대적 자유(absolute freedom)]]></keyword>
+          <keyword><![CDATA[개인적 윤리(individual ethics)]]></keyword>
+          <keyword><![CDATA[개인주의적 아나키즘(Individualistic anarchism)]]></keyword>
+          <keyword><![CDATA[제국주의(Imperialism)]]></keyword>
+          <keyword><![CDATA[국가주의(nationalism)]]></keyword>
+          <keyword><![CDATA[실존주의(existentialism)]]></keyword>
+          <keyword><![CDATA[반전(ant-war)]]></keyword>
+          <keyword><![CDATA[반전의식(warfare)]]></keyword>
+          <keyword><![CDATA[절대적 자유(absolute freedom)]]></keyword>
+          <keyword><![CDATA[개인적 윤리(individual ethics)]]></keyword>
+        </keyword-group>
+        <fpage>391</fpage>
+        <lpage>426</lpage>
+        <doi />
+        <uci>G704-001206.2006.37..007</uci>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">0.58</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001021343]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF017160115" type-code="03" type-name="단행본">
+          <title>장용학 문학전집</title>
+          <author>국학자료원</author>
+          <pubilisher />
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160117" type-code="03" type-name="단행본">
+          <title>장용학</title>
+          <author>동아출판사</author>
+          <pubilisher />
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160118" type-code="03" type-name="단행본">
+          <title>장용학 대표작품 선집</title>
+          <author>책세상</author>
+          <pubilisher />
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160120" type-code="03" type-name="단행본">
+          <title>소설과 현장비평</title>
+          <author>김윤식</author>
+          <pubilisher>새미</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160123" type-code="03" type-name="단행본">
+          <title>한국문학사</title>
+          <author>김윤식</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1972</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160125" type-code="03" type-name="단행본">
+          <title>개인주의적 아나키즘</title>
+          <author>김은석</author>
+          <pubilisher>우물이 있는 집</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160126" type-code="03" type-name="단행본">
+          <title>장용학 문학전집 7</title>
+          <author>박창원</author>
+          <pubilisher>국학자료원</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160130" type-code="03" type-name="단행본">
+          <title>아나키즘 이야기</title>
+          <author>박흥규</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160140" type-code="03" type-name="단행본">
+          <title>현대한국소설사</title>
+          <author>이재선</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160141" type-code="03" type-name="단행본">
+          <title>허구의 나라 일본</title>
+          <author>장용학</author>
+          <pubilisher>일월서각</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160144" type-code="03" type-name="단행본">
+          <title>프랑스지식인들과 한국전쟁</title>
+          <author>정명환</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160147" type-code="03" type-name="단행본">
+          <title>동물성</title>
+          <author>르스텔, 도미니크</author>
+          <pubilisher>동문선</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160148" type-code="03" type-name="단행본">
+          <title>무너지기 쉬운 절대성</title>
+          <author>지젝, 슬라보예</author>
+          <pubilisher>인간사랑</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160151" type-code="03" type-name="단행본">
+          <title>The Political Theory of Anarchism</title>
+          <author>Carter, A</author>
+          <pubilisher>London: Rourledge</pubilisher>
+          <pubi-year>1971</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160152" type-code="03" type-name="단행본">
+          <title>The Foucault Reader</title>
+          <author>Foucault, Michel</author>
+          <pubilisher>Ed. Pantheon</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160155" type-code="03" type-name="단행본">
+          <title>Anarchism</title>
+          <author>Miller, David</author>
+          <pubilisher>London</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160157" type-code="03" type-name="단행본">
+          <title>Anarcho-Syndicalism</title>
+          <author>Rocker, R</author>
+          <pubilisher>London, Pluto</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160158" type-code="03" type-name="단행본">
+          <title>Community, Anarchy And Liberty</title>
+          <author>Taylor, M</author>
+          <pubilisher>Cambridge University Press</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160162" type-code="03" type-name="단행본">
+          <title>Anarchism: A History of Libertarian Ideas and Movment</title>
+          <author>Woodcock, George</author>
+          <pubilisher>Harmonsworth</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160164" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재의 자각과 탐구</title>
+          <author>김  훈</author>
+          <journal-name>국어국문학</journal-name>
+          <pubi-year>1982</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>국어국문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017160167" type-code="01" type-name="학술지(정기간행물)">
+          <title>장용학소설의 시간의식연구</title>
+          <author>김용성</author>
+          <journal-name>한국학연구</journal-name>
+          <pubi-year>1991</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017160169" type-code="01" type-name="학술지(정기간행물)">
+          <title>탈출과 귀환으로서의 글쓰기</title>
+          <author>김혜연</author>
+          <journal-name>韓國文學硏究</journal-name>
+          <pubi-year>1995</pubi-year>
+          <volume>18</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF017160171" type-code="03" type-name="단행본">
+          <title>실존과 자유(한국현대문학전집4)</title>
+          <author>염무웅</author>
+          <pubilisher>신구문화사</pubilisher>
+          <pubi-year>1967</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF017160174" type-code="01" type-name="학술지(정기간행물)">
+          <title>장용학론</title>
+          <author>이철범</author>
+          <journal-name>문학춘추</journal-name>
+          <pubi-year>1965</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

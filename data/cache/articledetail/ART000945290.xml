@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART000945290</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000315">
+        <issn>1226-3958</issn>
+        <journal-name>국어교육</journal-name>
+        <publisher-name>한국어교육학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2004</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>114</issue>
+      </journalInfo>
+      <articleInfo article-id="ART000945290">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[김수영 시의 모더니티(5) -존재 시론의 이론적 근거와 그 구체적인 발현 양상-]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Modernity of Kim Su-Young's Poems (5) - The Theoretical Foundation of Existential Poetic Principles and the Aspects of Its Real Presence -]]></article-title>
+          <article-title lang="english"><![CDATA[The Modernity of Kim Su-Young's Poems (5) - The Theoretical Foundation of Existential Poetic Principles and the Aspects of Its Real Presence -]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[김유중]]></name>
+            <institution>한국항공대</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+          <abstract lang="english"><![CDATA[This article is to trace the existential characteristics and the foundation of Kim Su-Young's poetic principles. His two essays, “Anti-poetic Principles(반시론)” and “Poetry, spit(시여, 침을 뱉어라)” will be intensively explored. He depends upon Heidegger's logic in The Origin of Artistic Works (Der Ursprung des Kunstwerks) and interprets the book in his own way. In this process, he mentions the importance of the conception, the dynamic characteristics arising from the conflict between the openness of the World and uncovering the Earth. This conception leads many misunderstanding for its complexity. For this reason it is prerequisite to read and understand Heidegger's original work properly. Overall, Kim Su-Young is sympathetic with Heidegger and tends to accept his thoughts. But his interpretation about ‘Freedom’ is different from that of Heidegger: Kim's logic is much more open and free than that of Heidegger. This tendency can be regarded as a way of pursuing modernity and this consciousness provides a possible way to get out of old fashioned critical methodology such as interpreting his poems from Modernist or Realist viewpoint.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Existence(Sein)]]></keyword>
+          <keyword><![CDATA[Existentialism(Ontologie)]]></keyword>
+          <keyword><![CDATA[World(Welt)]]></keyword>
+          <keyword><![CDATA[Earth(Erde)]]></keyword>
+          <keyword><![CDATA[Conflict(Bestreitung)]]></keyword>
+          <keyword><![CDATA[Transference(&Uuml;bergang)]]></keyword>
+          <keyword><![CDATA[Freedom(Freiheit)]]></keyword>
+          <keyword><![CDATA[Confusion]]></keyword>
+        </keyword-group>
+        <fpage>325</fpage>
+        <lpage>358</lpage>
+        <doi />
+        <uci>G704-000315.2004..114.005</uci>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">0.39</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000945290]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF011971063" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시의 모더니티 (3)- ‘시간’에 대한 형이상학적 성찰</title>
+          <author />
+          <journal-name />
+          <pubi-year>2003.9</pubi-year>
+          <volume>134</volume>
+          <isseue />
+          <serno />
+          <page>313-342</page>
+          <pubilisher>국어국문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011971409" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시의 모더니티(4) - ‘언어’에 대한 존재론적인 이해</title>
+          <author />
+          <journal-name />
+          <pubi-year>2003.12</pubi-year>
+          <volume>82</volume>
+          <isseue />
+          <serno />
+          <page>123-151</page>
+          <pubilisher>한국어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011971003" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 존재 사건학</title>
+          <author />
+          <journal-name />
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서광사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011971414" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재와 시간 용어 해설</title>
+          <author />
+          <journal-name />
+          <pubi-year>1998</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>까치</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011970158" type-code="01" type-name="학술지(정기간행물)">
+          <title>한국 시의 구조 분석</title>
+          <author />
+          <journal-name />
+          <pubi-year>1987</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011970162" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영의 시론 연구</title>
+          <author />
+          <journal-name />
+          <pubi-year>2002.12</pubi-year>
+          <volume>27</volume>
+          <isseue />
+          <serno />
+          <page>457-472</page>
+          <pubilisher>서울대학교 국어국문학과</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011970163" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유의 이행으로서의 김수영 시론 - 시여 침을 뱉어라를 중심으로</title>
+          <author />
+          <journal-name />
+          <pubi-year>2002.3</pubi-year>
+          <volume>75</volume>
+          <isseue />
+          <serno />
+          <page>387-411</page>
+          <pubilisher>한국어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011970164" type-code="01" type-name="학술지(정기간행물)">
+          <title>현대 미학 강의 - 숭고와 시뮬라르크의 이중주</title>
+          <author />
+          <journal-name />
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>아트북스</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF011970165" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 시론과 시문</title>
+          <author />
+          <journal-name />
+          <pubi-year>1978</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013581153" type-code="01" type-name="학술지(정기간행물)">
+          <title>세계상의 시대</title>
+          <author />
+          <journal-name />
+          <pubi-year>1995</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서광사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013590266" type-code="01" type-name="학술지(정기간행물)">
+          <title>예술 작품의 근원</title>
+          <author />
+          <journal-name />
+          <pubi-year>1996</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>예전사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013906592" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재와 시간</title>
+          <author />
+          <journal-name />
+          <pubi-year>1998</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>까치</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013906593" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 예술 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1997</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문예출판사</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

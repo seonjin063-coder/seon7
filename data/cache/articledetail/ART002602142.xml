@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002602142</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004147">
+        <issn>2234-3431</issn>
+        <journal-name>스토리앤이미지텔링</journal-name>
+        <publisher-name>건국대학교 GLOCAL(글로컬)캠퍼스 스토리앤이미지텔링연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2020</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>19</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002602142">
+        <article-categories>인문학 &gt; 기타인문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[TV 드라마 <도깨비>에 구현된 삶과 죽음에 관한 철학적 스토리텔링]]></article-title>
+          <article-title lang="foreign"><![CDATA[Philosophical Storytelling Represented in TV Drama Dokkaebie]]></article-title>
+          <article-title lang="english"><![CDATA[Philosophical Storytelling Represented in TV Drama Dokkaebie]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[이동욱]]></name>
+            <name-eng><![CDATA[Lee, Donguk]]></name-eng>
+            <institution>건국대학교</institution>
+          </author>
+          <author author-division="2" author-part="교신">
+            <name><![CDATA[윤소영]]></name>
+            <name-eng><![CDATA[So Young Yoon]]></name-eng>
+            <institution>건국대학교 글로컬캠퍼스 교양대학</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구의 주안점은 김은숙 작가의 TV 드라마 <도깨비>에 투영된 삶과 죽음의 의미를 철학적 스토리텔링을 통해 분석하는 것이다. 중요한 세 캐릭터인 도깨비, 도깨비신부, 저승사자의 역할과 극적 행위에 나타난 ‘죽음’과 인간 ‘현존재’에 대한 드라마
+<도깨비>의 이해와 묘사의 특징을 살펴보고자 한다. 특히 『주역』의 관점에서 현존재는 ‘관계’에 의해 기억될 때 가능하다는 점을 기저에 두고 드라마를 분석할 것이다. 또한 니체의 자유개념을 통해 인간은 신의 선택이 아닌 인간 자신의 선택에 의거해 살아갈 때 ‘주체적 존재’로 거듭남을 살펴보려 한다. 이 드라마는 삶이라는 고통의 장에 늘 공존하는 ‘죽음’을 극의 주된 모티프로 차용하여 죽음 그 자체에 대한 질문과 그 질문에 대한 답을 제시하려 한다. 본 연구는 삶과 죽음에 대한 담론을 추구함으로써 드라마 전체를 아우르고 있는 철학적 스토리텔링을 톺아보고자 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study focuses on analyzing the meaning of life and death represented in Kim Eun-sook’s TV drama Goblin (Dokkaebie in Korean) through philosophical storytelling. Kim, a representative Korean dramatist, explores and reflects various aspects of death as well as the values of human freedom through this drama. By adopting the classical character of Dokkaebie (a goblin or bogle) and his bride, the scriptwriter closely relates their love story to narrating death, thereby evoking the importance of the grim reaper’s role. Exploring how death is embodied around these three important characters, this paper examines and seeks for the essence of life itself from the viewpoint of Buddhism, reflecting conceptual meanings from the Book of Changes (YiChing). With respect to the philosophical concept of “Dasein,” it is understood that human beings can exist when remembered by concrete
+relationships with others. Additionally, through Nietzsche’s concept of ‘freedom,’ this paper explores how human beings can live as a subject especially when living on their own choices and not on God’s choices. To present the ultimate question on death itself and its answer, death as a leitmotif is delved into. In conclusion, this study has shown that looking at the philosophical storytelling as a dramatic device is the pivotal element of this drama on the pursuit of discourse on life and death. In the end, this drama embodies the meaning of life through philosophical storytelling about death.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[<도깨비>]]></keyword>
+          <keyword><![CDATA[관계]]></keyword>
+          <keyword><![CDATA[현존재]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[불교]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[Dokkaebie]]></keyword>
+          <keyword><![CDATA[relationship]]></keyword>
+          <keyword><![CDATA[Dasein]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[Buddhism]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+        </keyword-group>
+        <fpage>131</fpage>
+        <lpage>159</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22758/sni.2020.19.131]]></doi>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.78</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002602142]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF056322275" arti-id="ART002456123" type-code="01" type-name="학술지(정기간행물)">
+          <title>TV드라마에 나타난 계급의 영속성과 자본의 신격화 연구─&lt;쓸쓸하고 찬란하神-도깨비&gt;를 중심으로</title>
+          <author>강성애</author>
+          <journal-name>한국극예술연구</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume />
+          <isseue>63</isseue>
+          <serno />
+          <page>385-426</page>
+          <pubilisher>한국극예술학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17938/tjkdat.2019..63.385]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322276" type-code="03" type-name="단행본">
+          <title>건륭대장경 소승경 단역경(3)</title>
+          <author />
+          <pubilisher>전정유한공사</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056322277" type-code="03" type-name="단행본">
+          <title>주역전의대전역해(상)</title>
+          <author>김석진</author>
+          <pubilisher>대유학당</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056322278" arti-id="ART000982796" type-code="01" type-name="학술지(정기간행물)">
+          <title>동양 음양법의 상호 관계론적 사색틀과 그 비판</title>
+          <author>김영주</author>
+          <journal-name>사회사상과 문화</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>8</volume>
+          <isseue />
+          <serno />
+          <page>75-102</page>
+          <pubilisher>동양사회사상학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056322279" arti-id="ART002238991" type-code="01" type-name="학술지(정기간행물)">
+          <title>삼국유사 &lt;탑상편&gt;의 서사적 특질 및 그 현대적 변용-드라마 &lt;W&gt;와 &lt;도깨비&gt;를 대상으로</title>
+          <author>김정경</author>
+          <journal-name>구비문학연구</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>45</isseue>
+          <serno />
+          <page>145-178</page>
+          <pubilisher>한국구비문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056322280" arti-id="ART002525986" type-code="01" type-name="학술지(정기간행물)">
+          <title>미디어를 활용한 한국인의 저승관 교육 연구- 드라마 &lt;쓸쓸하고 찬란하神 도깨비&gt;를 중심으로 -</title>
+          <author>김혜진</author>
+          <journal-name>언어와 문화</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>15</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>77-102</page>
+          <pubilisher>한국언어문화교육학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.18842/klaces.2019.15.4.004]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322281" type-code="03" type-name="단행본">
+          <title>유고</title>
+          <author>니 체</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>170-</page>
+        </reference>
+        <reference refebibl-id="REF056322282" arti-id="ART002230208" type-code="01" type-name="학술지(정기간행물)">
+          <title>드라마 &lt;도깨비&gt;와 고전서사의 관련성 및 그 스토리텔링의 의미</title>
+          <author>박재인</author>
+          <journal-name>인문과학</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>65</isseue>
+          <serno />
+          <page>363-398</page>
+          <pubilisher>인문학연구원</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.31310/HUM.065.11]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322283" arti-id="ART001546622" type-code="01" type-name="학술지(정기간행물)">
+          <title>사이－존재(Dasein)로서의 인간</title>
+          <author>서동은</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>25</isseue>
+          <serno />
+          <page>171-202</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056926285" type-code="03" type-name="단행본">
+          <title>강의</title>
+          <author>신영복</author>
+          <pubilisher>돌베개</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF056322284" arti-id="ART002391164" type-code="01" type-name="학술지(정기간행물)">
+          <title>드라마 &lt;도깨비&gt;에 구현된 8고의 현실과 판타지</title>
+          <author>신원선</author>
+          <journal-name>한국학연구</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>66</isseue>
+          <serno />
+          <page>79-110</page>
+          <pubilisher>한국학연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17790/kors.2018..66.79]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322285" arti-id="ART002415610" type-code="01" type-name="학술지(정기간행물)">
+          <title>TV 드라마 텍스트의 서사 분석과 수용자 인식 연구- 드라마 &lt;도깨비&gt;를 중심으로 -</title>
+          <author>오연옥</author>
+          <journal-name>한국문학논총</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>80</isseue>
+          <serno />
+          <page>323-371</page>
+          <pubilisher>한국문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.16873/tkl.2018..80.323]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322286" arti-id="ART002309226" type-code="01" type-name="학술지(정기간행물)">
+          <title>한국 드라마 수용에 있어서 국가별 감정 반응 분석: 드라마 &lt;도깨비&gt;를 중심으로</title>
+          <author>이예원 ; 우성주</author>
+          <journal-name>감성과학</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume>20</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>31-40</page>
+          <pubilisher>한국감성과학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.14695/KJSOS.2017.20.4.31]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322287" arti-id="ART001866010" type-code="01" type-name="학술지(정기간행물)">
+          <title>저항적 허무주의를 넘어서 있는 니체의 광인에 관한 고찰</title>
+          <author>이주향</author>
+          <journal-name>니체연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue>25</isseue>
+          <serno />
+          <page>101-123</page>
+          <pubilisher>한국니체학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.16982/jkns.2014..25.004]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322288" arti-id="ART001893599" type-code="01" type-name="학술지(정기간행물)">
+          <title>주역 음양 관계론의 정합성 문제: 陰陽對待와 扶陽抑陰의 논리적 상충 문제를 중심으로</title>
+          <author>임채우</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue>72</isseue>
+          <serno />
+          <page>37-62</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15841/kspew..72.201407.37]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322289" arti-id="ART002229317" type-code="01" type-name="학술지(정기간행물)">
+          <title>도깨비의 귀환: 드라마 ‘도깨비’에 내재한 韓 · 中 전통 괴담서사의 원리</title>
+          <author>최진아</author>
+          <journal-name>중국문학연구</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>67</isseue>
+          <serno />
+          <page>1-24</page>
+          <pubilisher>한국중문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF056322290" arti-id="ART002518012" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유의 절대성과 현존재</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume />
+          <isseue>55</isseue>
+          <serno />
+          <page>1-32</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.20974/dasein.2019..55.1]]></doi>
+        </reference>
+        <reference refebibl-id="REF056322291" type-code="06" type-name="인터넷자원">
+          <title>구비문학대계</title>
+          <author>한국학중앙연구원</author>
+          <url><![CDATA[https://gubi.aks.ac.kr]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

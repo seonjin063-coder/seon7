@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002333248</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001226">
+        <issn>1598-7434</issn>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2018</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>76</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002333248">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르와 윤리의 문제: 자아를 넘어선 초월의 가능성]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre and The Problem of Ethics: The Possibility of Transcendence beyond the Ego]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre and The Problem of Ethics: The Possibility of Transcendence beyond the Ego]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이솔]]></name>
+            <name-eng><![CDATA[Lee, Sol]]></name-eng>
+            <institution>서강대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르의 실존주의 철학에서 윤리의 가능성을 타진하고자한다. 사르트르가 『존재와 무』의 결론에서 자신의 차후 과제로 윤리학을 계획했음에도 불구하고 이를 완수하지 못했다는 것은 주지의 사실이며, 이는 실존주의에 대한 오해와 맞물려 사르트르에게 윤리학이란 없거나 혹은 실패한 것이라는바판으로까지 이어져 왔다. 이 논문은 바로 이러한 ‘사르트르의 실존주의 철학이윤리학의 가능성을 가지는가’라는 문제에 대해 해명함을 목적으로 한다. 『도덕을위한 노트』에서 사르트르가 고안했던 윤리학, 그리고 그것의 구체적이며 실천적인 모습을 담고 있는 『문학이란 무엇인가』를 통해 우리는 사르트르에게 있어서윤리의 가능성이란 무엇보다도 ‘자아’로부터 벗어날 수 있는 방법을 찾는 것에있음을 확인할 수 있다. 그에게 있어서 윤리적 문제를 해결하기 위하여 관건이되는 것은 ‘자기기만’으로부터 벗어나는 것이며, 모든 종류의 자기기만은 끈질긴환영과 같이 나를 사로잡는 ‘자아’로부터 비롯된다는 점을 염두에 둘 때, 사르트르 철학의 중심에 결국 윤리에 대한 관심이 놓여 있었음을 부정하기란 어려운일일 것이다. 나아가 ‘사르트르와 윤리의 문제’는 주체를 소거한 채 윤리에 답하고자 골몰하는 현대의 사상적 지형으로부터 탈출구를 발견하기 위한 견지에서의의를 가진다. 사르트르의 실존주의가 모든 종류의 결정론에 대항하여 책임을복권시키는 것을 과제로 삼기에, 구조주의적 사유가 한계에 다다른 지점에서 우리는 사르트르의 철학과 다시 대면할 수밖에 없다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper explores the possibility of ethics in Sartre’s existentialism.
+It is well known that, at the conclusion of the L’être et le néant, Sartre planed to launch a research for ethics, but never carried out this. Along with the misapprehension of existentialism, it has produced a misunderstanding that there is no ethics in his existentialism or he failed to establish ethics. This study is an attempt to defend the question ‘Does Sartre’s existential philosophy have the potential of ethics?’. By exploring the Cahiers pour une morale which contains the traces of ethical ideas that Sartre devised in and the Qu’est-ce que la littérature? where we can witness its concrete and practical aspects, we come to know that, for Sartre, the possibility of ethics is, above all, in finding a way to escape from the ‘Ego’. Keeping in mind that all kinds of the Bad-faith(selfdeception) arise from the ‘Ego’ who captivates me as a persistent illusion, and the key to resolving ethical issues is to avoid this Bad-faith, it is difficult to deny that there was an interest in ethics in the center of Sartre’s philosophy. Furthermore, ‘Sartre and the Problem of Ethics’ has its significance from the standpoint of finding an escape from contemporary philosophical terrain that concentrate hard on answering the problems of ethics while eliminating the subject. Since Sartre’s existentialism challenges the reintegration of responsibility against all kinds of determinism, at the point where structuralism is at its limit, we have to face Sartre’s philosophy again.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[윤리]]></keyword>
+          <keyword><![CDATA[자아]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[초월]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Ethics]]></keyword>
+          <keyword><![CDATA[Ego]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Transcendence]]></keyword>
+        </keyword-group>
+        <fpage>25</fpage>
+        <lpage>51</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.35851/PCP.2018.03.76.25]]></doi>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">1.82</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002333248]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF046612532" type-code="03" type-name="단행본">
+          <title>보이는 것과 보이지 않는 것(Le visible et l’invisible)</title>
+          <author>모리스 메를로-퐁티</author>
+          <pubilisher>동문선</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612533" type-code="03" type-name="단행본">
+          <title>시간과 타자</title>
+          <author>엠마누엘 레비나스</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612534" arti-id="ART001754835" type-code="01" type-name="학술지(정기간행물)">
+          <title>정의와 분배의 수단으로서의 기부 : 모스와 사르트르의 사유를 중심으로</title>
+          <author>변광배</author>
+          <journal-name>해석학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>31</isseue>
+          <serno />
+          <page>265-288</page>
+          <pubilisher>한국해석학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF046612535" arti-id="ART001775177" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 시선과 관계의 윤리:『구토』에서 『자유의 길』로</title>
+          <author>오은하</author>
+          <journal-name>불어불문학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>94</isseue>
+          <serno />
+          <page>101-141</page>
+          <pubilisher>한국불어불문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF046612536" arti-id="ART002101202" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재론적 개념으로서의 현사실성과 당위: 하이데거의 존재론에 함축된 윤리학적 관점들</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>41</isseue>
+          <serno />
+          <page>131-170</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF046612537" type-code="03" type-name="단행본">
+          <title>Sartre’s Ethics of Engagement: Authenticity and Civic Virtue</title>
+          <author>Heter, T Storm</author>
+          <pubilisher>continuum</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612538" type-code="03" type-name="단행본">
+          <title>자아의 초월성(La transcendence de l’Ego)</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612539" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612540" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다(L’existentialisme est un humanisme)</title>
+          <author>Sartre</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612541" type-code="03" type-name="단행본">
+          <title>Cahiers pour une morale</title>
+          <author>Sartre</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612542" type-code="03" type-name="단행본">
+          <title>문학이란 무엇인가</title>
+          <author>Sartre</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF046612543" type-code="03" type-name="단행본">
+          <title>Situation Ⅱ</title>
+          <author>Sartre</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

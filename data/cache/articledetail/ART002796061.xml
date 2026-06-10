@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002796061</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001458">
+        <issn>2671-6755</issn>
+        <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+        <publisher-name>한국체육철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>29</volume>
+        <issue>4</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002796061">
+        <article-categories>예술체육학 &gt; 체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의에서 바라본 대한민국의 학생선수]]></article-title>
+          <article-title lang="foreign"><![CDATA[Student Athletes From the Perspective of Sartre's Existentialism]]></article-title>
+          <article-title lang="english"><![CDATA[Student Athletes From the Perspective of Sartre's Existentialism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[신민철]]></name>
+            <name-eng><![CDATA[Shin min chul]]></name-eng>
+            <institution>세종대학교</institution>
+          </author>
+          <author author-division="2" author-part="교신">
+            <name><![CDATA[강유원]]></name>
+            <name-eng><![CDATA[Kang, Yu-won]]></name-eng>
+            <institution>세종대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 한국의 학생선수들이 경험하고 있는 수많은 미해결의 난제들을 해결하기 위해, 장 폴 사르트르의 실존주의를 중심으로 그들이 지녀야 할 모습과 태도를 끌어내고자 하였다. 이를 위해 사르트르가 제시한 실존주의의 두 주요 논점을 다음과 같이 제시하였다. 첫째, 실존은 본질에 앞선다. 인간은 자신의 본질을 구현해 나아가는 주체적 인간이 되어야 한다. 이에 학생선수들이 자신 스스로 자기가 자신의 주인임을 깨닫고 자유로운 삶을 선택해 나아갈 것을 제시하였다. 둘째, 실존은 주체성이다. 자신을 만들어나가는 주체는 오로지 자기 자신이라는 것이다. 이에 학생선수들도 지도자 아래에서 살아왔던 수동적 삶에서 탈피하여, 자유롭고 주체적인 인간으로서 자신의 본질을 스스로 만들어 내는 창조적 존재이자 기획의 주체이며 책임의 주체가 되어야 할 것을 제시하였다. 이를 통해 학생선수들은 자신이 자기의 주인임을 깨닫고 자신의 주체성을 찾아 자유로운 선택을 해야 하며, 그 선택에 따른 책임과 불안을 감당하는 진실된 인간이 되어야 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study attempts to present the appearance and attitude focusing on Jean-Paul Sartre's existentialism in order to solve the numerous unresolved challenges experienced by Korean student athletes. The results are as follows: First, as independent human beings who embody their essence, this study suggests that these beings realize that they are the masters choosing a free life. Secondly, as students who create their own lives, this study suggests that we should break away from the passive life we have lived under a coach. Accordingly, we should become creative beings who create their own essence as free and independent human beings, a subject of planning, and a subject of responsibility. Through this, student athletes must realize that they are their owners, find their subjectivity, and make free choices, and become sincere human beings who bear the responsibilities and anxieties of their choices.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[existence]]></keyword>
+          <keyword><![CDATA[student athletes]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+          <keyword><![CDATA[active subject]]></keyword>
+          <keyword><![CDATA[responsibility]]></keyword>
+          <keyword><![CDATA[anxiety]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[실존]]></keyword>
+          <keyword><![CDATA[학생선수]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[능동적 주체]]></keyword>
+          <keyword><![CDATA[책임]]></keyword>
+          <keyword><![CDATA[불안]]></keyword>
+        </keyword-group>
+        <fpage>19</fpage>
+        <lpage>31</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.31694/PM.2021.12.29.4.019]]></doi>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">0.22</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002796061]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF059963175" arti-id="ART001000535" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의와 체육교육</title>
+          <author>강유원</author>
+          <journal-name>한국체육과학회지</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>11</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>23-34</page>
+          <pubilisher>한국체육과학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963176" type-code="04" type-name="보고서">
+          <title>운동하는 일반 학생, 공부하는 학생선수육성을 위한 2011년도 학교체육 주요업무 계획</title>
+          <author>교육과학기술부</author>
+          <pubilisher>교육과학기술부</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963177" type-code="04" type-name="보고서">
+          <title>공부하는 학생선수 육성을 위한 학습권 보장제 도입: 선진형 학교운동부 운영 시스템구축 계획 마련</title>
+          <author>교육과학기술부</author>
+          <pubilisher>교육과학기술부, 문화체육관광부</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963178" arti-id="ART002688085" type-code="01" type-name="학술지(정기간행물)">
+          <title>태권도인의 실존적 삶에 대한 앙가주망(engagement) -사르트르의 실존주의를 중심으로-</title>
+          <author>권혁정</author>
+          <journal-name>한국웰니스학회지</journal-name>
+          <pubi-year>2021</pubi-year>
+          <volume>16</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>119-126</page>
+          <pubilisher>한국웰니스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963179" arti-id="ART002667825" type-code="01" type-name="학술지(정기간행물)">
+          <title>현 시대적 배경(COVID-19)에서 태권도장 생존을 위한 지도철학 논고 : 사르트르의 실존주의를 바탕으로</title>
+          <author>권혁정 ; 빙원철</author>
+          <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>28</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>107-120</page>
+          <pubilisher>한국체육철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963180" type-code="03" type-name="단행본">
+          <title>체육·스포츠철학의 제 문제</title>
+          <author>김동규</author>
+          <pubilisher>영남대학교출판부</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963181" arti-id="ART000911546" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의 체육사상 ; 체육교육 제 모습 찾기</title>
+          <author>김동규 ; 김상헌</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>42</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>53-64</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963182" arti-id="ART001522426" type-code="01" type-name="학술지(정기간행물)">
+          <title>일반학생에서 학생선수로의 학교생활 적응과정</title>
+          <author>김동현</author>
+          <journal-name>한국스포츠교육학회지</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume>18</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>71-90</page>
+          <pubilisher>한국스포츠교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963183" arti-id="ART001670737" type-code="01" type-name="학술지(정기간행물)">
+          <title>나에게 운동은 무엇이었나?∶운동선수로서의 삶과 그 의미에 관한 내러티브 탐구</title>
+          <author>김동현</author>
+          <journal-name>체육과학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>23</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>343-359</page>
+          <pubilisher>국민체육진흥공단 한국스포츠정책과학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963184" arti-id="ART002058744" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르 철학에서 도덕 주체에 대한 탐구</title>
+          <author>김선영</author>
+          <journal-name>헤겔연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>38</isseue>
+          <serno />
+          <page>219-240</page>
+          <pubilisher>한국헤겔학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963185" type-code="03" type-name="단행본">
+          <title>실존주의</title>
+          <author>Foulquie, Paul</author>
+          <pubilisher>탐구당</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963186" arti-id="ART002354007" type-code="01" type-name="학술지(정기간행물)">
+          <title>Narrative Inquiry on Minimum Academic Achievement Policy for Middle and High School Student Athletes</title>
+          <author>김진필</author>
+          <journal-name>Korean Association For Learner-Centered Curriculum And Instruction</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume>18</volume>
+          <isseue>11</isseue>
+          <serno />
+          <page>175-201</page>
+          <pubilisher>Korean Association For Learner-Centered Curriculum And Instruction</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22251/jlcci.2018.18.11.175]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963187" arti-id="ART002582232" type-code="01" type-name="학술지(정기간행물)">
+          <title>Awareness of High School Ping Pong Club Male Students athlete on the Application of the Learning Rights Guarantee System</title>
+          <author>김진환 ; 박정준 ; 최정규</author>
+          <journal-name>Korean Association For Learner-Centered Curriculum And Instruction</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>20</volume>
+          <isseue>8</isseue>
+          <serno />
+          <page>1431-1456</page>
+          <pubilisher>Korean Association For Learner-Centered Curriculum And Instruction</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22251/jlcci.2020.20.8.1431]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963188" arti-id="ART002637266" type-code="01" type-name="학술지(정기간행물)">
+          <title>스포츠인권 정책분석과 개선방향: 학습권 보호를 중심으로</title>
+          <author>김현수 ; 박성주</author>
+          <journal-name>The Korean Journal of Physical Education</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>59</volume>
+          <isseue>5</isseue>
+          <serno />
+          <page>13-30</page>
+          <pubilisher>Korean Alliance for Health, Physical Education, Recreation, and Dance</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.23949/kjpe.2020.9.59.5.2]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963189" arti-id="ART002559390" type-code="01" type-name="학술지(정기간행물)">
+          <title>대학운동선수의 수업참여실태 조사 및 학습권보장에 대한 인식 탐색</title>
+          <author>김현우 ; 전현수</author>
+          <journal-name>한국체육교육학회지</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>24</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>155-171</page>
+          <pubilisher>한국체육교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963190" arti-id="ART001314051" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생 선수에서 운동부 학생 되기: 고등학교 검도선수의 운동과 학업병행에 관한 사례연구</title>
+          <author>김홍석 ; 류태호 ; 최진숙</author>
+          <journal-name>한국스포츠교육학회지</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume>16</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>145-157</page>
+          <pubilisher>한국스포츠교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963191" arti-id="ART002671872" type-code="01" type-name="학술지(정기간행물)">
+          <title>A Study on the Student Sports Players' Right to Study and Students' E-School Utilization</title>
+          <author>김화복</author>
+          <journal-name>The Korea Journal of Sport</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>18</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>667-675</page>
+          <pubilisher>Korea Sport Society</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.46669/kss.2020.18.4.061]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963192" arti-id="ART002486158" type-code="01" type-name="학술지(정기간행물)">
+          <title>Alienation, Reinforcer Functions and Chain of Camp Training Drawn from Korean Male Footballers’ Experiences</title>
+          <author>명왕성 ; 정경환</author>
+          <journal-name>Korean Society for the Sociology of Sport</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>32</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>110-127</page>
+          <pubilisher>Korean Society for the Sociology of Sport</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22173/ksss.2019.32.2.7]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963193" arti-id="ART002475086" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생선수 학습권 보장 제도에 관한 법제도적 및 교육학적 고찰: 대학스포츠 C0규정의 사례</title>
+          <author>명왕성 ; 최영래</author>
+          <journal-name>체육과학연구</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>30</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>345-359</page>
+          <pubilisher>국민체육진흥공단 한국스포츠정책과학원</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.24985/kjss.2019.30.2.345]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963194" type-code="04" type-name="보고서">
+          <title>스포츠 4대 악 신고센터 개설, 지속가능개혁 추진</title>
+          <author>문화체육관광부</author>
+          <pubilisher>문화체육관광부</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963195" type-code="03" type-name="단행본">
+          <title>서양철학사의 이해</title>
+          <author>박영식</author>
+          <pubilisher>철학과현실사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963196" arti-id="ART002014637" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생선수 최저학력제 정착화 과정： B초등학교 축구부의 사례</title>
+          <author>박현권 ; 임수원</author>
+          <journal-name>한국초등체육학회지</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>21</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>85-100</page>
+          <pubilisher>한국초등체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963197" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963198" type-code="07" type-name="기타자료">
+          <title>학교체육 진흥법. 법률 제 11690호</title>
+          <author>법제처</author>
+        </reference>
+        <reference refebibl-id="REF059963199" arti-id="ART001691908" type-code="01" type-name="학술지(정기간행물)">
+          <title>운동선수의 은퇴기대, 심리적 위기감, 은퇴준비수준 및 재사회화 간의 구조관계</title>
+          <author>서연희</author>
+          <journal-name>한국체육과학회지</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>21</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>393-406</page>
+          <pubilisher>한국체육과학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963200" arti-id="ART002353429" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생선수의 긍정적 재사회화 인식을 위한 해체주의적 접근</title>
+          <author>손용기 ; 강유원 ; 강덕모</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume>57</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>1-15</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963201" type-code="03" type-name="단행본">
+          <title>체육·스포츠 이야기</title>
+          <author>송형석</author>
+          <pubilisher>계명대학교출판부</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963202" arti-id="ART002715664" type-code="01" type-name="학술지(정기간행물)">
+          <title>A Hylomorphism Approach to Identify the Relationship Between Sportsmen and Sports : Why sportsmen should be away from sports deviation</title>
+          <author>신민철 ; 손용기 ; 강유원</author>
+          <journal-name>Korean Journal of Sports Science</journal-name>
+          <pubi-year>2021</pubi-year>
+          <volume>30</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>1-11</page>
+          <pubilisher>The Korean Society of Sports Science</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.35159/kjss.2021.4.30.2.1]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963203" type-code="03" type-name="단행본">
+          <title>사르트르의 실존주의는 휴머니즘이다</title>
+          <author>신성림</author>
+          <pubilisher>웅진지식하우스</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963204" type-code="03" type-name="단행본">
+          <title>처음 읽는 서양철학사</title>
+          <author>안광복</author>
+          <pubilisher>웅진지식하우스</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963205" type-code="03" type-name="단행본">
+          <title>처음 읽는 서양철학사</title>
+          <author>안광복</author>
+          <pubilisher>어크로스</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963206" arti-id="ART002667702" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생운동선수의 인권, 어제와 오늘</title>
+          <author>안재찬 ; 김지혁</author>
+          <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>28</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>57-65</page>
+          <pubilisher>한국체육철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963207" type-code="03" type-name="단행본">
+          <title>대학생을 위한 서양철학사(개정증보판)</title>
+          <author>양해림</author>
+          <pubilisher>집문당</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963208" arti-id="ART002603280" type-code="01" type-name="학술지(정기간행물)">
+          <title>체육고등학교 학생선수 학업-운동 병행 탐색 사례연구</title>
+          <author>윤기준 ; 전세명</author>
+          <journal-name>홀리스틱융합교육연구</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume>24</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>127-145</page>
+          <pubilisher>한국홀리스틱융합교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963209" arti-id="ART002513700" type-code="01" type-name="학술지(정기간행물)">
+          <title>A Narrative Inquiry on Sport Socialization Experience as a Volleyball Player-Turned-Physical Education Teacher</title>
+          <author>이승만</author>
+          <journal-name>Korean Society for the Sociology of Sport</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>32</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>72-88</page>
+          <pubilisher>Korean Society for the Sociology of Sport</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22173/ksss.2019.32.3.5]]></doi>
+        </reference>
+        <reference refebibl-id="REF059963210" arti-id="ART001707416" type-code="01" type-name="학술지(정기간행물)">
+          <title>학교운동부 지도자의 인식을 통해서 본 최저학력제 시행 및 성과 평가</title>
+          <author>이양구 ; 유정애</author>
+          <journal-name>한국초등체육학회지</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>18</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>181-191</page>
+          <pubilisher>한국초등체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963211" type-code="01" type-name="학술지(정기간행물)">
+          <title>제 3 공화국과 제 5 공화국의 국가주의 스포츠정책 성향 비교</title>
+          <author>이옥흔</author>
+          <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>9</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>105-124</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963212" type-code="03" type-name="단행본">
+          <title>현대의 철학자들</title>
+          <author>이윤일</author>
+          <pubilisher>선학사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963213" arti-id="ART001382612" type-code="01" type-name="학술지(정기간행물)">
+          <title>학생선수의 학습권 보장: 근거와 대안</title>
+          <author>이학준</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume>48</volume>
+          <isseue>5</isseue>
+          <serno />
+          <page>35-44</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963214" arti-id="ART001544964" type-code="01" type-name="학술지(정기간행물)">
+          <title>학업과 운동을 병행하는 학생선수의 경험과정 : 자아의 재정의</title>
+          <author>이혁기</author>
+          <journal-name>한국스포츠사회학회지</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume>24</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>1-24</page>
+          <pubilisher>한국스포츠사회학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963215" arti-id="ART002721949" type-code="01" type-name="학술지(정기간행물)">
+          <title>공부하는 학생선수상의 정립을 위한 공공스포츠클럽의 가치체계 분석: 수단-목적 사슬이론 관점에서</title>
+          <author>이혁기 ; 신석민 ; 김인형 ; 전원재 ; 장승현</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2021</pubi-year>
+          <volume>60</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>341-352</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963216" arti-id="ART001999431" type-code="01" type-name="학술지(정기간행물)">
+          <title>여성 국가대표 테니스선수가 경험하는 은퇴 후 재사회화 과정에서의 어려움</title>
+          <author>임새미</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume>54</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>75-87</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963217" arti-id="ART001897555" type-code="01" type-name="학술지(정기간행물)">
+          <title>대학교 학생선수의 수업일상에 관한 질적연구</title>
+          <author>임용석 ; 류태호</author>
+          <journal-name>한국스포츠교육학회지</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>21</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>113-140</page>
+          <pubilisher>한국스포츠교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963218" arti-id="ART002156124" type-code="01" type-name="학술지(정기간행물)">
+          <title>배드민턴 선수들의 은퇴상황과 재사회화 과정에서 사회적응 경험</title>
+          <author>장성호 ; 김인형</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>55</volume>
+          <isseue>5</isseue>
+          <serno />
+          <page>29-41</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963219" type-code="02" type-name="학술대회논문">
+          <title>학생선수 인권과 학습권의 새로운 관점: 교육담론의 사회적 구성을 중심으로</title>
+          <author>정현우</author>
+          <conference-name>한국체육교육학회학술발표대회</conference-name>
+          <pubi-year>2021</pubi-year>
+          <volume>9</volume>
+          <isseue />
+          <serno />
+          <page>33-49</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963220" type-code="03" type-name="단행본">
+          <title>처음 읽는 독일 현대철학</title>
+          <author>철학아카데미</author>
+          <pubilisher>동녘 [경기]</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963221" type-code="03" type-name="단행본">
+          <title>세상의 모든 지식이 내 것이 되는 1페이지 철학 365</title>
+          <author>최훈</author>
+          <pubilisher>비에이블</pubilisher>
+          <pubi-year>2020</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963222" arti-id="ART001867400" type-code="01" type-name="학술지(정기간행물)">
+          <title>공부하는 학생선수 소외에 관한 마르크스주의적 분석</title>
+          <author>한승백</author>
+          <journal-name>한국체육학회지</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>53</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>79-91</page>
+          <pubilisher>한국체육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963223" arti-id="ART001253876" type-code="01" type-name="학술지(정기간행물)">
+          <title>여성선수 성폭력에 대한 여성지도자의 인식</title>
+          <author>허현미 ; 황정임 ; 선보영</author>
+          <journal-name>한국스포츠사회학회지</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>21</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>401-421</page>
+          <pubilisher>한국스포츠사회학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963224" arti-id="ART001090866" type-code="01" type-name="학술지(정기간행물)">
+          <title>인권으로 바라본 학생선수: 교육적 담론</title>
+          <author>홍덕기 ; 류태호</author>
+          <journal-name>한국스포츠교육학회지</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume>14</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>131-154</page>
+          <pubilisher>한국스포츠교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059963225" type-code="05" type-name="학위논문">
+          <title>사르트르의 『알토나의 유폐자들(Les Séquestrés d'Altona)』에 나타난 자유와 책임의 문제</title>
+          <author>홍예진</author>
+          <degree>석사</degree>
+          <university>고려대학교 대학원</university>
+          <department />
+          <pubi-year>2020</pubi-year>
+        </reference>
+        <reference refebibl-id="REF059963226" type-code="03" type-name="단행본">
+          <title>L'Existentialisme est un humanisme</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>Nagel</pubilisher>
+          <pubi-year>1946</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059963227" type-code="06" type-name="인터넷자원">
+          <title>5년 동안 200개 학교 운동부 해체했다면 / 학습권 보장 아닌 선택권 박탈일 수 있다</title>
+          <author>경기일보</author>
+          <url><![CDATA[http://www.kyeonggi.com/news/articleView.html?idxno=2183266]]></url>
+          <citation-day />
+          <site-name>경기일보</site-name>
+          <pubilisher />
+          <registration-day>2019</registration-day>
+        </reference>
+        <reference refebibl-id="REF059963228" type-code="06" type-name="인터넷자원">
+          <title>상시합숙 금지에 운동부 ‘편법 합숙’논란</title>
+          <author>김성호</author>
+          <url><![CDATA[https://www.fnnews.com/news/202102250927083950]]></url>
+          <citation-day />
+          <site-name>파이낸셜뉴스</site-name>
+          <pubilisher />
+          <registration-day>2021</registration-day>
+        </reference>
+        <reference refebibl-id="REF059963229" type-code="06" type-name="인터넷자원">
+          <title>“죄 밝혀줘” 후 1년…故최숙현 폭행 증언 동료들 소송 당했다</title>
+          <author>김정석</author>
+          <url><![CDATA[https://news.joins.com/article/24091842]]></url>
+          <citation-day />
+          <site-name>중앙일보</site-name>
+          <pubilisher />
+          <registration-day>2021</registration-day>
+        </reference>
+        <reference refebibl-id="REF059963230" type-code="06" type-name="인터넷자원">
+          <title>운동부 학생 대회 ‘최저학력’ 맞추려 성적 조작…벌금형</title>
+          <author>노유림</author>
+          <url><![CDATA[http://news.kmib.co.kr/article/view.asp?arcid=0015980811&code=61121311&cp=nv]]></url>
+          <citation-day />
+          <site-name>국민일보</site-name>
+          <pubilisher />
+          <registration-day>2021</registration-day>
+        </reference>
+        <reference refebibl-id="REF059963231" type-code="06" type-name="인터넷자원">
+          <title>검투사와 국민적 신체 사이</title>
+          <author>박노자</author>
+          <url><![CDATA[http://legacy.www.hani.co.kr/section-021109000/2006/06/021109000200606290616078.html]]></url>
+          <citation-day />
+          <site-name>한겨레21</site-name>
+          <pubilisher />
+          <registration-day>2006</registration-day>
+        </reference>
+        <reference refebibl-id="REF059963232" type-code="06" type-name="인터넷자원">
+          <title>운동선수 평균 은퇴나이 23세, 10명 중 4명은 무직</title>
+          <author>오영학</author>
+          <url><![CDATA[http://www.dhns.co.kr/news/articleView.html?idxno=250460]]></url>
+          <citation-day />
+          <site-name>대한뉴스</site-name>
+          <pubilisher />
+          <registration-day>2020</registration-day>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

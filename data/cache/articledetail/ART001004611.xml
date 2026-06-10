@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001004611</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001458">
+        <issn>2671-6755</issn>
+        <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+        <publisher-name>한국체육철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2006</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>14</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001004611">
+        <article-categories>예술체육학 &gt; 체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[체육적 앎에 대한 실존적 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[Existential Consideration on Knowing in Physical Education]]></article-title>
+          <article-title lang="english"><![CDATA[Existential Consideration on Knowing in Physical Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="제1">
+            <name><![CDATA[김상헌]]></name>
+            <institution>영남대학교</institution>
+          </author>
+          <author author-division="2" author-part="참여">
+            <name><![CDATA[김동규]]></name>
+            <name-eng><![CDATA[Dongkyu Kim]]></name-eng>
+            <institution>영남대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[교육의 중요한 역할 중 하나는 몸을 바꾸고 개선하는 일이다. 이는 실천적 앎의 세계를 말하는 것으로서 ‘몸의 교육’이 중요함을 의미한다. 아쉽게도 요즈음은 서구 합리주의와 실증주의 사상에 기반을 둔 과학에 지나치게 의존하여 몸을 경시하는 풍조가 야기되고 있으며, 이는 인간성 상실과 소외로 귀착된다. 결국 이에 대한 해결책은 사람과의 관계 맺음의 출발점이자 귀착점이 되는 ‘몸’에 주목해야 하고, 움직임을 통해 인식된 몸이 체득하는 ‘체육적 앎’을 단서로 들 수 있다. ‘체육적 앎’은 인간 움직임의 의미를 해석하고 가치를 부여하며, ‘살아있는 신체(lived body)’를 전제로 하기 때문에 실존적 존재인 ‘세계-내-존재’로서 스포츠를 경험하게 한다는데 의의가 있다. 그러한 체험 속에서 참여자는 자신의 정체성을 발달시키게 된다. 그리하여 실존주의를 기반으로 한 체육활동은 독립된 개개인이 주체성을 가진 신체를 경험할 수 있는 기회가 되고, 인간답게 살기 위한 수단으로 작용하게 된다. 따라서 체육교육은 Sartre가 말하는 ‘자신의 신체 움직임의 주체적 인식을 통해 자아의식의 발견이나 자기표현 및 실현에 중요성을 부여하고 있다는 점을 부각시키는 활동’이 되고, Nietzsche가 말하는 큰 이성이 되며, 오직 몸의 의미와 행위의 의미를 통해서만 자아가 의의를 갖게 된다. 이러한 점에서 체육적 앎과 신체, 움직임, 실존과의 관계규명은 방향을 상실한 채 표류하고 있는 ‘체육학’과 ‘체육교육’의 분야에 시사하는 바가 크다 하겠다. 그리고 이러한 작업은 근본적으로 우리의 몸을 소중하게 여기고, 사랑하게 하는 길이 될 것이다. ‘몸 가는데 마음이 가는 것’임을 잊지 말아야 할 시점이다.]]></abstract>
+          <abstract lang="english"><![CDATA[Existential Consideration on Knowing in Physical Education]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[실존]]></keyword>
+          <keyword><![CDATA[체험]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[체육적 앎]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Existence]]></keyword>
+          <keyword><![CDATA[experience]]></keyword>
+          <keyword><![CDATA[identity]]></keyword>
+          <keyword><![CDATA[Knowing in Physical Education]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Existence]]></keyword>
+          <keyword><![CDATA[experience]]></keyword>
+          <keyword><![CDATA[identity]]></keyword>
+          <keyword><![CDATA[Knowing in Physical Education]]></keyword>
+        </keyword-group>
+        <fpage>105</fpage>
+        <lpage>119</lpage>
+        <doi />
+        <uci>G704-001458.2006.14.1.018</uci>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">0.35</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001004611]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF014026072" type-code="01" type-name="학술지(정기간행물)">
+          <title>니체와 현대철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014026074" type-code="01" type-name="학술지(정기간행물)">
+          <title>Kinetic Art에 있어서 움직임에 관한 硏究</title>
+          <author />
+          <journal-name />
+          <pubi-year>1997</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>조선대학교 교육대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014056084" type-code="01" type-name="학술지(정기간행물)">
+          <title>니체의 위험한 책 차아투스트라는 이렇게 말했다</title>
+          <author />
+          <journal-name />
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>그린비</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014056080" type-code="01" type-name="학술지(정기간행물)">
+          <title>스포츠를 통한 몸의 주체성 회복 움직임의 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>2002</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>1-18</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013950155" type-code="01" type-name="학술지(정기간행물)">
+          <title>신체경험에 관한 현상학적 연구의 이론적 및 방법론적 근거 움직임의 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>2004</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>252-266</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013950156" type-code="01" type-name="학술지(정기간행물)">
+          <title>니체의 몸철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1995</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문학과현실사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013950161" type-code="01" type-name="학술지(정기간행물)">
+          <title>스포츠 수행에 따른 체험의 본질과 의미화에 관한 실존 현상학적 접근 움직임의 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1999</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>63-82</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013949791" type-code="01" type-name="학술지(정기간행물)">
+          <title>스포츠 체험의 체육교육적 의미</title>
+          <author />
+          <journal-name />
+          <pubi-year>1994</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서울대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013949792" type-code="01" type-name="학술지(정기간행물)">
+          <title>體育의 內在的 價値에 關한 先驗的 正當化論 批判</title>
+          <author />
+          <journal-name />
+          <pubi-year>2000</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서울대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013949793" type-code="01" type-name="학술지(정기간행물)">
+          <title>의식과 신체 - 사르트르의 인간 개념에 대한 분석적 접근</title>
+          <author />
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013950165" type-code="01" type-name="학술지(정기간행물)">
+          <title>문화의 기원 - 겔렌의 문화이론을 중심으로</title>
+          <author />
+          <journal-name />
+          <pubi-year>2000</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>93-114</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF013950166" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존철학과 현대</title>
+          <author />
+          <journal-name />
+          <pubi-year>1987</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>계명대학교출판부</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014056086" type-code="01" type-name="학술지(정기간행물)">
+          <title>Delsarte와 Dalcroze의 움직임이론과 현대무용의 등장 움직임의 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>243-253</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042384" type-code="01" type-name="학술지(정기간행물)">
+          <title>인성교육과 현대적 상황</title>
+          <author />
+          <journal-name />
+          <pubi-year>1995</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>철학과 현실</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042385" type-code="01" type-name="학술지(정기간행물)">
+          <title>‘체육적 앎’에 관한 연구</title>
+          <author />
+          <journal-name />
+          <pubi-year>1994</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서울대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042386" type-code="01" type-name="학술지(정기간행물)">
+          <title>체육을 이해하는 철학적 기반과 체육적 앎</title>
+          <author />
+          <journal-name />
+          <pubi-year>2004</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>12-39</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042387" type-code="01" type-name="학술지(정기간행물)">
+          <title>니체 사상에 대한 체육 철학적 이해</title>
+          <author />
+          <journal-name />
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>89-99</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042388" type-code="01" type-name="학술지(정기간행물)">
+          <title>서구의 합리주의적 교육관에 따른 체육의 한계와 새로운 방향탐색</title>
+          <author />
+          <journal-name />
+          <pubi-year>1997</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서울대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042392" type-code="01" type-name="학술지(정기간행물)">
+          <title>“미래의 인간과 교육” 교육 난국의 해부</title>
+          <author />
+          <journal-name />
+          <pubi-year>1991</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014042393" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의 철학과 체육 서울대학교 체육연구소논집</title>
+          <author />
+          <journal-name />
+          <pubi-year>1984</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>31-35</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014063001" type-code="01" type-name="학술지(정기간행물)">
+          <title>메를로 퐁띠의 인식주체적 신체가 갖는 체육적 의의</title>
+          <author />
+          <journal-name />
+          <pubi-year>1990</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>서울대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014063009" type-code="01" type-name="학술지(정기간행물)">
+          <title>체육의 현상학적 접근</title>
+          <author />
+          <journal-name />
+          <pubi-year>1993</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>한양대학교 대학원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014063010" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 철학</title>
+          <author />
+          <journal-name />
+          <pubi-year>1985</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014120385" type-code="01" type-name="학술지(정기간행물)">
+          <title>존재와 시간</title>
+          <author />
+          <journal-name />
+          <pubi-year>1998</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>까치글방</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF014120397" type-code="01" type-name="학술지(정기간행물)">
+          <title>A STUDY OF THE PLAY-ELEMENT IN 	CULTURE</title>
+          <author />
+          <journal-name />
+          <pubi-year>1950</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>The Beacon Press</pubilisher>
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

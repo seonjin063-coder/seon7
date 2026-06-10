@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002399846</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001524">
+        <issn>1229-8131</issn>
+        <journal-name>한국근대문학연구</journal-name>
+        <publisher-name>한국근대문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2018</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>19</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002399846">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[이청준 소설 속 인물들의 자기기만과 실존의 조건 탐색]]></article-title>
+          <article-title lang="foreign"><![CDATA[Self-Deceit of Yi Cheong-joon's Characters and Examination on Condition of Existence]]></article-title>
+          <article-title lang="english"><![CDATA[Self-Deceit of Yi Cheong-joon's Characters and Examination on Condition of Existence]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[서은혜]]></name>
+            <name-eng><![CDATA[Seo Eunhye]]></name-eng>
+            <institution>홍익대학교/Hongik uni.</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[1960년대 중반 이후 한국사회는 반공법을 명분으로 한 지배권력에 대한 순응이 가시적, 비가시적 형태로 요구되었다. 이청준은 실존적 사유를 그러한 현실포착과 의미화의 프레임으로 개입시키고 있다. 이 글에서는 『존재와 무』 제 2부에서 인간 의식의 보편적 특성이자 필연적 현상으로서의 ‘부정성’을 드러내는 ‘자기기만(la mauvais foi)’의 개념을 통하여 이청준 소설의 인물을 유형화하고, 실존과 자유의 문제의식을 어떤 식으로 드러내고 있는지를 살펴보았다. 이 때 ‘자기기만’은 신념에 대한 집착으로 이어지는 성실성의 폭력, 자유와 선택을 스스로 거부하고 사물에 가까워지고자 하는 죽음 지향의 유혹, 명증해 보이는 진리에 대한 인간의 끝없는 회의와 부정성이라는, 인간 삶의 근원적 조건으로서의 불안으로부터 도피하려는 일반적 유형들을 다양한 현상으로 제시한 개념이다.
+『소문의 벽』의 김 박사, 『당신들의 천국』의 조백헌 대령으로 이어지는 자신의 신념에 대한 무조건적 확신을 보이는 인물이 보일 수 있는 위험성의 차원은 자기기만의 허위를 파악하지 못한 채 그것을 세상에 대한 충실한 태도라 믿는 ‘성실함의 자기기만’으로 묶어서 이해해 볼 수 있다. 이는 반공법을 명분으로 한 여러 필화, 간첩 사건이 가시화되던 시대배경과 함께 독재 심리의 내밀한 역동을 암시하고 그 폭력성을 우회적으로 비판한다는 점에서 중요하다.
+한편 『씌어지지 않은 자서전』, 「소문의 벽」에 있는 소설 속 소설에서는 스스로 능동적인 선택의 기회와 그에 따른 자기 형성의 과정을 거부하며 유사 죽음의 상태를 지향하는 인물들이 나온다. 『씌어지지 않은 자서전』에서 여성 두 명을 두고 저절로 그들 사이에 선택이 이뤄지도록 하는 소설 속 소설의 주인공, <괴상한 버릇>에서 낭패한 일이 생길 때마다 잠을 자거나 시체처럼 누워 있는 주인공, <벌거벗은 임금님>에서 사장의 일탈을 발설하면 안 된다는 강박에 못 이겨 마침내 감시의 환상에 시달리는 주인공, 마지막 소설에서 신문관의 ‘스스로 선택한 수형’이라는 발화에 이르기까지 인물들은 모두 선택을 미루거나 변화의 기회를 스스로 박탈하고 자기를 부정함으로써 삶 그 자체의 가능성을 인정하지 않는다. 스스로 사물이 되고자 하는 유혹에 굴복하는 이들 인물은 사르트르의 자기기만 개념 중 ‘즉자화의 자기기만’이라 표현된는 유형, 혹은 이를 ‘석화(石化)작용’이라 번역하고 있는 정명환의 논의를 떠올리게 한다.
+성실함의 자기기만, 혹은 스스로 죽음에 가까운 상태인 사물화의 유혹에 굴복하는 자기기만의 상태를 벗어나 실존을 지향하는 인물들의 행동은 진술 거부나 소설 쓰기와 같은 언어행위, 혹은 탈출로 구체화된다. 『소문의 벽』에서 한국전쟁에서의 어느 한 진영의 선택, 특정한 문학 이념과 형상화 방식을 선택하라는 작가에 대한 요구, 자신을 정신병자로 규정하는 김 박사를 피하는 박준의 행위, 그리고 이를 모두 종합한 진술 거부라는 상황은 자신의 신념을 보편의 차원으로까지 격상시키려는 모든 종류의 확실성의 요구에 대한 소극적 저항을 의미한다. 또 『당신들의 천국』에서 오마도 환자들이 섬이 살기 좋은 곳이 되어가고 있음에도 불구하고 굳이 바다를 헤엄쳐 육지로 탈출해 나가는 행동 역시 원장들의 명분의 독점과 독단성에 대한 저항의 의미를 담고 있다. 이 점에서 『당신들의 천국』은 모든 종류의 ‘명증한 진리를 거부’하는 행위 속에서 탄생될 수 있는 역설적인 진리의 순간을 강조하고자 한 것으로 보인다. 이는 미래의 불안과 위험을 스스로 감내하고라도 인간으로서의 자유를 수행하겠다는 결단, 즉 긍정적 자기기만을 보이는 부분이다.
+이처럼 법과 제도로서 지배 권력의 신념을 강력하게 언표하고 통제하려 했던 60~70년대의 권력과 통제사회 내 인물들의 심리적 역동을 이청준은 인간 의식의 보편적 특성인 자기기만의 사례를 통해 좀 더 구체적으로 형상화하고자 하였다. 이를 통해 이청준은 독재 체재로의 변화와 그 사회 속 지식인, 민중의 심리적 역동에 대해 깊이 있는 서사를 창안해 낼 수 있었으며, 더 나아가 실존적 자유의 개념을 암시하며 근원적인 삶의 조건에 대해 발화할 수 있었다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper examines on the relation between existential thoughts and recognition of the society in 1960s in Yi Cheong-jun's early short stories and novels. Existentialism is in fashion in Korean intellectual fields in 1950s and 1960s. Most writers and intellectuals accept it as a usual thought right after Korean War, and especially '4·19 generation' writers such as Kim Sung-ok (김승옥), Yi Cheong-jun(이청준), Park tae-sun(박태순), Seo Jeong-in (서정인) accept it as a educational background in Humanities Department of Seoul National University.
+The way of describing mechanism of autocracy system in Yi's various novels is closely related to this kind of existential thought. I especially here focus on the concept of 'the project of bad faith' and 'self-deceit', which Jean-Paul Sartre supposed in his early work, Being and Nothingness. Among the different types of project, that of bad faith is of generic importance for an existential understanding of what it is to be human. And it is universal human nature who always aims at freedom in his life. Sartre devide it into three types with vivid examples, sincere self-deceit, cynicism, positive self-deceit.
+The way of demonstrating the psychological dynamics of an autocrat can be explained as self-deceit of sincerity. It also reminds contemporary readers of Park Jeong-hee regime's governing mechanism. A psychologist Kim in the Wall of rumor (「소문의 벽」) , Jo Baek-heon in the Heaven of Yours (『당신들의 천국』) are common with being in a state of 'self-deceit of sincerity' because they are stick with their own belief. That strong belief itself occur another tragedy, because they cannot realize that they deceit themselves. Like this, they symbolize the autocracy, which refer to Park's regime itself.
+The heros of the frame story in the Autobiography which is not Written (『씌어지지 않은 자서전』) and the Wall of rumor (「소문의 벽」) are commonly show the attitude of 'self-diceit of alienation'. It means they deny the chance to change their own identity or deny themselves for external reasons. They literary mimic 'the state of death', or oppress the desire of telling. Denying themselves is ultimately concluded to insanity or horror of being under sentence. Sartre refer this kind of attitude as self-deceit of alienation, which means the desire of being an object, not a human who suffer various change in his(her) life.
+The third category of self-deceit is positive self-deceit, which means the attitude enduring uncertainty and anxiety about life. For example, the patients who escape Oma-island instead of going out in the Heaven of Yours (『당신들의 천국』) can be read as the people who desperately want to get freedom as a human. They want to be treated not as a patient, but as a human. They resist all kinds of obvious truth which is given from governing people. This kind of attitude is also discovered in main character in the Wall of rumor (「소문의 벽」) Park-Joon. He resist all kinds of demands selecting one side such as the conflict of ideology in Korean War, the belief about literature, diagnosis of the psychologist Kim. And 'I' in the Autobiography which is not Written (『씌어지지 않은 자서전』) also decide to be a writer, after overcoming his own horror and hesitation in 10 days. This attitude can be explained as positive self-deceit.
+In conclusion, Yi Cheong-joon create his characters who have various level of self-deceit. Through this kind of description, he can criticize indirectly the oppression of Park's regime.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[주제어이청준]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[존재와 무]]></keyword>
+          <keyword><![CDATA[자기기만]]></keyword>
+          <keyword><![CDATA[성실성]]></keyword>
+          <keyword><![CDATA[사물화]]></keyword>
+          <keyword><![CDATA[지식인]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[필화]]></keyword>
+          <keyword><![CDATA[독재]]></keyword>
+          <keyword><![CDATA[Yi Cheong-joon]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[self-deceit]]></keyword>
+          <keyword><![CDATA[self-deceit of sincerity]]></keyword>
+          <keyword><![CDATA[self-deceit of alienation]]></keyword>
+          <keyword><![CDATA[positive self-deceit]]></keyword>
+          <keyword><![CDATA[Japan-Paul Sartre]]></keyword>
+          <keyword><![CDATA[intellectuals]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[serious slip of the pen]]></keyword>
+          <keyword><![CDATA[the autocracy]]></keyword>
+        </keyword-group>
+        <fpage>337</fpage>
+        <lpage>373</lpage>
+        <doi />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.24</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002399846]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF047552890" type-code="03" type-name="단행본">
+          <title>작가의 작은 손</title>
+          <author>이청준</author>
+          <pubilisher>열화당</pubilisher>
+          <pubi-year>1978</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552891" type-code="03" type-name="단행본">
+          <title>씌어지지 않은 자서전</title>
+          <author>이청준</author>
+          <pubilisher>장락출판사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552892" type-code="03" type-name="단행본">
+          <title>병신과 머저리</title>
+          <author>이청준</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552893" type-code="03" type-name="단행본">
+          <title>소문의 벽</title>
+          <author>이청준</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552894" type-code="03" type-name="단행본">
+          <title>당신들의 천국</title>
+          <author>이청준</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552895" type-code="03" type-name="단행본">
+          <title>1970 박정희 모더니즘: 유신에서 선데이서울까지</title>
+          <author>권보드래</author>
+          <pubilisher>천년의 상상</pubilisher>
+          <pubi-year>2015</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552896" type-code="03" type-name="단행본">
+          <title>다시 지식인을 묻는다</title>
+          <author>강수택</author>
+          <pubilisher>삼인</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552897" type-code="03" type-name="단행본">
+          <title>실존과 참여: 한국의 사르트르 수용 1948~2007</title>
+          <author>강춘권</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552898" type-code="03" type-name="단행본">
+          <title>1960년을 묻다</title>
+          <author>권보드래</author>
+          <pubilisher>천년의 상상</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552899" type-code="03" type-name="단행본">
+          <title>글 뒤에 숨은 글</title>
+          <author>김병익</author>
+          <pubilisher>문학동네</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552900" type-code="03" type-name="단행본">
+          <title>한국인과 문학사상</title>
+          <author>김붕구</author>
+          <pubilisher>일조각</pubilisher>
+          <pubi-year>1968</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552901" type-code="03" type-name="단행본">
+          <title>운명과 형식</title>
+          <author>김윤식</author>
+          <pubilisher>솔</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552902" type-code="03" type-name="단행본">
+          <title>존재와 무-자유를 향한 실존적 탐색</title>
+          <author>변광배</author>
+          <pubilisher>살림</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552903" type-code="03" type-name="단행본">
+          <title>정명환 깊이 읽기</title>
+          <author>오생근</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552904" type-code="03" type-name="단행본">
+          <title>한국현대문학 50년</title>
+          <author>유종호</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552905" type-code="03" type-name="단행본">
+          <title>이청준 깊이 읽기</title>
+          <author>이청준</author>
+          <pubilisher />
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552906" type-code="03" type-name="단행본">
+          <title>불온의 시대-1960년대 한국의 문학과 정치</title>
+          <author>임유경</author>
+          <pubilisher>소명출판</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552907" type-code="03" type-name="단행본">
+          <title>실존철학</title>
+          <author>조가경</author>
+          <pubilisher>박영사</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552908" type-code="03" type-name="단행본">
+          <title>존재의 충만, 간극의 현존 1</title>
+          <author>조광제</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552909" type-code="03" type-name="단행본">
+          <title>우리문학의 논쟁사</title>
+          <author>홍신선</author>
+          <pubilisher>어문각</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552910" type-code="03" type-name="단행본">
+          <title>지식인을 위한 변명</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552911" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047552912" arti-id="ART001087364" type-code="01" type-name="학술지(정기간행물)">
+          <title>4.19세대 작가들의 초기 소설에 나타나는 ‘낙오자’ 모티프의 의미</title>
+          <author>김건우</author>
+          <journal-name>한국근대문학연구</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>16</isseue>
+          <serno />
+          <page>167-193</page>
+          <pubilisher>한국근대문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.19050/korlit.2007..16.006]]></doi>
+        </reference>
+        <reference refebibl-id="REF047552913" arti-id="ART002117064" type-code="01" type-name="학술지(정기간행물)">
+          <title>반역의 상상력 - 이청준의 『씌어지지 않은 자서전』의 저항성 연구</title>
+          <author>김성경</author>
+          <journal-name>상허학보</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>47</volume>
+          <isseue />
+          <serno />
+          <page>285-325</page>
+          <pubilisher>상허학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22936/sh.47..201606.008]]></doi>
+        </reference>
+        <reference refebibl-id="REF047552914" type-code="05" type-name="학위논문">
+          <title>이청준 소설의 악마성 연구</title>
+          <author>김소륜</author>
+          <degree>박사</degree>
+          <university>이화여자대학교 대학원</university>
+          <department>국어국문학과</department>
+          <pubi-year>2013</pubi-year>
+        </reference>
+        <reference refebibl-id="REF047552915" arti-id="ART001071127" type-code="01" type-name="학술지(정기간행물)">
+          <title>4.19와 1960년대 문학의 문화정치 -이청준의 소설을 중심으로 한 시론(試論)</title>
+          <author>김영찬</author>
+          <journal-name>한국근대문학연구</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>15</isseue>
+          <serno />
+          <page>137-163</page>
+          <pubilisher>한국근대문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.19050/korlit.2007..15.006]]></doi>
+        </reference>
+        <reference refebibl-id="REF047552916" type-code="05" type-name="학위논문">
+          <title>이청준 문학의 언어의식 연구</title>
+          <author>김우영</author>
+          <degree>박사</degree>
+          <university>서울대학교</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF047552917" arti-id="ART001635614" type-code="01" type-name="학술지(정기간행물)">
+          <title>권위주의적 사회구조와 소설의 형식 —이청준 소설 &lt;소문의 벽&gt;을 중심으로</title>
+          <author>김정관</author>
+          <journal-name>반교어문연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>32</isseue>
+          <serno />
+          <page>463-491</page>
+          <pubilisher>반교어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047552918" arti-id="ART001670798" type-code="01" type-name="학술지(정기간행물)">
+          <title>이청준의 『당신들의 천국』에 나타난 정치적 알레고리 읽기</title>
+          <author>김현생</author>
+          <journal-name>한국사상과 문화</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>63</isseue>
+          <serno />
+          <page>83-105</page>
+          <pubilisher>한국사상문화학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047552919" type-code="05" type-name="학위논문">
+          <title>4·19세대의 형성과 자기분화</title>
+          <author>고지혜</author>
+          <degree>박사</degree>
+          <university>고려대학교</university>
+          <department />
+          <pubi-year>2018</pubi-year>
+        </reference>
+        <reference refebibl-id="REF047552920" arti-id="ART001452965" type-code="01" type-name="학술지(정기간행물)">
+          <title>이청준의 『당신들의 천국』에 나타난알레고리 고찰</title>
+          <author>배경열</author>
+          <journal-name>배달말</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>46</isseue>
+          <serno />
+          <page>143-168</page>
+          <pubilisher>배달말학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047552921" arti-id="ART001722654" type-code="01" type-name="학술지(정기간행물)">
+          <title>&lt;당신들의 천국&gt;의 광기와 웃음 탐구</title>
+          <author>송기섭</author>
+          <journal-name>현대소설연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>51</isseue>
+          <serno />
+          <page>321-347</page>
+          <pubilisher>한국현대소설학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047552922" arti-id="ART001598300" type-code="01" type-name="학술지(정기간행물)">
+          <title>언어의 정치학과 문학의 수행성 -1960~70년대 이청준 소설을 중심으로</title>
+          <author>이수형</author>
+          <journal-name>상허학보</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume>33</volume>
+          <isseue />
+          <serno />
+          <page>243-273</page>
+          <pubilisher>상허학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22936/sh.33..201110.008]]></doi>
+        </reference>
+        <reference refebibl-id="REF047552923" arti-id="ART002259485" type-code="01" type-name="학술지(정기간행물)">
+          <title>1960∼70년대 이청준 소설에 나타난 권력의 중층성 주권권력, 규율권력, 생명권력을 중심으로</title>
+          <author>이수형</author>
+          <journal-name>민족문학사연구</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>64</isseue>
+          <serno />
+          <page>471-497</page>
+          <pubilisher>민족문학사연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047552924" arti-id="ART002378956" type-code="01" type-name="학술지(정기간행물)">
+          <title>고정된 언어를 넘어서는 ‘진실’ - 1970년대 소설에 나타난 소문과 해석의 양상</title>
+          <author>허선애</author>
+          <journal-name>한국현대문학연구</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>55</isseue>
+          <serno />
+          <page>385-419</page>
+          <pubilisher>한국현대문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22871/mklite.2018..55.011]]></doi>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

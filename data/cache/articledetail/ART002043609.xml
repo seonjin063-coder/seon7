@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002043609</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001650">
+        <issn>1598-9836</issn>
+        <journal-name>한민족문화연구</journal-name>
+        <publisher-name>한민족문화학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2015</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>51</volume>
+        <issue>51</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002043609">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[김수영 시에 나타난 실존주의적 전망의 긍정성]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Positivity of Existentialistic Perspective Represented in Kim SooYoung’s Poems]]></article-title>
+          <article-title lang="english"><![CDATA[The Positivity of Existentialistic Perspective Represented in Kim SooYoung’s Poems]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[박정근]]></name>
+            <name-eng><![CDATA[Jeongkeun Park]]></name-eng>
+            <institution>대진대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[김수영은 실존주의 영향으로 인해 세계와 인간 사이의 괴리를 발견하고 상호간의 어떤 유기적 관계의 부재로부터 부조리를 인식하고 있다. 현대인은 과학과 기술의 발전을 기초로 해서 이성으로 세계를 분석하고자 하지만 그 합리적 관점은 인간의 삶의 환상적 무의미성을 인식하게 할 뿐이다. 하지만 우리는 무의식이나 무(無)에 잠재한 진리에 이를 수 없다. 실존주의자로서 김수영은 한국사회의 뒤떨어진 현실을 바라보면서 과거와 현재, 문명과 전통, 정치와 자유 사이에서 보여주는 부조리를 발견한 바 있다. 특히 그는 세계의 무한대적 혼돈과 개체의 의미부여 사이의 경계선에서 깊은 시적 사유를 보여준다.
+김수영은 세계와 인간 사이에 존재한 부조리적 괴리에 대해 염세주의적 관점을 보여주었던 까뮈와 달리 독특한 실존주의적 비전을 제시한다. 그는 그의 시에 나타난 부조리의 문학적 의미가 무의미의 거대한 힘에 의해 소멸되는 것이 아니라 무의미의 은폐와 투쟁하는 과정에서 혼돈에의 접촉과 기록에 의해서 획득된다고 본다. 김수영은 무의식의 무한대와 인간의 유한적 의식 사이에서 필연적으로 부조리가 일어날 수밖에 없지만 부조리가 가져오는 고통을 통해서 오히려 무의식과 접촉이 가능하게 된다. 그것을 통해 그는 시인의 유한자적 존재를 넘어서는 새로운 창조의 가능성을 획득할 수 있다고 보는 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[Kim SooYoung, under the influence of existentialism, discovered the discrepancy between the world and human-beings. He recognized the absurdity from the lack of mutual organic relations of the world and human-beings. Even though modern men try to analyze the world by means of reason on the basis of the development of science and technology, this rational perspective leads us only to recognize the illusive meaninglessness of human lives. However, we are not able to reach the truth lying hidden beneath the subconscious or nothingness. As a existentialist, Kim SooYoung ever discovered the absurdity between past and present, civilization and tradition, and politics and liberty with watching the fallen-behind realities of Korean society. Especially he shows his profound poetic speculation for the borderline between the infinite chaos of the world and the individual significance.
+Kim SooYoung, different from Camus who showed pessimistic viewpoint for the absurd discrepancy between the world and human-beings, suggests his unique existential vision. He thinks that the literary meaning of the absurdity in his poems would not exterminate by the enormous force of the meaninglessness, rather it could be established by means of the contact and the record with chaos in the process of conflict with the concealment of meaninglessness. Kim SooYoung can rather contact with the subconscious through the pains of absurdity in spite of the necessity of absurdity between the infinity of subconscious and the finite conscious of human-beings. By doing so, he achieves the possibility of new creation beyond the finite existence of the poet]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[부조리]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[죽음]]></keyword>
+          <keyword><![CDATA[무의식]]></keyword>
+          <keyword><![CDATA[의식]]></keyword>
+          <keyword><![CDATA[혼돈]]></keyword>
+          <keyword><![CDATA[무한대]]></keyword>
+          <keyword><![CDATA[정체성]]></keyword>
+          <keyword><![CDATA[참여시]]></keyword>
+          <keyword><![CDATA[불가능성]]></keyword>
+          <keyword><![CDATA[가능성]]></keyword>
+          <keyword><![CDATA[이데올로기]]></keyword>
+          <keyword><![CDATA[억압]]></keyword>
+          <keyword><![CDATA[후진성]]></keyword>
+          <keyword><![CDATA[설사]]></keyword>
+          <keyword><![CDATA[무]]></keyword>
+          <keyword><![CDATA[absurdity]]></keyword>
+          <keyword><![CDATA[liberty]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[death]]></keyword>
+          <keyword><![CDATA[subconscious]]></keyword>
+          <keyword><![CDATA[conscious]]></keyword>
+          <keyword><![CDATA[chaos]]></keyword>
+          <keyword><![CDATA[infinity]]></keyword>
+          <keyword><![CDATA[identity]]></keyword>
+          <keyword><![CDATA[engagement poetry]]></keyword>
+          <keyword><![CDATA[impossibility]]></keyword>
+          <keyword><![CDATA[possibility]]></keyword>
+          <keyword><![CDATA[ideology]]></keyword>
+          <keyword><![CDATA[restraint]]></keyword>
+          <keyword><![CDATA[backwardness]]></keyword>
+          <keyword><![CDATA[diarrhea]]></keyword>
+          <keyword><![CDATA[nothingness]]></keyword>
+        </keyword-group>
+        <fpage>331</fpage>
+        <lpage>366</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17329/kcbook.2015.51.51.011]]></doi>
+        <uci>G704-001650.2015.51.51.006</uci>
+        <citation-count kci="2" wos="0">2</citation-count>
+        <fwci create-dt="2025-08-04">0.36</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002043609]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF036878853" arti-id="ART001651322" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시에 나타난 ‘죽음’의 문제 연구</title>
+          <author>권지현</author>
+          <journal-name>인문과학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>32</isseue>
+          <serno />
+          <page>59-84</page>
+          <pubilisher>인문과학연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878854" arti-id="ART001739001" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시의 성(性)의 정치학</title>
+          <author>김문주</author>
+          <journal-name>우리어문연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>45</isseue>
+          <serno />
+          <page>371-392</page>
+          <pubilisher>우리어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878855" type-code="03" type-name="단행본">
+          <title>풍자와 해탈 혹은 사랑과 죽음</title>
+          <author>김상환</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878856" arti-id="ART001485204" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영의 ｢꽃잎｣에 나타난 수사학적 특성</title>
+          <author>김은석 ; 이승하</author>
+          <journal-name>현대문학이론연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>42</isseue>
+          <serno />
+          <page>117-140</page>
+          <pubilisher>현대문학이론학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878857" type-code="03" type-name="단행본">
+          <title>전집2</title>
+          <author>김수영</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878858" type-code="03" type-name="단행본">
+          <title>전집2</title>
+          <author>김수영</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878859" type-code="03" type-name="단행본">
+          <title>전집2</title>
+          <author>김수영</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878860" type-code="03" type-name="단행본">
+          <title>전집 2</title>
+          <author>김수영</author>
+          <pubilisher />
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878861" type-code="05" type-name="학위논문">
+          <title>미적 근대성과 순간의 시학 연구 : 김수영·김종삼 시의 시간의식</title>
+          <author>남진우</author>
+          <degree>박사</degree>
+          <university>중앙대</university>
+          <department>문학이론</department>
+          <pubi-year>2000</pubi-year>
+        </reference>
+        <reference refebibl-id="REF036878862" type-code="03" type-name="단행본">
+          <title>문학의 공간</title>
+          <author>모리스 블랑쇼</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878863" type-code="03" type-name="단행본">
+          <title>훗설에서 사르트르에로</title>
+          <author>에도 피브체비치</author>
+          <pubilisher>지학사</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878864" type-code="03" type-name="단행본">
+          <title>20세기 프랑스 철학</title>
+          <author>에릭 메슈스</author>
+          <pubilisher>동문선</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878865" type-code="03" type-name="단행본">
+          <title>김수영의 시와 언어</title>
+          <author>여태천</author>
+          <pubilisher>月印</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878866" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영의 시론과 실존주의 철학</title>
+          <author>오문석</author>
+          <journal-name>국제어문</journal-name>
+          <pubi-year>2000</pubi-year>
+          <volume>21</volume>
+          <isseue />
+          <serno />
+          <page>75-92</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878867" arti-id="ART001518331" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시에 나타난 여성에 대한 시선 연구</title>
+          <author>유창민</author>
+          <journal-name>겨레어문학</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>45</isseue>
+          <serno />
+          <page>153-181</page>
+          <pubilisher>겨레어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878868" arti-id="ART001618919" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시론과 ‘죽음’  -블랑쇼의 영향을 중심으로-</title>
+          <author>이미순</author>
+          <journal-name>국어국문학</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>159</isseue>
+          <serno />
+          <page>329-351</page>
+          <pubilisher>국어국문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878869" arti-id="ART001823983" type-code="01" type-name="학술지(정기간행물)">
+          <title>카뮈의 부조리철학에 대한 고찰</title>
+          <author>이서규</author>
+          <journal-name>철학논집</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>35</volume>
+          <isseue />
+          <serno />
+          <page>139-178</page>
+          <pubilisher>철학연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878870" type-code="03" type-name="단행본">
+          <title>시시포스와 그의 형제들</title>
+          <author>정항균</author>
+          <pubilisher>을유문화사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878871" type-code="03" type-name="단행본">
+          <title>김수영의 문학</title>
+          <author>정현종</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878872" arti-id="ART001422385" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 문학의 미학적 정치성에 대하여  －불화의 미학과 탈경계적 정치학－</title>
+          <author>진은영</author>
+          <journal-name>현대문학의 연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume />
+          <isseue>40</isseue>
+          <serno />
+          <page>497-526</page>
+          <pubilisher>한국문학연구학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878873" type-code="03" type-name="단행본">
+          <title>세계상의 시대</title>
+          <author>M. 하이데거</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878874" type-code="03" type-name="단행본">
+          <title>존재와 시간</title>
+          <author>하이데거</author>
+          <pubilisher>까치</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878875" arti-id="ART001685473" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 초기시의 난해성과 ‘불가능성의 가능성’으로서의 시적 전략 ―  ｢토끼｣ ｢공자의 생활난｣에 대한 주석</title>
+          <author>함돈균</author>
+          <journal-name>한국시학연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>34</isseue>
+          <serno />
+          <page>339-375</page>
+          <pubilisher>한국시학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF036878876" type-code="03" type-name="단행본">
+          <title>시지푸스신화</title>
+          <author>A. 카뮈</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF036878877" type-code="03" type-name="단행본">
+          <title>활과 리라</title>
+          <author>Octavia Paz</author>
+          <pubilisher>솔</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001722972</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000812">
+        <issn>1598-124X</issn>
+        <journal-name>현대문학이론연구</journal-name>
+        <publisher-name>현대문학이론학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2012</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>51</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001722972">
+        <article-categories>인문학 &gt; 문학 &gt; 문학이론</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[소설적 자유와 욕망의 실천가능성 ― 이청준의 『당신들의 천국』을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Possibility of Practicing Novelistic Freedom and Desire - Focused on Lee Cheong-joon’s Your Paradise]]></article-title>
+          <article-title lang="english"><![CDATA[The Possibility of Practicing Novelistic Freedom and Desire - Focused on Lee Cheong-joon’s Your Paradise]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[홍웅기]]></name>
+            <name-eng><![CDATA[Hong, Ung-Gi]]></name-eng>
+            <institution>목원대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이청준의 “이야기는 진실의 한계와 소재를 탐색하는 이야기꾼의 준엄하고 분석적인 눈에 의해 짜여진 것이며, 이야기의 짜임의 형식은 이야기 속 이야기를 두고 있는 두 층에 의한 개성적인 것이며, 또 집요한 탐색의 작업을 돕는 적절한 것으로 이해”할 수 있다. 끊임없는 자유에 대한 탐색과 인간에 대한 성찰, 이를 통해 우리는 『당신들의 천국』에서 자유와 억압의 의미를 재고하게 만든다. 그가 재현하고 했던 자유라는 것은 어떠한 의미를 지니는 것일까? 그것은 1950년대 이후 한국 문학에서 논의된 실존적 문제와 맞물리게 된다. 우리 문학사에서 실존주의의 문제는 이데올로기의 대체물로서 작용한다. 첨예하게 대립하는 이데올로기 사이에서 실존의 문제는 당대적 현실에서 개인의 위상을 어떻게 규정해야 할 것인가를 고민했던 지식인들에게 일종의 돌파구로 기능한다. 이러한 실존적 문제에 근거한 현실에 대한 인식은 4.19와 5.16을 거치면서 당대적 현실과 함께 인간의 존재에 대한, 그리고 지식인이 이러한 당대적 문제를 어떠한 방식으로 헤쳐 나가야 할 것인가에 대한 사유와 반성을 요구하는 탐색 과정을 통해 보여준다. 이청준이 『당신들의 천국』을 통해 제시하는 자유와 억압의 변증법은 사랑이라는 결론을 도출하고 있다. 그 시대의 부조리함을 극복하기 위한 수단은 우리 스스로에 대한 믿음과 현실에 대한 인식의 변화로 일 것이다. 하지만, 그것이 얼마나 자율적 주체에 의해 행해지는 것인가에 따라 그 결과는 다르게 비춰질 수 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[The story of Lee Cheong-joon can be understood as “what has been woven by the storyteller with severe and analytic view who searches the limitation of truth and material for stories, the form of the structure of his story is distinguishing with the two layers which have a story within a story, and it is appropriate for supporting his tenacious search.” Through this process of incessant search for freedom and reflection on human existence, we are made to reconsider the meaning of freedom and suppression in his work, Your Own Heaven. What is the meaning of the freedom he recreated? It is combined with the existential matter that has been discussed in Korean literature since 1950s. The matter of existentialism acts as the substitute of ideology in the history of Korean literature. Between the sharply divided ideologies the existential matter functioned as a breakthrough to the intellectual who were worried about how to define their individual status in reality of the times. The awareness of reality based on the existential matter is shown through the searching process requiring speculation and reflection on the reality of the times, human existence, and how the intellectual should make their way through such matters of their times, undergoing the April 19th Revolution and the May 16th Pro-democratic Resistance Movement. Lee Cheong-joon has concluded that love is the suggested dialectic of the freedom and suppression through Your Own Heaven. The means to overcome the absurdity of the times will be the faith in ourselves and the change of our perception of reality. However, the results will be different depending upon how independently it is done by the autonomous subject. It is shown that the heaven created by the ethics of the director of the hospital can never be the same paradise to the subjects who form it and live there.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Lee Cheong-joon]]></keyword>
+          <keyword><![CDATA[Freedom]]></keyword>
+          <keyword><![CDATA[Suppression]]></keyword>
+          <keyword><![CDATA[Desire]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Human Existence]]></keyword>
+          <keyword><![CDATA[Autonomous Subject.]]></keyword>
+          <keyword><![CDATA[이청준]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[억압]]></keyword>
+          <keyword><![CDATA[욕망]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[인간의 존재]]></keyword>
+          <keyword><![CDATA[자율적 주체.]]></keyword>
+        </keyword-group>
+        <fpage>439</fpage>
+        <lpage>457</lpage>
+        <doi />
+        <uci>G704-000812.2012..51.007</uci>
+        <citation-count kci="7" wos="0">7</citation-count>
+        <fwci create-dt="2025-08-04">1.54</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001722972]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF027978975" type-code="03" type-name="단행본">
+          <title>당신들의 천국</title>
+          <author>이청준</author>
+          <pubilisher>열림원</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978976" type-code="03" type-name="단행본">
+          <title>한국 현대 문학사</title>
+          <author>권영민</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978977" type-code="03" type-name="단행본">
+          <title>대담 시대의 고통에서 영혼의 비상까지, In 이청준 깊이 읽기</title>
+          <author>권오룡</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978978" type-code="03" type-name="단행본">
+          <title>어둠 속에서의 글쓰기, In 소문의 벽</title>
+          <author>권오룡</author>
+          <pubilisher>열림원</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978979" type-code="03" type-name="단행본">
+          <title>韓國小說史</title>
+          <author>김윤식</author>
+          <pubilisher>예하</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978980" type-code="03" type-name="단행본">
+          <title>자유와 사랑의 실천적 화해</title>
+          <author>김 현</author>
+          <pubilisher>삼인행</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978981" type-code="03" type-name="단행본">
+          <title>對立的世界認識의 힘 -李淸俊論, In 李淸俊</title>
+          <author>김 현</author>
+          <pubilisher>은애</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978982" arti-id="ART000913709" type-code="01" type-name="학술지(정기간행물)">
+          <title>이청준의 1960년대 소설 연구</title>
+          <author>박은태</author>
+          <journal-name>현대문학의 연구</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume />
+          <isseue>28</isseue>
+          <serno />
+          <page>239-269</page>
+          <pubilisher>한국문학연구학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027978983" arti-id="ART001370368" type-code="01" type-name="학술지(정기간행물)">
+          <title>&lt;병신과 머저리&gt;의 내면성과 아이러니</title>
+          <author>송기섭</author>
+          <journal-name>현대소설연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>41</isseue>
+          <serno />
+          <page>159-186</page>
+          <pubilisher>한국현대소설학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027978984" arti-id="ART001651717" type-code="01" type-name="학술지(정기간행물)">
+          <title>자유를 표현하는 방식과 그 의미-이청준론</title>
+          <author>송기섭</author>
+          <journal-name>한국문학이론과 비평</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>16</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>297-316</page>
+          <pubilisher>한국문학이론과비평학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027978985" type-code="03" type-name="단행본">
+          <title>진실을 탐색하는 이야기꾼, In 이청준論</title>
+          <author>신동욱</author>
+          <pubilisher>삼인행</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978986" type-code="01" type-name="학술지(정기간행물)">
+          <title>우리들의 천국을 향한 당신들의 천국</title>
+          <author>우찬제</author>
+          <journal-name>문학과 사회</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume />
+          <isseue>봄</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027978987" type-code="03" type-name="단행본">
+          <title>당신들의 천국 의 상징성 연구, In 이청준 소설연구</title>
+          <author>이승준</author>
+          <pubilisher>한국학술정보</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978988" type-code="03" type-name="단행본">
+          <title>글을 쓴다는 것은 무엇인가, In 비상학, 부활하는 새, 다시 태어나는 말</title>
+          <author>이윤옥</author>
+          <pubilisher>문이당</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978989" type-code="03" type-name="단행본">
+          <title>부조리 현상과 인간의식의 진화, In 이청준論</title>
+          <author>이태동</author>
+          <pubilisher>삼인행</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978990" type-code="05" type-name="학위논문">
+          <title>1960년대 지식인 소설 연구</title>
+          <author>임경순</author>
+          <degree>박사</degree>
+          <university>성균관대학교 대학원</university>
+          <department>현대문학</department>
+          <pubi-year>2001</pubi-year>
+        </reference>
+        <reference refebibl-id="REF027978991" type-code="03" type-name="단행본">
+          <title>경계와 이행의 서사 공간</title>
+          <author>장일구</author>
+          <pubilisher>서강대학교 출판부</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978992" type-code="03" type-name="단행본">
+          <title>소설적 인식의 전환과 다양성의 확보 –1960년대와 1970년대의 소설, In 한국문학 50년</title>
+          <author>전영태</author>
+          <pubilisher>문학사상사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978993" type-code="03" type-name="단행본">
+          <title>1960년대 한국 근대화와 통치양식의 전환, In 1960년대 한국의 근대화와 지식인</title>
+          <author>정용욱</author>
+          <pubilisher>선인</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978994" type-code="03" type-name="단행본">
+          <title>기원의 소설, 소설의 기원</title>
+          <author>마르트 로베르</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978995" type-code="03" type-name="단행본">
+          <title>&lt;매트릭스&gt;는 데카르트를 반복한다 : 삶은 악령의 기만, In 매트릭스로 철학하기</title>
+          <author>제럴드 J. 에리온</author>
+          <pubilisher>한문화</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027978996" type-code="03" type-name="단행본">
+          <title>인간의 조건</title>
+          <author>한나 아렌트</author>
+          <pubilisher>한길사</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

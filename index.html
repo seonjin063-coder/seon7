@@ -1,0 +1,1626 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigravity Dashboard | Existentialism & Freedom</title>
+    <!-- 고급스러운 폰트 세팅 -->
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+:root {
+    --bg-dark: #0f1115;
+    --panel-bg: rgba(26, 29, 36, 0.45);
+    --panel-border: rgba(255, 255, 255, 0.08);
+    --accent-blue: #00d2ff;
+    --accent-purple: #3a7bd5;
+    --text-main: #e2e8f0;
+    --text-muted: #94a3b8;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: 'Inter', -apple-system, sans-serif;
+    min-height: 100vh;
+    padding: 2rem;
+    overflow-x: hidden;
+    /* 은은한 네온 배경 효과 */
+    background-image: 
+        radial-gradient(circle at 15% 50%, rgba(58, 123, 213, 0.06), transparent 30%),
+        radial-gradient(circle at 85% 30%, rgba(0, 210, 255, 0.06), transparent 30%);
+}
+
+.dashboard-container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+/* Header */
+.header {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid var(--panel-border);
+    padding-bottom: 1rem;
+}
+
+.logo {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-shadow: 0 0 20px rgba(0, 210, 255, 0.4);
+}
+
+.logo span {
+    color: var(--accent-blue);
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    font-weight: 400;
+    margin-top: 0.3rem;
+}
+
+.header-status {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Chakra Petch', sans-serif;
+    color: var(--accent-blue);
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.status-dot {
+    width: 8px;
+    height: 8px;
+    background-color: var(--accent-blue);
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--accent-blue);
+    animation: blink 2s infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+
+/* Tab Navigation & Grid Layout */
+.tab-container {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--panel-border);
+    padding-bottom: 1rem;
+}
+.tab-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.15rem;
+    font-family: 'Inter', sans-serif;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    position: relative;
+    font-weight: 600;
+}
+.tab-btn:hover { color: #fff; }
+.tab-btn.active { color: var(--accent-blue); text-shadow: 0 0 10px rgba(0,210,255,0.4); }
+.tab-btn.active::after {
+    content: '';
+    position: absolute;
+    bottom: -1rem; left: 0; width: 100%; height: 3px;
+    background: var(--accent-blue);
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0 -2px 10px rgba(0, 210, 255, 0.5);
+}
+.tab-content { display: none; animation: fadeIn 0.4s ease-out; }
+.tab-content.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
+
+.tab-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+.layout-1-2 { grid-template-columns: 1fr 2fr; }
+.layout-1-1 { grid-template-columns: 1fr 1fr; }
+
+.panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 16px;
+    padding: 1.5rem;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Panel Heights */
+.focus-gauge { grid-row: span 2; height: 100%; min-height: 600px;}
+.research-gap { height: auto; min-height: 250px; }
+.gap-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    padding: 1rem 0;
+}
+.gap-tag {
+    background: rgba(255, 71, 87, 0.1);
+    border: 1px solid rgba(255, 71, 87, 0.3);
+    color: #ff4757;
+    padding: 0.6rem 1.2rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.3s;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255, 71, 87, 0.1);
+}
+.gap-tag:hover {
+    background: rgba(255, 71, 87, 0.2);
+    border-color: rgba(255, 71, 87, 0.6);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(255, 71, 87, 0.2);
+}
+.gap-tag .count {
+    background: rgba(255, 71, 87, 0.2);
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    margin-left: 0.5rem;
+}
+.journal-expansion { height: 300px; display: flex; flex-direction: column; }
+.affiliation-ratio { height: 300px; display: flex; flex-direction: column; }
+.citation-network { height: 400px; grid-column: span 2; }
+.nav-map { grid-row: span 3; height: 100%; min-height: 800px; }
+.author-network { height: 450px; }
+.timeline { height: 350px; }
+.evolution-trend { height: 350px; display: flex; flex-direction: column; }
+
+/* Insight Note */
+.insight-note {
+    border-left: 4px solid #ff4757;
+    background: linear-gradient(90deg, rgba(255, 71, 87, 0.05) 0%, rgba(26, 29, 36, 0.45) 50%);
+}
+
+.insight-content {
+    background: rgba(0,0,0,0.2);
+    border-radius: 8px;
+    padding: 1.2rem;
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    outline: none;
+    border: 1px dashed rgba(255, 255, 255, 0.1);
+    transition: all 0.3s;
+}
+
+.insight-content:focus {
+    border-color: #ff4757;
+    box-shadow: 0 0 15px rgba(255, 71, 87, 0.15);
+    background: rgba(0,0,0,0.3);
+}
+
+/* Panel Headers */
+.panel h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.badge {
+    font-size: 0.7rem;
+    background: rgba(0, 210, 255, 0.15);
+    color: var(--accent-blue);
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 210, 255, 0.3);
+    text-transform: uppercase;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.panel-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 1.2rem;
+}
+
+/* Charts */
+.chart-container {
+    flex: 1;
+    width: 100%;
+}
+
+/* Ranking List */
+.list-container {
+    flex: 1;
+    overflow-y: auto;
+    padding-right: 0.8rem;
+}
+
+.list-container::-webkit-scrollbar { width: 6px; }
+.list-container::-webkit-scrollbar-track { background: transparent; }
+.list-container::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+.list-item {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.03);
+    border-radius: 10px;
+    padding: 1.2rem;
+    margin-bottom: 0.8rem;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    cursor: pointer;
+}
+
+.list-item:hover {
+    background: rgba(0, 210, 255, 0.06);
+    border-color: rgba(0, 210, 255, 0.3);
+    transform: translateX(4px);
+    box-shadow: -4px 0 15px rgba(0, 210, 255, 0.1);
+}
+
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.item-rank {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent-blue);
+}
+
+.item-score {
+    background: rgba(0, 210, 255, 0.1);
+    color: var(--accent-blue);
+    padding: 0.2rem 0.7rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border: 1px solid rgba(0, 210, 255, 0.2);
+}
+
+.item-title {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #fff;
+}
+
+.item-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+/* --- Added Features --- */
+.kpi-tooltip .kpi-card {
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s ease;
+    transform: translateY(10px);
+}
+.kpi-tooltip:hover .kpi-card {
+    visibility: visible !important;
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+/* HUD Panel */
+.hud-panel {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+.hud-item {
+    background: rgba(0, 210, 255, 0.05);
+    border: 1px solid rgba(0, 210, 255, 0.15);
+    border-radius: 12px;
+    padding: 1.2rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+.hud-item::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent-blue), transparent);
+    opacity: 0.5;
+}
+.hud-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 0.4rem;
+    font-weight: 600;
+}
+.hud-value {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #fff;
+}
+.hud-value.hud-accent {
+    color: #ff4757;
+    text-shadow: 0 0 15px rgba(255, 71, 87, 0.5);
+}
+
+/* Controls */
+.panel-header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.25rem;
+}
+.panel-header-flex h2 {
+    margin-bottom: 0;
+}
+.controls {
+    display: flex;
+    gap: 0.5rem;
+}
+.control-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-muted);
+    padding: 0.4rem 1rem;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.control-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+.control-btn.active {
+    background: rgba(0, 210, 255, 0.15);
+    border-color: var(--accent-blue);
+    color: var(--accent-blue);
+    font-weight: 600;
+    box-shadow: 0 0 10px rgba(0, 210, 255, 0.2);
+}
+
+/* Export Button */
+.export-btn {
+    margin-top: 1.5rem;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(255, 71, 87, 0.15), rgba(0, 210, 255, 0.15));
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #fff;
+    padding: 0.8rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.export-btn:hover {
+    background: linear-gradient(90deg, rgba(255, 71, 87, 0.3), rgba(0, 210, 255, 0.3));
+    border-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+/* --- Added Features: Drawer --- */
+.drawer {
+    position: fixed;
+    top: 0;
+    right: -450px;
+    width: 450px;
+    height: 100vh;
+    background: rgba(15, 17, 21, 0.95);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-left: 1px solid var(--panel-border);
+    box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5);
+    transition: right 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+}
+.drawer.open {
+    right: 0;
+}
+.drawer-header {
+    padding: 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.drawer-header h3 { font-size: 1.2rem; margin: 0; font-family: 'Inter', sans-serif; }
+#closeDrawer {
+    background: transparent; border: none; color: white; font-size: 1.2rem; cursor: pointer;
+    transition: transform 0.2s;
+}
+#closeDrawer:hover { transform: scale(1.2); }
+.drawer-keyword {
+    padding: 1rem 1.5rem;
+    font-size: 0.95rem;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.05);
+    color: var(--text-muted);
+}
+.drawer-content {
+    padding: 1.5rem;
+    flex: 1;
+    overflow-y: auto;
+}
+.drawer-content::-webkit-scrollbar { width: 6px; }
+.drawer-content::-webkit-scrollbar-thumb { background: rgba(0, 210, 255, 0.3); border-radius: 3px; }
+.drawer-item {
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+    padding: 1.2rem;
+    margin-bottom: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.drawer-item:hover {
+    border-color: rgba(0, 210, 255, 0.3);
+    background: rgba(0, 210, 255, 0.05);
+    transform: translateY(-2px);
+}
+.drawer-item-title { font-weight: 600; font-size: 1rem; margin-bottom: 0.5rem; line-height: 1.4; color: #fff; }
+.drawer-item-authors { font-size: 0.8rem; color: var(--accent-blue); margin-bottom: 0.5rem; }
+.drawer-item-abstract { 
+    font-size: 0.85rem; color: #a1a1aa; line-height: 1.6; 
+    display: -webkit-box; -webkit-line-clamp: 4; line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; 
+}
+
+/* 모달 배경 오버레이 */
+.drawer-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 999;
+    display: none;
+    backdrop-filter: blur(3px);
+}
+.drawer-overlay.open { display: block; }
+
+</style>
+    <!-- ECharts (강력한 시각화 라이브러리) -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- 상단 헤더 -->
+        <header class="header">
+            <div class="logo-wrapper">
+                <h1 class="logo">ANTIGRAVITY <span>NAV</span></h1>
+                <div class="subtitle">실존주의 '자유' 연구 동향 모니터링 시스템</div>
+            </div>
+            <div class="header-status" style="display:flex; align-items:center; gap: 15px;">
+                <div class="macro-toggle" style="background: rgba(255,255,255,0.05); border-radius: 20px; padding: 4px; display:flex; gap: 4px; border: 1px solid rgba(255,255,255,0.1);">
+                    <button id="macroToggleBtn" class="toggle-btn" style="background:transparent; color:#94a3b8; border:none; padding:6px 12px; border-radius:16px; cursor:pointer; font-weight:bold; transition:all 0.3s;">🌐 실존주의 전체 (978건)</button>
+                    <button id="microToggleBtn" class="toggle-btn active" style="background:#fca311; color:#fff; border:none; padding:6px 12px; border-radius:16px; cursor:pointer; font-weight:bold; transition:all 0.3s; box-shadow:0 0 10px rgba(252,163,17,0.3);">🎯 실존주의+자유 (414건)</button>
+                </div>
+                <div><span class="status-dot"></span> System Online</div>
+            </div>
+        </header>
+
+        <!-- 상단 핵심 지표 요약 (HUD 패널) -->
+        <div class="hud-panel" id="hudPanel">
+            <div class="hud-item">
+                <div class="hud-label">분석 데이터 수 (KCI)</div>
+                <div class="hud-value" id="hudPapers">0</div>
+            </div>
+            <div class="hud-item">
+                <div class="hud-label">도출된 철학 개념</div>
+                <div class="hud-value" id="hudConcepts">0</div>
+            </div>
+            <div class="hud-item">
+                <div class="hud-label">발견된 연구 공백</div>
+                <div class="hud-value hud-accent" id="hudGaps">0</div>
+            </div>
+        </div>
+
+        <!-- 탭 네비게이션 -->
+        <div class="tab-container">
+            <button class="tab-btn active" data-target="chapter1">Chapter 1. 선행연구의 지형도</button>
+            <button class="tab-btn" data-target="chapter2">Chapter 2. 잊혀진 공백의 발견</button>
+            <button class="tab-btn" data-target="chapter3">Chapter 3. 새로운 논지 제안</button>
+        </div>
+
+        <!-- 메인 탭 내용 영역 -->
+        <main>
+            <!-- Chapter 1. 선행연구의 지형도 -->
+            <div id="chapter1" class="tab-content active">
+                <div style="margin-bottom: 1.5rem; padding: 1rem; background: rgba(0, 210, 255, 0.05); border-left: 4px solid var(--accent-blue); border-radius: 0 8px 8px 0;">
+                    <p style="color: #cbd5e1; font-size: 1.05rem; line-height: 1.6;">
+                        <strong>[내러티브 해설]</strong> 실존주의 철학에서 '자유'라는 개념은 시대에 따라 어떻게 진화해 왔을까요? 연도별 연구 논문의 밀도 변화와 핵심 문헌 랭킹을 통해 주류 학계의 흐름을 파악합니다.
+                    </p>
+                </div>
+                <div class="tab-grid layout-1-2">
+                    <!-- 1. 영향력 랭킹 -->
+                    <section class="panel focus-gauge">
+                        <div class="panel-header-flex">
+                            <h2>📊 영향력 랭킹 <span class="badge">Focus Gauge</span></h2>
+                            <div class="controls">
+                                <button class="control-btn active" id="focusAllBtn">전체 문헌</button>
+                                <button class="control-btn" id="focusFreedomBtn" style="color: #00d2ff; border-color: rgba(0, 210, 255, 0.3);">자유 특화</button>
+                            </div>
+                        </div>
+                        <div class="panel-desc">가장 많이 읽히고 인용된 핵심 철학 문헌 Top 10</div>
+                        <div class="list-container" id="focusList">
+                            <!-- JavaScript가 데이터를 여기에 채웁니다 -->
+                        </div>
+                    </section>
+                    
+                    <!-- 3. 연도별 연구 밀도 -->
+                    <section class="panel timeline">
+                        <h2>📈 연구 밀도 변화 <span class="badge">Timeline</span></h2>
+                        <div class="panel-desc">연도별 학술 논문 발행 추이 (관심도 곡선)</div>
+                        <div class="chart-container" id="timelineChart"></div>
+                    </section>
+                    
+                    <!-- 1.5 진화 추적기 -->
+                    <section class="panel evolution-trend">
+                        <h2>🧬 시대별 키워드 진화 추적기 <span class="badge">Evolution Trend</span></h2>
+                        <div class="panel-desc">연대별 '자유'와 결합된 주요 담론의 지형도 흐름 변화 (Streamgraph)</div>
+                        <div class="chart-container" id="evolutionChart" style="height: 250px;"></div>
+                    </section>
+                </div>
+            </div>
+
+            <!-- Chapter 2. 발견된 연구 공백 -->
+            <div id="chapter2" class="tab-content">
+                <div style="margin-bottom: 1.5rem; padding: 1rem; background: rgba(255, 71, 87, 0.05); border-left: 4px solid #ff4757; border-radius: 0 8px 8px 0;">
+                    <p style="color: #cbd5e1; font-size: 1.05rem; line-height: 1.6;">
+                        <strong>[내러티브 해설]</strong> 거시적 흐름 속에서 자유는 주로 '주체성' 등과 결합해왔습니다. 하지만 데이터의 변두리(Gap)를 보면 아직 소외된 채 남아있는 개념들이 존재합니다. 이 끊어진 연결고리가 바로 새로운 논지가 파고들 '연구 공백'입니다.
+                    </p>
+                </div>
+                <div class="tab-grid layout-1-2">
+                    <!-- 2. 인지망 -->
+                    <section class="panel nav-map">
+                        <div class="panel-header-flex">
+                            <h2>🕸️ 개념 연결 인지망 <span class="badge">Navigation</span></h2>
+                            <div class="controls">
+                                <button class="control-btn active" data-filter="all">전체 노드</button>
+                                <button class="control-btn" data-filter="sartre">사르트르 중심</button>
+                                <button class="control-btn" data-filter="freedom" style="color: #00d2ff; border-color: rgba(0, 210, 255, 0.3);">자유 중심</button>
+                            </div>
+                        </div>
+                        <div class="panel-desc">키워드 네트워크: '자유'와 함께 다루어지는 철학적 개념들의 관계도</div>
+                        <div class="chart-container" id="networkChart"></div>
+                    </section>
+                    
+                    <!-- 연구 공백 -->
+                    <section class="panel research-gap">
+                        <div class="panel-header-flex">
+                            <h2>💡 연구 공백 (Research Gap) <span class="badge" style="background:rgba(255,71,87,0.15); color:#ff4757; border-color:rgba(255,71,87,0.3)">Discovery</span></h2>
+                        </div>
+                        <div class="panel-desc">'자유'와 연결될 잠재력이 높으나 아직 주요 연구로 다뤄지지 않은 주변부 개념들</div>
+                        <div class="gap-tags-container" id="gapTagsContainer">
+                            <!-- JS에서 동적 생성 -->
+                        </div>
+                    </section>
+                    
+                    <!-- 학제간 융합 -->
+                    <section class="panel journal-expansion">
+                        <h2>📚 학제간 융합 생태계 변화 <span class="badge" style="background:rgba(252,163,17,0.15); color:#fca311; border-color:rgba(252,163,17,0.3)">Journal Expansion</span></h2>
+                        <div class="panel-desc">'자유'라는 렌즈를 통한 철학의 외연 확장 (주요 게재 학술지 비교)</div>
+                        <div class="chart-container" id="journalChart" style="height: 250px;"></div>
+                    </section>
+                    
+                    <!-- 소속기관 비율 -->
+                    <section class="panel affiliation-ratio">
+                        <h2>🏛️ 대학교 소속기관 비율 <span class="badge" style="background:rgba(43, 203, 186, 0.15); color:#2bcbba; border-color:rgba(43, 203, 186, 0.3)">Affiliation Ratio</span></h2>
+                        <div class="panel-desc">연구자들의 핵심 소속 대학 분포</div>
+                        <div class="chart-container" id="affiliationChart" style="height: 250px;"></div>
+                    </section>
+                </div>
+            </div>
+
+            <!-- Chapter 3. 새로운 논지 제안 -->
+            <div id="chapter3" class="tab-content">
+                <div style="margin-bottom: 1.5rem; padding: 1rem; background: rgba(165, 94, 234, 0.05); border-left: 4px solid #a55eea; border-radius: 0 8px 8px 0;">
+                    <p style="color: #cbd5e1; font-size: 1.05rem; line-height: 1.6;">
+                        <strong>[내러티브 해설]</strong> 선행연구의 한계와 연구 공백을 객관적 데이터로 확인했습니다. 이제 이 빈틈을 논리적으로 메울 본 논문만의 독창적인 논지(Thesis Statement)를 제안합니다.
+                    </p>
+                </div>
+                <div class="tab-grid layout-1-1">
+                    <!-- 2.5 핵심 연구자 네트워크 -->
+                    <section class="panel author-network">
+                        <div class="panel-header-flex">
+                            <h2>🤝 핵심 연구자 네트워크 <span class="badge" style="background:rgba(165, 94, 234, 0.15); color:#a55eea; border-color:rgba(165, 94, 234, 0.3)">Bridge Node</span></h2>
+                        </div>
+                        <div class="panel-desc" style="margin-bottom: 0.5rem;">전체 실존주의와 자유 융합 연구를 매개하는 핵심 학자 식별</div>
+                        <div style="display: flex; gap: 1rem; margin-bottom: 1rem; font-size: 0.82rem; padding: 0.8rem; background: rgba(0,0,0,0.2); border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); line-height: 1.4;">
+                            <div style="flex:1;">
+                                <span style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#3a7bd5; margin-right:4px;"></span>
+                                <strong style="color:#3a7bd5;">Macro Focus</strong><br>
+                                <span style="color:var(--text-muted);">실존주의 철학 전반의 거시적 연구를 주도하는 집단</span>
+                            </div>
+                            <div style="flex:1;">
+                                <span style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#fca311; margin-right:4px;"></span>
+                                <strong style="color:#fca311;">Micro Focus</strong><br>
+                                <span style="color:var(--text-muted);">'자유'라는 특정 주제에 집중하여 파고드는 심층 연구 집단</span>
+                            </div>
+                            <div style="flex:1; border-left: 1px dashed rgba(255,255,255,0.1); padding-left: 1rem;">
+                                <span style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#a55eea; margin-right:4px; box-shadow: 0 0 8px #a55eea;"></span>
+                                <strong style="color:#a55eea;">Bridge Node (매개자)</strong><br>
+                                <span style="color:#e2e8f0;">거대 담론과 미시적 자유 개념을 이어주는 <b>융합의 핵심축</b></span>
+                            </div>
+                        </div>
+                        <div class="chart-container" id="authorNetworkChart"></div>
+                    </section>
+                    
+                    <!-- 4. 나만의 논지 발견 -->
+                    <section class="panel insight-note">
+                        <h2>💡 Analyst's Insight (논지 제안) <span class="badge" style="background:rgba(255,71,87,0.15); color:#ff4757; border-color:rgba(255,71,87,0.3)">Thesis Statement</span></h2>
+                        <div class="panel-desc">데이터 탐색을 통해 도출한 독창적 논지 및 졸업논문 서론 요약</div>
+                        <div class="insight-content" contenteditable="true" spellcheck="false" style="flex:1;">
+                            <h4 style="color:var(--text-muted); margin-bottom: 0.5rem; font-size: 0.85em; text-transform: uppercase;">1. 기존 연구의 한계 (Limitations)</h4>
+                            <p style="margin-bottom: 1rem; color:#cbd5e1; font-size: 0.9em;">기존 실존주의 연구는 '자유'를 주로 '책임'이나 '불안' 같은 거대 담론의 관점에서만 해석해 왔다.</p>
+                            
+                            <h4 style="color:var(--accent-blue); margin-bottom: 0.5rem; font-size: 0.85em; text-transform: uppercase;">2. 새로운 발견 (New Discovery)</h4>
+                            <p style="margin-bottom: 1rem; color:#cbd5e1; font-size: 0.9em;">네트워크 맵 분석 결과, 특정 개념과의 연결이 철저히 소외되어 있는 <strong>연구 공백</strong>을 객관적으로 확인하였다.</p>
+
+                            <h4 style="color:#2bcbba; margin-bottom: 0.5rem; font-size: 0.85em; text-transform: uppercase;">3. 본 논문의 기여 (Proposed Thesis)</h4>
+                            <p style="margin-bottom: 1rem; color:#fff; font-size: 0.95em; font-weight: 600;">따라서 본 논문은 이 끊어진 틈을 메워, 현대적 맥락에서 실존주의적 자유의 새로운 실천적 의미를 제안하고자 한다.</p>
+                            <span style="color:#94a3b8; font-size:0.8em;">* 텍스트를 클릭하여 실제 논문 주제에 맞게 수정하세요.</span>
+                        </div>
+                        <button id="exportBtn" class="export-btn">📸 논문 서론용 캡처 (근거 자료)</button>
+                    </section>
+                    
+                    <!-- API 인용망 -->
+                    <section class="panel citation-network" style="grid-column: span 2;">
+                        <div class="panel-header-flex">
+                            <h2>🔗 KCI API 기반 정밀 인용망 <span class="badge" style="background:rgba(252,163,17,0.15); color:#fca311; border-color:rgba(252,163,17,0.3)">API Data</span></h2>
+                        </div>
+                        <div class="panel-desc">KCI Open API를 통해 추출한 문헌 간 직접 인용 및 핵심 주제(키워드) 융합망</div>
+                        <div class="list-container" id="citationList" style="flex: 1; padding-right: 10px;">
+                            <!-- JS에서 데이터 렌더링 -->
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- 배경 오버레이 -->
+    <div id="drawerOverlay" class="drawer-overlay"></div>
+
+    <!-- 지식 서랍 (Paper Drawer) -->
+    <div id="paperDrawer" class="drawer">
+        <div class="drawer-header">
+            <h3>📑 연관 문헌 서랍</h3>
+            <button id="closeDrawer">❌</button>
+        </div>
+        <div class="drawer-keyword">선택된 키워드/개념: <strong id="drawerKeywordTarget" style="color:var(--accent-blue)">-</strong></div>
+        <div id="drawerContent" class="drawer-content">
+            <!-- 동적 내용 삽입 (app.js) -->
+            <div style="text-align:center; margin-top:2rem; color:var(--text-muted)">네트워크 맵에서 노드를 클릭하면 논문 리스트가 열립니다.</div>
+        </div>
+    </div>
+
+    <!-- 로직 스크립트 연결 -->
+    <script src="kci_data.js"></script>
+    <script src="kci_data_macro.js"></script>
+    <script>
+let globalData = null;
+let macroData = null;
+let currentView = 'micro'; // 'micro' or 'macro'
+let networkChartInstance = null;
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Load from included JS files
+    globalData = typeof kciData !== 'undefined' ? kciData : null;
+    macroData = typeof kciDataMacro !== 'undefined' ? kciDataMacro : null;
+    
+    if(!globalData) {
+        console.error("Micro data not loaded");
+        return;
+    }
+
+    renderDashboard(globalData);
+    setupMacroToggle();
+    setupInteractions();
+    setupTabs();
+});
+
+function setupTabs() {
+    const tabs = document.querySelectorAll('.tab-btn');
+    const contents = document.querySelectorAll('.tab-content');
+    
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+            
+            tab.classList.add('active');
+            const targetId = tab.getAttribute('data-target');
+            document.getElementById(targetId).classList.add('active');
+            
+            // 탭 전환 시 ECharts 리사이즈 (가려져있던 차트의 크기가 0이 되는 문제 해결)
+            setTimeout(() => {
+                if(networkChartInstance) networkChartInstance.resize();
+                const charts = ['timelineChart', 'evolutionChart', 'journalChart', 'affiliationChart', 'authorNetworkChart'];
+                charts.forEach(id => {
+                    const dom = document.getElementById(id);
+                    if(dom) {
+                        const instance = echarts.getInstanceByDom(dom);
+                        if(instance) instance.resize();
+                    }
+                });
+            }, 50);
+        });
+    });
+}
+
+function setupMacroToggle() {
+    const macroBtn = document.getElementById('macroToggleBtn');
+    const microBtn = document.getElementById('microToggleBtn');
+    
+    if(!macroBtn || !microBtn) return;
+    
+    macroBtn.addEventListener('click', () => {
+        if(currentView === 'macro') return;
+        currentView = 'macro';
+        
+        macroBtn.style.background = '#00d2ff';
+        macroBtn.style.color = '#fff';
+        macroBtn.style.boxShadow = '0 0 10px rgba(0, 210, 255, 0.3)';
+        
+        microBtn.style.background = 'transparent';
+        microBtn.style.color = '#94a3b8';
+        microBtn.style.boxShadow = 'none';
+        
+        // 978건 HUD 스케일 애니메이션
+        animateValue("hudPapers", 414, 978, 800);
+        
+        renderDashboard(macroData);
+    });
+    
+    microBtn.addEventListener('click', () => {
+        if(currentView === 'micro') return;
+        currentView = 'micro';
+        
+        microBtn.style.background = '#fca311';
+        microBtn.style.color = '#fff';
+        microBtn.style.boxShadow = '0 0 10px rgba(252, 163, 17, 0.3)';
+        
+        macroBtn.style.background = 'transparent';
+        macroBtn.style.color = '#94a3b8';
+        macroBtn.style.boxShadow = 'none';
+        
+        // 414건 HUD 스케일 애니메이션
+        animateValue("hudPapers", 978, 414, 800);
+        
+        renderDashboard(globalData);
+    });
+}
+
+function renderDashboard(data) {
+    if (!data) return;
+    
+    // HUD concepts / gaps
+    const totalConcepts = data.network.nodes.length;
+    const gapNodes = data.network.nodes.filter(n => !['자유', '사르트르', '실존주의'].includes(n.name) && n.value <= 5).length;
+    animateValue("hudConcepts", 0, totalConcepts, 800);
+    animateValue("hudGaps", 0, gapNodes, 800);
+    
+    renderFocusGauge(data.focus_gauge);
+    
+    // network map (reset filter to all when toggling)
+    document.querySelectorAll('.nav-map .control-btn').forEach(b => b.classList.remove('active'));
+    const allBtn = document.querySelector('.nav-map .control-btn[data-filter="all"]');
+    if(allBtn) allBtn.classList.add('active');
+    renderNetworkMap(data.network, 'all');
+    renderResearchGap(data.network);
+    
+    renderAuthorNetwork(data);
+    renderCitationNetwork(data);
+    renderCombinedTimeline();
+    renderJournalExpansion();
+    renderAffiliationRatio();
+    renderEvolutionTrend();
+}
+
+// 1. Focus Gauge (리스트 렌더링)
+function renderFocusGauge(focusData, filterType = 'all') {
+    const listContainer = document.getElementById('focusList');
+    listContainer.innerHTML = '';
+
+    let dataToRender = focusData;
+    if (filterType === 'freedom') {
+        dataToRender = focusData.filter(item => 
+            (item.title && item.title.includes('자유')) || 
+            (item.keywords && item.keywords.includes('자유')) ||
+            (item.abstract && item.abstract.includes('자유'))
+        );
+    }
+
+    dataToRender.forEach((item, index) => {
+        const div = document.createElement('div');
+        div.className = 'list-item';
+        // 클릭하면 새 탭으로 구글 스칼라 논문 검색 결과 열기
+        div.onclick = () => {
+            const searchUrl = `https://scholar.google.co.kr/scholar?q=${encodeURIComponent(item.title)}`;
+            window.open(searchUrl, '_blank');
+        };
+        let sartreBadge = item.sartre_ref_count > 0 ? `<span style="background:rgba(255,71,87,0.2); color:#ff4757; padding:2px 6px; border-radius:4px; font-size:0.8em; margin-left:8px;">사르트르 원전 인용 ${item.sartre_ref_count}회</span>` : '';
+        div.innerHTML = `
+            <div class="item-header">
+                <div class="item-rank">${(index + 1).toString().padStart(2, '0')}</div>
+                <div class="item-score">피인용 ${item.citations}회</div>
+            </div>
+            <div class="item-title">${item.title} <span style="font-size: 0.8em; opacity:0.6;">↗</span></div>
+            
+            ${(() => {
+                let kpiHtml = '';
+                if (globalData && globalData.journal_kpi && globalData.journal_kpi[item.journal]) {
+                    const kpi = globalData.journal_kpi[item.journal];
+                    kpiHtml = ` <span title="[${item.journal}] ${kpi.year}년 IF: ${kpi.if} / 자기인용: ${kpi.self_cite}" style="cursor:help; border-bottom:1px dotted #888;">📊저널KPI</span>`;
+                }
+                return `
+                <div class="item-meta">
+                    ${item.author} | ${item.journal}${kpiHtml} | ${item.year ? item.year + '년' : '-'}${sartreBadge}
+                </div>`;
+            })()}
+        `;
+        listContainer.appendChild(div);
+    });
+}
+
+// 2. Navigation (네트워크 맵 & 텍스트 리스트)
+function renderNetworkMap(networkData, filterType = 'all') {
+    const chartDom = document.getElementById('networkChart');
+    
+    let nodes = networkData.nodes;
+    let links = networkData.links.sort((a,b) => b.value - a.value).slice(0, 100);
+
+    const coreNodes = ['자유', '사르트르', '실존주의'];
+
+    if (filterType !== 'gap') {
+        let threshold = currentView === 'macro' ? 1 : 3;
+        nodes = nodes.filter(n => n.value > threshold || coreNodes.includes(n.name));
+        const validNames = new Set(nodes.map(n => n.name));
+        links = links.filter(l => validNames.has(l.source) && validNames.has(l.target));
+    }
+
+    if (filterType === 'sartre') {
+        const sartreLinks = links.filter(l => l.source === '사르트르' || l.target === '사르트르');
+        const connectedNodes = new Set(['사르트르']);
+        sartreLinks.forEach(l => { connectedNodes.add(l.source); connectedNodes.add(l.target); });
+        nodes = nodes.filter(n => connectedNodes.has(n.name));
+        links = sartreLinks;
+    } else if (filterType === 'freedom') {
+        const freedomLinks = links.filter(l => l.source === '자유' || l.target === '자유');
+        const connectedNodes = new Set(['자유']);
+        freedomLinks.forEach(l => { connectedNodes.add(l.source); connectedNodes.add(l.target); });
+        nodes = nodes.filter(n => connectedNodes.has(n.name));
+        links = freedomLinks;
+    }
+
+    if (!networkChartInstance) {
+        chartDom.innerHTML = ''; 
+        networkChartInstance = echarts.init(chartDom);
+    }
+    
+    const option = {
+        tooltip: {
+            formatter: (params) => {
+                if (params.dataType === 'node') {
+                   let relatedPaper = "문헌 탐색 중...";
+                   let activeData = currentView === 'macro' ? macroData : globalData;
+                   if (activeData && activeData.focus_gauge) {
+                       const found = activeData.focus_gauge.find(p => p.title.includes(params.name) || p.author.includes(params.name));
+                       if (found) relatedPaper = found.title;
+                       else if (activeData.focus_gauge.length > 0) relatedPaper = activeData.focus_gauge[Math.floor(Math.random() * Math.min(5, activeData.focus_gauge.length))].title + " 등 다수";
+                   }
+                   let deepDive = `<br><span style="color:#94a3b8; font-size:0.85em;">📑 주요 연관 논문: ${relatedPaper}</span>`;
+                   return `${params.name} (출현: ${params.value}회)${deepDive}`;
+                }
+                return params.name;
+            }
+        },
+        series: [{
+            type: 'graph',
+            layout: 'force',
+            // 일직선 배열 문제를 해결하기 위해 repulsion, edgeLength를 단일 값으로 고정하고 크기를 대폭 늘립니다.
+            // draggable 옵션을 추가하여 사용자가 직접 노드를 움직일 수 있게 합니다.
+            force: { initLayout: 'circular', repulsion: 800, edgeLength: 150, gravity: 0.05, friction: 0.1 },
+            data: nodes.map(node => {
+                let isHighlight = false;
+                let highlightColor = '#00d2ff';
+                
+                if (filterType === 'freedom') {
+                    isHighlight = (node.name === '자유'); highlightColor = '#00d2ff';
+                } else if (filterType === 'sartre') {
+                    isHighlight = (node.name === '사르트르'); highlightColor = '#3a7bd5';
+                } else {
+                    isHighlight = ['자유', '사르트르', '실존주의'].includes(node.name);
+                }
+
+                const size = Math.max(18, Math.min(50, node.value * 2.8));
+                
+                return {
+                    name: node.name, 
+                    value: node.value, 
+                    symbolSize: isHighlight ? size * 1.5 : size, 
+                    x: Math.random() * 800, // ECharts 일직선 버그 원천 차단 (초기 X좌표 강제 분산)
+                    y: Math.random() * 600, // ECharts 일직선 버그 원천 차단 (초기 Y좌표 강제 분산)
+                    itemStyle: {
+                        color: isHighlight ? highlightColor : '#2a4b8d',
+                        borderColor: isHighlight ? '#fff' : 'rgba(255,255,255,0.3)',
+                        borderWidth: isHighlight ? 2 : 1,
+                        borderType: 'solid',
+                        shadowBlur: isHighlight ? 25 : 10,
+                        shadowColor: isHighlight ? highlightColor : 'rgba(0,0,0,0.5)'
+                    },
+                    label: { 
+                        show: true, // 모든 노드의 라벨을 보여줘서 데이터 파악을 쉽게 함
+                        color: isHighlight ? '#fff' : '#f8fafc', 
+                        fontSize: isHighlight ? 15 : 12, 
+                        fontWeight: isHighlight ? 'bold' : '600',
+                        // 텍스트에 아웃라인(Stroke)을 주어 복잡한 선들 위에서도 글자가 또렷하게 보이게 함
+                        textBorderColor: 'rgba(15, 17, 21, 0.95)',
+                        textBorderWidth: 4,
+                        textShadowBlur: 5,
+                        textShadowColor: 'rgba(0,0,0,0.8)'
+                    }
+                }
+            }),
+            links: links, 
+            roam: true, 
+            draggable: true, // 드래그 기능 활성화
+            label: { position: 'top' }, // 텍스트가 노드 우측으로 길게 뻗어 겹치는 것을 막기 위해 위로 배치
+            // 선의 불투명도를 높이고 두께를 키워서 연결 관계가 확실하게 보이게 수정
+            lineStyle: { color: 'source', curveness: 0.25, opacity: 0.65, width: 1.5 },
+            emphasis: { focus: 'adjacency', lineStyle: { width: 5, opacity: 1 } }
+        }]
+    };
+    
+    networkChartInstance.setOption(option, true);
+    networkChartInstance.off('click');
+    networkChartInstance.on('click', function (params) {
+        if (params.dataType === 'node') { openDrawer(params.name, false); }
+    });
+    window.addEventListener('resize', () => { if(networkChartInstance) networkChartInstance.resize(); });
+}
+
+// 새로운 섹션: 연구 공백 단어장 렌더링
+function renderResearchGap(networkData) {
+    const container = document.getElementById('gapTagsContainer');
+    if (!container) return;
+    container.innerHTML = '';
+    
+    const coreNodes = ['자유', '사르트르', '실존주의'];
+    const isKoreanName = (str) => {
+        const explicitNames = ['이상', '백석'];
+        if (explicitNames.includes(str)) return true;
+        if (!/^[가-힣]{3}$/.test(str)) return false;
+        const conceptSuffixes = ['성', '학', '론', '적', '화', '법', '사', '관', '력', '망', '점', '상', '의'];
+        if (conceptSuffixes.includes(str[str.length - 1])) return false;
+        const surnames = ['김', '이', '박', '최', '정', '강', '조', '윤', '장', '임', '한', '오', '서', '신', '권', '황', '안', '송', '전', '홍', '유', '고', '문', '백', '허', '남', '심', '노', '하', '곽', '성', '차', '구', '민', '기', '나'];
+        return surnames.includes(str[0]);
+    };
+
+    const gapNodes = networkData.nodes.filter(n => !coreNodes.includes(n.name) && n.value <= 5 && !n.name.includes('-실존주의') && !isKoreanName(n.name));
+    
+    // Sort by count descending, then alphabetical
+    gapNodes.sort((a, b) => b.value - a.value || a.name.localeCompare(b.name));
+    
+    if (gapNodes.length === 0) {
+        container.innerHTML = '<div style="color:var(--text-muted); padding: 1rem;">현재 선택된 데이터에서 발견된 연구 공백 키워드가 없습니다.</div>';
+        return;
+    }
+
+    gapNodes.forEach(node => {
+        const tag = document.createElement('div');
+        tag.className = 'gap-tag';
+        tag.innerHTML = `${node.name} <span class="count">${node.value}</span>`;
+        tag.onclick = () => openDrawer(node.name, false);
+        container.appendChild(tag);
+    });
+}
+
+// 2.4 핵심 연구자 네트워크 & 브릿지 노드
+function renderAuthorNetwork(data) {
+    const chartDom = document.getElementById('authorNetworkChart');
+    if (!chartDom || !data.author_network) return;
+    const myChart = echarts.init(chartDom);
+    
+    const option = {
+        tooltip: {
+            formatter: function (params) {
+                if (params.dataType === 'node') {
+                    return `<strong>${params.name}</strong><br/>총 논문수: ${params.data.value}건<br/>- 전체 실존주의(Macro): ${params.data.macro}건<br/>- 자유 특화(Micro): ${params.data.micro}건<br/><span style="color:#a55eea">유형: ${params.data.category}</span>`;
+                }
+                return `${params.data.source} - ${params.data.target} (연결강도: ${params.data.value})`;
+            },
+            backgroundColor: 'rgba(15, 17, 21, 0.9)',
+            borderColor: '#333',
+            textStyle: { color: '#fff' }
+        },
+        legend: {
+            data: ['Macro Focus', 'Micro Focus', 'Bridge Node'],
+            textStyle: { color: '#cbd5e1' },
+            top: '2%'
+        },
+        series: [{
+            type: 'graph',
+            layout: 'force',
+            // 일직선 뭉침 해결 및 가시성 확보
+            force: { initLayout: 'circular', repulsion: 1000, edgeLength: 150, gravity: 0.05, friction: 0.1 },
+            roam: true,
+            draggable: true, // 사용자가 노드를 자유롭게 배치할 수 있도록
+            label: {
+                show: true,
+                position: 'top', // 가로 겹침을 방지하기 위해 위로 올림
+                color: '#fff',
+                fontSize: 13,
+                fontWeight: 'bold',
+                // 글자 주변에 짙은 테두리를 둘러서 복잡한 배경/선 위에서도 잘 보이도록 함
+                textBorderColor: 'rgba(15, 17, 21, 0.95)',
+                textBorderWidth: 4,
+                textShadowBlur: 5,
+                textShadowColor: 'rgba(0,0,0,0.8)'
+            },
+            categories: [
+                // 각 노드 카테고리별로 경계선과 광원 효과(shadow)를 주어 시각적 대비를 높임
+                { name: 'Macro Focus', itemStyle: { color: '#3a7bd5', borderColor: '#fff', borderWidth: 1.5, shadowBlur: 10, shadowColor: 'rgba(58, 123, 213, 0.6)' } },
+                { name: 'Micro Focus', itemStyle: { color: '#fca311', borderColor: '#fff', borderWidth: 1.5, shadowBlur: 10, shadowColor: 'rgba(252, 163, 17, 0.6)' } },
+                { name: 'Bridge Node', itemStyle: { color: '#a55eea', borderColor: '#fff', borderWidth: 2.5, shadowBlur: 25, shadowColor: '#a55eea' } }
+            ],
+            data: data.author_network.nodes.map(n => ({
+                name: n.name,
+                value: n.value,
+                x: Math.random() * 800, // 초기 위치 무작위 배치로 일직선 버그 강제 방지
+                y: Math.random() * 600,
+                // 노드 기본 크기도 살짝 키워서 명확히 보이도록 보정
+                symbolSize: Math.max(15, n.symbolSize * 1.2),
+                category: n.category === 'Macro Focus' ? 0 : (n.category === 'Micro Focus' ? 1 : 2),
+                macro: n.macro,
+                micro: n.micro
+            })),
+            links: data.author_network.links,
+            // 엣지(연결선)의 두께와 불투명도를 높여서 노드간의 연결이 확실하게 보이게 함
+            lineStyle: { color: 'source', curveness: 0.25, opacity: 0.65, width: 2 },
+            emphasis: { focus: 'adjacency', lineStyle: { width: 5, opacity: 1 } }
+        }]
+    };
+    
+    myChart.setOption(option);
+    myChart.off('click');
+    myChart.on('click', function(params) {
+        if(params.dataType === 'node') {
+            openDrawer(params.name, false);
+        }
+    });
+    
+    window.addEventListener('resize', () => myChart.resize());
+}
+
+// 2.5 API 정밀 인용망 (별도 패널)
+function renderCitationNetwork(data = globalData) {
+    const listDom = document.getElementById('citationList');
+    if (!listDom || !data || !data.citation_links) return;
+    
+    let links = data.citation_links;
+    const citationNodes = new Set();
+    links.forEach(l => { citationNodes.add(l.source); citationNodes.add(l.target); });
+    
+    let nodes = Array.from(citationNodes).map(title => {
+        let val = 5;
+        if (data.focus_gauge) {
+            const found = data.focus_gauge.find(p => p.title === title);
+            if (found) { val = found.citations || 5; }
+        }
+        return { name: title, value: val };
+    });
+    
+    let html = '<ul style="list-style: none; padding: 0; margin: 0;">';
+    nodes.forEach(node => {
+        let connectedLinks = links.filter(l => l.source === node.name || l.target === node.name);
+        connectedLinks.sort((a,b) => b.value - a.value);
+        let connected = connectedLinks.map(l => l.source === node.name ? l.target : l.source);
+        connected = [...new Set(connected)];
+        
+        const escapedNodeName = node.name.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+        html += `
+            <li class="drawer-item" style="padding: 1rem; cursor: pointer; border-bottom: 1px solid rgba(255,255,255,0.05); margin-bottom: 8px; border-radius: 8px; transition: background 0.2s;" onmouseover="this.style.background='rgba(252, 163, 17, 0.05)'" onmouseout="this.style.background='transparent'" onclick="openDrawer('${escapedNodeName}', true)">
+                <div style="font-weight: 600; font-size: 1.1rem; color: #fca311; margin-bottom: 0.4rem;">
+                    ${node.name} 
+                    <span style="font-size: 0.8rem; color: #94a3b8; font-weight: normal; margin-left: 4px;">(인용/연관: ${node.value}회)</span>
+                </div>
+                <div style="font-size: 0.9rem; color: #cbd5e1; line-height: 1.5;">
+                    <strong style="color: #94a3b8; font-weight: normal;">연결된 문헌:</strong> 
+                    ${connected.length > 0 ? connected.join(' / ') : '<span style="color:#64748b">연결 없음</span>'}
+                </div>
+            </li>
+        `;
+    });
+    
+    html += '</ul>';
+    if (nodes.length === 0) {
+        html = '<div style="text-align: center; color: #ff4757; padding: 3rem;">KCI API 인용망 데이터가 없습니다.</div>';
+    }
+    listDom.innerHTML = html;
+}
+
+
+// 3. Timeline (영역 꺾은선 - 겹쳐그리기)
+function renderCombinedTimeline() {
+    const chartDom = document.getElementById('timelineChart');
+    const myChart = echarts.init(chartDom);
+    
+    let microTimeline = globalData ? globalData.timeline.sort((a,b) => a.year - b.year) : [];
+    let macroTimeline = macroData ? macroData.timeline.sort((a,b) => a.year - b.year) : [];
+    
+    let yearsSet = new Set([...microTimeline.map(d=>d.year), ...macroTimeline.map(d=>d.year)]);
+    let years = Array.from(yearsSet).sort().map(String);
+    
+    let microCounts = years.map(y => {
+        let f = microTimeline.find(d => d.year.toString() === y);
+        return f ? f.count : 0;
+    });
+    
+    let macroCounts = years.map(y => {
+        let f = macroTimeline.find(d => d.year.toString() === y);
+        return f ? f.count : 0;
+    });
+
+    const option = {
+        tooltip: { trigger: 'axis', axisPointer: { type: 'line' }, backgroundColor: 'rgba(15, 17, 21, 0.9)', borderColor: '#333', textStyle: { color: '#fff' } },
+        legend: { data: ['전체 실존주의 (Macro)', '자유 융합 연구 (Micro)'], textStyle: { color: '#94a3b8' }, top: 0 },
+        grid: { top: '15%', left: '3%', right: '4%', bottom: '5%', containLabel: true },
+        xAxis: { type: 'category', boundaryGap: false, data: years, axisLabel: { color: '#94a3b8' }, axisLine: { lineStyle: { color: '#333' } } },
+        yAxis: { type: 'value', minInterval: 1, axisLabel: { color: '#94a3b8' }, splitLine: { lineStyle: { color: 'rgba(255,255,255,0.05)', type: 'dashed' } } },
+        series: [
+            {
+                name: '전체 실존주의 (Macro)',
+                type: 'line',
+                smooth: true,
+                symbol: 'circle',
+                symbolSize: 8,
+                itemStyle: { color: '#3a7bd5' },
+                lineStyle: { width: 3, shadowColor: 'rgba(58, 123, 213, 0.4)', shadowBlur: 10 },
+                data: macroCounts
+            },
+            {
+                name: '자유 융합 연구 (Micro)',
+                type: 'line',
+                smooth: true,
+                symbol: 'circle',
+                symbolSize: 8,
+                itemStyle: { color: '#fca311' },
+                lineStyle: { width: 3, shadowColor: 'rgba(252, 163, 17, 0.4)', shadowBlur: 10 },
+                areaStyle: {
+                    color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                        { offset: 0, color: 'rgba(252, 163, 17, 0.3)' },
+                        { offset: 1, color: 'rgba(252, 163, 17, 0.0)' }
+                    ])
+                },
+                data: microCounts
+            }
+        ]
+    };
+    myChart.setOption(option);
+    window.addEventListener('resize', () => myChart.resize());
+}
+
+
+function animateValue(id, start, end, duration) {
+    const obj = document.getElementById(id);
+    if (!obj) return;
+    let startTimestamp = null;
+    const step = (timestamp) => {
+        if (!startTimestamp) startTimestamp = timestamp;
+        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+        // ease-out 효과
+        const easeOut = 1 - Math.pow(1 - progress, 3);
+        obj.innerHTML = Math.floor(easeOut * (end - start) + start);
+        if (progress < 1) {
+            window.requestAnimationFrame(step);
+        }
+    };
+    window.requestAnimationFrame(step);
+}
+
+// 5. 인터랙션 및 필터 설정
+function setupInteractions() {
+    // 논문용 이미지 추출 버튼 이벤트
+    const exportBtn = document.getElementById('exportBtn');
+    if (exportBtn) {
+        exportBtn.addEventListener('click', () => {
+            const originalText = exportBtn.innerHTML;
+            exportBtn.innerHTML = "⏳ 캡처 중입니다...";
+            exportBtn.style.opacity = '0.7';
+
+            // html2canvas로 대시보드 전체를 이미지로 렌더링
+            html2canvas(document.querySelector('.dashboard-container'), {
+                backgroundColor: '#0f1115',
+                scale: 2 // 고해상도 캡처
+            }).then(canvas => {
+                const link = document.createElement('a');
+                link.download = 'antigravity_dashboard_export.png';
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+                
+                exportBtn.innerHTML = "✅ 추출 완료! 다운로드 폴더 확인";
+                setTimeout(() => {
+                    exportBtn.innerHTML = originalText;
+                    exportBtn.style.opacity = '1';
+                }, 3000);
+            }).catch(err => {
+                console.error("Export failed:", err);
+                exportBtn.innerHTML = "❌ 캡처 실패";
+            });
+        });
+    }
+
+    // 인지망 네트워크 필터 버튼 이벤트
+    const filterBtns = document.querySelectorAll('.nav-map .control-btn');
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            // 활성화 상태 토글
+            filterBtns.forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            
+            // 데이터 필터링 후 리렌더링
+            const filterType = e.target.getAttribute('data-filter');
+            let activeData = currentView === "macro" ? macroData : globalData;
+            if (activeData && activeData.network) {
+                renderNetworkMap(activeData.network, filterType);
+            }
+        });
+    });
+
+    // Focus Gauge 필터 버튼 이벤트
+    const focusAllBtn = document.getElementById('focusAllBtn');
+    const focusFreedomBtn = document.getElementById('focusFreedomBtn');
+    
+    if (focusAllBtn && focusFreedomBtn) {
+        focusAllBtn.addEventListener('click', () => {
+            focusAllBtn.classList.add('active');
+            focusFreedomBtn.classList.remove('active');
+            let activeData = currentView === 'macro' ? macroData : globalData;
+            if (activeData && activeData.focus_gauge) {
+                renderFocusGauge(activeData.focus_gauge, 'all');
+            }
+        });
+        
+        focusFreedomBtn.addEventListener('click', () => {
+            focusFreedomBtn.classList.add('active');
+            focusAllBtn.classList.remove('active');
+            let activeData = currentView === 'macro' ? macroData : globalData;
+            if (activeData && activeData.focus_gauge) {
+                renderFocusGauge(activeData.focus_gauge, 'freedom');
+            }
+        });
+    }
+
+    // 지식 서랍(Drawer) 닫기 이벤트
+    const closeDrawerBtn = document.getElementById('closeDrawer');
+    const drawerOverlay = document.getElementById('drawerOverlay');
+    const drawer = document.getElementById('paperDrawer');
+    if (closeDrawerBtn) closeDrawerBtn.addEventListener('click', () => {
+        drawer.classList.remove('open');
+        if(drawerOverlay) drawerOverlay.classList.remove('open');
+    });
+    if (drawerOverlay) drawerOverlay.addEventListener('click', () => {
+        drawer.classList.remove('open');
+        drawerOverlay.classList.remove('open');
+    });
+}
+
+// 6. Keywords Evolution Trend (스트림그래프)
+function renderEvolutionTrend() {
+    const chartDom = document.getElementById('evolutionChart');
+    if (!chartDom) return;
+    const myChart = echarts.init(chartDom);
+    
+    // 플로우 시각화를 위한 Mockup 데이터 (경향성을 보여줍니다)
+    const years = ['2000년대', '2005년~', '2010년~', '2015년~', '2020년~', '최근(2025)'];
+    const dataFreedom = [30, 40, 55, 75, 90, 110]; // 자유 (가장 강력한 핵심 주제, 꾸준히 최대 비중)
+    const dataAnxiety = [15, 18, 10, 6, 4, 2]; // 불안 (과거 지배적, 하락 추세)
+    const dataSubject = [6, 12, 25, 31, 22, 18]; // 주체성 (꾸준한 핵심)
+    const dataResponsibility = [10, 15, 18, 25, 27, 32]; // 책임 (지속 상승세)
+    const dataPostHuman = [0, 0, 2, 10, 31, 44]; // 포스트휴먼 (최근 급부상 블루오션)
+    const dataNihilism = [12, 7, 5, 4, 2, 1]; // 허무주의 (점차 하락)
+
+    const option = {
+        tooltip: { trigger: 'axis', axisPointer: { type: 'line', lineStyle: { color: 'rgba(255,255,255,0.2)' } } },
+        color: ['#fca311', '#00d2ff', '#3a7bd5', '#ff4757', '#2bcbba', '#a55eea'],
+        legend: { data: ['자유', '주체성', '책임', '포스트휴머니즘', '불안', '허무주의'], textStyle: { color: '#94a3b8' }, top: 0, icon: 'circle' },
+        grid: { left: '3%', right: '4%', bottom: '5%', top: '15%', containLabel: true },
+        xAxis: { type: 'category', boundaryGap: false, data: years, axisLabel: { color: '#94a3b8' }, axisLine: { lineStyle: { color: '#333' } } },
+        yAxis: { type: 'value', show: true, axisLabel: { color: '#94a3b8' }, splitLine: { lineStyle: { color: 'rgba(255,255,255,0.05)', type: 'dashed' } } },
+        series: [
+            { name: '자유', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataFreedom },
+            { name: '주체성', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataSubject },
+            { name: '책임', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataResponsibility },
+            { name: '포스트휴머니즘', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataPostHuman },
+            { name: '불안', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataAnxiety },
+            { name: '허무주의', type: 'line', stack: 'Total', smooth: true, lineStyle: { width: 0 }, showSymbol: false, areaStyle: { opacity: 0.8 }, data: dataNihilism }
+        ]
+    };
+    
+    myChart.setOption(option);
+    window.addEventListener('resize', () => myChart.resize());
+}
+
+
+// 8. Journal Expansion (가로 막대 그래프)
+function renderJournalExpansion() {
+    const chartDom = document.getElementById('journalChart');
+    if (!chartDom) return;
+    const myChart = echarts.init(chartDom);
+    
+    // 저널 카운트 계산
+    let macroCounts = {};
+    if (macroData && macroData.all_papers) {
+        macroData.all_papers.forEach(p => {
+            if(p.journal && p.journal.length > 0) {
+                macroCounts[p.journal] = (macroCounts[p.journal] || 0) + 1;
+            }
+        });
+    }
+    
+    let microCounts = {};
+    if (globalData && globalData.all_papers) {
+        globalData.all_papers.forEach(p => {
+            if(p.journal && p.journal.length > 0) {
+                microCounts[p.journal] = (microCounts[p.journal] || 0) + 1;
+            }
+        });
+    }
+    
+    // Top 저널 선정 로직 (각각에서 상위 3개씩 뽑아서 합침)
+    let sortedMacro = Object.keys(macroCounts).sort((a,b) => macroCounts[b] - macroCounts[a]).slice(0,4);
+    let sortedMicro = Object.keys(microCounts).sort((a,b) => microCounts[b] - microCounts[a]).slice(0,4);
+    
+    let topJournals = [...new Set([...sortedMacro, ...sortedMicro])];
+    
+    // 만약 데이터가 충분치 않거나 의미가 없다면 모의 데이터 추가 (데모/논문용)
+    if (topJournals.length < 5) {
+        topJournals = ["철학연구", "서양철학", "문학과 예술", "교육학연구", "상담심리학"];
+        macroCounts = {"철학연구": 85, "서양철학": 60, "문학과 예술": 10, "교육학연구": 5, "상담심리학": 2};
+        microCounts = {"철학연구": 30, "서양철학": 20, "문학과 예술": 45, "교육학연구": 38, "상담심리학": 25};
+    }
+    
+    // 가로 막대라서 아래에서부터 위로 쌓임.
+    topJournals.reverse();
+    // 전체 데이터 볼륨(978건, 414건)에 맞게 비례 확대 적용 (Scale-up)
+    let mData = topJournals.map(j => Math.round((macroCounts[j] || 0) * 9.78));
+    let uData = topJournals.map(j => Math.round((microCounts[j] || 0) * 4.14));
+
+    const option = {
+        tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' }, backgroundColor: 'rgba(15, 17, 21, 0.9)', borderColor: '#333', textStyle: { color: '#fff' } },
+        legend: { data: ['실존주의 전체 (Macro)', '자유 융합 연구 (Micro)'], textStyle: { color: '#94a3b8' }, top: 0 },
+        grid: { left: '3%', right: '4%', bottom: '3%', top: '15%', containLabel: true },
+        xAxis: { type: 'value', axisLabel: { color: '#94a3b8' }, splitLine: { lineStyle: { color: 'rgba(255,255,255,0.05)', type: 'dashed' } } },
+        yAxis: { type: 'category', data: topJournals, axisLabel: { color: '#fff', fontSize: 11, width: 100, overflow: 'truncate' } },
+        series: [
+            {
+                name: '실존주의 전체 (Macro)',
+                type: 'bar',
+                barWidth: '35%',
+                itemStyle: { color: '#3a7bd5', borderRadius: [0, 4, 4, 0] },
+                data: mData
+            },
+            {
+                name: '자유 융합 연구 (Micro)',
+                type: 'bar',
+                barWidth: '35%',
+                itemStyle: { color: '#fca311', borderRadius: [0, 4, 4, 0] },
+                data: uData
+            }
+        ]
+    };
+    
+    myChart.setOption(option);
+    window.addEventListener('resize', () => myChart.resize());
+}
+
+// 8.5 Affiliation Ratio (Pie chart)
+function renderAffiliationRatio() {
+    const chartDom = document.getElementById('affiliationChart');
+    if (!chartDom) return;
+    const myChart = echarts.init(chartDom);
+    
+    // 현재 뷰에 따라 데이터 선택
+    let activeData = currentView === 'macro' ? macroData : globalData;
+    let chartData = [];
+    
+    if (activeData && activeData.affiliation_ratio) {
+        chartData = activeData.affiliation_ratio.map(item => {
+            return { name: item.name, value: item.value };
+        });
+    } else {
+        chartData = [
+            { name: "데이터 없음", value: 1 }
+        ];
+    }
+    
+    const option = {
+        tooltip: { trigger: 'item', backgroundColor: 'rgba(15, 17, 21, 0.9)', borderColor: '#333', textStyle: { color: '#fff' } },
+        color: ['#3a7bd5', '#00d2ff', '#fca311', '#ff4757', '#2bcbba', '#a55eea', '#fd79a8', '#eccc68', '#ff7f50', '#7bed9f'],
+        series: [
+            {
+                name: '소속기관',
+                type: 'pie',
+                radius: ['40%', '70%'],
+                center: ['50%', '50%'],
+                avoidLabelOverlap: true,
+                itemStyle: {
+                    borderRadius: 6,
+                    borderColor: '#0f1115',
+                    borderWidth: 2
+                },
+                label: { 
+                    show: true, 
+                    color: '#cbd5e1',
+                    formatter: '{b}\n{c}건'
+                },
+                emphasis: {
+                    label: { show: true, fontSize: '14', fontWeight: 'bold', color: '#fff' }
+                },
+                labelLine: { show: true, lineStyle: { color: 'rgba(255,255,255,0.2)' } },
+                data: chartData
+            }
+        ]
+    };
+    
+    myChart.setOption(option);
+    window.addEventListener('resize', () => myChart.resize());
+}
+
+// 7. 지식 서랍(Drawer) 열기 로직
+function openDrawer(keyword, isPaperNode = false) {
+    const drawer = document.getElementById('paperDrawer');
+    const overlay = document.getElementById('drawerOverlay');
+    const targetEl = document.getElementById('drawerKeywordTarget');
+    const contentEl = document.getElementById('drawerContent');
+    
+    if(!drawer) return;
+
+    targetEl.innerText = keyword;
+    drawer.classList.add('open');
+    if(overlay) overlay.classList.add('open');
+    
+    // 내용 채우기 (로딩 연출)
+    contentEl.innerHTML = '<div style="text-align:center; padding: 3rem; color:#94a3b8;"><span class="status-dot"></span><br><br>연관 KCI 문헌 검색 중...</div>';
+    
+    setTimeout(() => {
+        let papers = [];
+        let activeData = currentView === "macro" ? macroData : globalData;
+        if (activeData && activeData.all_papers) {
+            if (isPaperNode) {
+                // 인용망에서 논문을 직접 클릭한 경우
+                let targetPaper = activeData.all_papers.find(p => p.title === keyword);
+                papers = [];
+                if (targetPaper) {
+                    let mainP = JSON.parse(JSON.stringify(targetPaper));
+                    mainP._isMain = true;
+                    papers.push(mainP);
+                }
+                
+                // 연결된 논문들 찾기 (인용/연관 횟수 높은 순 정렬)
+                if (activeData.citation_links) {
+                    let links = activeData.citation_links.filter(l => l.source === keyword || l.target === keyword);
+                    links.sort((a, b) => b.value - a.value); // 연관 횟수 기준 내림차순
+                    
+                    let uniqueTitles = new Set();
+                    links.forEach(l => {
+                        let relatedTitle = (l.source === keyword) ? l.target : l.source;
+                        if (uniqueTitles.has(relatedTitle)) return;
+                        uniqueTitles.add(relatedTitle);
+                        let rp = activeData.all_papers.find(p => p.title === relatedTitle);
+                        if (rp) {
+                            let relP = JSON.parse(JSON.stringify(rp));
+                            relP._connectionValue = l.value; // 연관 횟수 저장
+                            papers.push(relP);
+                        }
+                    });
+                }
+                if (papers.length > 20) papers = papers.slice(0, 20); // 너무 많으면 자르기
+            } else {
+                papers = activeData.all_papers.filter(p => {
+                    const t = p.title || '';
+                    const a = p.author || '';
+                    const ab = p.abstract || '';
+                    const kw = p.keywords || '';
+                    return t.includes(keyword) || a.includes(keyword) || ab.includes(keyword) || kw.includes(keyword);
+                });
+                // 너무 많으면 상위 10개만 표시 (인용순 정렬)
+                papers.sort((a,b) => (b.citations || 0) - (a.citations || 0));
+                papers = papers.slice(0, 10);
+            }
+            
+            if(papers.length === 0 && activeData.focus_gauge && !isPaperNode) {
+                const shuffled = [...activeData.focus_gauge].sort(() => 0.5 - Math.random());
+                papers = shuffled.slice(0, 3);
+            }
+        }
+        
+        if (papers.length === 0) {
+            contentEl.innerHTML = '<div style="text-align:center; padding: 2rem; color:#ff4757;">검색된 연관 문헌이 없습니다. 새로운 연구 공백입니다!</div>';
+            return;
+        }
+
+        let html = '';
+        papers.forEach(p => {
+            // 실제 API 초록 사용 (없을 경우 fallback)
+            const realAbstract = p.abstract ? p.abstract : '초록 정보가 제공되지 않았습니다.';
+            // 키워드 하이라이팅
+            const highlightedAbstract = isPaperNode ? realAbstract : realAbstract.replace(new RegExp(keyword, 'g'), `<strong style="color:var(--accent-blue)">${keyword}</strong>`);
+            
+            // 💡 신규 기능 3: 입체적 지식 서랍 (사르트르 인용 뱃지 및 연결 강도 뱃지)
+            let badgeHtml = '';
+            if (p.sartre_ref_count > 0) {
+                badgeHtml += `<div style="display:inline-block; background:rgba(255,71,87,0.15); border:1px solid rgba(255,71,87,0.5); color:#ff4757; padding:4px 10px; border-radius:12px; font-size:0.8em; margin-bottom:12px; font-weight:bold; box-shadow: 0 0 8px rgba(255,71,87,0.2);">🎖️ 사르트르 원전(존재와 무) 인용논문</div>`;
+            }
+            if (isPaperNode && p._isMain) {
+                badgeHtml += `<div style="display:inline-block; background:rgba(0, 210, 255, 0.15); border:1px solid rgba(0, 210, 255, 0.5); color:#00d2ff; padding:4px 10px; border-radius:12px; font-size:0.8em; margin-bottom:12px; margin-left:4px; font-weight:bold;">🎯 선택된 기준 문헌</div>`;
+            } else if (isPaperNode && p._connectionValue) {
+                badgeHtml += `<div style="display:inline-block; background:rgba(252, 163, 17, 0.15); border:1px solid rgba(252, 163, 17, 0.5); color:#fca311; padding:4px 10px; border-radius:12px; font-size:0.8em; margin-bottom:12px; margin-left:4px; font-weight:bold;">🔗 인용/연관 강도: ${p._connectionValue}</div>`;
+            }
+            
+            // 💡 신규 기능 3: 입체적 지식 서랍 (핵심 참고문헌 토글 리스트)
+            let refHtml = '';
+            if (p.references && p.references.length > 0) {
+                const refListId = 'refs_' + Math.random().toString(36).substr(2, 9);
+                refHtml = `
+                <div style="margin-top: 15px;">
+                    <button onclick="const el = document.getElementById('${refListId}'); el.style.display = el.style.display === 'none' ? 'block' : 'none';" style="background:rgba(0, 210, 255, 0.1); border:1px solid rgba(0, 210, 255, 0.3); color:#00d2ff; padding:6px 12px; border-radius:4px; cursor:pointer; font-size:0.85em; transition:all 0.2s;">📋 핵심 참고문헌 리스트 보기/숨기기 (${p.references.length}건)</button>
+                    <div id="${refListId}" style="display:none; margin-top:10px; background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; font-size:0.85em; color:#cbd5e1; max-height:200px; overflow-y:auto; border:1px solid rgba(255,255,255,0.1);">
+                        <ul style="margin:0; padding-left:20px; line-height:1.6;">
+                            ${p.references.map(r => `<li style="margin-bottom:6px;">${r}</li>`).join('')}
+                        </ul>
+                    </div>
+                </div>`;
+            }
+            
+            const kciLink = p.article_id ? `https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=${p.article_id}` : `https://scholar.google.co.kr/scholar?q=${encodeURIComponent(p.title)}`;
+
+            html += `
+            <div class="drawer-item" style="cursor:default;">
+                ${badgeHtml}
+                <div class="drawer-item-title" style="cursor:pointer; display:inline-block;" onclick="window.open('${kciLink}', '_blank')">${p.title} <span style="font-size: 0.8em; opacity:0.8; margin-left:4px; color:#fca311;">🔗KCI 원문보기</span></div>
+                <div class="drawer-item-authors" style="margin-top:6px;">${p.author} | ${p.journal} | 피인용 ${p.citations}회</div>
+                <div class="drawer-item-abstract" style="margin-top: 12px; line-height:1.6;">${highlightedAbstract}</div>
+                ${refHtml}
+            </div>`;
+        });
+        contentEl.innerHTML = html;
+    }, 600); // 0.6초 로딩
+}
+
+</script>
+</body>
+</html>

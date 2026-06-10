@@ -1,0 +1,17232 @@
+const kciDataMacro = {
+  "focus_gauge": [
+    {
+      "title": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "author": "김미혜;신규리",
+      "journal": "한국융합과학회지",
+      "year": 2022,
+      "citations": 8,
+      "article_id": "ART002847829",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "연구목적 본 연구의 목적은 현대사회의 실존적 공허와 여가의 관계를 비판적으로 탐색하고, 실존적 공허에 대처하기 위한 여가참여의 방향을 실존주의 철학을 기반으로 제시하고자 하였다. 연구방법 이를 위해 실존주의의 핵심적인 네 가지 개념(사랑, 고독, 죽음, 자기초월)을 기반으로 실존적 공허에 대처하는 여가참여의 방향성을 제시하였다. 결과 첫째, 여가활동은 깊고 진정한 관계를 발전시키는데 기여해야 한다. 이는 사랑의 표현이다. 둘째, 여가에서 고독은 타인들에게서 벗어나 자기치유와 자기성찰의 시간이어야 한다. 셋째, 레저활동(암벽등반, 스카이다이빙)은 여가참여자에게 죽음을 상기하고, 이를 통해 현재를 어떻게 살지 결정하도록 이끌어야 한다. 넷째, 예술적 여가활동(그림, 글 등)은 일과 일상의 억압으로부터 탈출하는 통로이어야 한다. 결론 이러한 결과는 주체적 존재 상태로서의 여가를 강조한 피에퍼(Pieper)의 존재론적 여가개념에 대한 이해를 확장한다. 또한, 실존적 공허에 대처하기 위해서는 현실에서 벗어나고자 여가활동에 전력투구할 것이 아니라, 자기표현과 자기성찰을 위한 수단이어야 함을 제안한다.",
+      "keywords": "여가, 실존적 공허, 실존주의, 선택의 자유, 책임, Leisure, Existential Vacuum, Existentialism, Freedom Of Choice, Responsibility"
+    },
+    {
+      "title": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "author": "김성수",
+      "journal": "문화와융합",
+      "year": 2023,
+      "citations": 4,
+      "article_id": "ART002954139",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "알베르 카뮈는 서구를 비롯한 대부분의 국가에서 20세기 문학계의 거목 중 하나로 추앙받고 있다. 하지만 카뮈의 생전 당시 프랑스의 식민지였던 알제리에서는 알제리라는 나라에 대해 중요하게 인식하지않았던 카뮈를 인정하지 않는다. 이를 적극적으로 반영이라도 하는 듯 “이방인” 속의 주인공 뫼르소는한 알제리인을 살해하고서도 그에 대한 죄의식이나 미안함 같은 감정이 결여된 프랑스인으로 묘사되었다. 왜 카뮈는 이런 뫼르소라는 주인공을 만들어야만 했을까? 뫼르소와 카뮈에 대한 세간의 평은 부조리하지 않은가? 본고는 이에 대한 고찰이다. 필자는 문화콘텐츠적 시각에서 이방인으로서의 뫼르소가‘문제적 캐릭터’로 간주될 수 있다고 본다. 이 견지에서 무신론적 실존주의자였던 카뮈가 만들어 낸 소설 속 주인공 뫼르소의 의의와 한계점에 대해서 자세하게 고찰하고자 한다.",
+      "keywords": "problematic character, existentialism, christian world view, locality, true existence, 문제적 캐릭터, 실존주의, 기독교 세계관, 로컬리티, 참된 실존"
+    },
+    {
+      "title": "사르트르의 실존주의와 윤리의 문제",
+      "author": "김남준",
+      "journal": "倫理硏究",
+      "year": 2023,
+      "citations": 3,
+      "article_id": "ART003002490",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 사르트르의 실존주의의 특성과 윤리적 의미를 논구하는 것을 목적으로 한다. 이를 위해 본 논문은 사르트르의 실존주의를 대표하는 『존재와 무』와 『실존주의는 휴머니즘이다』라는 두 저서를 통해 ‘존재와 무’, ‘실존은 본질에 앞선다’, ‘실존의 조건’(자유, 책임, 불안), ‘실존주의는 휴머니즘이다’ 등과 같은 주요 주제를 체계적으로 논의할 것이다. 다음으로, 본 논문은 사르트르의 실존주의가 갖는 윤리학의 가능성과 윤리적 의미를 실존주의적 휴머니즘을 중심으로 논구할 것이다.",
+      "keywords": "J. P. Sartre, existentialism, being and nothingness, existence and essence, existentialist humanism, 사르트르, 실존주의, 존재와 무, 실존과 본질, 실존주의적 휴머니즘"
+    },
+    {
+      "title": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "author": "김정현",
+      "journal": "니체연구",
+      "year": 2022,
+      "citations": 3,
+      "article_id": "ART002885558",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 1950년대 한국에서 실존주의가 나오게 된 시대적 배경과 의미를 살 피며 니체사상이 어떻게 실존사상의 궤도에서 수용되고 해석되었는지를 살펴보 고자 한다. 먼저 50년대 니체수용의 대표자라 할 수 있는 박종홍, 안병욱, 조승 순 등의 니체 수용의 내용을 살펴보고, 더 나아가 60년대 초 하기락, 조가경의 니 체 해석을 비롯해 니체철학을 동양사상과 비교하면서 주체적 해석을 모색하는 비교연구의 경향 등을 논의할 것이다. 50년대와 60년대 초 한국에서 실존주의와 연관해 이루어진 니체해석에는 실존적 이슈가 다루어지는 시대적 의미도 있었 지만, 동시에 실존주의적 니체해석의 영향과 관심의 강도가 지속되면서 이후 새 로운 시각으로 니체사상에 접근하는 데 많은 시간을 필요로 했다.",
+      "keywords": "Existentialism, existential humanism, cultural world philosophy, Eastern thought and Nietzsche, 실존주의, 실존적 휴머니즘, 문화적 세계철학, 동양사상과 니체"
+    },
+    {
+      "title": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "author": "김희원;김옥성",
+      "journal": "한국근대문학연구",
+      "year": 2022,
+      "citations": 3,
+      "article_id": "ART002894920",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "70년이 넘는 긴 시력을 지닌 김남조의 시 세계는 ‘기독교적 상상력’으로 대표되는 ‘종교적 상상력’과 ‘사랑’이라는 두 축을 중심으로 논의가 전개되어 왔다. 하지만 초기, 중기, 후기로 시세계를 개괄적으로 구분하면서각 시기에 나타나는 세밀한 변화 양상이 간과되어 왔다. 본고는 그의 초기 시에 나타나는 시적 자아의 실존의식의 변모 과정을 살펴본다. 이를통해 김남조 시세계의 근간을 파악하려는 목적을 갖는다. 특히 그가 당시반공 이데올로기에서 자유로울 수 있었던 무명시인이라는 점에서 초기시는 중요한 위치를 차지한다. 특히 김남조의 초기시에 나타나는 자아의 실존의지는 1950년대 한국 문단에서 유행하던 실존주의에 선행하는 하이데거의 실존주의에 가깝다. 이러한 인식은 결국 전쟁의 상흔을 넘어 김남조시세계의 전반을 관통하는 주제로서 영향을 미친다.\n그의 초기시에서 시적 자아의 정서는 유의미하게 변모한다. 이는 시적자아가 실존을 찾아가는 과정으로 볼 수 있으며 궁극적으로 완성 상태인‘성숙’과 ‘이타정신’은 결코 평화로운 과정으로 완성되지 않는다.   목숨   에서는 전쟁을 통해 목도한 죽음이 야기한 정서로서의 ‘불안’이 나타난다.\n특히 목숨 에서는 인간 생명의 유한성에 의해 야기된 ‘불안’이 철저한생존의 의지로서 나타난다. 이러한 불안의 정서는 어둠 에서 ‘담대한 분노’를 말하는 시적 자아에 의해 ‘분노’로 이어지는데 이는 누스바움이 말한 ‘이행분노’의 개념으로 설명 가능하다. 즉, ‘분노’의 정서는 긍정적인방향으로 나아가게 하는 힘으로 기능하게 되는데 이 지점이 김남조의 이후 시들이 이타 정신을 발현하게 하는 기저가 된다고 할 수 있다. 한편이러한 ‘분노’의 정서는 시적 자아 자신에게도 향하게 되는데 사야 에서시적 자아는 소극적 태도를 드러내며 절망감을 드러낸다. 이러한 자아의인식이 변화되기 위해서는 인고의 시간이 필요하다. 이러한 인고의 정신은 ‘고독’으로 형상화된다. 두 번째 시집 나아드의    향유  에 이르러서는 성찰과 인내를 전제로 하는 ‘고독’의 시간이 나타난다. 고독이라는 정서의 발현은 죽음의식에서비롯된 불안을 극복하기 위한 적극적 행위이다. 또한 자신을 성찰하게 한다는 점에서 참회의 태도로 이어지게 된다. 야스퍼스에 따르면 고독은‘한계 상황’을 맞닥뜨린 인간이 좌절을 하면서도 진리로 나아가려는 의지를 지속할 때 생겨난다. 나아가 이 ‘고독’을 통해 본래적 실체에 도달할수 있으며 진정한 소통을 가능하게 할 수 있다.   나아드 향유  에서의 시적 자아는 낙엽은 쌓여라 , 축원 을 통해 ‘길의 표지’를 자처하는 존재로 거듭난다.\n불안과 분노, 고독과 참회의 시간을 거친 시적 자아는   나무와 바람   에 이르러서는 감정의 격정은 사라지고 절제된 감정으로 성숙을 노래한다. 해마다 이맘때쯤 에서는 1950년대 시편들에서 지속적으로 환기되던가을의 이미지가 ‘성숙’의 의미와 연결되고 있다. 나아가 이러한 내면의성숙은 무제1 에서 타인의 슬픔, 즉 전쟁의 상흔을 끌어안는 시적 자아를 가능하게 한다. 이것은   나아드의 향유  에서 보이던 이타 정신의 심층적 확장이라고 볼 수 있다. 본고는 이러한 일련의 과정을 통해 김남조가‘사랑의 시인’이 되기까지의 열쇠가 되는 초기시의 변모 과정을 살펴보았다는 점에서 의의가 있다.",
+      "keywords": "Kim Nam-jo, existentialism, anger, solitude, repentance, altruism, 김남조, 실존주의, 분노, 고독, 참회, 이타 정신"
+    },
+    {
+      "title": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "author": "고연수;이소영",
+      "journal": "교육사상연구",
+      "year": 2024,
+      "citations": 3,
+      "article_id": "ART003139907",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글의 목적은 사르트르의 실존주의 철학에서 ‘앙가주망(engagement)’의 위치와 중요성을 고찰하고, 앙가주망이 언어적 존재로서의 인간이 지는 책임과 불가분의 관계에 놓여 있음을 밝힌 뒤, 그 구체적 실천으로 ‘책임으로서의 읽기’와 ‘타인의 고통에 접속하는 쓰기’의 교육적 의미를 재고하는 데 있다. 이를 위해 먼저 사르트르의 관점에서 자유, 책임, 무, 자기기만 등의 주요 개념이 가진 의미를 살펴보며 앙가주망이란 한 인간이 사회적 책임을 직접 제작해나가는 창조적이며 비판적인 정신에서 시작되는 것임을 제시한다. 다음으로는 『존재와 무』에서 논의된 대타존재로서의 인간이 그 자체로 이미 언어적 존재이며 그들이 타인과 맺는 관계 역시 언어적이라는 점에서 앙가주망은 하나의 언어적 시도임을 보이고자 한다. 마지막으로, 『문학이란 무엇인가』에 나타난 논의를 중심으로 글 읽기를 ‘책임’의 관점에서 해석함으로써 이를 하나의 능동적인 사회적 참여 행위로 제안하며 사르트르의 시선에서 작가와 독자가 글을 통해 맺는 독특한 관계를 해명한다. 또한 ‘씀’을 통해 타자의 삶을 상상하고 그들의 서사에 뛰어드는 경험의 중요성을 밝히며 글쓰기가 주목받지 못한 사회적 약자의 억압과 차별을 가시화하는 작업으로 작용할 수 있음을 제안한다. 이 글은 읽기와 쓰기라는 경험을 ‘기초기본교육’이나 ‘문해력교육’과 같은 기존의 틀을 넘어서는 존재적인 차원에서 논의할 것을 요청한다. 이는 활자와 문학의 위치가 위태로워지는 사회에서 언어가 가진 앙가주망적 성격을 적극적으로 검토하고 그 교육적 의미를 상기하고자 함이다.",
+      "keywords": "Sartre, existentialism, What is Literature?, writing, engagement, 사르트르, 실존주의, 문학이란 무엇인가, 글쓰기, 앙가주망"
+    },
+    {
+      "title": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "author": "서은주",
+      "journal": "현대문학의 연구",
+      "year": 2024,
+      "citations": 3,
+      "article_id": "ART003135080",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 이선영의 문학연구와 비평활동을 정리·평가하는 작업의 일환으로, 1960~70년대 당대 소설을 대상으로 한 비평에 초점을 맞춰 이 시기에 발간된 세 권의 평론집을 시간 순서로 배치해 추적하는 방식을 취했다. 학술 연구와 현장 비평을 동시에 수행하면서 그 경계를 넘나들었던 초기의 글을 검토하는 작업은, 동시대적 문학 현장과의 상호작용을 통해 그의 문학적 시각과 지향이 어떻게 발아, 전개되는지를 살펴보는 과정이 되었다.\n실존주의 문학의 아웃사이더적 반항에 매료된 이선영 비평의 출발은, 이후 소외와 참여, 역사의식과 리얼리즘에의 관심으로 발전·확장된다. 학술적 글쓰기에 영향 받은 그의 비평적 글쓰기는 작품 분석에서 개념의 엄격한 적용으로 표출되었고, 한국문학사의 지형을 구획하고, 문학적 경향의 계보를 그리는 데에서 긍정적인 영향을 미쳤다.\n이선영은 인간의 삶에 기여하는 문학이라는 효용론적 관점을 바탕으로 리얼리즘 방법론을 선택했지만, 리얼리즘이 편협하게 재단되고 정의되어 작품에 적용되는 것에 늘 저항했다. 유연한 리얼리즘론을 견지했던 그는 1990년대 초반 민족문학 진영 내부에서 이루어진 리얼리즘과 모더니즘의 경계 해체에도 적극적으로 참여한다. 이선영의 1960~70년대 비평 도처에 리얼리즘의 도식화에 대한 저항이 자리잡고 있음을 확인할 수 있다.",
+      "keywords": "이선영, 리얼리즘, 실존주의, 소외, 참여, 역사의식, 민족문학, 민중문학, Lee Seon-young, Realism, Existentialism, Alienation, Participation, Historical Consciousness, National Literature, Minjung Munhak(People’s Literature)"
+    },
+    {
+      "title": "Voluntary Death, Desire, and Nothingness-A Phenomenological Psychopathology of Suicidality and Its Theological-Anthropological Relevance-",
+      "author": "안태하",
+      "journal": "가톨릭철학",
+      "year": 2025,
+      "citations": 3,
+      "article_id": "ART003200724",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper aims to reconcile phenomenological-psychopathological analyses of suicidality with theological accounts of the natural human desire for the supernatural, good, or divine. It explores the tension between traditional theological views such as those of Augustine of Hippo and Thomas Aquinas, which position human nature as desiring union/stability with God, and the complex reality of suicidality, which involves a non-fleshly desire to die.\nUsing phenomenological psychopathology as a methodology, the paper critically examines Jean Amery’s existential perspective on suicide and investigates the meaning of desire and individuation in voluntary death. By focusing on the notion of nothingness (or no-thing), the paper proposes that the desire to die is not directed toward a particular object but rather toward nothingness, which transcends traditional binaries such as life and death or good and evil. This approach suggests a reinterpretation of suicidality within theological anthropology, in which the desire to die can be understood as a spiritual longing for nothingness, which, paradoxically, might be understood as a desire for God beyond the binaries of being and non-being.",
+      "keywords": "자살경향성, 현상학, 신학적 인간론, 욕망, 무(無), 장 아메리, 아우구스티누스, 토마스아퀴나스, suicidality, phenomenology, theological anthropology, desire, nothingness, Jean Amery, Augustine, Thomas Aquinas"
+    },
+    {
+      "title": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "author": "문성훈",
+      "journal": "가톨릭철학",
+      "year": 2015,
+      "citations": 3,
+      "article_id": "ART002043755",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "시몬 드 보부아르가 현대 페미니즘 철학의 시원을 이루었다는 데는 이론의 여지가 없지만, 오늘날 보부아르의 페미니즘은 시대에 맞지 않은 철 지난 이론으로 취급되면서 거의 논의의 대상이 되고 있지 못하다. 물론 그 이유는 ‘여성성의 인정’과 ‘여성성의 해체’라는 대안적 패러다임이 페미니즘 논의를 주도하고 있기 때문이다. 그러나 보부아르는 사르트르와 구별되는 독창적 실존주의 철학을 발전시켰을 뿐만 아니라, ‘여성성의 인정’이나 ‘여성성의 해체’를 주장하는 새로운 페미니즘의의 한계를 넘어설 수 있는 유용한 개념 틀을 제공한다. 본 논문에서는 이를 보여주기 위해 첫째, 보부아르의 실존주의를 윤리학이란 관점에서 소개함으로써 사르트르의 실존주의와 차별화시킬 것이다. 둘째, 이러한 시각에 따라 『제2의 성』을 재구성함으로써 보부아르가 제시한 실존주의적 페미니즘이 무엇인지를 밝힐 것이다. 셋째, ‘여성성의 인정’과 ‘여성성의 해체’라는 입장에 대해 보부아르가 어떤 장점을 가질 수 있는지를 보여줄 것이다.",
+      "keywords": "보부아르, 길리건, 버틀러, 페미니즘, 실존주의, 여성성의 인정, 여성성의 해체, Beauvoir, Gilligan, Butler, Existentialism, Feminism, Recognition of femininity, Deconstruction of femininity"
+    },
+    {
+      "title": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "author": "이명곤",
+      "journal": "동서철학연구",
+      "year": 2013,
+      "citations": 3,
+      "article_id": "ART001782685",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "실존주의에서 ‘무신론적 실존주의’와 ‘유신론적 실존주의’는 동일하게 ‘실존이 본질에 앞선다’는 출발점을 지니고 있으며, 동일하게 휴머니즘을 지향하고 있지만 서로 다른 두 얼굴을 지니고 있다. 인간에 대한 일체의 ‘일반적인’ 혹은 ‘보편적인’ 관념을 규정할 수 없으며, 인간의 본질은 스스로 선택하고 책임을 져야 한다고 생각하는 사르트르에게 있어서 신에 대한 부정은 필연적인 것이다. 신 중심의 사유를 부정하고 나아가 인간의 개별적이고 실존적인 자유를 억압하는 일체의 ‘유형화’와 ‘이데올로기적인 것’을 부정하고 있는 사르트르에게 있어서 인간이 추구해야할 가장 소중한 가치는 ‘자유’이다. 그에게 있어서 경험적 자아에 앞서는 초월적인 주관이라는 것도 자아가 성립하기 위한 가능성의 조건으로서만 의미가 있을 뿐 개별자에 대한 어떠한 실체화도 있을 수가 없다. 이러한 사르트르의 사유에서 ‘타인’과의 실존적인 소통은 불가능한 것이며, 인간실존의 근원적 상황은 고독과 불안처럼 나타난다. 반면 가브리엘 마르셀은 인간의 실존을 분석함에 있어서 ‘소통의 갈망’과 하나의 ‘역설적인 상황’에 주목하고 있다. 이 역설은 자유의 박탈감을 체험하는 것이 곧 ‘자유롭고자 갈망하는 것’이다. 가브리엘 마르셀에게 있어서 자유란 곧 자신의 실현이라는 것을 의미하기에 개별자의 실체성은 부정될 수 없으며, 개별자의 실체성을 파괴하는 모든 유형적, 이데올로기적 문화를 비판하고 있다. 실존에 선행하는 본질이 있을 수 없기에 개별자의 실체성(본질)은 실존적인 삶을 통해서 실현되어야 하는 것이며, 따라서 나에 대한 앎은 곧 너와의 관계성 속에서 가능하다. 즉 인간은 근원적으로 ‘너’와의 관계성을 통해서 ‘나’를 알고 ‘나 자신인 것’을 형성해가는 존재이다. 바로 이러한 특성이 ‘상호-주관적 특성(le caractère inter-subjectif)’이다. 이러한 상호주관적 특성은 사르트르의 무신론적인 실존주의와 근본적으로 다른 점이며, 신을 긍정하게 되는 계기가 된다. 인간실존의 ‘상호주관적 특성’은 절대적인 너를 요청하며, 절대자와의 어떤 상호적인 관여는 불안과 비극의 현대적 상황 안에서도 ‘희망’을 가지게 하고, 형제적 사랑을 가능하게 한다.",
+      "keywords": "실존주의, 휴머니즘, 자유, 관계성, 상호주관성., existentialisme, humanisme, liberté, relation, inter-subjectivité."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2004,
+      "count": 10
+    },
+    {
+      "year": 2008,
+      "count": 10
+    },
+    {
+      "year": 2010,
+      "count": 29
+    },
+    {
+      "year": 2011,
+      "count": 10
+    },
+    {
+      "year": 2013,
+      "count": 29
+    },
+    {
+      "year": 2014,
+      "count": 10
+    },
+    {
+      "year": 2015,
+      "count": 39
+    },
+    {
+      "year": 2016,
+      "count": 10
+    },
+    {
+      "year": 2017,
+      "count": 10
+    },
+    {
+      "year": 2018,
+      "count": 10
+    },
+    {
+      "year": 2020,
+      "count": 29
+    },
+    {
+      "year": 2021,
+      "count": 29
+    },
+    {
+      "year": 2022,
+      "count": 215
+    },
+    {
+      "year": 2023,
+      "count": 137
+    },
+    {
+      "year": 2024,
+      "count": 137
+    },
+    {
+      "year": 2025,
+      "count": 196
+    },
+    {
+      "year": 2026,
+      "count": 68
+    }
+  ],
+  "network": {
+    "nodes": [
+      {
+        "id": "실존주의",
+        "name": "실존주의",
+        "value": 76
+      },
+      {
+        "id": "Existentialism",
+        "name": "Existentialism",
+        "value": 39
+      },
+      {
+        "id": "existentialism",
+        "name": "existentialism",
+        "value": 36
+      },
+      {
+        "id": "사르트르",
+        "name": "사르트르",
+        "value": 14
+      },
+      {
+        "id": "Sartre",
+        "name": "Sartre",
+        "value": 12
+      },
+      {
+        "id": "자유",
+        "name": "자유",
+        "value": 7
+      },
+      {
+        "id": "부조리",
+        "name": "부조리",
+        "value": 7
+      },
+      {
+        "id": "하이데거",
+        "name": "하이데거",
+        "value": 6
+      },
+      {
+        "id": "죽음",
+        "name": "죽음",
+        "value": 6
+      },
+      {
+        "id": "실존",
+        "name": "실존",
+        "value": 5
+      },
+      {
+        "id": "Heidegger",
+        "name": "Heidegger",
+        "value": 4
+      },
+      {
+        "id": "Jean-Paul Sartre",
+        "name": "Jean-Paul Sartre",
+        "value": 4
+      },
+      {
+        "id": "Death",
+        "name": "Death",
+        "value": 4
+      },
+      {
+        "id": "휴머니즘",
+        "name": "휴머니즘",
+        "value": 4
+      },
+      {
+        "id": "Beauvoir",
+        "name": "Beauvoir",
+        "value": 4
+      },
+      {
+        "id": "주체성",
+        "name": "주체성",
+        "value": 4
+      },
+      {
+        "id": "Kierkegaard",
+        "name": "Kierkegaard",
+        "value": 4
+      },
+      {
+        "id": "허무주의",
+        "name": "허무주의",
+        "value": 3
+      },
+      {
+        "id": "Nihilism",
+        "name": "Nihilism",
+        "value": 3
+      },
+      {
+        "id": "앙가주망",
+        "name": "앙가주망",
+        "value": 3
+      },
+      {
+        "id": "existence",
+        "name": "existence",
+        "value": 3
+      },
+      {
+        "id": "Absurdity",
+        "name": "Absurdity",
+        "value": 3
+      },
+      {
+        "id": "책임",
+        "name": "책임",
+        "value": 3
+      },
+      {
+        "id": "post-war generation",
+        "name": "post-war generation",
+        "value": 3
+      },
+      {
+        "id": "불안",
+        "name": "불안",
+        "value": 3
+      },
+      {
+        "id": "anxiety",
+        "name": "anxiety",
+        "value": 3
+      },
+      {
+        "id": "장 폴 사르트르",
+        "name": "장 폴 사르트르",
+        "value": 3
+      },
+      {
+        "id": "absurdity",
+        "name": "absurdity",
+        "value": 3
+      },
+      {
+        "id": "전체주의",
+        "name": "전체주의",
+        "value": 3
+      },
+      {
+        "id": "조가경",
+        "name": "조가경",
+        "value": 3
+      },
+      {
+        "id": "subjectivity",
+        "name": "subjectivity",
+        "value": 3
+      },
+      {
+        "id": "modernity",
+        "name": "modernity",
+        "value": 3
+      },
+      {
+        "id": "engagement",
+        "name": "engagement",
+        "value": 2
+      },
+      {
+        "id": "상황",
+        "name": "상황",
+        "value": 2
+      },
+      {
+        "id": "야스퍼스",
+        "name": "야스퍼스",
+        "value": 2
+      },
+      {
+        "id": "선택",
+        "name": "선택",
+        "value": 2
+      },
+      {
+        "id": "Humanism",
+        "name": "Humanism",
+        "value": 2
+      },
+      {
+        "id": "Robert Frost",
+        "name": "Robert Frost",
+        "value": 2
+      },
+      {
+        "id": "보부아르",
+        "name": "보부아르",
+        "value": 2
+      },
+      {
+        "id": "기투",
+        "name": "기투",
+        "value": 2
+      },
+      {
+        "id": "Projection",
+        "name": "Projection",
+        "value": 2
+      },
+      {
+        "id": "자기기만",
+        "name": "자기기만",
+        "value": 2
+      },
+      {
+        "id": "secularism",
+        "name": "secularism",
+        "value": 2
+      },
+      {
+        "id": "극락왕생",
+        "name": "극락왕생",
+        "value": 2
+      },
+      {
+        "id": "세속주의",
+        "name": "세속주의",
+        "value": 2
+      },
+      {
+        "id": "무(無)",
+        "name": "무(無)",
+        "value": 2
+      },
+      {
+        "id": "이승훈",
+        "name": "이승훈",
+        "value": 2
+      },
+      {
+        "id": "responsibility",
+        "name": "responsibility",
+        "value": 2
+      },
+      {
+        "id": "Hamlet",
+        "name": "Hamlet",
+        "value": 2
+      },
+      {
+        "id": "키에르케고르",
+        "name": "키에르케고르",
+        "value": 2
+      },
+      {
+        "id": "death",
+        "name": "death",
+        "value": 2
+      },
+      {
+        "id": "rebellion",
+        "name": "rebellion",
+        "value": 2
+      },
+      {
+        "id": "저항",
+        "name": "저항",
+        "value": 2
+      },
+      {
+        "id": "상호작용",
+        "name": "상호작용",
+        "value": 2
+      },
+      {
+        "id": "Interaction",
+        "name": "Interaction",
+        "value": 2
+      },
+      {
+        "id": "existentialisme",
+        "name": "existentialisme",
+        "value": 2
+      },
+      {
+        "id": "nothingness",
+        "name": "nothingness",
+        "value": 2
+      },
+      {
+        "id": "COVID-19",
+        "name": "COVID-19",
+        "value": 2
+      },
+      {
+        "id": "Lacan",
+        "name": "Lacan",
+        "value": 2
+      },
+      {
+        "id": "정신분석",
+        "name": "정신분석",
+        "value": 2
+      },
+      {
+        "id": "키에르케고어",
+        "name": "키에르케고어",
+        "value": 2
+      },
+      {
+        "id": "라캉",
+        "name": "라캉",
+        "value": 2
+      },
+      {
+        "id": "Son Chang-seop",
+        "name": "Son Chang-seop",
+        "value": 2
+      },
+      {
+        "id": "손창섭",
+        "name": "손창섭",
+        "value": 2
+      },
+      {
+        "id": "일상성",
+        "name": "일상성",
+        "value": 2
+      },
+      {
+        "id": "Nietzsche",
+        "name": "Nietzsche",
+        "value": 2
+      },
+      {
+        "id": "니체",
+        "name": "니체",
+        "value": 2
+      },
+      {
+        "id": "Jean Paul Sartre",
+        "name": "Jean Paul Sartre",
+        "value": 2
+      },
+      {
+        "id": "전후세대",
+        "name": "전후세대",
+        "value": 2
+      },
+      {
+        "id": "1950년대",
+        "name": "1950년대",
+        "value": 2
+      },
+      {
+        "id": "근대화 담론",
+        "name": "근대화 담론",
+        "value": 2
+      },
+      {
+        "id": "박종홍",
+        "name": "박종홍",
+        "value": 2
+      },
+      {
+        "id": "Unity of True and the Worldly",
+        "name": "Unity of True and the Worldly",
+        "value": 2
+      },
+      {
+        "id": "Dependent Origination",
+        "name": "Dependent Origination",
+        "value": 2
+      },
+      {
+        "id": "Fundamental Ignorance",
+        "name": "Fundamental Ignorance",
+        "value": 2
+      },
+      {
+        "id": "Perfuming",
+        "name": "Perfuming",
+        "value": 2
+      },
+      {
+        "id": "Natural Attitude",
+        "name": "Natural Attitude",
+        "value": 2
+      },
+      {
+        "id": "전후 독일․독일인상",
+        "name": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "id": "전후 세계 평화",
+        "name": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "id": "민주주의",
+        "name": "민주주의",
+        "value": 2
+      },
+      {
+        "id": "독일 민주화",
+        "name": "독일 민주화",
+        "value": 2
+      },
+      {
+        "id": "전후 폐허",
+        "name": "전후 폐허",
+        "value": 2
+      },
+      {
+        "id": "독일인 탈주체화",
+        "name": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "id": "비민주적 독일인의 재교육과 계몽",
+        "name": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "id": "독일 근대의 탈역사화",
+        "name": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "id": "미국 헤게모니",
+        "name": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "id": "근대성",
+        "name": "근대성",
+        "value": 2
+      },
+      {
+        "id": "특수성",
+        "name": "특수성",
+        "value": 2
+      },
+      {
+        "id": "보편성",
+        "name": "보편성",
+        "value": 2
+      },
+      {
+        "id": "근대 성찰",
+        "name": "근대 성찰",
+        "value": 2
+      },
+      {
+        "id": "the imaginations of post-War Germany and the German people",
+        "name": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "id": "the peace of the post-War world",
+        "name": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "id": "democracy",
+        "name": "democracy",
+        "value": 2
+      },
+      {
+        "id": "the German democratization",
+        "name": "the German democratization",
+        "value": 2
+      },
+      {
+        "id": "post-War devastation",
+        "name": "post-War devastation",
+        "value": 2
+      },
+      {
+        "id": "the post-War educations and enlightenments of undemocratic German",
+        "name": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "id": "the de-historicizations of modern German",
+        "name": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "id": "the de-subjectivization of the German people",
+        "name": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "id": "totalitarianism",
+        "name": "totalitarianism",
+        "value": 2
+      },
+      {
+        "id": "universality & particularity",
+        "name": "universality & particularity",
+        "value": 2
+      },
+      {
+        "id": "American hegemony",
+        "name": "American hegemony",
+        "value": 2
+      },
+      {
+        "id": "reflection upon modernity",
+        "name": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "id": "Existenialismus",
+        "name": "Existenialismus",
+        "value": 2
+      },
+      {
+        "id": "Feminismus",
+        "name": "Feminismus",
+        "value": 2
+      },
+      {
+        "id": "koreanische Frauen",
+        "name": "koreanische Frauen",
+        "value": 2
+      },
+      {
+        "id": "Poetry",
+        "name": "Poetry",
+        "value": 2
+      },
+      {
+        "id": "R. M. Rilke",
+        "name": "R. M. Rilke",
+        "value": 2
+      },
+      {
+        "id": "Kim Chun-soo",
+        "name": "Kim Chun-soo",
+        "value": 2
+      },
+      {
+        "id": "M. Heidegger",
+        "name": "M. Heidegger",
+        "value": 2
+      },
+      {
+        "id": "Anthony Browne",
+        "name": "Anthony Browne",
+        "value": 2
+      },
+      {
+        "id": "J. P. Sartre",
+        "name": "J. P. Sartre",
+        "value": 1
+      },
+      {
+        "id": "being and nothingness",
+        "name": "being and nothingness",
+        "value": 1
+      },
+      {
+        "id": "existence and essence",
+        "name": "existence and essence",
+        "value": 1
+      },
+      {
+        "id": "existentialist humanism",
+        "name": "existentialist humanism",
+        "value": 1
+      },
+      {
+        "id": "존재와 무",
+        "name": "존재와 무",
+        "value": 1
+      },
+      {
+        "id": "실존과 본질",
+        "name": "실존과 본질",
+        "value": 1
+      },
+      {
+        "id": "실존주의적 휴머니즘",
+        "name": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "id": "신시론",
+        "name": "신시론",
+        "value": 1
+      },
+      {
+        "id": "양심",
+        "name": "양심",
+        "value": 1
+      },
+      {
+        "id": "초현실주의",
+        "name": "초현실주의",
+        "value": 1
+      },
+      {
+        "id": "모더니즘",
+        "name": "모더니즘",
+        "value": 1
+      },
+      {
+        "id": "온몸시학",
+        "name": "온몸시학",
+        "value": 1
+      },
+      {
+        "id": "New Poetry",
+        "name": "New Poetry",
+        "value": 1
+      },
+      {
+        "id": "Conscience",
+        "name": "Conscience",
+        "value": 1
+      },
+      {
+        "id": "Surrealism",
+        "name": "Surrealism",
+        "value": 1
+      },
+      {
+        "id": "Modernism",
+        "name": "Modernism",
+        "value": 1
+      },
+      {
+        "id": "Whole Body Poetics",
+        "name": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "id": "『사람의 아들』",
+        "name": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "id": "이문열",
+        "name": "이문열",
+        "value": 1
+      },
+      {
+        "id": "무신론적 실존주의",
+        "name": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "id": "자기 파멸",
+        "name": "자기 파멸",
+        "value": 1
+      },
+      {
+        "id": "The Son of Man",
+        "name": "The Son of Man",
+        "value": 1
+      },
+      {
+        "id": "Lee",
+        "name": "Lee",
+        "value": 1
+      },
+      {
+        "id": "Moonyeol",
+        "name": "Moonyeol",
+        "value": 1
+      },
+      {
+        "id": "Atheistic Existentialism",
+        "name": "Atheistic Existentialism",
+        "value": 1
+      },
+      {
+        "id": "Self-Destruction",
+        "name": "Self-Destruction",
+        "value": 1
+      },
+      {
+        "id": "War and post-war years",
+        "name": "War and post-war years",
+        "value": 1
+      },
+      {
+        "id": "defense of humanism",
+        "name": "defense of humanism",
+        "value": 1
+      },
+      {
+        "id": "New Country group",
+        "name": "New Country group",
+        "value": 1
+      },
+      {
+        "id": "virtuosic modernism",
+        "name": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "id": "content and form of poetry",
+        "name": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "id": "(un)original being",
+        "name": "(un)original being",
+        "value": 1
+      },
+      {
+        "id": "participation of poetry",
+        "name": "participation of poetry",
+        "value": 1
+      },
+      {
+        "id": "전쟁기와 전후",
+        "name": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "id": "인간성 옹호",
+        "name": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "id": "뉴 컨트리파",
+        "name": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "id": "기교적 모더니즘",
+        "name": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "id": "시의 내용과 형식",
+        "name": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "id": "(비)본래적 실존",
+        "name": "(비)본래적 실존",
+        "value": 1
+      },
+      {
+        "id": "시의 참여",
+        "name": "시의 참여",
+        "value": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "J. P. Sartre",
+        "target": "being and nothingness",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "existence and essence",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "existentialist humanism",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "J. P. Sartre",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "existence and essence",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "existentialist humanism",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "being and nothingness",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "existentialist humanism",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "existence and essence",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "existentialist humanism",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "사르트르",
+        "value": 8
+      },
+      {
+        "source": "existentialism",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "실존주의",
+        "value": 35
+      },
+      {
+        "source": "existentialism",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "existentialist humanism",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "existentialist humanism",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "existentialist humanism",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "existentialist humanism",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "existentialist humanism",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "실존과 본질",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "실존주의",
+        "value": 13
+      },
+      {
+        "source": "사르트르",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "실존과 본질",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "실존과 본질",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "실존과 본질",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "실존주의적 휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "실존주의적 휴머니즘",
+        "target": "존재와 무",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Existentialism",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Heidegger",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Modernism",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "New Poetry",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Conscience",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Heidegger",
+        "value": 3
+      },
+      {
+        "source": "Existentialism",
+        "target": "Modernism",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "New Poetry",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "사르트르",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "실존주의",
+        "value": 39
+      },
+      {
+        "source": "Existentialism",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "하이데거",
+        "value": 6
+      },
+      {
+        "source": "Heidegger",
+        "target": "Modernism",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "New Poetry",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "실존주의",
+        "value": 4
+      },
+      {
+        "source": "Heidegger",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "하이데거",
+        "value": 4
+      },
+      {
+        "source": "Modernism",
+        "target": "New Poetry",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Modernism",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "New Poetry",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "Surrealism",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "사르트르",
+        "value": 10
+      },
+      {
+        "source": "Sartre",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "실존주의",
+        "value": 9
+      },
+      {
+        "source": "Sartre",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "Whole Body Poetics",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Surrealism",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "Whole Body Poetics",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "모더니즘",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "신시론",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "신시론",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "신시론",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "신시론",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "신시론",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "신시론",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "양심",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "하이데거",
+        "value": 6
+      },
+      {
+        "source": "양심",
+        "target": "온몸시학",
+        "value": 1
+      },
+      {
+        "source": "양심",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "양심",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "온몸시학",
+        "target": "초현실주의",
+        "value": 1
+      },
+      {
+        "source": "온몸시학",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "초현실주의",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "Lee",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "Moonyeol",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "Nihilism",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "Self-Destruction",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "The Son of Man",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "Atheistic Existentialism",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "Moonyeol",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "Nihilism",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "Self-Destruction",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "The Son of Man",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "Lee",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "Nihilism",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "Self-Destruction",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "The Son of Man",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "Moonyeol",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "Self-Destruction",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "The Son of Man",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "허무주의",
+        "value": 3
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "The Son of Man",
+        "value": 1
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "Self-Destruction",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "The Son of Man",
+        "target": "『사람의 아들』",
+        "value": 1
+      },
+      {
+        "source": "The Son of Man",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "The Son of Man",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "The Son of Man",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "The Son of Man",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "『사람의 아들』",
+        "target": "무신론적 실존주의",
+        "value": 1
+      },
+      {
+        "source": "『사람의 아들』",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "『사람의 아들』",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "『사람의 아들』",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "무신론적 실존주의",
+        "target": "이문열",
+        "value": 1
+      },
+      {
+        "source": "무신론적 실존주의",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "무신론적 실존주의",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "이문열",
+        "target": "자기 파멸",
+        "value": 1
+      },
+      {
+        "source": "이문열",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "자기 파멸",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "(비)본래적 실존",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "New Country group",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "War and post-war years",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "(un)original being",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "New Country group",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "War and post-war years",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "(비)본래적 실존",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "War and post-war years",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "New Country group",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "War and post-war years",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "engagement",
+        "value": 2
+      },
+      {
+        "source": "Sartre",
+        "target": "existentialism",
+        "value": 7
+      },
+      {
+        "source": "Sartre",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "앙가주망",
+        "value": 3
+      },
+      {
+        "source": "Sartre",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "content and form of poetry",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "War and post-war years",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "defense of humanism",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "content and form of poetry",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "engagement",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "defense of humanism",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "engagement",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "사르트르",
+        "value": 2
+      },
+      {
+        "source": "engagement",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "engagement",
+        "target": "앙가주망",
+        "value": 2
+      },
+      {
+        "source": "engagement",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "engagement",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "participation of poetry",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "앙가주망",
+        "value": 3
+      },
+      {
+        "source": "existentialism",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "virtuosic modernism",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "participation of poetry",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "기교적 모더니즘",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "virtuosic modernism",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "뉴 컨트리파",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "기교적 모더니즘",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "뉴 컨트리파",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "시의 내용과 형식",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "앙가주망",
+        "value": 3
+      },
+      {
+        "source": "사르트르",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "시의 내용과 형식",
+        "target": "시의 참여",
+        "value": 1
+      },
+      {
+        "source": "시의 내용과 형식",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "시의 내용과 형식",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "시의 내용과 형식",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "시의 내용과 형식",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "시의 참여",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "시의 참여",
+        "target": "앙가주망",
+        "value": 1
+      },
+      {
+        "source": "시의 참여",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "시의 참여",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "앙가주망",
+        "value": 3
+      },
+      {
+        "source": "실존주의",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "앙가주망",
+        "target": "인간성 옹호",
+        "value": 1
+      },
+      {
+        "source": "앙가주망",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "인간성 옹호",
+        "target": "전쟁기와 전후",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "상황",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "실존",
+        "value": 3
+      },
+      {
+        "source": "상황",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "Existentialism",
+        "value": 4
+      },
+      {
+        "source": "Death",
+        "target": "Jean-Paul Sartre",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "상황",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "실존주의",
+        "value": 4
+      },
+      {
+        "source": "Death",
+        "target": "죽음",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "Jean-Paul Sartre",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "상황",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "죽음",
+        "value": 4
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "사르트르",
+        "value": 3
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "상황",
+        "value": 1
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "실존주의",
+        "value": 4
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "상황",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "상황",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "상황",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "죽음",
+        "value": 6
+      },
+      {
+        "source": "Sartre",
+        "target": "야스퍼스",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "야스퍼스",
+        "value": 1
+      },
+      {
+        "source": "실존",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "existence",
+        "target": "선택",
+        "value": 1
+      },
+      {
+        "source": "선택",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "Humanism",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "휴머니즘",
+        "value": 2
+      },
+      {
+        "source": "Humanism",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Humanism",
+        "target": "휴머니즘",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "휴머니즘",
+        "value": 4
+      },
+      {
+        "source": "existentialism",
+        "target": "휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "Robert Frost",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Existentialism",
+        "value": 2
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Projection",
+        "value": 1
+      },
+      {
+        "source": "Beauvoir",
+        "target": "기투",
+        "value": 1
+      },
+      {
+        "source": "Beauvoir",
+        "target": "보부아르",
+        "value": 2
+      },
+      {
+        "source": "Beauvoir",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "Projection",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "기투",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "보부아르",
+        "value": 2
+      },
+      {
+        "source": "Projection",
+        "target": "기투",
+        "value": 2
+      },
+      {
+        "source": "Projection",
+        "target": "보부아르",
+        "value": 1
+      },
+      {
+        "source": "Projection",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "기투",
+        "target": "보부아르",
+        "value": 1
+      },
+      {
+        "source": "기투",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "보부아르",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "자유",
+        "value": 5
+      },
+      {
+        "source": "existentialism",
+        "target": "자기기만",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "자기기만",
+        "value": 2
+      },
+      {
+        "source": "Absurdity",
+        "target": "Existentialism",
+        "value": 3
+      },
+      {
+        "source": "Absurdity",
+        "target": "부조리",
+        "value": 3
+      },
+      {
+        "source": "Absurdity",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "Existentialism",
+        "target": "부조리",
+        "value": 4
+      },
+      {
+        "source": "부조리",
+        "target": "실존주의",
+        "value": 7
+      },
+      {
+        "source": "Existentialism",
+        "target": "야스퍼스",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "야스퍼스",
+        "value": 1
+      },
+      {
+        "source": "야스퍼스",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "secularism",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "극락왕생",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "세속주의",
+        "value": 2
+      },
+      {
+        "source": "secularism",
+        "target": "극락왕생",
+        "value": 2
+      },
+      {
+        "source": "secularism",
+        "target": "세속주의",
+        "value": 2
+      },
+      {
+        "source": "secularism",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "극락왕생",
+        "target": "세속주의",
+        "value": 2
+      },
+      {
+        "source": "극락왕생",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "세속주의",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "책임",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "책임",
+        "value": 3
+      },
+      {
+        "source": "Existentialism",
+        "target": "무(無)",
+        "value": 1
+      },
+      {
+        "source": "무(無)",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "post-war generation",
+        "value": 3
+      },
+      {
+        "source": "existentialism",
+        "target": "이승훈",
+        "value": 1
+      },
+      {
+        "source": "post-war generation",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "post-war generation",
+        "target": "이승훈",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "이승훈",
+        "value": 2
+      },
+      {
+        "source": "anxiety",
+        "target": "existentialism",
+        "value": 3
+      },
+      {
+        "source": "anxiety",
+        "target": "responsibility",
+        "value": 2
+      },
+      {
+        "source": "anxiety",
+        "target": "불안",
+        "value": 3
+      },
+      {
+        "source": "anxiety",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "anxiety",
+        "target": "책임",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "responsibility",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "불안",
+        "value": 3
+      },
+      {
+        "source": "existentialism",
+        "target": "책임",
+        "value": 2
+      },
+      {
+        "source": "responsibility",
+        "target": "불안",
+        "value": 2
+      },
+      {
+        "source": "responsibility",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "responsibility",
+        "target": "책임",
+        "value": 2
+      },
+      {
+        "source": "불안",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "불안",
+        "target": "책임",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "장 폴 사르트르",
+        "value": 2
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "장 폴 사르트르",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "장 폴 사르트르",
+        "value": 3
+      },
+      {
+        "source": "Hamlet",
+        "target": "Hamlet",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Kierkegaard",
+        "value": 3
+      },
+      {
+        "source": "Existentialism",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "키에르케고르",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "주체성",
+        "value": 2
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "키에르케고르",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "주체성",
+        "value": 3
+      },
+      {
+        "source": "실존주의",
+        "target": "키에르케고르",
+        "value": 1
+      },
+      {
+        "source": "주체성",
+        "target": "키에르케고르",
+        "value": 2
+      },
+      {
+        "source": "absurdity",
+        "target": "anxiety",
+        "value": 1
+      },
+      {
+        "source": "absurdity",
+        "target": "death",
+        "value": 2
+      },
+      {
+        "source": "absurdity",
+        "target": "existentialism",
+        "value": 3
+      },
+      {
+        "source": "absurdity",
+        "target": "rebellion",
+        "value": 2
+      },
+      {
+        "source": "absurdity",
+        "target": "부조리",
+        "value": 3
+      },
+      {
+        "source": "absurdity",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "absurdity",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "absurdity",
+        "target": "저항",
+        "value": 2
+      },
+      {
+        "source": "absurdity",
+        "target": "죽음",
+        "value": 2
+      },
+      {
+        "source": "anxiety",
+        "target": "death",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "rebellion",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "부조리",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "저항",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "death",
+        "target": "rebellion",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "부조리",
+        "value": 2
+      },
+      {
+        "source": "death",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "death",
+        "target": "저항",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "죽음",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "rebellion",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "부조리",
+        "value": 3
+      },
+      {
+        "source": "existentialism",
+        "target": "저항",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "죽음",
+        "value": 2
+      },
+      {
+        "source": "rebellion",
+        "target": "부조리",
+        "value": 2
+      },
+      {
+        "source": "rebellion",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "rebellion",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "rebellion",
+        "target": "저항",
+        "value": 2
+      },
+      {
+        "source": "rebellion",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "부조리",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "부조리",
+        "target": "저항",
+        "value": 2
+      },
+      {
+        "source": "부조리",
+        "target": "죽음",
+        "value": 2
+      },
+      {
+        "source": "불안",
+        "target": "저항",
+        "value": 1
+      },
+      {
+        "source": "불안",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "저항",
+        "value": 2
+      },
+      {
+        "source": "저항",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Interaction",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "상호작용",
+        "value": 2
+      },
+      {
+        "source": "Interaction",
+        "target": "상호작용",
+        "value": 2
+      },
+      {
+        "source": "Interaction",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "상호작용",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Sartre",
+        "target": "자기기만",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "자유",
+        "value": 3
+      },
+      {
+        "source": "existentialism",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "사르트르",
+        "target": "자기기만",
+        "value": 1
+      },
+      {
+        "source": "자기기만",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "이승훈",
+        "value": 1
+      },
+      {
+        "source": "Jean-Paul Sartre",
+        "target": "이승훈",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "이승훈",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "existentialisme",
+        "value": 1
+      },
+      {
+        "source": "existentialisme",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "existentialisme",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "nothingness",
+        "target": "무(無)",
+        "value": 1
+      },
+      {
+        "source": "COVID-19",
+        "target": "COVID-19",
+        "value": 1
+      },
+      {
+        "source": "COVID-19",
+        "target": "Existentialism",
+        "value": 2
+      },
+      {
+        "source": "COVID-19",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Death",
+        "target": "Heidegger",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "Kierkegaard",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "Lacan",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "라캉",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "정신분석",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Lacan",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "라캉",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "정신분석",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "키에르케고어",
+        "value": 2
+      },
+      {
+        "source": "Heidegger",
+        "target": "Kierkegaard",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "Lacan",
+        "value": 2
+      },
+      {
+        "source": "Heidegger",
+        "target": "라캉",
+        "value": 2
+      },
+      {
+        "source": "Heidegger",
+        "target": "정신분석",
+        "value": 2
+      },
+      {
+        "source": "Heidegger",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "Lacan",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "라캉",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "정신분석",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "키에르케고어",
+        "value": 2
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Lacan",
+        "target": "라캉",
+        "value": 2
+      },
+      {
+        "source": "Lacan",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Lacan",
+        "target": "정신분석",
+        "value": 2
+      },
+      {
+        "source": "Lacan",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "Lacan",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "Lacan",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "라캉",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "라캉",
+        "target": "정신분석",
+        "value": 2
+      },
+      {
+        "source": "라캉",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "라캉",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "라캉",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "정신분석",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "키에르케고어",
+        "value": 2
+      },
+      {
+        "source": "정신분석",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "정신분석",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "정신분석",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "죽음",
+        "target": "키에르케고어",
+        "value": 1
+      },
+      {
+        "source": "죽음",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "키에르케고어",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Son Chang-seop",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "손창섭",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "일상성",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "Son Chang-seop",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "손창섭",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "일상성",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "손창섭",
+        "value": 2
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "일상성",
+        "value": 1
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "손창섭",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "손창섭",
+        "target": "일상성",
+        "value": 1
+      },
+      {
+        "source": "손창섭",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "손창섭",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "일상성",
+        "value": 2
+      },
+      {
+        "source": "일상성",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "일상성",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "자유",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Nietzsche",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Nihilism",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "니체",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "허무주의",
+        "value": 2
+      },
+      {
+        "source": "Nietzsche",
+        "target": "Nihilism",
+        "value": 1
+      },
+      {
+        "source": "Nietzsche",
+        "target": "니체",
+        "value": 2
+      },
+      {
+        "source": "Nietzsche",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Nietzsche",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "니체",
+        "value": 1
+      },
+      {
+        "source": "Nihilism",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "니체",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "니체",
+        "target": "허무주의",
+        "value": 1
+      },
+      {
+        "source": "실존주의",
+        "target": "허무주의",
+        "value": 2
+      },
+      {
+        "source": "Death",
+        "target": "Son Chang-seop",
+        "value": 1
+      },
+      {
+        "source": "Death",
+        "target": "손창섭",
+        "value": 1
+      },
+      {
+        "source": "Son Chang-seop",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "손창섭",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "Jean Paul Sartre",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "Jean Paul Sartre",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Jean Paul Sartre",
+        "target": "장 폴 사르트르",
+        "value": 2
+      },
+      {
+        "source": "Jean Paul Sartre",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "장 폴 사르트르",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "조가경",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "조가경",
+        "value": 3
+      },
+      {
+        "source": "장 폴 사르트르",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "existence",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "subjectivity",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "anxiety",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "responsibility",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "subjectivity",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "existence",
+        "target": "책임",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "subjectivity",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "주체성",
+        "value": 2
+      },
+      {
+        "source": "responsibility",
+        "target": "subjectivity",
+        "value": 1
+      },
+      {
+        "source": "responsibility",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "responsibility",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "subjectivity",
+        "target": "불안",
+        "value": 1
+      },
+      {
+        "source": "subjectivity",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "subjectivity",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "subjectivity",
+        "target": "주체성",
+        "value": 3
+      },
+      {
+        "source": "subjectivity",
+        "target": "책임",
+        "value": 1
+      },
+      {
+        "source": "불안",
+        "target": "실존",
+        "value": 1
+      },
+      {
+        "source": "불안",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "실존",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "실존",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "실존",
+        "target": "책임",
+        "value": 1
+      },
+      {
+        "source": "주체성",
+        "target": "책임",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "전후세대",
+        "value": 2
+      },
+      {
+        "source": "post-war generation",
+        "target": "전후세대",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "전후세대",
+        "value": 2
+      },
+      {
+        "source": "Kierkegaard",
+        "target": "subjectivity",
+        "value": 1
+      },
+      {
+        "source": "subjectivity",
+        "target": "키에르케고르",
+        "value": 1
+      },
+      {
+        "source": "Heidegger",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "Lacan",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "라캉",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "정신분석",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "하이데거",
+        "value": 1
+      },
+      {
+        "source": "1950년대",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "1950년대",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "1950년대",
+        "target": "근대화 담론",
+        "value": 1
+      },
+      {
+        "source": "1950년대",
+        "target": "박종홍",
+        "value": 1
+      },
+      {
+        "source": "1950년대",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "1950년대",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "1950년대",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "근대화 담론",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "박종홍",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "근대화 담론",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "박종홍",
+        "value": 1
+      },
+      {
+        "source": "근대화 담론",
+        "target": "박종홍",
+        "value": 2
+      },
+      {
+        "source": "근대화 담론",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "근대화 담론",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "근대화 담론",
+        "target": "조가경",
+        "value": 2
+      },
+      {
+        "source": "박종홍",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "박종홍",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "박종홍",
+        "target": "조가경",
+        "value": 2
+      },
+      {
+        "source": "사르트르",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "Dependent Origination",
+        "target": "Dependent Origination",
+        "value": 1
+      },
+      {
+        "source": "Dependent Origination",
+        "target": "Fundamental Ignorance",
+        "value": 4
+      },
+      {
+        "source": "Dependent Origination",
+        "target": "Natural Attitude",
+        "value": 4
+      },
+      {
+        "source": "Dependent Origination",
+        "target": "Perfuming",
+        "value": 4
+      },
+      {
+        "source": "Dependent Origination",
+        "target": "Unity of True and the Worldly",
+        "value": 4
+      },
+      {
+        "source": "Fundamental Ignorance",
+        "target": "Fundamental Ignorance",
+        "value": 1
+      },
+      {
+        "source": "Fundamental Ignorance",
+        "target": "Natural Attitude",
+        "value": 4
+      },
+      {
+        "source": "Fundamental Ignorance",
+        "target": "Perfuming",
+        "value": 4
+      },
+      {
+        "source": "Fundamental Ignorance",
+        "target": "Unity of True and the Worldly",
+        "value": 4
+      },
+      {
+        "source": "Natural Attitude",
+        "target": "Natural Attitude",
+        "value": 1
+      },
+      {
+        "source": "Natural Attitude",
+        "target": "Perfuming",
+        "value": 4
+      },
+      {
+        "source": "Natural Attitude",
+        "target": "Unity of True and the Worldly",
+        "value": 4
+      },
+      {
+        "source": "Perfuming",
+        "target": "Perfuming",
+        "value": 1
+      },
+      {
+        "source": "Perfuming",
+        "target": "Unity of True and the Worldly",
+        "value": 4
+      },
+      {
+        "source": "Unity of True and the Worldly",
+        "target": "Unity of True and the Worldly",
+        "value": 1
+      },
+      {
+        "source": "Robert Frost",
+        "target": "modernity",
+        "value": 1
+      },
+      {
+        "source": "Robert Frost",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "modernity",
+        "value": 3
+      },
+      {
+        "source": "modernity",
+        "target": "실존주의",
+        "value": 3
+      },
+      {
+        "source": "American hegemony",
+        "target": "democracy",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "modernity",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "post-War devastation",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "American hegemony",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "existentialism",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "modernity",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "post-War devastation",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "democracy",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "post-War devastation",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "existentialism",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "post-War devastation",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "modernity",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "reflection upon modernity",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "post-War devastation",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the German democratization",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "reflection upon modernity",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "the de-historicizations of modern German",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the German democratization",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "the de-subjectivization of the German people",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the de-historicizations of modern German",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "the imaginations of post-War Germany and the German people",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the de-subjectivization of the German people",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "the peace of the post-War world",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the imaginations of post-War Germany and the German people",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "the post-War educations and enlightenments of undemocratic German",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the peace of the post-War world",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "totalitarianism",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "the post-War educations and enlightenments of undemocratic German",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "universality & particularity",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "totalitarianism",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "근대 성찰",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "universality & particularity",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "근대성",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "근대 성찰",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "독일 근대의 탈역사화",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "근대성",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "독일 민주화",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "독일 근대의 탈역사화",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "독일인 탈주체화",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "독일 민주화",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "미국 헤게모니",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "독일인 탈주체화",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "민주주의",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "미국 헤게모니",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "보편성",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "민주주의",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "비민주적 독일인의 재교육과 계몽",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "보편성",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "비민주적 독일인의 재교육과 계몽",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "전체주의",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "실존주의",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "전체주의",
+        "target": "전후 독일․독일인상",
+        "value": 2
+      },
+      {
+        "source": "전체주의",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "전체주의",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "전체주의",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "전후 독일․독일인상",
+        "target": "전후 세계 평화",
+        "value": 2
+      },
+      {
+        "source": "전후 독일․독일인상",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "전후 독일․독일인상",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "전후 세계 평화",
+        "target": "전후 폐허",
+        "value": 2
+      },
+      {
+        "source": "전후 세계 평화",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "전후 폐허",
+        "target": "특수성",
+        "value": 2
+      },
+      {
+        "source": "Existentialism",
+        "target": "근대화 담론",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "박종홍",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "조가경",
+        "value": 1
+      },
+      {
+        "source": "absurdity",
+        "target": "nothingness",
+        "value": 1
+      },
+      {
+        "source": "absurdity",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "nothingness",
+        "value": 1
+      },
+      {
+        "source": "death",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "nothingness",
+        "value": 1
+      },
+      {
+        "source": "nothingness",
+        "target": "부조리",
+        "value": 1
+      },
+      {
+        "source": "nothingness",
+        "target": "실존주의",
+        "value": 1
+      },
+      {
+        "source": "nothingness",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "nothingness",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "부조리",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "자유",
+        "target": "죽음",
+        "value": 1
+      },
+      {
+        "source": "existentialisme",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "existentialisme",
+        "target": "휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "자유",
+        "target": "휴머니즘",
+        "value": 1
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Beauvoir",
+        "value": 1
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Existenialismus",
+        "value": 4
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Feminismus",
+        "value": 4
+      },
+      {
+        "source": "Beauvoir",
+        "target": "Sartre",
+        "value": 4
+      },
+      {
+        "source": "Beauvoir",
+        "target": "koreanische Frauen",
+        "value": 4
+      },
+      {
+        "source": "Beauvoir",
+        "target": "선택",
+        "value": 2
+      },
+      {
+        "source": "Beauvoir",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "Beauvoir",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "Existenialismus",
+        "target": "Existenialismus",
+        "value": 1
+      },
+      {
+        "source": "Existenialismus",
+        "target": "Feminismus",
+        "value": 4
+      },
+      {
+        "source": "Existenialismus",
+        "target": "Sartre",
+        "value": 4
+      },
+      {
+        "source": "Existenialismus",
+        "target": "koreanische Frauen",
+        "value": 4
+      },
+      {
+        "source": "Existenialismus",
+        "target": "선택",
+        "value": 2
+      },
+      {
+        "source": "Existenialismus",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "Existenialismus",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "Feminismus",
+        "target": "Feminismus",
+        "value": 1
+      },
+      {
+        "source": "Feminismus",
+        "target": "Sartre",
+        "value": 4
+      },
+      {
+        "source": "Feminismus",
+        "target": "koreanische Frauen",
+        "value": 4
+      },
+      {
+        "source": "Feminismus",
+        "target": "선택",
+        "value": 2
+      },
+      {
+        "source": "Feminismus",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "Feminismus",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "Sartre",
+        "target": "Sartre",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "koreanische Frauen",
+        "value": 4
+      },
+      {
+        "source": "Sartre",
+        "target": "선택",
+        "value": 2
+      },
+      {
+        "source": "Sartre",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "koreanische Frauen",
+        "target": "koreanische Frauen",
+        "value": 1
+      },
+      {
+        "source": "koreanische Frauen",
+        "target": "선택",
+        "value": 2
+      },
+      {
+        "source": "koreanische Frauen",
+        "target": "실존",
+        "value": 2
+      },
+      {
+        "source": "koreanische Frauen",
+        "target": "자유",
+        "value": 2
+      },
+      {
+        "source": "선택",
+        "target": "자유",
+        "value": 1
+      },
+      {
+        "source": "Nietzsche",
+        "target": "existentialism",
+        "value": 1
+      },
+      {
+        "source": "existentialism",
+        "target": "니체",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Jean Paul Sartre",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Existentialism",
+        "value": 1
+      },
+      {
+        "source": "Existentialism",
+        "target": "Kim Chun-soo",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "M. Heidegger",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "Poetry",
+        "value": 4
+      },
+      {
+        "source": "Existentialism",
+        "target": "R. M. Rilke",
+        "value": 4
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "Kim Chun-soo",
+        "value": 1
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "M. Heidegger",
+        "value": 4
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "Poetry",
+        "value": 4
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "R. M. Rilke",
+        "value": 4
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Kim Chun-soo",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "M. Heidegger",
+        "target": "M. Heidegger",
+        "value": 1
+      },
+      {
+        "source": "M. Heidegger",
+        "target": "Poetry",
+        "value": 4
+      },
+      {
+        "source": "M. Heidegger",
+        "target": "R. M. Rilke",
+        "value": 4
+      },
+      {
+        "source": "M. Heidegger",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "M. Heidegger",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "Poetry",
+        "target": "Poetry",
+        "value": 1
+      },
+      {
+        "source": "Poetry",
+        "target": "R. M. Rilke",
+        "value": 4
+      },
+      {
+        "source": "Poetry",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "Poetry",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "R. M. Rilke",
+        "target": "R. M. Rilke",
+        "value": 1
+      },
+      {
+        "source": "R. M. Rilke",
+        "target": "실존주의",
+        "value": 2
+      },
+      {
+        "source": "R. M. Rilke",
+        "target": "하이데거",
+        "value": 2
+      },
+      {
+        "source": "Interaction",
+        "target": "부조리",
+        "value": 1
+      },
+      {
+        "source": "부조리",
+        "target": "상호작용",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "subjectivity",
+        "value": 1
+      },
+      {
+        "source": "Sartre",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "subjectivity",
+        "target": "사르트르",
+        "value": 1
+      },
+      {
+        "source": "사르트르",
+        "target": "주체성",
+        "value": 1
+      },
+      {
+        "source": "Anthony Browne",
+        "target": "Anthony Browne",
+        "value": 1
+      }
+    ]
+  },
+  "all_papers": [
+    {
+      "title": "사르트르의 실존주의와 윤리의 문제",
+      "author": "김남준",
+      "journal": "倫理硏究",
+      "year": 2023,
+      "citations": 3,
+      "article_id": "ART003002490",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 사르트르의 실존주의의 특성과 윤리적 의미를 논구하는 것을 목적으로 한다. 이를 위해 본 논문은 사르트르의 실존주의를 대표하는 『존재와 무』와 『실존주의는 휴머니즘이다』라는 두 저서를 통해 ‘존재와 무’, ‘실존은 본질에 앞선다’, ‘실존의 조건’(자유, 책임, 불안), ‘실존주의는 휴머니즘이다’ 등과 같은 주요 주제를 체계적으로 논의할 것이다. 다음으로, 본 논문은 사르트르의 실존주의가 갖는 윤리학의 가능성과 윤리적 의미를 실존주의적 휴머니즘을 중심으로 논구할 것이다.",
+      "keywords": "J. P. Sartre, existentialism, being and nothingness, existence and essence, existentialist humanism, 사르트르, 실존주의, 존재와 무, 실존과 본질, 실존주의적 휴머니즘"
+    },
+    {
+      "title": "신시론의 실존주의와 김수영",
+      "author": "이창호",
+      "journal": "역사와 융합",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART002949092",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "신시론 동인은 1948년 4월 『신시론』 제1집을 내고 동년 10월 『신천지』 사르트르 실존주의 특집에 참여했다. 그러나 김수영은 1949년 『새로운 도시와 시민들의 합창』이 나오기 전까지 공식적인 동인으로서의 활동과존재감을 확인할 수 없다. 김수영은 신시론 초기에는 대외적 활동보다 시 이론 공부에 집중했던 것으로 보이며, 시이론에 기초가 부족한 만큼 모더니스트와 선후배 관계도 없던 처지라 자존심에도 상처를 입었던 것으로 여겨진다. 그러나 김수영은 1960년대 중후반까지 이러한 내색을 않고 있다가 박인환 사후 10년 언저리에 박인환 비판과 함께 과거 모더니즘 활동에 대한 문제의식을 쏟아냈다. 이는 김수영이 무엇보다 ‘비평의 차원’을 깨달은 시기와 관련이 있어 보이며, 따라서 본 연구에서는 왜 그 시기였는가의 문제를중심적으로 살펴볼 것이다.\n김수영은 하이데거의 실존주의의 핵심 주제 중 하나인 ‘양심’에 집중하였음에 반해서 박인환 등 신시론 동인은 김수영과 다르게 사르트르 실존주의를 해방정국에서 집중적으로 소개하였다. 김수영은 1950년 후반기에 신시론과 결별했음에도 신시론의 주제였던 초현실주의, 실존주의 연구와 관심을 지속했고, 특히 하이데거의 실존주의는 그의 시적 세계관에 큰 영향을 끼쳐 ‘온몸시학’이라는 독창적 시론의 밑거름이 되었다. 김수영이 박인환사후 10년이 지난 시기에 박인환과 신시론을 중점적으로 비판한 것은 ‘비평의 차원’을 획득한 것과 ‘난해시’의 사회적 유행과 맞물려 있다. 박인환과 신시론에 대한 김수영의 비판은 사르트르의 ‘문학의 사회적 책임’을기반으로 한 신시론의 주장에 책임을 물은 것으로 여겨진다. 김수영의 비판이 집중된 박인환은 1956년 사망했는데 10년이 지난 1960년대 중후반의 문학적 유행에 대한 책임을 묻는 것이 과연 정당한가의 의문이 남는다. 또한박인환 사후 그의 문화예술적 활동에 대한 새로운 사실도 밝혀 그간 미흡한자료 탓에 정당한 평가 없이 추상적 연구가 이뤄졌을 가능성도 제기할 것이다.",
+      "keywords": "신시론, 실존주의, 양심, 초현실주의, 모더니즘, 온몸시학, 사르트르, 하이데거, New Poetry, Existentialism, Conscience, Surrealism, Modernism, Whole Body Poetics, Sartre, Heidegger"
+    },
+    {
+      "title": "『사람의 아들』에 나타난 무신론적 실존주의와 자기 파멸 고찰",
+      "author": "강준수",
+      "journal": "신학과 학문",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART002959291",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구의 목적은 이문열의 『사람의 아들』에 나타난 신에 대한 부정을 통해서 표출되는 허무주의와 무신론적 실존주의가 지닌 한계성을 논의하고자 한다. 현대인은 누구나 일부 교회에서 자행되는 비리를 목격하면서 신의 부재와 개입 필요성에 대해서 생각해보았을 것이다. 『사람의 아들』에서 두 핵심 인물들은 절대적 신에 대한 부정으로 발생한 허무주의를 극복하기 위한 수단으로 새로운 신과 경전을 만들지만 무신론적 실존주의에서 벗어나지 못하는 교의일 뿐이다. 이 작품에서 핵심적인 두 인물은 민요섭과 조동팔이라는 인물로서 사회변화에 대한 실천 행동에 있어서 차이점을 지닌다. 전자는 점진적 사회구조 변화를 통한 실천 의지로서 추상적이고 정신세계에 가까운 유형이라면 후자는 현실에서 직면하고 있는 문제들을 수단과 방법을 가리지 않고 과격하고 급진적인 방식으로 실천하고자 하는 유형의 인물이다. 결론적으로 민요섭은 무신론적 실존주의의 한계를 수용하고 기독교에 회귀하고 있다. 반면, 조동팔은 끝까지 무신론적 실존주의의 한계를 수용하지 않고 거부하는 수단으로 살인을 자행하는 자기모순과 자기 파멸의 모습을 보여주면서 비극적 삶을 마감한다.",
+      "keywords": "『사람의 아들』, 이문열, 허무주의, 무신론적 실존주의, 자기 파멸, The Son of Man, Lee, Moonyeol, Nihilism, Atheistic Existentialism, Self-Destruction"
+    },
+    {
+      "title": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "author": "박민규",
+      "journal": "우리문학연구",
+      "year": 2023,
+      "citations": 2,
+      "article_id": "ART003014845",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "전쟁으로 시작된 1950년대 시단은 전통적 서정과 실험적 모더니즘보다도 상실된 인간성을 회복하려는 당대적 과제에 적극 부응한 노력이라는 관점에서 접근해야 양상과 전모를 파악할 수 있다. 이를 본고는 박인환, 조병화, 전봉건의 시론들로 확인하고자 하였다. 이들의 인간성 옹호는 공허한 구호에 그치지 않았는데 이는 실존주의에 대한 관심과 이해가 선행됐기 때문이다. 실존주의적 문제의식을 경유하여 휴머니즘을 추구한 이들의 시론은 현대문명의 부정성을 인식한 공통점이 있으며 개인, 서구, 인류를 각각 사유의 주 지평으로 삼은 차이가 있다.\n박인환 시론은 현대 서구 문명을 단위로 전개된 특징이 있다. 해방 초기와 달리 「사르트르의 실존주의」(1948)를 계기로 구라파 문명의 위기를 인식한 그는 이를 반영한 “기괴한 절망”의 실존주의에 회의적이었으며 이후에도 실존주의를 명시화한 글을 쓰지 않았다. 다만 1950년대에 유입된 ‘저항’과 ‘증인’ 문학으로서의 실존주의에는 공감했으며, 참여적 앙가주망의 사례를 몰락 중인 구라파 대신 영미 모더니즘에서 찾고자 하였다. 특히 뉴 컨트리파 시들은 앙가주망과 휴머니즘의 결합으로 고평된바 그에게 후반기 동인의 참조적 지향점으로 여겨졌다.\n조병화 시론은 자기 자신, 즉 개인으로부터 출발한 차이를 보인다. 실존이 본질에 앞선다는 실존주의 명제에 충실한 그의 시론은 시학과 사조적 ‘이즘’의 본질보다도 그 이전에 존재한 자신의 실존과 탐구 과정을 자기서사적 에세이로 드러낸 특징이 있다. 해방 후 무(無)를 경험한 그는 “끊임없는 자기 형성”을 위해 이웃, 군중, 한국 순으로 실존적 조건들을 탐구하면서 그들과 공감, 연대하는 휴머니즘적 “자아의 확대”를 도모하였다. 그가 모더니즘 시의 난해한 기교를 비인간적인 것으로 보고 ‘읽히는 시’를 주장한 것도 인간성 옹호를 위해 대중을 외면해선 안 된다고 보았기 때문이다.\n전봉건 시론은 가장 큰 단위인 인류의 문제에 관심을 집중한 차이를 보인다. 실존주의적 견지에서, 집단적 자살이냐 아니냐의 기로에 선 인류에게 “꽃 피려는 갈망”을 선택할 최후의 자유가 남아 있다고 본 그는 인류의 존속과 평화를 위해 시인이 앞장서 ‘노래’해야 하는 숙명적 존재임을 강조하였다. 시인은 비본래적 실존에서 벗어나 우주 자연의 생명력에 동참하여 더 높은 인간의 가능성을 발견한 경이와 기쁨의 “왈쯔”를 노래 불러야 한다. 이 같은 휴머니즘의 노래가 시의 내용보다는 창작 과정 자체에 내재한 실존주의적 성격으로부터 발현된다고 본 데 그의 시론의 독창성이 있다.\n앙가주망으로 정치와 사회에 참여할 것을(박인환), 읽히는 시로 대중의 삶과 정서에 참여할 것을(조병화), 본래적 실존으로 대자연의 생명력에 참여할 것을(전봉건) 주장한 데서 보듯, 1950년대는 전쟁의 상처로 허무와 절망에 빠졌거나 현실에서 도피한 것이 아니라 여러 시론적 작업들을 통해 다양한 방식으로 시의 ‘참여’를 모색한 시기로 평가되어야 한다.",
+      "keywords": "War and post-war years, defense of humanism, existentialism, Sartre, engagement, New Country group, virtuosic modernism, content and form of poetry, (un)original being, participation of poetry, 전쟁기와 전후, 인간성 옹호, 실존주의, 사르트르, 앙가주망, 뉴 컨트리파, 기교적 모더니즘, 시의 내용과 형식, (비)본래적 실존, 시의 참여"
+    },
+    {
+      "title": "존 듀이 철학에 대한 실존주의적 해석과 교육적 시사",
+      "author": "최현주",
+      "journal": "교육사상연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003178962",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 듀이 철학을 실존주의적 관점으로 해석함으로써 듀이 철학이 가진 새로운 의미와 가치를 드러내고 그 교육적 시사를 얻기 위한 것이다. 이를 위하여 연구자는 먼저 듀이 철학을 이루는 핵심 개념을 분석할 수 있는 저서들 즉 「민주주의와 교육」(Democracy and Education, 1916), 「경험과 자연」(Experience and Nature, 1925), 「확실성의 탐구」(The Quest for Certainty, 1929), 「경험과 교육」(Experience and Education, 1938) 등을 검토하여 실존주의적 관점에서 해석하기 위한 세 가지 핵심 주제를 선정하였다. 그것은 첫째, ‘상황’(situation), 둘째, ‘경험과 사고’, 셋째, ‘성장’이다. 그리고 이 세 가지 주제를 실존주의적 관점에서 해석하였다. 연구결과 첫째, 듀이 철학에서 ‘상황’ 은 자기 존재를 구성하여 실존으로 나아가도록 하는 ‘실존의 장(場)’으로 해석될 수 있었다. 둘째, 듀이 철학의 경험과 사고는 실존주의에서 주장하는 자유, 선택, 책임의 원리로 해석될 수 있었다. 셋째, 듀이의 성장은 인간이 끊임없이 변화하고 적응하며 자신을 창조해가는 과정으로서 “실존이 본질에 앞선다”는 실존주의의 핵심 명제로 해석이 가능하였다. 마지막으로 이러한 연구결과로부터 교육적 논의와 시사점을 제시하였다. 그것은 첫째, 교육적 상황은 학습자가 자신의 상황에 진실되게 참여하고 소통하며 내면적으로 변화를 일으킬 수 있는 환경으로서 보다 세심하게 고려되어야 한다는 점이다. 둘째, 교육에서 경험에 대한 탐구는 학습자가 진실한 자기로 ‘존재’ 하고 성장하도록 하는 실존적 원리로 재고찰되어야 한다는 점이다. 셋째, 학습자가 진정한 자기의 삶을 살아가기 위해서는 학습자 스스로 자기활동의 목적을 창조적으로 만들어가면서 성장해 가야 한다는 점이다. 본 연구의 의의는 그 동안 실용주의적 관점으로만 이해되어온 듀이 철학을 실존주의적 관점으로 해석함으로써 그 가치를 새롭게 조망하도록 하는데 기여했다는 데에 있다.",
+      "keywords": "실존, 상황, 경험, 사고, 성장, existence, situation, experience, thought, growth"
+    },
+    {
+      "title": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "author": "정용환",
+      "journal": "비교문학",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002815356",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "밀란 쿤데라는 종종 실존주의의 전통에 있는 작가로 간주된다. 하지만 그는 자신에게 영향을 준 문학과 관련해 실존주의 작가에 대해 잘 거론하지 않으며 실존주의 문학에 대한 그의 몇 안 되는 언급도 대체로 부정적이다. 이 논문은 그의 소설과 소설론이 실제로는 그가 인정하는 것보다 실존주의에 많은 것을 빚지고 있다는 직관에서 출발해 우연성, 자유, 상황, 선택, 진정성, 죽음 같은 주제를 중심으로 소설 『참을 수 없는 존재의 가벼움』와 사르트르의 실존주의의 관계를 연구하려 한다. 사르트르의 『구토』와 쿤데라의 『참을 수 없는 존재의 가벼움』의공통된 주제는 존재의 우연성이다. 사르트르와 쿤데라는 우연성과 자유를 현대적 실존의 야누스적 양면성으로 파악한다. 『구토』와 『참을 수 없는 존재의 가벼움』 에서 우연성은 주인공들에게 존재론적 진실로서뿐 아니라 삶의 실존적 문제로 다가온다. 여기서 두 작가는 니체의 전통을 따라 예술과 심미적 실존에서 이 문제에 대한 하나의 가능한 해답을 찾는다. 사르트르와 쿤데라는 현대인이 처한 상황을 덫의 은유로 파악했다. 여기서 사르트르가 아무리 절망적인 역사적 상황에서도 그 능동적 극복 가능성을 강조하는 데 반해 쿤데라의 상황 진단은 더 비관적이다. 후기 사르트르의 상황 분석이 마르크스의 이론적 통찰에 의존한다면 쿤데라의 역사이해는 후기 하이데거의 존재사적 사유에 기대고 있다. 그의 소설에서 역사는 통제 불가능한 것으로, 상황은 출구가 없는 것으로 묘사된다. 상황개념은 두 사람의 소설론에서도 핵심적인 역할을 한다. 사르트르는 1940년대 후반에 나탈리 사로트를 비롯한 누보로망 작가에 맞서 상황소설론을 전개한다. 쿤데라는 스스로 카프카, 무질, 브로흐 등 중부유럽 모더니즘의 계승자임을 자임하지만 그의 소설론에서는 사르트르 소설론의 영향도 부인할 수 없다.",
+      "keywords": "쿤데라, 사르트르, 실존주의, 우연성, 가벼움, 근엄함의 정신, 무거움, 심미적 실존, 상황, 진정성, 죽음, 다성, Milan Kundera, Jean-Paul Sartre, Existentialism, Contingency, Lightness, Heaviness, Aesthetic Existence, Situation, Authenticity, Death, Polyphony"
+    },
+    {
+      "title": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "author": "안준상",
+      "journal": "현상학과 현대철학",
+      "year": 2026,
+      "citations": 0,
+      "article_id": "ART003318155",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 후설의 후기 윤리학과 형이상학에 나타난 실존주의적 동기들을 로이돌트(Loidolt)가 정립한 '실존주의적 합리주의'라는 관점에서 해명한다. 이러한 실존주의적 경향은 후설이 본질학을 넘어 '현사실성(Faktizität)'의 문제를 다루기 위해 감행한 광범위한 형이상학적 전환에서 기원한다. 이를 보다 구체적으로 파악하기 위해 본고는 후설의 사유를 사르트르의 자기책임, 야스퍼스의 죄책 및 비극성 개념과 비교하며 그 고유성을 추적하고자 하며, 이에 따라 후설은 절대적 사랑가치들 간의 충돌에서 필연적으로 발생하는 삶의 비합리성과 피할 수 없는 '죄'(Sünde), 그리고 이에 따른 삶의 선택의 문제와 '비극성'(Tragik)을 다른 실존주의자들처럼 있는 그대로 직시한다는 점을 밝힌다. 하지만 본고는 더 나아가 야스퍼스가 비극을 미완결성 자체로 보존하려 한 것과 달리, 후설은 부조리 속에서도 인류가 윤리적 실천을 멈추지 않게 하는 보편적 '목적론'과 참된 이념적 세계에 대한 믿음을 실천 이성적 요청으로서 합리적으로 정당화하고자 한다는 점을 해명한다. 이를 통해 결론적으로 후설의 철학은 현사실적 삶의 부조리를 직시하는 실존주의적 태도와, 세계의 보편적이고 낙관적인 목적론을 지향하는 초월론적 현상학의 기획이 결합된 노력으로 평가할 수 있다.",
+      "keywords": "Husserl, Sartre, Jaspers, Guilt, Tragedy, Teleology, Faticity, 후설, 사르트르, 야스퍼스, 죄책, 비극성, 목적론, 현사실성"
+    },
+    {
+      "title": "사르트르의 실존주의와 해석학 - 그는 실존주의자인가, 존재론자인가? -",
+      "author": "박유정",
+      "journal": "지식융합연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003280890",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 사르트르가 단순히 실존주의자가 아니라 존재론자임을 논해 보고자 했다. 이를 위해 그의 두 저술『문학이란 무엇인가』와『존재와 무』를 다루었고, 전 자에서는 해석학의 면모를, 후자에서는 존재론의 면모가 있음을 제시할 수 있었 다. 따라서 사르트르는 현상학적 방법을 사용하여 인간 의식의 존재론적 지평을 통해 후설을 넘어서는 “현상학적 존재론”을 사유하였다고 결론 내렸다.\n우선 사르트르는『문학이란 무엇인가』에서 작가와 독자의 변증법적 관계라는 개념으로 해석학적 논의를 보여준다. 즉 작가는 작품을 생산하긴 하지만 그 변증 법적 상관자로서 독자를 필요로 하고, 작품은 양자의 결합을 통해서만 탄생한다는 것이다. 그리고 중요한 것은 작품의 완성이 작가가 아니라 독자의 독서에 의해 이 루어진다는 것이고, 그 점에서 독자는 문학의 주체이며 문학은 독자에의 호소라고 그는 말한다. 이러한 논의는 작품과 작가 사이에서 두 지평이 융합되는 이해의 해 석학적 과정에 다름 아니라고 생각된다.\n이렇게 해서 그는 문학이 독자라는 인간의 자유에 호소하는 일이라고 결론 짓 고, 다른 한편 그는『존재와 무』에서 현상학적 방법을 통해 선반성적 코기토를 다룬다. 이 코기토는 반성을 조건 짓는 의식으로서 비반성적이고 비정립적인 자 기의식인데, 이는 자기동일성으로 충만한 존재로부터 태어난다는 것이다. 이러 한 자기동일성의 존재를 즉자존재’( *tre-en-soi)라고 하고, 의식은 그러한 존재 의 실재성에 기반을 두고 있음을 지적하여 후설을 넘어서고자 한다. 그리고 이러 한 의식은 자기동일성을 벗어나 자신의 즉자성을 무화(無化)하는데, 이러한 존재 를 대자존재(l’笆re-pour-soi)라고 한다. 대자존재의 이러한 탈존적 존재 방식을 실 존([existence)이라고 하고, 대자가 시간적으로 탈존함으로써 자신의 아님 속에서 불안을 느끼게 되는데, 불안은 대자의 존재 양식으로서 ‘자유의 의식’이라고 사르 트르는 말한다.\n요컨대 사르트르는 인간과 그 자유라는 휴머니즘으로 귀결되었지만 존재론적 의미를 갖는 선반성적 코기토를 통해 즉자와 대자의 존재론을 기술한 존재론자임 이 명백하다고 결론내릴 수 있었다.",
+      "keywords": "Appeal to reader, pre-reflective Cogito, 1’ etre-pour-soi, 1’ existence, Liberty, 독자에의 호소, 선반성적 코기토, 대자존재, 실존, 자유"
+    },
+    {
+      "title": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "author": "유한준",
+      "journal": "환경교육",
+      "year": 2025,
+      "citations": 1,
+      "article_id": "ART003255591",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "생태위기는 기후변화, 자원 고갈, 생물 다양성 감소 등 복합적인 양상으로 인간 사회의 지속 가능성을 위협하고 있으며, 이에 대응하기 위한 생태교육의 중요성이 강조되고 있다. 우리나라에서도 생태전환교육이 제도적으로 확대되고 있으나, 실제 학교 현장에서는 학생들의 내면화 부족, 제한된 생태 경험, 실천의 지속성 문제 등 실천적 한계가 나타나고 있다. 본 연구는 이러한 한계를 개인적 차원에서 조명하고, 사르트르의 실존주의 철학을 통해 생태교육의 방향성을 탐색하고자 하였다. 이를 위해 생태교육 실행상의 문제를 선행연구로 검토하고, 실존주의의 핵심 개념인 기투, 앙가주망, 자기기만을 바탕으로 생태교육의 재구성 방향을 제안하였다. 연구 결과, 첫째, 생태위기는 ‘나는 어떻게 살아갈 것인가’를 묻는 실존적 물음으로 전환되어 학생 삶과 연결된 자기 문제화의 계기가 되어야 한다. 둘째, 생태교육은 자연과의 실존적 만남을 통해 인간이 자연을 단순한 대상이 아니라 함께 세계를 구성하는 존재로 새롭게 인식하고, 그 관계 방식을 자유롭게 선택할 수 있도록 해야 한다. 셋째, 생태적 실천은 외부 당위가 아니라 자기 기투와 앙가주망에 기초한 자유로운 선택과 책임의 과정으로 설계되어야 한다. 아울러 2022 개정 교육과정 ‘생태와 환경’ 성취기준은 일부 주체적인 실천과 성찰을 담보하였으나 전반적으로 지식 중심적이고 자연과의 직접적 만남을 보장하지 못하는 한계가 확인되었다. 이에 따라 학생이 생태위기를 자기 삶의 문제로 인식하고, 자연과의 실제적 만남을 경험하며, 실천을 자기 선택의 과정으로 내면화할 수 있도록 성취기준의 보완이 필요함을 제안하였다. 이러한 생태교육의 실존주의적 접근은 생태교육을 삶의 성찰과 주체적 실천으로 확장하고 학생 주도성의 실현할 수 있는 교육으로 확장할 수 있는 가능성을 보여준다.",
+      "keywords": "생태교육, 생태전환교육, 사르트르, 실존주의, 2022 개정 교육과정, ecological education, ecological transformation education, Sartre, existentialism, 2022 revised national curriculum"
+    },
+    {
+      "title": "후회의 실존주의적 이해와 그 교육적 의미에 관한 一考: 야스퍼스, 하이데거, 사르트르를 중심으로",
+      "author": "김진영",
+      "journal": "교육사상연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003267713",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 후회를 바라보는 전통적인 시각을 넘어 후회의 존재론적 의미를 탐색하고 후회에 내재된 교육적 의의를 밝히고자 하였다. 이를 위해 실존주의, 특히 야스퍼스, 하이데거, 사르트르의 사상을 중심으로 후회를 조명하였다. 실존주의적 관점에서 후회는 자유롭게 결단하고 선택하며 자신의 존재를 정립해 나가는 인간의 필연성이다. 인간은 후회를 통해 비탄과 절망을 경험하기도 하지만 후회로 말미암아 성찰하고 성장하기도 한다. 본고에서 살펴본바 후회의 교육적 함의는 다음과 같다. ①시간적 존재이해, ②선택의 자각과 주체성, ③성찰과 수정 지향적 실천의 필요성과 중요성이다. 이러한 논의를 종합해 볼 때 후회는 피할 수 없는 인간의 숙명이자 특권이다. 후회를 통해 좌절을 할지언정 그것을 용기 있게 짊어지고 나아가는 태도는 유한성과 불확실성 속에서도 삶을 의미 있게 살아내고자 하는 운명애(Amor Fati)이다. 그렇기에 ‘후회하지 말라’는 조언이나 충고는 유효하지 않다. 우리는 누구나 후회할 수 있고, 후회할 수밖에 없고, 후회해야 한다는 사실을 기꺼이 인정해야 한다.",
+      "keywords": "regret, existence, decision-making, Homo paenitens (the regretting humans), regret and education, 후회, 실존, 선택, 후회하는 인간, 후회와 교육"
+    },
+    {
+      "title": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "author": "신정은",
+      "journal": "아시아태평양융합연구교류논문지",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003258974",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 한국 전후 시에 나타난 내면적 특성을 휴머니즘적 실존주의 관점에서 고찰하고자 하였다. 전쟁 이후 인간 존재에 대한 근원적 물음과 회복 의지를 동시에 담고 있는 시들을 중심으로 분석하였다. 특히 실존의 불안과 고독을 직면하면서도 인간다움의 회복 가능성을 모색하는 시적 태도에 주목하였다. 전후 시인들은 죽음과 절망의식 속에서도 인간 존재의 존엄성과 연대의 가능성을 탐색하였다. 이러한 시 세계는 실존주의적 고뇌 위에 휴머니즘적 윤리의식을 포개는 특징을 보인다. 본 연구는 이를 통해 단순한 허무주의를 넘어선 윤리적 실존, 감성적 회복의 길을 밝히고자 하였다. 전봉건의 시는 순수 서정을 통해 전쟁으로 말살되어 가는 인간성과 그 속에서 소생하는 사랑을 다양하게 변주시킨다는 평가를 받고 있다. 박인환은 전쟁체험에 따른 실존적 불안의식을 드러낸다. 종군기자였던 그의 현실적 체험이 작품에 그대로 나타나는 것이다. 그리고 전쟁의 체험은 이념의 대립과 실존적 존재의 불안감을 대두시킨다. 박인환은 인간성의 상실과 아픔을 시적 주체로 표현하면서 억압받고 있는 의식을 표현하고 있다. 전쟁을 체험한 시인들은 현실의 모순과 부조리를 작품 속에 투영하고자 했다. 이들의 전후 시는 대체로 시적 자아의 부정적 정서와 현실의 비극을 표출하고 있다. 전봉건, 박인환의 전후 시를 통해 전쟁의 상처를 극복하고 문학의 정체성을 회찾기 위한 노력을 살펴볼 수 있었다. 이를 통해 한국 전후 시는 인간 내면의 위기와 그 극복 과정을 통합적으로 드러내는 문학적 증언이라 할 수 있다.",
+      "keywords": "Postwar Poetry, Existentialism, Jeon Bong-geon, Park In-hwan, Humanism, 전후시, 실존주의, 전봉건, 박인환, 휴머니즘"
+    },
+    {
+      "title": "전문대학 교양교육의 실존주의적 고찰 : 만드는 교육에서 만나는 교육으로",
+      "author": "박영호;고정완",
+      "journal": "지식과 교양",
+      "year": 2024,
+      "citations": 2,
+      "article_id": "ART003144746",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "교육의 주체인 학습자를 기성품으로 만드는 교육은 외로운 교육으로 학습자를 고독하게 만들 것이다. 전문대학에서의 교양교육은 실존주의적 관점에서 강조되어야 한다. 기술과 사람을 잇는 것에만 관심을 두는 것에서 벗어나, 사람과 사람을 잇고, 사람과 세상을 잇는 것을 추구해야 한다. 취업과 직접적으로 관련된 전공교육과 달리 교양교육은 직업적 기술과 열거된 정보를 수동적으로 수용하는 것이 아니라 사람과의 만남을 통해 나, 너 그리고 세상과 호혜적 관계를 지향하는 방향으로 나아가야 한다. 부버의 만남에 대한 철학은 학생의 학습 주체성에 유의미한 방향을 제시할 수 있다. 교수자에 의해 수직적으로 강제되는 획일적인 교육은 학생의 주체성을 길러줄 수 없다. 교육학적 만남을 통해 교육자 역시 스스로의 존재를 인지하고 살아갈 수 있도록 지식 전달 노동자로서의 교육자가 아니라 학생을 주체로 성장하게 돕고 능동적으로 세상을 살아갈 수 있도록 하는 존재가 된다. 전문대학의 학습자들은 기술자나 직업인으로 만들어지지만, ‘기술’자나 ‘직업’인이기 이전에 기술‘자’이고 직업‘인’이다. 사회적 존재로서 인간은 세상에 좋은 것이 무엇인지, 선한 것이 무엇인지, 옳은 것이 무엇인지, 아름다운 것이 무엇인지를 판단할 수 있는 안목을 길러야 한다. 그러기 위해서는 만드는 교육이 아니라 만나는 교육이 요청된다. 전문대학의 교양교육에는 개인의 기술적 습득만을 추구하며 타인과 경쟁을 부추기는 독단적인 주체성이 아니라, 주체적 인간 간의 만남을 추구하는 협력적인 주체성이 필요하다. 만나는 교육으로서 교양교육을 통해 나를 사랑하고, 타인을 존중하고, 세상을 만남의 장으로 인식하며 살아가는 데에 의미를 찾을 수 있다.",
+      "keywords": "liberal arts education, junior college, student-agency, Buber, encounter education, 교양교육, 전문대학, 학생 주체성, 부버, 만나는 교육"
+    },
+    {
+      "title": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "author": "오태호",
+      "journal": "국제어문",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003286085",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 논문은 황순원의 마지막 장편소설 신들의 주사위에 대해 주인공 한수의형제애와 연애담을 중심으로 ‘실존주의적 특성’을 분석하였다. 작품 제목인 ‘신들의 주사위’는 ‘신과 인간의 대비’ 속에 이 작품이 ‘가계(家系)의 운명적 강요에 대한 수용과 거부, 연애담을 활용한 과정으로서의 실존의 탐색’이 작품의 본질에 해당함을 파악하였다. 특히 주인공 ‘한수’를 둘러싼 서사의 두 축인 ‘형제애와 연애담’을 중심으로 ‘운명의 자각, 청년의 성장통, 생활과 실존의 차이, 삶과 죽음의함의’ 등에 대한 분석을 구체적으로 수행하였다.\n이 글에서는 본론 첫 번째로 ‘한영과 한수의 형제 관계’를 통해 작품 초반에서중반부에 이르기까지 형 한영이 외치는 ‘관계없다’라는 고함소리의 세 가지 함의를 분석하였다. ‘첫째 조부가 강제한 운명의 거부, 둘째 형제애의 확인, 셋째 자기애 실현의 역설’ 등으로 구체적 의미를 분석하였다. 본론 두 번째로 ‘한수의 연애 관계’에서는 ‘첫째 불감증적 존재인 세미의 타나토스적 충동, 둘째 세미와 진희의 유사성과 차이, 셋째 타자와의 친연성 발견을 제공하는 진희의 사고사’ 등을통해 한수의 실존적 자각이 지닌 의미를 분석하였다. 한영, 세미, 진희 등의 세사람은 ‘일종의 도플갱어’로서 한수의 분신 역할을 수행하면서 한수에게 거울과같은 타자적 동일성을 제시함으로써 주체적 실존을 모색하게 만드는 동기부여적존재가 된다.\n황순원의 신들의 주사위는 작가의 이전 장편소설들에서 드러났던 ‘모성으로서의 구원’의 의미를 벗어나 ‘타자의 상실로부터 제공되는 결핍감의 극복’이 인간숙명의 실존적 사태임을 형상화한 작품이다. 작가가 만년 사상으로서 채택한 숙명의 수용은 ‘신의 주사위’가 아니라 ‘인간들의 주사위’로서 인간 스스로 다양한 선택을 실천에 옮기면서 살아가는 것이 실존주의적 태도임을 보여준다. 인간들은상실과 사별 속에 ‘검은 바다’에서 ‘흰 물머리’를 내밀며 자기 존재의 실존을 찾아우연한 궤적을 그려가는 ‘주사위를 던지는 존재들’인 셈이다.",
+      "keywords": "Hwang Sun-won, The Dice of the Gods, existentialism, humanism, brotherhood, love story, self-love, doppelgänger, self-identity, otherness, 황순원, 『신들의 주사위』, 실존주의, 휴머니즘, 형제애, 연애담, 자기애, 도플갱어, 자기동일성, 타자성"
+    },
+    {
+      "title": "스베냐 플라스푈러의 ‘여성성의 현상학’ - 실존주의–해체주의 이후의 페미니즘을 향한 이론적 모색",
+      "author": "김진환",
+      "journal": "독어교육",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003286148",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "성별화된 권력 관계는 특정 시기나 사회에 국한된 현상이 아니라, 오랜 역사적 축적과 문화적 재생산을 통해 유지되어 온 구조적 현상이다. 성별 규범이 자연적 사실에서 기원한다는 통념과 달리, 현대 인문·사회과학의 여러 연구들은 젠더 질서가 사회적·문화적 구성물임을 반복적으로 입증해 왔다. 이러한 관점은 성별화된 억압을 단순한 개별 사건의 결과가 아니라 상징적 체계와 제도적 장치를 통해 유지된 구조적 불평등으로 이해하게 한다. 특히 우리가 ‘기록’이라고 지칭하는 자료들이 이미 모두 ‘가부장적으로 작성된 것들’이라는 점을 감안하면 더욱 그럴 것이다(Schaik/Michel 2022, 27). 이러한 맥락에서 이 글은 스베냐 플라스푈러 Svenja Flaßpöhler의 『힘 있는 여성 Die potente Frau』(2018)을 실존주의와 해체주의가 구축해 온 페미니즘 사유의 틀을 비판적으로 재검토하며 새로운 분석 지평을 제시하는 저작으로 주목해 본다.",
+      "keywords": "Svenja Flaßpöhler, Phänomenologie der Weiblichkeit, die potente Frau, Dichotomie, 스베냐 플라스푈러, 여성성의 현상학, 힘 있는 여성, 이분법"
+    },
+    {
+      "title": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "author": "Zhou Yufeng;최원호",
+      "journal": "아시아태평양융합연구교류논문지",
+      "year": 2023,
+      "citations": 1,
+      "article_id": "ART002944770",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "삶과 죽음에 대한 연구는 인류 사회의 발전 과정에서 직면한 중요한 과제로서 생사 관념에 대한 견해는 각기 다르게 나타난다. 이렇듯 생사 관념에 대한 서로 다른 상상과 견해로 인해 삶과 죽음에 관련된 이론과 학설은 무수히 다양하다. 실존주의 철학의 선구자인 톨스토이, 하이데거, 사르트르, 카뮈 등은 모두 삶과 죽음의 개념에 대해 연구했으며, 특히 실존주의 철학의 생사관 이론은 생명을 인식하는데 중대한 의미를 가지고 있다. 이는 삶과 죽음에 대한 이해에 있어 생존의 의미를 더욱 적극적으로 해명하고 생명의 가치를 드러내도록 한다. 영상은 예술적 표현 형식을 통해 인류에 대한 기록과 재구성의 방법으로 인류의 사상과 문명을 드러낸단. 본 연구에서는 톨스토이의 실존주의 생사관 이론을 바탕으로 영상 작품에서 표현된 생사의 개념 변화를 연구하고자 한다. 이를 위해 영화 <코코>에서 드러난 죽음, 기억, 사랑에 대해 분석함으로써 생명에 대한 가치관을 탐구하고자 한다.",
+      "keywords": "Life, Death, Existentialism, Tolstoy, View of Life and Death, 삶, 죽음, 실존주의, 톨스토이, 생사관"
+    },
+    {
+      "title": "로버트 프로스트의 자연시에 나타난 실존주의적 태도",
+      "author": "김선옥",
+      "journal": "영어영문학연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003177049",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This article explores the existential dimensions of Robert Frost’s nature poetry, emphasizing its divergence from the Romantic tradition and its unique philosophical depth. While Romantic poets like William Wordsworth and Ralph Waldo Emerson viewed nature as a source of spiritual solace and transcendence, Frost portrays nature as indifferent, unpredictable, and, at times, antagonistic to human existence. Moving beyond traditional interpretations that focus on nature’s beauty or its regional specificity to New England, this study examines how Frost uses nature as a backdrop to reflect on human isolation, suffering, and the search for meaning. Through close readings of key poems, the article highlights Frost’s existentialist perspective, where human beings, faced with the indifference of nature, must confront their own limitations and create meaning in a transient and often hostile world. By analyzing themes such as the inevitability of death, the tension between order and chaos, and the resilience of the human spirit, this article argues that Frost’s nature poetry transcends its pastoral surface to engage with universal questions of existence. Ultimately, Frost’s work reveals a profound existential vision—one that acknowledges the harsh realities of life while affirming humanity’s capacity for choice, endurance, and the creation of meaning amidst uncertainty.",
+      "keywords": "Robert Frost, nature poetry, existentialism, human-nature relationship, human condition"
+    },
+    {
+      "title": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "author": "김은주",
+      "journal": "근대 철학",
+      "year": 2024,
+      "citations": 1,
+      "article_id": "ART003130176",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "노년에 관한 드문 철학서 중 하나인 보부아르의  노년은 “한 인간이 노년에도 인간으로 남아 있기”를 요구하는 휴머니즘적 요구와 그렇지 못한 문명 사회에 대한 비판의 맥락에서 읽혀 왔다. 그러나 보부아르가 노년 자체에 어떤 가치를 부여했는지는 이러한 문명 비판의 목소리에 가려져 왔다. 이 글은 첫째, 노년이 타자를 통해 타자로서 경험된다는 ‘실감할 수 없음’이라는 현상학적 개념을 중심으로, 노년에 대한 보부아르의 입장이 부정적임을 보여주고, 둘째, 이 부정적 입장이 삶의 의미를 미래에의 기투와 초월성에서 찾는 보부아르식 실존주의 원리에 기초한 일관된 것임을 보여준다. 셋째, 그럼에도 보부아르는 노년에 대한 심화된 실존주의적 이해의 단초 역시 남겨놓는데, 그것은  제2의 성을 비롯한 젊은 시절의 글에서 비판했던 습관적 삶에서 오히려 기투의 새로운 형태를 알아본 점이다.",
+      "keywords": "보부아르, 노년, 실감할 수 없음, 타자, 실존주의, 기투, 『제2의 성』, Beauvoir, Old Age, Unrealizable, Otherness, Existentialism, Projection, The Second Sex"
+    },
+    {
+      "title": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "author": "조영호;홍성규",
+      "journal": "현대영미시연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003216512",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper analyzes the existential implications of “freedom” embedded in the lyrics of Bob Dylan through the lens of Jean-Paul Sartre’s existentialist philosophy. Centered on Dylan’s 1960s works, it investigates how his poetic voice intersects with Sartre’s core existential concepts. Set against the sociopolitical context of the Vietnam War, civil rights movements, and the Beat Generation, Dylan’s music resonates with Sartrean themes of radical freedom and individual responsibility. Songs such as “Blowin’ in the Wind” and “The Times They Are a-Changin’” clearly express Sartre’s spirit of engagement, emphasizing the artist’s moral involvement in history and society. After 1964, Dylan’s lyrics begin to reveal deeper existential inquiries, particularly through the concept of être-pour-autrui (being-for-others). His 1965-1966 compositions are especially rich in existential meaning. This study discusses that Dylan’s lyrics during this period reflect four Sartrean dimensions of freedom as outlined in Being and Nothingness: freedom as the condition for action, freedom within limitation, freedom in anxiety, and freedom through engagement. These categories serve as interpretive tools for understanding Dylan’s work beyond protest music. Through this study, Dylan’s music is positioned as more than resistance art; it becomes an extension of existential literature and a valuable form of popular art that provides philosophical insight into the nature of freedom.",
+      "keywords": "Bob Dylan, Existentialism, Jean-Paul Sartre, Freedom, Popular Art, 밥 딜런, 실존주의, 사르트르, 자유, 대중예술"
+    },
+    {
+      "title": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "author": "권신애",
+      "journal": "영어권문화연구",
+      "year": 2026,
+      "citations": 0,
+      "article_id": "ART003330991",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper examines Chimamanda Ngozi Adichie's Americanah through the lens of Afropolitan existentialism, focusing on the protagonist Ifemelu's transcendence of racial bad faith and her enactment of epistemological decolonial practice. Drawing on Lewis Gordon's expansion of Sartrean existentialism into the racial domain, this paper argues that the mechanisms Ifemelu encounters in American society—accent correction, hair straightening, and racial condescension from intimate partners—function as structures of racial bad faith that seek to fix her as an inferior African other. Rather than succumbing to the essentialized identity imposed upon her, Ifemelu refuses and resists these impositions, ultimately exercising her freedom through the existential decision to relinquish her green card and return to Nigeria. Furthermore, through her blog Understanding America for the Non-American Black, Ifemelu exposes the constructed and essenceless nature of American racial categories, producing new racial knowledge from the periphery and enacting what Gordon terms a “shifting of the geography of reason” away from Western- centric epistemological frameworks. Her continued blogging in Lagos demonstrates that Afropolitan existential consciousness is not bound to any single location but opens itself as renewed possibility in each new context. Ifemelu thus emerges as an Afropolitan subject who perpetually projects herself toward the future, producing decolonial knowledge from the margins.",
+      "keywords": "Americanah, Lewis R. Gordon, existentialism, bad faith, Afropolitan, 『아메리카나』, 루이스 R. 고든, 실존주의, 자기기만, 아프로폴리탄"
+    },
+    {
+      "title": "미국 소설 속 한국 전쟁: 실존주의에서 소수자 초국가주의 공동체까지",
+      "author": "김대중",
+      "journal": "현대영미어문학",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002875067",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This essay aims to investigate two Korean war novels written by Korean or Korean-American writers in English: Richard Kim’s The Martyred and Chang-rae Lee’s The Surrendered. Despite a temporal gap, both novels delve deeply into the atrocious reality of the Korean War with finesse. However, the two novels illustrate different perspectives of the war. Richard Kim’s The Martyred foregrounds existentialism and absurdity, which were popular in the 1960s. Anonymous and typical characters in The Martyred represent every man in the war. All characters in the novel struggle to find a way out of the meaninglessness of the world in which the war demolishes humanity. Chang Rae Lee’s The Surrendered transcends the contradiction of the local background and global theme in The Martyred by expanding the scope and themes covering the brutal war scenes and post-war traumas each character in the novel suffers from. The Surrendered projects a minor transnational community where June, Hector, and Sylvie present testimony of the wars as well as a potential healing process through empathy.",
+      "keywords": "Richard Kim, The Martyred, Chang-rae Lee, The Surrendered, minor transnational community, 김은국, 『순교자』, 이창래, 『항복한 자』, 소수자 초국가 공동체"
+    },
+    {
+      "title": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "author": "김지희",
+      "journal": "문학과 종교",
+      "year": 2022,
+      "citations": 0,
+      "article_id": "ART002857577",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "사무엘 테일러 콜리지의(Samuel Taylor Coleridge)의 「노수부의 노래」는 20세기 중요한 철학적 개념이었던 실존주의에 나타난 부조리성 인식과 구원의 문제를 매우 극명하게 보여주고 있다. 인간의 합리적 물음에 대답하지 않는 세계의 비합리적인 침묵 사이의 대립 과정은 노수부가 겪게 되는 일련의 초자연적인 상황을 통해 드러난다. 「노수부의 노래」는 여러 부조리한 상황을 매우 사실적으로 보여주고 있다. 이 작품은 여러 측면에서 현대 실존주의 문학이 천착하고 있는 주제를 매우 선구적으로 보여주며, 궁극적으로 현대 실존주의적 관점에서 삶의 부조리성과 구원의 의미를 제시한다. 이런 관점에서, 노수부가 겪게 되는 과정을 통해 삶의 부조리한 비극을 촉발하는 것은 무엇이고, 극단적인 부조리한 상황에 부닥쳤을 때 인간은 어떤 구원을 기대할 수 있으며, 또 그러한 구원의 실질적인 의미는 무엇인지 살펴보는 것은 매우 의미 있는 시도라고 할 수 있다. 결론적으로 노수부는 자신의 행동에 대한 죄의식이라는 관점에서 인간이 처한 상황의 부조리성과 그것에 대한 자각을 통한 구원의 문제를 보여준다.",
+      "keywords": "「노수부의 노래」, 콜리지, 실존주의, 부조리, 구원, “The Rime of the Ancient Mariner”, Coleridge, Existentialism, Salvation, Absurdity"
+    },
+    {
+      "title": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "author": "김정현",
+      "journal": "니체연구",
+      "year": 2022,
+      "citations": 3,
+      "article_id": "ART002885558",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 1950년대 한국에서 실존주의가 나오게 된 시대적 배경과 의미를 살 피며 니체사상이 어떻게 실존사상의 궤도에서 수용되고 해석되었는지를 살펴보 고자 한다. 먼저 50년대 니체수용의 대표자라 할 수 있는 박종홍, 안병욱, 조승 순 등의 니체 수용의 내용을 살펴보고, 더 나아가 60년대 초 하기락, 조가경의 니 체 해석을 비롯해 니체철학을 동양사상과 비교하면서 주체적 해석을 모색하는 비교연구의 경향 등을 논의할 것이다. 50년대와 60년대 초 한국에서 실존주의와 연관해 이루어진 니체해석에는 실존적 이슈가 다루어지는 시대적 의미도 있었 지만, 동시에 실존주의적 니체해석의 영향과 관심의 강도가 지속되면서 이후 새 로운 시각으로 니체사상에 접근하는 데 많은 시간을 필요로 했다.",
+      "keywords": "Existentialism, existential humanism, cultural world philosophy, Eastern thought and Nietzsche, 실존주의, 실존적 휴머니즘, 문화적 세계철학, 동양사상과 니체"
+    },
+    {
+      "title": "고석규 비평의 교양론 연구 – 보편성을 향한 해석적 신념으로서의 교양",
+      "author": "박현익",
+      "journal": "어문학",
+      "year": 2026,
+      "citations": 0,
+      "article_id": "ART003321716",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 1950년대 고석규 비평을 그의 교양론에 주목하여 고찰하려는 한 시도이다. 고석규 사후인 1958년 7월 『사상계』에 유고로 수록된 ｢비평가의 교양｣은 그의 비평가론이자 교양론으로서 T.S. 엘리엇의 비평, 『교양과 무질서』로 대표되는 매슈 아놀드의 교양론, G.K. 체스터튼의 정통론(orthodoxy) 및 역설(paradox) 개념 등이 모더니즘의 모색 속에서 검토되고 있는 중요한 글이다. 본고는 유신론적 실존주의와 영미 신비평의 세례를 받고 시(인)론과 비평(가)론, 문체론 등을 통해 전후 비평의 한 좌표를 제시한 고석규 비평의 사상적 영향관계를 그의 교양론을 중심으로 확인하고, 그가 주창한 ‘자기 완성’으로서 ‘교양’의 의미를 추적한다. 고석규의 ‘교양’ 개념은 한편 세계를 모순과 불확실성으로 가득한 무대로 파악하는 비합리주의에 기대고 있는 것으로 보인다. 그러나 인간의 이성으로 파악 불가능한 신비의 영역이 엄존함을 인정함으로써 대상의 무한한 의미 지평을 보존하려는 그의 태도는, 세계를 끊임없이 ‘해석’하는 비평가 본연의 자질 자체이다. 그는 유신론적 실존주의와 영미 비평의 전통 속에서 전후 문단이 새롭게 주조해 나가야 할 모더니즘의 방향을 모색하고자 했다. 그 요체는 신념으로서의 합리주의와 불가지적 태도에 기반해 세계를 발견, 해석하는 교양의 정신에 있다.",
+      "keywords": "Ko Seok-gyu, Culture Discourse(敎養論), Theistic Existentialism, British-American Criticism, 고석규, 교양론, 유신론적 실존주의, 영미비평"
+    },
+    {
+      "title": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "author": "이상원",
+      "journal": "정치사상연구",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002843472",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 현대정치사상에서 자연권 담론과 고전 철학적 문제의식의 재조명에 영향을 미친 레오 스트라우스의 하이데거 실존주의에 대한 해석을 분석함으로써 새로운 정치적 사유의 가능성을 탐색한다. 본고는 스트라우스의 하이데거 해석은 단순히 그의 실존주의가 내포한 역사주의의 한계를 비판하기 위한 것이 아니라 하이데거의 사유가 담은 철학함과 정치적 존재의 문제성을 드러내기 위한 것이라고 주장한다. 기존 정치철학 연구자들은 스트라우스의 자연권 개념과 역사주의 비판에 나타난 그의 근대성 이해를 주로 조명해왔다. 그러나 그의 근대성 비판의 사유는 단순히 새로운 정치철학의 대안을 제시하기보다, 근대적 사유의 근간을 이루는 형이상학적 전제와 정치신학적 문제에서 비롯되는 근원적 존재물음을 지향한다. 그리고 이러한 스트라우스의 질문은 그의 하이데거 실존주의 해석을 통해 보다 온전히 이해될 수 있다. 그러나 하이데거 실존주의에 대한 스트라우스의 접근을 이해하기 위해서는 단순히 역사주의와 형이상학에 대한 그의 비판의식에만 주목하는 데에는 한계가 있다. 하이데거의 사상은 단지 역사적 맥락과 형이상학적 접근으로만 쉽게 규정되기 어려운 존재물음의 실제적 가능성 문제를 담고 있기 때문이다. 이러한 시각에서 본고는 스트라우스의 하이데거 해석이 다루는 인간적 사유(thinking)와 철학함(philosophizing)의 현실적 문제에 집중한다. 나아가 그의 해석적 사유가 철학함이 직면할 수밖에 없는 정체모를 존재의 심연을 하나의 사실적 문제(factual problem)로서 신중히 접근하고자 했음을 보인다. 이를 통해 스트라우스의 실존적 사유는 하이데거의 존재물음을 비판적으로 수용하면서 근대 과학기술주의와 상대주의, 그리고 신성성의 문제를 관통하는 정치적 존재의 문제성을 드러내고자 했음을 제시한다.",
+      "keywords": "실존주의, 철학함, 과학주의, 상대주의, 역사주의, 정치적 존재, Existentialism, Philosophizing, Scientism, Relativism, Historicism, Political Existence"
+    },
+    {
+      "title": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "author": "최성철",
+      "journal": "서강인문논총",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002871646",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "흔히 ‘현재’와 ‘현존’을 강조하는 ‘실존주의’는 역사와 거리가 멀거나 역사를 비판한철학 사조로 알려져 있지만, 예외적인 인물이 하이데거와 야스퍼스다. 이 둘은 ‘역사’ 에 대해 많이 사유하고 역사와 관련된 개념들을 정립한 후 실제 세계사에 대한 담론까지 전개했던 20세기 독일의 대표적인 실존철학자들이다. 이 논문은 이 둘의 역사철학을 살펴본 후 그들을 비교함으로써 실존주의 역사철학의 참모습을 밝히고 소개하는데 목적을 둔다. 이 둘은 역사를 ‘인간 실존의 근거’로 이해한 점에서나 ‘역사성’과 ‘시간’을 강조한 점에서는 유사성을 보였지만, 나머지 부분에서는 매우 달랐다. 먼저 하이데거는 ‘역사’에 접근하고 분석하며 결론을 끌어낼 때 구체성에서 출발해 추상적으로 또는 사변적으로 나아갔고, 사변적 역사철학을 구축하지도 못하면서 작업을 끝냈다. 한마디로 하이데거의 역사철학은 역사에서 출발해 철학으로 끝난 셈이다. 반면 야스퍼스는 ‘역사성’을 분석하고 ‘역사’의 참다운 의미를 밝힐 때 약간 추상적인 것에서출발해 구체적인 것으로 나아가는 모습을 보여준다. 왜냐하면 그는 세계사에 대한 거시적 해석으로서 방대한 사변적 역사철학을 구축하는 구체적인 작업성과를 이루어냈기 때문이다. 야스퍼스의 역사철학은 철학에서 출발해 역사로 끝을 맺는다.",
+      "keywords": "Existentialism, Philosophy of History, Martin Heidegger, Karl Jaspers, Historicity (Geschichtlichkeit), 실존주의, 역사철학, 하이데거, 야스퍼스, 역사성"
+    },
+    {
+      "title": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "author": "편무영",
+      "journal": "실천민속학 연구",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003242385",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 한국불교민속의 전승구조를 이론적으로 밝히기 위한 여러 갈래 연구의 일환이다. 극락왕생 문제도 지금까지의 다른 사례 연구와 마찬가지로 이론 구축을 위한 목적을 겸하고 있다. 다만 이번 연구에서는 불교민속을 구성하는 불교의 본질[聖]과 세속주의[俗]의 이중구조 사이에 ‘세속주의 지향(志向)’을 설정하였다. 지역과 시대에 따라서는 성속의 경계에 머무는 불교민속이 다수 발견되기 때문이다.\n극락왕생은 불교의 대중화와 더불어 민중 사이에 가장 널리 퍼진 불교 신앙이다. 대중화는 세속화를 수반하기에 극락왕생 신앙은 한국불교민속의 세속주의를 가늠할 수 있는 시금석이기도 하다. 그런데 경전에서 붓다는 망자의 왕생을 철저히 1인 실존주의로 설법하고 있음에도 불구하고 현실 세계에서는 망자의 길을 누군가와 함께 떠나거나 동반왕생을 소망하는 모순이 상존한다. 불교와 민속이 상호 모순을 공유하며 불교민속을 형성한다는 뜻이다.\n불교민속학은 이와 같은 모순의 정체가 무엇인가를 규명하기 위한 가장 합리적인 학문 분야이다. 구체적으로는 신라시대의 원왕생가와 제망매가, 그리고 조선시대의 회심곡을 예로 들었다. 불교민속의 전승은 불교 역사와 불가분이므로 한국불교민속학에서 빼놓을 수 없는 삼국유사의 향가에 주목하였고 또 한국불교민속의 과거와 현재를 잇는 회심곡을 분석하였다.\n이상의 자료가 전하는 극락왕생을 경전의 가르침과 대조한 결과 불교의 본질은 유지하되 세속주의 지향이 동시에 드러났다는 이해에 도달하였다. 즉, 망자의 실존주의와 세속주의 지향이 병존하는 전승구조이므로 불교의 본질에서 일탈한 세속주의나 붓다의 가르침에서 흔들림이 없는 실존주의와는 구별되었다. 말하자면 성속의 경계 영역에 머문 상태이다.\n요컨대, 극락왕생이 아닌 여타 불교민속에서도 이와 같은 전승구조가 발견되는지의 여부는 이론의 완성도를 위해 앞으로도 논증해야 하고 또 다져나가야 한다. 불교민속의 여러 작은 갈래에서 각각의 이론 논의가 활발히 수행되어야 함은 물론이다.",
+      "keywords": "rebirth in the Amitabha Pure Land, existentialism, secularism, intentionality, Buddhist folkloristics, 극락왕생, 실존주의, 세속주의, 지향성, 불교민속학"
+    },
+    {
+      "title": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "author": "김미혜;신규리",
+      "journal": "한국융합과학회지",
+      "year": 2022,
+      "citations": 8,
+      "article_id": "ART002847829",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "연구목적 본 연구의 목적은 현대사회의 실존적 공허와 여가의 관계를 비판적으로 탐색하고, 실존적 공허에 대처하기 위한 여가참여의 방향을 실존주의 철학을 기반으로 제시하고자 하였다. 연구방법 이를 위해 실존주의의 핵심적인 네 가지 개념(사랑, 고독, 죽음, 자기초월)을 기반으로 실존적 공허에 대처하는 여가참여의 방향성을 제시하였다. 결과 첫째, 여가활동은 깊고 진정한 관계를 발전시키는데 기여해야 한다. 이는 사랑의 표현이다. 둘째, 여가에서 고독은 타인들에게서 벗어나 자기치유와 자기성찰의 시간이어야 한다. 셋째, 레저활동(암벽등반, 스카이다이빙)은 여가참여자에게 죽음을 상기하고, 이를 통해 현재를 어떻게 살지 결정하도록 이끌어야 한다. 넷째, 예술적 여가활동(그림, 글 등)은 일과 일상의 억압으로부터 탈출하는 통로이어야 한다. 결론 이러한 결과는 주체적 존재 상태로서의 여가를 강조한 피에퍼(Pieper)의 존재론적 여가개념에 대한 이해를 확장한다. 또한, 실존적 공허에 대처하기 위해서는 현실에서 벗어나고자 여가활동에 전력투구할 것이 아니라, 자기표현과 자기성찰을 위한 수단이어야 함을 제안한다.",
+      "keywords": "여가, 실존적 공허, 실존주의, 선택의 자유, 책임, Leisure, Existential Vacuum, Existentialism, Freedom Of Choice, Responsibility"
+    },
+    {
+      "title": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "author": "유선비;구길영",
+      "journal": "동유럽발칸연구",
+      "year": 2026,
+      "citations": 0,
+      "article_id": "ART003337962",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "흐라발의 『너무 시끄러운 고독』은 단순한 노동자의 삶을 묘사하는 소설을 넘어, 인간 존재와 사유의 본질을 탐구하는 철학적 텍스트이다. 우선, 라블레적 의미에서의 ‘독서 체화’는 작품의 주인공 한탸의 존재 방식을 이해하는 핵심 열쇠이며, 카니발적인 인식의 방식이다. 한탸는 폐지를 압축하는 일을 하지만, 동시에 폐기되는 책들을 끊임없이 읽고 사유하는 인물이다. 그러나 그의 독서는 읽기와 존재, 신체와 영혼의 경계를 허무는 인식의 장을 형성한다.\n노자의 “하늘은 인간적이지 않다”라는 명제는 작품의 세계관을 관통하는 또 하나의 근본적 전제를 제공한다. 이 명제는 자연과 세계가 인간의 도덕적 기대나 감정에 응답하지 않는 비인간적 질서를 지니고 있음을 의미한다. 하지만 다른 한편으로는 개별적인 존재를 대상으로 억지로 무엇을 강요하지 않음으로써 존재의 자유를 존중해 준다는 측면이 있다고도 볼 수 있다. 이런 측면에서 이 작품은 노자의 사상과 실존주의적 주체성이 교차하는 독특한 사유의 지평을 형성한다.\n다음으로, 주인공이 ‘삼십오 년 동안 폐지 일을 한다’라고 하는 문장처럼 작품 전반을 지배하는 반복과 순환의 구조는 실존주의적 부조리의 문제를 드러낸다. 그러나 그는 책 속의 사상과 문장을 통해 자기 내면을 끊임없이 재구성하며, 반복되는 노동 속에서도 사유를 지속한다. 이는 세계가 부여하는 의미가 부재한 상황에서 인간이 스스로 의미를 창출하는 실존주의적 태도를 보여준다.\n마지막으로 결말에 대한 변주 부분은 작가의 철학적 사유를 통합하고 결론 내린 부분이라고 본다. 작가를 자살로 끝냄으로써 어쩌면 주인공의 능동적인 자기 결정의 행위로 해석할 수 있는 여지를 남겼겠지만, 결론적으로는 흐라발이 최종적으로 작품의 결말을 주인공이 꿈에서 깨어나는 것으로 바꾼 것은 작가가 그리려고 했던 순환과 반복이라는 실존주의적 사유를 결정하는 완성형을 만든 것이라고 본다.\n『너무 시끄러운 고독』은 독서를 통한 지식의 체화, 반복 속에서 드러나는 부조리와 실존적 의미 창출, 그리고 비인간적 세계에 대한 인식을 결합함으로써 인간 존재의 근본 조건을 탐구한다. 보후밀 흐라발은 파괴와 소멸이 지배하는 세계 속에서도 사유를 지속하는 인간의 모습을 묘사하는 동시에, ‘근원과 미래’ 사이의 ‘회귀와 전진’이라는 키워드를 통해 무의미 속에서도 의미를 창출하는 인간 존재를 섬세하게 형상화한다.",
+      "keywords": "Hrabal, F. Rabelais, Carnivalesque, Laozi, Existentialism, Absurdity, Embodiment, Destruction, Circulation, Origin and Future, Return and Advance, 흐라발, 라블레, 카니발적, 노자, 실존주의, 부조리, 체화, 파괴, 순환, 회귀와 전진"
+    },
+    {
+      "title": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "author": "장지애",
+      "journal": "한국영상학회논문집",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003061039",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 한국 영화사상 가장 도전적이고 창의적인 감독으로 평가받는 배용균의 작품에 관한 연구다. 비내러티브성이 강조된 배용균의 두 작품 <달마가 동쪽으로 간 까닭은?>과 <검으나 땅에 희나 백성>에서 영화 이미지들은 인물의 행동과 대사에 크게 기대지 않은 채 스크린에 부유하는 신비롭고 경이로운 어떤 것처럼 보인다. 배용균의 작품세계가 구성하는 모호한 시각 이미지와 정교한 청각 이미지 그리고 선문답처럼 던져지는 대사의 함축성 등은 무매개적으로 접합되며 새로운 의미를 생성한다. 이 이미지들을 단순히 명상적으로 깊이 있고 뛰어난 시적 아름다움을 제시한다는 관점으로만 논하기에는 부족한 지점이 있어 보인다. 명확한 의미를 파악하기 어려운 선문답의 세계와 같이, 배용균의 영화 이미지들은 그것이 보여주는 인물과 자연에 명확한 형상을 부여하기보단 질료를 드러내는 방식으로 다가가기에 이를 본 연구자는 ‘무(無)의 역량’으로서 이미지라는 관점에서 분석하고자 한다. 미완이자 불확실성이라는 예외적 성격을 띠는 배용균의 영화 이미지는 내러티브 측면에서 벗어나 영화라는 매체와 그것이 보여주는 불확정적인 이미지를 통해 영화를 보는 나 자신에 대한 성찰을 요구한다. 본 연구는 본래적 실존을 중시한 실존주의자들이 주창한 ‘무(無)’ 개념을 전유해 배용균의 작품을 더욱 분명히 이해하는 것을 목표로 한다. 실존주의자들에게 있어 ‘무’란, 비(非)존재 혹은 공허한 것으로 파악되는 것을 넘어서서 존재를 위한 불안 개념으로 자주 설명된다. 본래적 실존이라는 것은 ‘무’를 통한 불안과 자유에 의해 주체성을 확립해 나가는 동시에 자기 자신을 자각하는 데, 바로 이 지점이 배용균의 영화 이미지와 공명하는 점이라 할 수 있다. 따라서 본 연구는 배용균의 두 작품에서 공통적으로 감지되는 탈중심적 시간으로서의 몽타주, 불안 영역으로서의 외화면이 ‘무의 역량’으로 작동해 영화를 사유하는 이미지로 확장하는 사태를 깊이 있게 탐구하는 것을 목표로 한다.",
+      "keywords": "배용균, 무(無), 실존주의, 외화면, 탈중심, Bae Yongkyun, Nothingness, Existentialism, Off-screen, Decentralization"
+    },
+    {
+      "title": "「사드를 화형에 처해야 하는가?」 - 사드적 주체를 위한 보부아르의 항변",
+      "author": "강초롱",
+      "journal": "불어불문학연구",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART002996397",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 「사드를 화형에 처해야 하는가」에서 보부아르가 사드적 주체가 상상의 세계 속에서 행하는 폭력적 에로티즘이 지닌 윤리적 의미를 실존주의적 윤리의 관점에 입각해서 어떻게 조명해 내고 있는지를 살펴보는 것을 목적으로 한다. 우리는 특히 1940년대 말과 1950년대 중반 사이에 현대 사상의 새로운 계보를 여는 일종의 개념적 도구로 사드적 주체를 활용하고자 하는 흐름을 보부아르가 실존주의적 윤리의 관점에서 받아안아 사드에게 접근하고 있다는 사실을 제대로 짚어 낸 연구가 없다는 점에 주목하여 본 연구를 진행하고자 한다. 이를 위해 우선 우리는 1940년대 말과 1950년대 중반 사이에 반헤겔적 체제에 입각한 부정성 개념을 활용하여 인간에 대한 이해를 근본적으로 쇄신하려는 목적을 공유했던 사상가들이 새로운 현대 사상의 계보를 여는 출발점이자 지표로서 사드라는 이름을 어떻게 새롭게 수용해 나갔는지를 살펴보고자 한다. 이어서 우리는 이러한 흐름의 연장선상에서 보부아르가 실존주의적 윤리의 맥락 속에서 사드가 문학을 통해 재현한 폭력적 에로티즘의 세계를 윤리적 함의를 내포하고 있는 세계로 어떻게 재해석해 내고 있는지를 살펴볼 것이다.",
+      "keywords": "Simone de Beauvoir, “Faut-il brûler Sade?”, la morale existentialiste, le sujet sadien, la négativité, 시몬 드 보부아르, 「사드를 화형에 처해야 하는가?」, 실존주의적 윤리, 사드적 주체, 부정성"
+    },
+    {
+      "title": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "author": "김희원;김옥성",
+      "journal": "한국근대문학연구",
+      "year": 2022,
+      "citations": 3,
+      "article_id": "ART002894920",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "70년이 넘는 긴 시력을 지닌 김남조의 시 세계는 ‘기독교적 상상력’으로 대표되는 ‘종교적 상상력’과 ‘사랑’이라는 두 축을 중심으로 논의가 전개되어 왔다. 하지만 초기, 중기, 후기로 시세계를 개괄적으로 구분하면서각 시기에 나타나는 세밀한 변화 양상이 간과되어 왔다. 본고는 그의 초기 시에 나타나는 시적 자아의 실존의식의 변모 과정을 살펴본다. 이를통해 김남조 시세계의 근간을 파악하려는 목적을 갖는다. 특히 그가 당시반공 이데올로기에서 자유로울 수 있었던 무명시인이라는 점에서 초기시는 중요한 위치를 차지한다. 특히 김남조의 초기시에 나타나는 자아의 실존의지는 1950년대 한국 문단에서 유행하던 실존주의에 선행하는 하이데거의 실존주의에 가깝다. 이러한 인식은 결국 전쟁의 상흔을 넘어 김남조시세계의 전반을 관통하는 주제로서 영향을 미친다.\n그의 초기시에서 시적 자아의 정서는 유의미하게 변모한다. 이는 시적자아가 실존을 찾아가는 과정으로 볼 수 있으며 궁극적으로 완성 상태인‘성숙’과 ‘이타정신’은 결코 평화로운 과정으로 완성되지 않는다.   목숨   에서는 전쟁을 통해 목도한 죽음이 야기한 정서로서의 ‘불안’이 나타난다.\n특히 목숨 에서는 인간 생명의 유한성에 의해 야기된 ‘불안’이 철저한생존의 의지로서 나타난다. 이러한 불안의 정서는 어둠 에서 ‘담대한 분노’를 말하는 시적 자아에 의해 ‘분노’로 이어지는데 이는 누스바움이 말한 ‘이행분노’의 개념으로 설명 가능하다. 즉, ‘분노’의 정서는 긍정적인방향으로 나아가게 하는 힘으로 기능하게 되는데 이 지점이 김남조의 이후 시들이 이타 정신을 발현하게 하는 기저가 된다고 할 수 있다. 한편이러한 ‘분노’의 정서는 시적 자아 자신에게도 향하게 되는데 사야 에서시적 자아는 소극적 태도를 드러내며 절망감을 드러낸다. 이러한 자아의인식이 변화되기 위해서는 인고의 시간이 필요하다. 이러한 인고의 정신은 ‘고독’으로 형상화된다. 두 번째 시집 나아드의    향유  에 이르러서는 성찰과 인내를 전제로 하는 ‘고독’의 시간이 나타난다. 고독이라는 정서의 발현은 죽음의식에서비롯된 불안을 극복하기 위한 적극적 행위이다. 또한 자신을 성찰하게 한다는 점에서 참회의 태도로 이어지게 된다. 야스퍼스에 따르면 고독은‘한계 상황’을 맞닥뜨린 인간이 좌절을 하면서도 진리로 나아가려는 의지를 지속할 때 생겨난다. 나아가 이 ‘고독’을 통해 본래적 실체에 도달할수 있으며 진정한 소통을 가능하게 할 수 있다.   나아드 향유  에서의 시적 자아는 낙엽은 쌓여라 , 축원 을 통해 ‘길의 표지’를 자처하는 존재로 거듭난다.\n불안과 분노, 고독과 참회의 시간을 거친 시적 자아는   나무와 바람   에 이르러서는 감정의 격정은 사라지고 절제된 감정으로 성숙을 노래한다. 해마다 이맘때쯤 에서는 1950년대 시편들에서 지속적으로 환기되던가을의 이미지가 ‘성숙’의 의미와 연결되고 있다. 나아가 이러한 내면의성숙은 무제1 에서 타인의 슬픔, 즉 전쟁의 상흔을 끌어안는 시적 자아를 가능하게 한다. 이것은   나아드의 향유  에서 보이던 이타 정신의 심층적 확장이라고 볼 수 있다. 본고는 이러한 일련의 과정을 통해 김남조가‘사랑의 시인’이 되기까지의 열쇠가 되는 초기시의 변모 과정을 살펴보았다는 점에서 의의가 있다.",
+      "keywords": "Kim Nam-jo, existentialism, anger, solitude, repentance, altruism, 김남조, 실존주의, 분노, 고독, 참회, 이타 정신"
+    },
+    {
+      "title": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "author": "편무영",
+      "journal": "비교민속학",
+      "year": 2025,
+      "citations": 1,
+      "article_id": "ART003202309",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 연화화생에서 일련탁생으로의 변화 과정을 분석하여 한중일의 극락왕생신앙을 비교하는 것이 목적이다. 불교민속의 비교를 의미하므로 인도의 초기경전과 티벳경전, 그리고 한역경전의 비교를 통해 한중일의 불교민속이 근본적으로 어떠한 좌표에서 출발하였는지 검증하였다. 그 결과 한역경전의 영향을 받은 한중일의 연화화생과 일련탁생에는 불교의 가르침과는 다른 계통의 세속주의적 성향이 나타났으며 이는 곧 극락왕생신앙에 반영되었다.\n망자의 실존주의라는 불교의 가르침과 달리 불교민속에서는 가족이나 도반들이 함께 왕생하는 세속주의가 확산되었다. 이를 두고 대승적이라거나 불교의 포용력으로 해석하는 견해도 물론 있으나 본질에서는 불교의 가르침[聖言]이 희석되는 결과를 초래하였다. 급기야는 동반자살을 통해 함께 죽고 함께 왕생하며 함께 재생하는 극락왕생신앙이 일본에 출현하였으니 이러한 사례는 외관상 불교민속이되 삼장[三藏]에서는 이단적 속설이다.\n그러므로 불교의 가르침에 입각한 망자의 실존주의와 달리 동반 왕생을 전제한 동반 자살을 세속주의로 구별하였다. 요컨대 망자의 실존주의와 세속주의의 두 갈래가 변증법적으로 전승되는 경우의 논리 체계는 여타 불교민속에서도 유효한 관점이 될 수 있다. 이는 성속의 갈등구조에 대한 다른 측면에서의 개념화이므로 불교민속의 구조적 문제에 접근하기 위한 또 하나의 이론적 윤곽이다. 이를 바탕으로 비교불교민속학의 방법론과 연구 영역이 점차 분명해질 것으로 판단된다.",
+      "keywords": "비교불교민속론, 성과 속, 실존주의, 세속주의, 극락왕생, 연화화생, 일련탁생, comparative buddhist folklore, sacred and secular, existentialism, secularism, reincarnation in Buddhist Paradise, rebirth in a lotus blossom, sharing fate within the same lotus flower"
+    },
+    {
+      "title": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "author": "김태영",
+      "journal": "한국지방행정학보",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003164936",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 1970년대 대한민국 농촌근대화를 견인했다고 평가받는 새마을 운동의 철학적 배경을 탐색하는 것을 주목적으로 삼는다. 새마을 운동에 영향을 준 철학적 논의가 당시 지역개발 거버넌스에 반영되는 방식이 초기와 중기 그리고 말기에 다르게 적용되었는데, 구체적 내용을 분석하여 함의를 도출하고자 한다. 이를 바탕으로 향후 지역개발 사업이 추진될 경우, 정부의 역할과 시장의 역할에 대한 교훈도 도출했다. 이를 위하여 ‘자조’라는 새마을 정신의 대표 개념과 관련된 철학적 계보를 탐색한 후, ‘자조’ 정신이 새마을 운동 거버넌스에 어떻게 반영되었는지를 살펴보면서 성공과 실패의 사유를 도출하고자 했다. ‘자조’ 개념을 서구의 계몽철학에서 확인했으며, 그 이후 전개되는 낭만주의 철학과 이어지는 실존주의 철학에 대한 이해를 통하여 새마을 운동에 적용된 ‘자조’ 개념이 도출되었음을 추적했다. 새마을 운동의 정신이 도출되는 과정에 류달영, 류태영 두 학자가 역할을 했다는 점도 확인했다. 그들은 덴마크의 종교적 실존주의자 니콜라스 그룬투비에 의하여 영향을 받았고, 그룬투비는 계몽철학과 실존주의 철학에 영향을 받아 덴마크의 농촌개발 운동을 주도했다. ‘자조’ 개념이 지역개발 거버넌스 체계에 반영되는 과정에서 거버넌스의 핵심 요소로서의 견인 장치는 종교와 국가였다. 국가재건국민운동 시기에는 종교가 그 역할을 했고, 새마을 운동 시기에는 국가가 그 역할을 담당했다. 박정희 사후에는 시장이 그 역할을 담당한 것으로 평가되고 있다. 1970년대 새마을 운동의 성공 요인은 ‘자조’에 투영된 실존주의 철학과 당시 지역개발 거버넌스를 작동시킨 국가의 역할이었다. 향후 ‘자조’는 여전히 중요하지만 이제 시장의 역할을 통하여 지역개발 거버넌스를 작동시킬 시점이다.",
+      "keywords": "새마을 운동, 자조, 실존주의, 지역개발 거버넌스, Saemaul undong, self-help, existentialism, regional development governance"
+    },
+    {
+      "title": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "author": "최희진",
+      "journal": "국어국문학",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART003005068",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 전후 한국 시단에서 자리를 잡아간 시인들이 철학과 존재의 언어를 전면화하게 된 경위를, 세대론적 관점과 내적 요청이라는 두 가지 관점에서 파악해보는 것을 목표로 한다. 존재 탐구가 시와 밀접한 관련을 맺어야 하는 것으로 본격적으로 간주되게 된 근간에는 전후 세대의 세대적 전략이 자리하고 있다. 전후 세대는 성실성과 예민성, 부정과 사유 등의 용어로 구세대를 타자화함으로써 자신들의 세대적 위상을 정립해나간다. 이 과정에서 전후 세대는 실존주의 철학과 실존주의적 사유의 방식을 적극적으로 활용한다. 실존의 감각을 근거로 생과 세계에 불성실한 구세대를 비판할 수 있었던 점, 대학 교육의 세례 아래 엄밀한 철학과 이론의 도입으로 세대적 정당성을 확보할 수 있었던 점, 그리고 실존주의 사상 자체가 근본적으로 타자화의 기제와 친연적이었던 점이 맞물려, 전후 세대는 실존주의적 사유의 방식과 어법을 세대론적 맥락 아래 적극 원용하게 된다.\n이와 같은 전후 문단의 맥락 아래에서 배태된 두 시인으로 본 연구는 허만하와 이승훈을 지목한다. 실존의 감각과 형이상학적 사유가 부재함을 근거로 들어 두 시인은 기존 한국 시의 전통을 비판한다. 이들은 실존의 감각과 부정적 정서를 전면에 내세우고, 구세대의 안일성을 비판하며, 사유로서의 형이상학을 통해 시사적 입지를 점유하고자 한다. 이들의 전략은 전후 세대가 문단적 헤게모니를 장악하기 위해 수립했던 전략과 직접적으로 닮아있다. 그러나 동시에, 이들이 시에 형이상학과 철학의 지평을 도입하게 된 경위는 세대론적만으로 설명되지 않는다. 이들에게 있어 문학과 철학은 세대론적 위상 정립이라는 목적 아래 활용되는 도구였던 동시에 존재적 절망을 헤쳐나가는 방편이기도 했기 때문이다. 시인이자 인간된 존재로서 존재의 현기를 돌파해야만 했던 두 시인에게 형이상학적 탐구와 철학 이론의 습득, 시론의 수립은, 세대론적 기획을 넘어 시인 그 자신의 존재를 버텨내게 하는 원동력으로 기능한다. 시가 존재적이어야 한다는 이들의 진술은 그 자신의 입지를 시사의 흐름 속에서 공고히 위치시키고자 했던 시도였던 동시에, 시인됨을 통해 그 자신의 존재를 구원하고자 했던 방편이기도 했다.",
+      "keywords": "허만하, 이승훈, 전후 세대, 세대론, 실존주의, 형이상학적 시(론), 철학, 존재론, Heo Man-ha, Lee Seung-hun, post-war generation, discourse of generation, existentialism, metaphysical poetry/poetics, philosophy, ontology"
+    },
+    {
+      "title": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "author": "이정원",
+      "journal": "한국언어문화",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003235579",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 경상북도에 거주하는 다양한 연령 및 출신국의 다문화 부부를 대상으로, 실존주의 철학상담의 심리사회적 효과와 적용 가능성을 실증적으로 분석하였다. 연구 결과, 실존주의 철학상담 프로그램에 참여한 부부들은 개입 전후 부부갈등이 유의미하게 감소하였으며, 문화 이해도, 인지적 유연성, 관점 수용, 부부 친밀감, 결혼 만족도, 정신건강 등 다양한 심리사회적 변인이 긍정적으로 향상된 것으로 나타났다. 특히 관점 수용과 문화 이해도의 매개효과가 확인되어, 단순한 갈등 완화뿐만 아니라 상대방 문화를 이해하고 존중하는 인식 변화가 결혼 만족도 향상에 중요한 역할을 함을 알 수 있었다. 연령, 성별, 출신국에 관계없이 상담 효과가 일관되게 나타난 점 역시 확인되었다. 이러한 결과는 실존주의 철학상담이 다문화 부부의 문화적 갈등 해소와 관계의 질적 개선, 심리적 건강 증진에 효과적으로 기여할 수 있음을 시사하며, 향후 다문화 상담 및 가족정책 현장에 실존주의적 접근을 적용할 수 있는 가능성을 제시하였다.",
+      "keywords": "Multicultural couple, philosophical counseling, existentialism, cultural conflict, marital satisfaction, cultural understanding, cognitive flexibility, 다문화 부부, 철학상담, 실존주의, 문화 갈등, 결혼 만족도, 문화이해, 심리적 유연성"
+    },
+    {
+      "title": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "author": "안유진",
+      "journal": "미술이론과 현장",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002915416",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 미술가 정규(鄭圭, 1923-1971)의 미술비평에 나타난 시대의식을 통해 그가 구상한 전후 새로운 한국 현대미술을 분석하여 규명하는 데 목적을 둔다. 창작 활동 이외에도 비평, 교육, 행정 등 미술의 다방면에서 활약한 그의 예술관 중심에는 전전(戰前)에 대한 종합적 반성을토대로 전후(戰後)라는 새 시대에 적합한 한국 현대미술의 모색이 있었다. 전후 한국미술계는 거대한 흐름을 형성한 한국 앵포르멜을 중심으로 실존주의의 불안과 부조리를 내적으로 탐구했다.\n반면 정규는 실존주의의 휴머니즘에 주목하여 극복의 징후로 이해한 뒤 동시대 한국의 현실에 반응한 미술을 모색하고자 했다. 이러한 지점은 그가 회화를 중심으로 재편되어가던 한국미술계에서낮은 장르로 취급되던 판화, 도예 등 독자적인 활동을 펼치게 추동했다. 본 연구는 초기 한국 현대미술이 형성되어 가는 과정을 다각도로 이해하기 위하여 전후 시기 새로운 차원의 미술을 시도한정규를 주목하면서 시작됐다. 이에 전후 시기 주요 논객으로 활동했던 그의 저술을 분석하여 그가궁극적으로 정립하고자 했던 한국 현대미술을 체계화하고자 했다. 이를 통해 한국 현대미술의 형성기인 전후 시기 미술에 관해 보다 입체적으로 해석할 가능성을 제안할 수 있을 것으로 기대한다.",
+      "keywords": "Chung Kyu, Korean Modern Art, Korean War, Postwar, Existentialism, Humanism, 정규(鄭圭), 한국현대미술, 한국전쟁, 전후(戰後), 전후미술(戰後美術), 실존주의, 휴머니즘"
+    },
+    {
+      "title": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "author": "趙洪偉",
+      "journal": "중국인문과학",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART003027920",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "샤오홍은 20세기 유명한 중국 현대 여성 작가 중 한 명이다. 그녀는 불과 9년의 단 기간 내에 11편의 작품집을 완성했다. 그녀의 이 창작물들은 대륙 시기와 홍콩 시기의 두 단계로 나뉠 수 있다. 홍콩시기는 샤오홍 창작의 성숙기이자 절정기라 할 수 있다. 최근은 이른바 동북 문학의 르네상스라고 불리울 만큼 샤오홍에 관한 연구는 점차 증가 추세에 있다. 다만 실존주의의 관점에서 홍콩시기의 작품들을 전반적으로 점검한 적은 없다. 이러한 공백을 메우기 위해 본 연구자는 두 편의 장편 소설인 《후란강 이야기》와《마보러》 및 홍콩시기에 쓰여진 두 편의 단편 소설인《작은 마을의 삼월>과《붉은 유리 이야기》를 연구 대상으로 선택했다. 그리고 논의를 위해 한 방법론으로서 중국 현대 문학 저명 비평가 중 한 명인 량쭝다이와 미국 연구자 폴 틸리히의 《존재의 용기》이론을 바탕으로 상기 네 작품에 관해 전체적으로 살펴보고자 했다.",
+      "keywords": "Xiao Hong, Existentialism, Novels in Hong Kong Period, the inner and outer line principles, The Courage to be, 샤오홍, 실존주의, 홍콩시기 소설, 내외선원리, 존재의 용기"
+    },
+    {
+      "title": "맨프레드 : 니체적 관점에서 본 선구적 실존주의자",
+      "author": "박경희",
+      "journal": "현대영어영문학",
+      "year": 2022,
+      "citations": 0,
+      "article_id": "ART002902045",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "The purpose of this paper is to illuminate Byron's existential tendencies by examining Manfred's Byron hero from Nietzsche's point of view. Manfred goes through his own psychological and existential pain, which can be considered a romantic quest. The main cause of his suffering appears to have come from guilt over the death of his beloved Astarte. As he peers into his existence in extreme pain, he recognizes the finiteness of human beings, realizing that not only supernatural beings such as spirits, but also existing values ​​and morals are of no help to him. As a result, he realizes the emptiness of his life and jumps off the cliff, but at that moment he realizes his own inner strength. He believes that the source of his strength lies in his own mind and what matters in his life is his actions. He wants to face a miserable life, rejects all authority and help, and he completely returns to his inner self-will. Even when inevitable death approaches, he declares that death is under his own will. His death reveals his mastery over emptiness, and his will to achieve self-oblivion voluntarily. This is consistent with Nietzsche's view that one should create oneself with the will of power without being bound by objective standards and values ​​of the past, showing that he is a precursor of existentialism.",
+      "keywords": "Manfred, sense of guilty, self-will, self-oblivion, precursor to existentialism"
+    },
+    {
+      "title": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "author": "안태하",
+      "journal": "한국조직신학논총",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003119820",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper delves into the ontological and ethical dimensions of anxiety as explored in Paul Tillich’s The Courage to Be. It investigates the role of anxiety in Tillich’s theological framework, particularly in relation to one’s encounter with Being(Sein) and other beings(Seiende). Using a phenomenological appropriation of Mikhail Bakhtin’s theory of polyphony as the method of analysis, the paper begins by examining the teleological aspects of anxiety in Tillich’s thought. The study then explores how anxiety, as a fundamental human condition, is articulated primarily in ontological terms and much less in ethical terms. It is made explicit in disclosing Martin Heidegger’s influence on Tillich. The paper aims to bridge the ontological and ethical implications of anxiety, suggesting that Tillich’s emphasis on the notion of “courage” is central to compre- hending the affirmation of existence despite the presence of nonbeing, as manifested in anxiety. Courage, as an ethical concept, not only affirms one’s existence but also potentially affirms other’s existence. This paper argues that anxiety reveals the finitude of human existence and highlights the necessity for external affirmation. By facing anxiety and affirming one’s being “in spite of” nonbeing, there emerges a capacity for solidarity with other finite beings, rendering an ethical response to shared suffering and anxiety possible. This exploration aims to clarify how existential anxiety, traditionally discussed within continental philosophy’s ontological frameworks, can also be studied with ethical considerations of vulnerability and responsibility.",
+      "keywords": "불안, 폴 틸리히, 실존주의, 취약성, 책임, anxiety, Paul Tillich, existentialism, vulnerability, responsibility"
+    },
+    {
+      "title": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "author": "SOMERSBRIANDAVID;송영숙",
+      "journal": "禪學(선학)",
+      "year": 2017,
+      "citations": 0,
+      "article_id": "ART002220694",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This article is a comparison between the Ten Ox Herding Pictures, a series of paintings and poetry describing the progress toward enlightenment in Seon (Ch’an, Zen) Buddhism, and the novel Nausea by French philosopher, Jean-Paul Sartre. This comparison is done in order to give a fuller understanding to each narrative, particularly emphasizing the ways in which each relate to, and handle existential suffering. It is the aim of this essay to show that both narratives are accounts of a journey from delusion toward awakening by means of an introspective, philosophic investigation.\nBy comparing the Ten Ox Herding Pictures with Nausea each can be seen from a new perspective. When interpreting the Ten Ox Herding Pictures from Sartre’s Existentialist point of view, one is given an example of how the ox-herder’s progression could look in the modern world. By interpreting Nausea through the lens of the Ten Ox Herding Pictures, one is provided with a model to guide them through the complexity of Sartre’s novel. Furthermore, we emphasize the shift from conceptual to non-conceptual understanding that is common to both narratives.",
+      "keywords": "십우도(十牛圖), 장 폴 사르트르, 선불교, 실존주의, 실존의 고통, Ox herding Pictures, Jean-Paul Sartre, Seon Buddhism, Existentialism, Existential suffering."
+    },
+    {
+      "title": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "author": "이수진",
+      "journal": "인문사회과학연구",
+      "year": 2026,
+      "citations": 0,
+      "article_id": "ART003306843",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주\n\n이 수 진\n\n연구 목적: 이 논문의 연구 목적은 마르틴 하이데거의 『존재와 시간』에 제시된 실존 분석, 특히 ‘피투성’, ‘기투’, ‘퇴락’, ‘세인’의 개념을 분석 틀로 적용하여 솔 벨로우의 『허공에 매달린 사나이』 주인공 조셉의 ‘매달린’ 상태를 분석하는 것이다연구 방법: 이를 위해 본 논문은 하이데거의 실존 구조의 세 가지 핵심 질문을 다룬다.\n연구 내용: 첫째, 조셉의 ‘매달림’은 하이데거적 관점에서 어떻게 피투 된 시간성의 한 형태로 구성되는가. 둘째, 기투를 봉쇄하는 메커니즘들은 텍스트 안에서 어떤 방식으로 작동하는가. 셋째, 결말에서 제시되는 조셉의 자원입대는 실존적 결단을 의미하는가, 아니면 세인의 질서로의 회귀를 뜻하는가를 연구한다.\n결론 및 제언: 이 논문의 결론은 조셉의 자원 입대는 실존적 승리의 서사가 아니라 기투가 차단된 현존재가 세인 속으로 자신을 맡김으로써 매달림의 선택을 끝내는 실존의 방식을 표현한 것이다. 이러한 분석을 통해 본 논문은 하이데거의 실존 개념들이 문학 텍스트 안에서 반드시 각성으로 귀결되는 것은 아니며, 현대의 제도적 조건 속에서는 오히려 마비와 회피적 도피의 형태로 지속될 수 있음을 밝혔다. 이 연구를 통해 실존적 문제를 둘러싼 보다 확장된 담론의 형성을 기대한다.\n\n\n핵심어: 솔 벨로우, 『허공에 매달린 사나이』, 실존주의, 피투성, 기투",
+      "keywords": "핵심어: 솔 벨로우, 『허공에 매달린 사나이』, 실존주의, 피투성, 기투, Key Words: Saul Bellow, Dangling Man, Existentialism, Thrownness, Projection"
+    },
+    {
+      "title": "《햄릿 걷는 인간》의 창작 과정에 나타난 연출적 특징",
+      "author": "나진환",
+      "journal": "연극교육연구",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003157504",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 작품은 셰익스피어의 <햄릿>을 각색한 대본 <햄릿, 걷는 인간>을 창작하는 과정에서 있어서 연출가로서, 본 연구자의 문제의식을 경험론적 지식(Empirical Knowledge)을 통해 연구한 논문이다. 그러므로 이 논문은 셰익스피어의 <햄릿>을 한 연출가가 어떻게 해석하여 무대화했는지를 보여주는 연구이다. 이 논문은 실존주의 시각에서 “걷는 인간”이라는 수식어가 붙은 <햄릿, 걷는 인간>에 대한 희곡의 각색과 이것의 무대적 실천에 대한 본 연구자의 내적 창작과정에 대한 것이다.\n‘실존주의적 시각’이라는 것은 키르케고르, 하이데거, 괴테, 자코메티, 사르트르, 등과 사상가를 본 연구자의 시각에서 이해하고 종합한 이해에 기반한다. 즉, 인간 존재라 본질적으로 유한한 존재로 죽음이라는 것으로 귀결될 수밖에 없는 절망 속에서 그 절망을 철저하게 인지하고 자신의 존재를 스스로 규정해 가는 행동하는 사유의 존재라는 것으로 요약된다.\n본 연구자의 이러한 실존주의 시각을 햄릿을 우유부단한 인간인가?으로 규정하지 않고, 걷는 인간 즉, 행동하는 사유의 존재로 규정짓는다. 이는 연극학에서 말하는, 희곡이라는 문학적 의미의 제국에서 벗어나 무대적 상상력을 위한 기호체계로 인식하면서 본 연구자의 관점과 이해를 통해 적극적으로 <햄릿>이라는 희곡을 각색했다는 의미이기도 하다.\n또한 이 각색 대본에는 존 밀레이의 그림, <오필리어>이나 호메로스의 <오디세이아> 같은 다양한 인문학적 접근으로 각색을 시도하여 본 연구자의 연극예술이 가지는 인문학적 성찰 시리즈가 어떻게 작품으로 창작되는가에 대한 것 또한 살펴볼 수 있는 본문이다.",
+      "keywords": "경험론적 지식, 햄릿, 햄릿 걷는 인간, 실존주의적 관점, 인문학적 사유, empirical knowledge, Hamlet, Hamlet, a Man Walking, existentialist perspective, humanistic reflection"
+    },
+    {
+      "title": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "author": "남지연",
+      "journal": "학습자중심교과교육연구",
+      "year": 2023,
+      "citations": 2,
+      "article_id": "ART002990489",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "목적 본 연구는 평생교육현장에서 미술활동이 여성노인들의 삶에 미치는 영향과 웰다잉에 끼치는 영향에 대해 실존주의적 입장에서 제시하고자 한다.\n방법 본 연구는 D시의 70세 이상의 미술활동을 하는 여성노인 7명을 대상으로 포커스그룹인터뷰(FGI)를 실시하고 Strauss와Corbin의 근거이론을 활용해 개방코딩, 축코딩, 개방코딩으로 분석하여 노년기 미술활동이 웰다잉에 미치는 영향과 과정을 밝히고자 하였다.\n결과 분석결과 66개의 개념과 25개의 하위범주, 그리고 11개의 핵심범주가 도출되었다. 이를 기반으로 여성노인 미술가들의 웰다잉 인식과정을 최종 6단계로 도출하였다. 도출된 단계는 신체한계, 심리적 좌절, 실존적 대면, 한계상황, 실존실현, 주체적 정체감형성단계로 드러났다. 분석결과 드러난 연구의 핵심현상은 평생교육원에서의 미술활동은 여성노인이 느끼는 무의미한 삶과 무가치한 존재감에서 벗어나 집중과 몰입을 통해 새로운 전문성을 확립하고 주체적 정체성형성으로 관계 확장을 가능하게 했다.\n결론 노년기 미술활동을 통한 주체적정체성 확립으로 더이상 수동적이고 나약한 의존적인 존재로서의 여성노인이 아닌 웰다잉에대한 적극적이고 주도적인 태도를 통해 남은 삶을 영위하는 존재로의 인식전환을 가능하게 하였다.",
+      "keywords": "평생교육, 노년기 미술활동, 웰다잉, 실존주의, 주체적 정체성, lifelong education, art for elderly women, well-dying, existentialism, subjective identity"
+    },
+    {
+      "title": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "author": "박지용",
+      "journal": "인권법평론",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003177366",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 인간 존엄성 개념의 역사적 발전과정을 기능적 관점에서 재조명함으로써, 현대 헌법 및 사회적 맥락에서 그 개념의 규범적 의미와 실천적 함의를 탐구하는데 이론적 기초를 제공하고자 한다. 인간 존엄성은 현대 민주적 법치국가에서 헌법의 최고원리로 인정되고 있으나, 그 구체적 내용과 규범적 기능에 대한 논의는 여전히 부족한 실정이다. 이에 본 연구는 각 시대와 사상적 맥락에서 인간 존엄성 개념이 수행한 실천적 역할과 규범적 기능을 분석함으로써, 이 개념이 단순한 추상적 선언에 머무르지 않고 다양한 역사적 맥락 속에서 구체적으로 작동해왔음을 규명한다. 인간 존엄성은 고대 그리스･로마 철학, 중세 기독교 신학, 근대 자연권 사상과 칸트 철학, 현대 실존주의와 비판이론 등을 거치며 형성된 역사적 개념이다. 즉, 인간 존엄성은 고대 그리스･로마 철학에서는 이성적 존재로서의 인간의 특별한 지위와 공적 명예를 정당화하는 개념으로, 중세 기독교 신학에서는 신의 형상으로서 인간의 고귀함을 표현하는 종교적 개념으로, 근대 자연권 사상과 칸트 철학에서는 개인의 자유와 권리의 철학적 기초로, 현대 실존주의와 비판이론에서는 기술문명과 인간소외, 전체주의에 대한 비판적 성찰의 준거점으로 각각 기능하였다. 특히 제2차 세계대전 이후 전쟁의 참상에 대한 반성적 고려와 새로운 헌법질서 수립의 필요성이 결합되어, 인간 존엄성의 불가침적 가치가 헌법적 차원에서 보장되어야 한다는 인식이 확산되었다. 특히 독일기본법은 인간 존엄성을 헌법의 최상위 가치로 명시하여, 국가의 모든 입법과 행정, 사법 활동이 이를 존중하고 보호하도록 규정하고 있다. 그러나 인간 존엄성은 특정한 시대적 상황이나 사회적 맥락에 따라 상이하게 해석될 수 있는 다의성을 지니고 있어, 통일된 법적 기준을 마련하는 데 어려움을 초래한다는 비판도 제기되고 있다. 이러한 비판을 극복하기 위해서는 인간 존엄성 개념의 구체적 내용을 현대적 맥락에서 재해석하고 체계화하는 작업이 필요하며, 실제 사례에서 적용 가능한 규범적 기준을 발전시켜야 한다. 또한 인공지능과 생명공학 등 과학기술 발전, 기후변화와 환경위기 등 현대사회의 새로운 도전들에 대한 비판적 성찰의 기준으로 기능하여야 한다.",
+      "keywords": "human dignity, functional perspective, imago dei, kantian autonomy, existentialism, critical theory, 인간 존엄성, 기능적 관점, 신의 형상, 칸트적 자율성, 실존주의, 비판이론"
+    },
+    {
+      "title": "프랑시스 그뤼버의 <욥> 연구",
+      "author": "김승환",
+      "journal": "유럽문화예술학논집",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART002942704",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 제1,2차 세계대전을 겪고, 평생을 천식이란 지병과 투병하면서도 자신만의 독특한 미술세계를 보여주었던 그뤼버를 소개하고자 한다. 그의 대표작 중 하나로 평가되는 <욥>을 통해 그가얼마나 서양미술의 전통을 당대의 정치, 사회적 상황과 연결하고자 했는지를 이해하고자 하였다.\n그뤼버의 작품 속 주인공인 욥은 전통적인 멜랑콜리의 자세인 팔을 머리에 괴고 있는 모습으로나타난다. 이렇게 ‘욥’을 표현하는 도상은 독일 르네상스의 거장 뒤러의 작품 속 욥의 자세와 관련이있다. 뒤러의 작품 속 욥이 당시 유행하던 페스트와 같은 유행병에 대한 두려움에서 그려졌듯, 그뤼버는 ‘욥’이란 주제를 독일군의 프랑스 점령 시기의 큰 고통을 경험했던 파리 시민들의 억압 상징으로서탐구하고자 했다.\n그뤼버의 작품 속 멜랑콜리한 욥은 고민하고 회의한다. 그는 보편적 윤리, 인권 등의 문제를 핵심으로 부각한다. 결국 전쟁으로 인한 혼란 이후, 모두가 징벌과 재건의 수단에 대해 궁금해하는 시기에그뤼버는 인간의 구원과 도덕적 교화에 대해 성찰했다.",
+      "keywords": "프란시스 그뤼버(Francis Gruber), 욥(Job), 멜랑콜리(Melancholy), 실존주의(Existentialism), 홀로코스트(Holocaust)"
+    },
+    {
+      "title": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "author": "오경환",
+      "journal": "교회교육·복지실천 연구",
+      "year": 2021,
+      "citations": 0,
+      "article_id": "ART003024429",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This study investigates existentialism as suggested by Søren Kierkegaard who is a leading theist and advocate of existentialism. Kierkegaard maintains truth can find through an individual’s freedom, choice, and personality because individuals can explore meaningful truth. Subjectivity as truth is the core philosophical idea of theistic existentialism. According to Kierkegaard, the concept of a subject is not abstract but concrete as an individual who exists self-consciously. The truth is that it begins with a concrete individual in a life situation. Also, subjective truth and passionate inwardness are essential means to an authentic individual mode of existence. However, in contrast to this, the Bible claims that only the Holy Spirit leads and teaches true truth and knowledge. In this study, the role, character, and application of the Holy Spirit are examined in detail, and the epistemological failure claimed by Kierkegaard is biblically criticized and considered. In addition. This study argues the essential role of the Holy Spirit in Christian education from an epistemological point of view contradicts the fundamental idea of existentialism, and this has important significance and implication in the field of Christian education in which the role of the Holy Spirit has been relatively neglected.",
+      "keywords": "실존주의, 키에르케고르, 주체성, 성령, 인식론, Existentialism, Kierkegaard, Subjectivity, Holy Spirit, Epistemology"
+    },
+    {
+      "title": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "author": "김성수",
+      "journal": "문화와융합",
+      "year": 2023,
+      "citations": 4,
+      "article_id": "ART002954139",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "알베르 카뮈는 서구를 비롯한 대부분의 국가에서 20세기 문학계의 거목 중 하나로 추앙받고 있다. 하지만 카뮈의 생전 당시 프랑스의 식민지였던 알제리에서는 알제리라는 나라에 대해 중요하게 인식하지않았던 카뮈를 인정하지 않는다. 이를 적극적으로 반영이라도 하는 듯 “이방인” 속의 주인공 뫼르소는한 알제리인을 살해하고서도 그에 대한 죄의식이나 미안함 같은 감정이 결여된 프랑스인으로 묘사되었다. 왜 카뮈는 이런 뫼르소라는 주인공을 만들어야만 했을까? 뫼르소와 카뮈에 대한 세간의 평은 부조리하지 않은가? 본고는 이에 대한 고찰이다. 필자는 문화콘텐츠적 시각에서 이방인으로서의 뫼르소가‘문제적 캐릭터’로 간주될 수 있다고 본다. 이 견지에서 무신론적 실존주의자였던 카뮈가 만들어 낸 소설 속 주인공 뫼르소의 의의와 한계점에 대해서 자세하게 고찰하고자 한다.",
+      "keywords": "problematic character, existentialism, christian world view, locality, true existence, 문제적 캐릭터, 실존주의, 기독교 세계관, 로컬리티, 참된 실존"
+    },
+    {
+      "title": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "author": "노혜진",
+      "journal": "방정환연구",
+      "year": 2022,
+      "citations": 0,
+      "article_id": "ART002886446",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 1960년대와 1970년대를 중심으로 조대현 동화에 나타난 실존의식을 고찰 한 연구이다. 한국문학은 한국전쟁 후 심리적 불안을 겪으면서도 문화를 재건해야 한다 는 시대적 과제 속에서 실존주의를 받아들이고 문학적 형상화를 이루어갔다. 당시 문학 을 공부하던 조대현은 실존주의 문학가인 알베르 카뮈의 영향을 받았다. 그리고 카뮈의 작품을 통해 실존철학에 심취하였다. 이후 조대현은 1966년 등단하여 1979년까지 60여 편이 넘는 동화를 발표하였다. 대부분 단편동화를 창작하였는데 이들 동화는 카뮈의 실 존주의 문학에 영향을 받은 실존의식이 투영되어 있다.\n이를 구체적으로 살펴보기 위해 본 연구는 조대현이 1966년 등단한 이후부터 1979년 까지 발표한 동화를 조사하였다. 그리고 이를 바탕으로 조대현 동화에 나타난 실존의식* 이 논문은 2020년 대한민국 교육부와 한국연구재단의 지원을 받아 수행된 연구임. (NRF-2020S1A5B5A17090041) ** 단국대학교, olive312@naver.com182 8호을 살펴보았다. 그 결과, 등단 후 발표한 1960년대 동화에서 실존적 사유가 ‘불안’, ‘부 조리’, ‘죽음’으로 형상화되었음을 확인할 수 있었다. 그리고 1970년대 동화에서는 점차 실존성이 심화되어 ‘고발, 저항, 연대’라는 방법으로 표현되었음을 확인하였다. 이를 통 해 본 연구는 조대현의 동화에 나타난 실존의식을 밝힐 수 있었다.",
+      "keywords": "Cho Dae-hyeon, existentialism, 1960s, 1970s, children’s literature, anxiety, absurdity, death, resistance, accusation, rebellion, solidarity, 조대현, 실존주의, 1960년대, 1970년대, 아동문학, 불안, 부조리, 죽음, 저항, 고발, 반항, 연대"
+    },
+    {
+      "title": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "author": "김양일;이신형",
+      "journal": "한국기독교신학논총",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003166735",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목 방안을 탐구한다. 많은 한국교회 성도들은 설교를 자신의 일상에 적용 하는 데 어려움을 겪고 있으며, 이러한 문제의 해결책으로 소그룹 활동이 중요한 역할을 할 수 있음을 제안한다. 대화 설교는 설교자와 회중이 설교의 주제를 상호작용적으로 탐구하는 방식으로, 설교의 메시지가 성도들의 실제 삶에 구체적으로 적용될 수 있도록 돕는다. 아울러 실존주의 상담 이론은 인간의 실존적 문제들을 다루며, 성도들이 불안, 책임, 자유와 같은 삶의 본질 적인 문제들을 신앙적 관점에서 해석하고 극복할 수 있도록 지원한다. 본 연구는 이러한 이론적 근거를 토대로 교회 현장에서 적용 가능한 실천적 모델을 제시하고자 한다.",
+      "keywords": "소그룹, 대화 설교, 실존주의, 상호작용, Small Group, Dialogical Preaching, Existentialism, Interaction"
+    },
+    {
+      "title": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "author": "이한진",
+      "journal": "도덕교육연구",
+      "year": 2022,
+      "citations": 2,
+      "article_id": "ART002850814",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "사르트르는 인간의 근원적인 불안이 자유에 기인하는 것으로 파악한다. 의식으로서의 대자(對自)는 타인의 시선에서 결코 자유로울 수 없다. 그러나 인간은 불안을 지우기 위해서 자유를 포기하고 자기기만에 빠지는 경향이 있다. 실존으로서의 인간은 스스로 자신을 만들어가는 존재자다. 사르트르는 인간 실존의 핵심으로 자유를 꼽는다. 인간존재는 고정되어 있지 않다. 끊임없이 변화하며 다수성을 내포하고 있는 자유로운 의식의 존재다. 대자는 자신을 대상화하여 바라볼 수 있다. 대자는 실체로서 존재하지 않지만 자유롭게 즉자(卽自)를 부정할 수 있다. 자유로운 인간은 자기 내면성에 대한 내적 부정을 통해서 자기 자신을 새롭게 형성할 수 있다. 자율적 선택에 따라 자기 삶을 사는 사람만이 도덕적 주체로서 자신의 존재론적 책임을 다할 수 있다. 인간의 자기기만 극복과 자유를 강조한 사르트르의 실존주의 철학은 도덕적 주체의 정립을 추구하는 도덕교육과 관련하여 이론적 뒷받침이 되어준다.",
+      "keywords": "사르트르, 도덕교육, 실존주의, 자기기만, 자유, Sartre, moral education, existentialism, self-deception, freedom"
+    },
+    {
+      "title": "이승훈 비대상 시편에 대한 실존 의식",
+      "author": "권성훈",
+      "journal": "한국언어문화",
+      "year": 2026,
+      "citations": 2,
+      "article_id": "ART003332552",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 이승훈 시편에 나타난 ‘비대상’과 ‘무의미’ 시학을 사르트르의 실존주의적 관점에서 재해석하면서 즉자적 ‘있음’의 해체를 통해 실존적 ‘없음’으로 이행을 규명하는 데 목적이 있다. 현대시문학사에서 이승훈은 근대 시학의 재현 체계를 부정하고 대상의 본질을 해체하는 비대상과 고착된 의미를 부정하는 무의미시를 지향해 왔지만, 그의 시작이 있음과 없음에 기인한 대상과 주체에 대해 견고한 본질의 질서를 부정하고, 근원적인 ‘무’의 지평을 회복하는 실존적 기투의 과정이 라는 점을 밝혔다.\n이승훈의 시학에서 ‘있음’은 주체의 자유를 억압하는 관습적 본질과 타성에 스며있는 즉자적 질서를 총칭하는 반면 ‘없음’은 이러한 허구적 본질을 대자적으로 해부하여 비로소 도달하게 되는 주체적인 실존의식을 소명했다. 이처럼 이승훈의 비대상 시편에 내재된 실존적 가치를 탐구하기 위하여 즉자적 부정, 대자적 무화, 그리고 실존적 자유라는 세 가지 차원의 무(無)의 양상을 중심으로 고찰했다.\n먼저 이승훈의 시가 ‘즉자적 부정’을 통해 사물의 관습적 의미망이 파괴되고 존재의 생경한 날 것을 ‘비대상’이 발생한다. 이어서 ‘대자적 무화’의 각도에서 주체 스스로가 고정된 정체성을 버리고 자아를 해체해 나가면서 언어적 명령을 파괴하고 근원적인 없음의 상태로 회복하고 있다. 이는 실존이 본질에 앞서기 위해 반드시 통과해야 하는 존재론적 정화의 단계로 보여준다. 마지막으로 죽음이라는 부재의 자리에서 실존적 자유가 파생되는데 여기서 종말을 나타내는 것이 아니라 주체를 구속하던 모든 기성의 질서가 휘발된 실존적 해방의 지점에서 무의미를 생성하고 있다.\n이로써 본고는 이승훈이 개척한 무의미의 공간이 인간 존재의 존재론적 무로 해소하는 기제로 작용함을 규명하고, 죽음과 소멸이라는 허무의 심연을 주체적인 실존으로 전환하는 시적 해법을 제시하고자 했다. 그의 시학은 즉자적인 ‘있음’의 허상을 ‘없음’으로 타파하고 대자적 시각에서 실존적 ‘무’로 전환되면서 본질성에서 벗어나 절대적 자유의 지평으로 나아가는 존재적 도정이라는 사실이다.",
+      "keywords": "이승훈, 실존주의, 사르트르, 비대상, 무의미 시학, 즉자적, 대자즉, 있음과 없음, Lee Seung-hoon, Existentialism, Jean-Paul Sartre, Non-object, Poetics of Non-meaning, Being-in-itself, Being-for-itself, Being and Nothingness"
+    },
+    {
+      "title": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "author": "정완",
+      "journal": "홍익법학",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003156898",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "오늘날 디지털시대는 인류의 생활과 사고에 혁명적인 변화를 가져왔다.이러한변화는 종래의 법규범과 윤리규범 간의 경계가 모호해지는 혼탁을 초래하였다.이러한 혼탁을 해결하기 위해서는 철학적,윤리적,법적 관점을 통합하여 새로운 질서와기준을 마련할 필요가 있다.먼저,디지털기술의 특성에 맞는 새로운 법적 프레임워크를 마련해야 한다.기존 법체계는 물리적 재산과 유형의 자산을 보호하는 데 중점을두고 있으나 디지털자산은 무형이기 때문에 이 보호를 위한 법적 장치가 필요하다. 또한,디지털기술의 윤리적 문제를 해결하기 위해서는 윤리기준을 명확히 설정하고이를 준수하는 것이 중요하다.인공지능기술 사용에서 발생할 수 있는 편향성,빅데이터분석에 의한 프라이버시침해 등의 문제를 해결하기 위한 윤리적 기준이 필요하다.디지털시대의 사회계약론도 중요한 논의주제이다. 디지털사회에서의 새로운권리와 의무는 법적으로 명확히 규정되고 보호받아야 한다. 이러한 권리와 의무는법률로 명확히 보호받아야 하고, 새로운 법적 프레임워크를 요하며, 디지털사회의시민들은 새로운 형태의 사회계약을 통해 자신의 권리를 보호받아야 한다.\n철학이론은 디지털시대의 법적⋅윤리적 문제를 이해하고 해결하는데 중요한 통찰을 제공한다.칸트의 윤리학은 디지털행동,특히 데이터처리와 관련된 윤리적기준을 설정하는데 유용하며,벤담의 공리주의는 디지털정책을 평가하는 중요한도구가 된다.공리주의적 관점에서 데이터활용의 효용성과 윤리문제를 균형 있게 평가해야 하며,이는 디지털기술이 최대다수의 최대행복을 증진시키는 방향으로사용되어야 함을 의미한다.푸코의 권력론은 디지털시대의 감시문제를 이해하는데 중요한 통찰을 제공하고,하버마스의 의사소통행위이론은 디지털공론장에서의의사소통의 질을 평가하는데 중요한 기준을 제공한다. 실존주의는 디지털시대에개인의 책임과 자율성을 강조한다.\n요컨대,디지털시대의 법과 윤리의 혼탁은 복잡하고 다차원적인 문제이다.이를해결하기 위해서는 철학적⋅윤리적⋅법적 관점의 통합적 접근이 필요하다.디지털기술의 발전이 가져오는 윤리적 딜레마와 법적 도전에 대응하기 위해 지속적 성찰과논의를 통해 새로운 기준을 마련하고, 이를 바탕으로 법적 체계를 정비해 나가야할 것이다.",
+      "keywords": "디지털사회, 디지털감시, 의사소통행위이론, 실존주의, 새로운 사회계약, Digital Society, Confusion of Law and Ethics, Digital Surveillance, Communication Act Theory, Existentialism, New Social Contract"
+    },
+    {
+      "title": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "author": "문경훈",
+      "journal": "프랑스 문화 연구",
+      "year": 2024,
+      "citations": 2,
+      "article_id": "ART003150033",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "사르트르의 초기 연극 작품인 『파리떼, Les Mouches』는 오레스테스 신화를 다룬 그리스 비극을 1940년대 독일 점령기의 프랑스 상황에 맞게 변용하여 다시 쓴 작품이다. 이 연구는 사르트르가 자신의 상황연극론에 맞게 그리스 비극을 어떠한 방식으로 변용하고 있는지, 실존주의 철학의 관점에서 어떠한 부분을 부각하고 있는지를 먼저 다룬다. 그리고 이 작품에 대한 다양한 선행 연구를 검토한다. 특히 ‘피리 부는 사나이’ 전설을 극중극 형식으로 삽입하며 끝나는 극의 결말에 대한 기존의 해석을 비판적으로 검토하고, 기존의 연구가 놓치고 있는 부분을 새로운 관점에서 재해석한다. 즉, 오레스테스가 파리떼를 데리고 무대에서 사라지는 마지막 장면은 피리 부는 사나이 전설의 앞부분에 해당하고 뒷부분은 생략되어 있다. 이 연구는 생략된 부분에 숨겨진 의미를 알레고리의 논리를 통해 밝히고, 사르트르의 실존주의 철학과 연극적 전략을 탐색한다.",
+      "keywords": "사르트르, 파리떼, 상황연극론, 신화의 변용, 실존주의, Sartre, Les Mouches, théâtre de situations, modification du mythe, existentialisme"
+    },
+    {
+      "title": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "author": "고연수;이소영",
+      "journal": "교육사상연구",
+      "year": 2024,
+      "citations": 3,
+      "article_id": "ART003139907",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글의 목적은 사르트르의 실존주의 철학에서 ‘앙가주망(engagement)’의 위치와 중요성을 고찰하고, 앙가주망이 언어적 존재로서의 인간이 지는 책임과 불가분의 관계에 놓여 있음을 밝힌 뒤, 그 구체적 실천으로 ‘책임으로서의 읽기’와 ‘타인의 고통에 접속하는 쓰기’의 교육적 의미를 재고하는 데 있다. 이를 위해 먼저 사르트르의 관점에서 자유, 책임, 무, 자기기만 등의 주요 개념이 가진 의미를 살펴보며 앙가주망이란 한 인간이 사회적 책임을 직접 제작해나가는 창조적이며 비판적인 정신에서 시작되는 것임을 제시한다. 다음으로는 『존재와 무』에서 논의된 대타존재로서의 인간이 그 자체로 이미 언어적 존재이며 그들이 타인과 맺는 관계 역시 언어적이라는 점에서 앙가주망은 하나의 언어적 시도임을 보이고자 한다. 마지막으로, 『문학이란 무엇인가』에 나타난 논의를 중심으로 글 읽기를 ‘책임’의 관점에서 해석함으로써 이를 하나의 능동적인 사회적 참여 행위로 제안하며 사르트르의 시선에서 작가와 독자가 글을 통해 맺는 독특한 관계를 해명한다. 또한 ‘씀’을 통해 타자의 삶을 상상하고 그들의 서사에 뛰어드는 경험의 중요성을 밝히며 글쓰기가 주목받지 못한 사회적 약자의 억압과 차별을 가시화하는 작업으로 작용할 수 있음을 제안한다. 이 글은 읽기와 쓰기라는 경험을 ‘기초기본교육’이나 ‘문해력교육’과 같은 기존의 틀을 넘어서는 존재적인 차원에서 논의할 것을 요청한다. 이는 활자와 문학의 위치가 위태로워지는 사회에서 언어가 가진 앙가주망적 성격을 적극적으로 검토하고 그 교육적 의미를 상기하고자 함이다.",
+      "keywords": "Sartre, existentialism, What is Literature?, writing, engagement, 사르트르, 실존주의, 문학이란 무엇인가, 글쓰기, 앙가주망"
+    },
+    {
+      "title": "사회변동과 입헌주의",
+      "author": "성낙인",
+      "journal": "헌법학연구",
+      "year": 2023,
+      "citations": 1,
+      "article_id": "ART003043741",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "인류 역사에서 혁명적 사회변화가 국가의 헌정체제의 변화를 초래한 바 있다는 점에서, 입헌주의는 국가와 국민 나아가 인류 전체의 삶에 직접적인 영향을 미쳐왔다. 인간의 자유와 권리를 보장하고 인간이 주인이 되는 사회를 기반으로 하는 개념인 근대적 의미의 입헌주의는 1787년의 미국 독립혁명과 1789년 프랑스 시민혁명으로부터 기원한다. 근대시민혁명은 절대군주가 지배하는 군주주권으로부터 국민주권으로 근본적인 사회변동을 초래하였다. 근대 입헌주의는 다양한 형태의 ‘도전과 응전’을 거쳐 왔다. 19세기의 산업혁명은 프롤레타리아 혁명으로 이어졌다. 20세기에 이르러 제1차 세계대전 이후 세계는 인민민주주의와 자유민주주의로 분절되었다. 제2차 세계대전 이후 지구촌은 더욱 극명하게 양분되었다. 하지만 1989년 베를린 장벽의 붕괴 이후 공산주의적인 인민민주주의는 사실상 종언을 고한다. 21세기 초의 9·11 테러는 새로운 변곡점이 된다. 전통적인 법체계와 법이론에도 근본적인 변화와 도전을 초래하였다. 또한 지능정보사회의 진전에 따라 인간의 삶에도 폭풍적인 변화가 오고 있다.\n영국의 점진적 사회개혁, 미국‧프랑스의 급진적 사회개혁의 결과물인 입헌주의는 전 세계 입헌주의의 모델로서 작동한다. 중동‧아프리카에서의 입헌주의 정립은 아직도 요원하다. 남미에서의 입헌주의도 여전히 불안정하다. 아시아에서의 입헌주의는 상당수 국가에서 안정권에 진입하고 있다. 입헌주의의 세계화 또는 세계입헌주의가 가능할 것이냐에 관한 논의는 현재 인류세계가 처한 상황과 더불어 각국에서의 개별적 입헌주의의 현황이 동시에 고려됨으로써 가능할 것이다. 각국은 각국 특유의 입헌주의를 발전시키고 있다. 보편적인 입헌주의는 국민주권주의에 기초하여 구성원인 국민의 자유와 권리가 실질적으로 보장되어야 한다. 각국에서 입헌주의는 그 실질적 의미는 매우 다양할 뿐만 아니라 심지어는 입헌주의의 본질이 심각하게 왜곡되고 있는 상황에 처해 있다는 점에서 세계입헌주의는 아직도 요원하며, 그 구체적 구현 또한 불투명하다.\n입헌주의는 혁명과 달라서 역사적 연속성을 전제하지 않고는 성립할 수 없는 이념이다. 입헌주의가 성공하려면 입헌주의적 가치를 내면화한 시민이 전제되어야 한다. 외국의 입헌주의 헌법이론의 일반적 이해에 기초하여 한국헌법의 규범과 현실에 기초한 이론이 전개되어야 한다. 즉, 근대입헌주의 헌법의 보편적 가치인 근대자연법론의 사상적 세계에 기초하면서도, 한국에서 전개되는 실존적 법규범과 법현실을 인식하고 이에 순응할 줄 아는 법적 실존주의에 입각하여야 한다. 그렇게 함으로써 동시대에 정립하고자 하는 법이념과 법적 안정성의 상호 조화로운 발전을 통하여 헌법학의 이해와 실천에 균형이론이 터 잡을 수 있다. 국가의 기본법이자 최고법인 헌법이 국가 속에서 구현되고 국민과 호흡을 함께할 때 비로소 헌법은 “국민의 생활헌장”으로 자리매김하게 된다. 바로 그때 국민주권주의에 기초한 민주법치국가의 입헌주의는 국민의 삶 속에 자리 잡는 생활법치의 장을 열어갈 수 있다.",
+      "keywords": "Revolution, people's democracy, liberal democracy, existentialism, people's charter for life, 시민혁명, 인민민주주의, 자유민주주의, 세계입헌주의, 실존주의, 생활헌장"
+    },
+    {
+      "title": "Superfluous Men: A Recurring Challenge for Pro-Democracy Educators",
+      "author": "Ben Garrido",
+      "journal": "교육철학연구",
+      "year": 2022,
+      "citations": 2,
+      "article_id": "ART002823040",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper seeks to analyze totalitarian pedagogy in the context of modern education. In pursuance of this goal, the beneficiaries of totalitarianism must be investigated and understood. Beginning in Hannah Arendt’s 1951 book The Origins of Totalitarianism it is suggested that the rise of totalitarianism owed much to the plight of “superfluous men” – people whose acts of will cease to matter. Arendt sees totalitarianism as an effort to reduce the pain of these superfluous men by assuring them that they are good because of race, class, etc. and, correspondingly, that acts of will do not matter. Since the superfluous man is defined by the inconsequential nature of his actions, this is comforting to him, or rarely, her. This paper finds that similarly superfluous men are reemerging in the early 21st century and, correspondingly, that totalitarian-style solutions to their suffering are also reemerging. In particular, this study seeks to understand the following factors: 1. What are the characteristics leading to superfluity? 2. What are the effects of totalitarian “compassion” on traditional, democratic or citizenship education strategies? 3. How does totalitarian education interact with 21st century education? It is found that superfluity tends to come about from a lack of available social roles, particularly for males, that totalitarian succor makes traditional civic education strategies impossible and that 21st century education, while still mostly conducted on democratic, citizenship or civic education principles, is beginning to show features similar to totalitarian science, totalitarian compassion and totalitarian fatalism. Pedagogical conclusions are drawn from a comparison of Nazi textbook Nazi Primer and representative texts from the democratic education canon, the Confucian citizenship education canon and the classical Greek pedagogical canon.",
+      "keywords": "Hannah Arendt, Origins of Totalitarianism, Superfluous Men, Totalitarianism, Existential Crisis, Citizenship Education, 한나 아렌트, 『전체주의의 기원』, 잉여인간, 전체주의, 실존주의적 위기, 시민 교육"
+    },
+    {
+      "title": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "author": "서은주",
+      "journal": "현대문학의 연구",
+      "year": 2024,
+      "citations": 3,
+      "article_id": "ART003135080",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 이선영의 문학연구와 비평활동을 정리·평가하는 작업의 일환으로, 1960~70년대 당대 소설을 대상으로 한 비평에 초점을 맞춰 이 시기에 발간된 세 권의 평론집을 시간 순서로 배치해 추적하는 방식을 취했다. 학술 연구와 현장 비평을 동시에 수행하면서 그 경계를 넘나들었던 초기의 글을 검토하는 작업은, 동시대적 문학 현장과의 상호작용을 통해 그의 문학적 시각과 지향이 어떻게 발아, 전개되는지를 살펴보는 과정이 되었다.\n실존주의 문학의 아웃사이더적 반항에 매료된 이선영 비평의 출발은, 이후 소외와 참여, 역사의식과 리얼리즘에의 관심으로 발전·확장된다. 학술적 글쓰기에 영향 받은 그의 비평적 글쓰기는 작품 분석에서 개념의 엄격한 적용으로 표출되었고, 한국문학사의 지형을 구획하고, 문학적 경향의 계보를 그리는 데에서 긍정적인 영향을 미쳤다.\n이선영은 인간의 삶에 기여하는 문학이라는 효용론적 관점을 바탕으로 리얼리즘 방법론을 선택했지만, 리얼리즘이 편협하게 재단되고 정의되어 작품에 적용되는 것에 늘 저항했다. 유연한 리얼리즘론을 견지했던 그는 1990년대 초반 민족문학 진영 내부에서 이루어진 리얼리즘과 모더니즘의 경계 해체에도 적극적으로 참여한다. 이선영의 1960~70년대 비평 도처에 리얼리즘의 도식화에 대한 저항이 자리잡고 있음을 확인할 수 있다.",
+      "keywords": "이선영, 리얼리즘, 실존주의, 소외, 참여, 역사의식, 민족문학, 민중문학, Lee Seon-young, Realism, Existentialism, Alienation, Participation, Historical Consciousness, National Literature, Minjung Munhak(People’s Literature)"
+    },
+    {
+      "title": "Voluntary Death, Desire, and Nothingness-A Phenomenological Psychopathology of Suicidality and Its Theological-Anthropological Relevance-",
+      "author": "안태하",
+      "journal": "가톨릭철학",
+      "year": 2025,
+      "citations": 3,
+      "article_id": "ART003200724",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper aims to reconcile phenomenological-psychopathological analyses of suicidality with theological accounts of the natural human desire for the supernatural, good, or divine. It explores the tension between traditional theological views such as those of Augustine of Hippo and Thomas Aquinas, which position human nature as desiring union/stability with God, and the complex reality of suicidality, which involves a non-fleshly desire to die.\nUsing phenomenological psychopathology as a methodology, the paper critically examines Jean Amery’s existential perspective on suicide and investigates the meaning of desire and individuation in voluntary death. By focusing on the notion of nothingness (or no-thing), the paper proposes that the desire to die is not directed toward a particular object but rather toward nothingness, which transcends traditional binaries such as life and death or good and evil. This approach suggests a reinterpretation of suicidality within theological anthropology, in which the desire to die can be understood as a spiritual longing for nothingness, which, paradoxically, might be understood as a desire for God beyond the binaries of being and non-being.",
+      "keywords": "자살경향성, 현상학, 신학적 인간론, 욕망, 무(無), 장 아메리, 아우구스티누스, 토마스아퀴나스, suicidality, phenomenology, theological anthropology, desire, nothingness, Jean Amery, Augustine, Thomas Aquinas"
+    },
+    {
+      "title": "COVID-19와 삶의 의미 탐구",
+      "author": "배나래",
+      "journal": "한국융합학회논문지",
+      "year": 2022,
+      "citations": 2,
+      "article_id": "ART002832971",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 코로나바이러스감염증 19(COVID-19)시대에 실존주의 심리치료를 통해 부각되기 시작한 삶의 의미에 대해 그것이 갖는 함의를 논의하였다. 코로나바이러스감염증 19 팬데믹 상황에서 우리는 의미 있는 삶을 살아가기 위한 노력을 하고 있으며, 과연 어떻게 살아가는 것이 의미 있는 삶인지 개인과 공동체는 의미 찾기에 대한 노력을 기울이고 있다. 인류는 평안한 삶을 위한 전제를 가지며 과거부터 삶의 의미에 대한 관심이 지속되었다. 2019년 12월 전 세계를 강타한 COVID-19라는 치명적인 바이러스는 사람들에게 불안, 소외, 우울 등 스트레스를 형성하며 개인과 공동체의 삶을 위태롭게 하였다. 삶의 의미에 대한 연구는 COVID-19 이전에도 활발하였지만, 바이러스의 세계적인 대유행 속에 사람들의 삶의 의미에 대한 변화와 각 개인에게 COVID-19는 어떠한 영향을 미치고 있는지를 살펴보는 것이 필요하다고 생각한다. 다시 말해 COVID-19시대에 우리 삶의 의미를 명확히 한다라는 것은 스트레스를 줄이는 대처이며 삶의 질을 향상시키기 위한 촉매제이기도 하다. 본 연구는 삶의 의미에 대한 다양한 시각과 결과를 살펴보며 COVID-19시대에 삶의 질을 향상시킬수 있는 방안을 마련하는데 기초연구를 제공하고자 한다.",
+      "keywords": "COVID-19, Meaning in Life, Existentialism, Stress Coping, Fear of COVID-19, Quality of Life, COVID-19, 삶의 의미, 실존주의, 스트레스 대처, COVID-19 두려움, 삶의 질"
+    },
+    {
+      "title": "대만 여성문학과 실존주의 연구 －≪文學雜誌≫와 ≪現代文學≫을 중심으로－",
+      "author": "이희영",
+      "journal": "중국어문학",
+      "year": 2023,
+      "citations": 1,
+      "article_id": "ART002956052",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "The 1960s was also a time when new women's literature was created as a large number of many writers appeared through ≪Literary Review≫ and ≪Modern Literature≫, which led the attempts and initiatives of modernism in Taiwan. The Taiwanese literary acceptance of modernism is a reaction to the coercive political environment such as the surveillance culture of white terror and martial law. At that time, it was difficult for writers to deal with sensitive sanctions such as the reflection of the social reality claimed by the Literary Magazine. For this reason, as an antithesis, he tried to find an answer in subjective reality, emphasizing inner experience and individual consciousness. Existence and death, which are constantly questioned and thought about in the works of Taiwanese women in the 1960s, are ultimately a philosophical interpretation of the fear and pain they faced.",
+      "keywords": "실존주의(existentialism), 문학잡지(Literary Review), 현대문학(Modern Literature), 모더니즘(modernism), 천뤄시(Chen-Ruoxi), 어우양쯔(Ou-Yangzi), 스수칭(Shi-Shuqing)"
+    },
+    {
+      "title": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "author": "류호인",
+      "journal": "현대정신분석",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003177389",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 자살 현상을 다각적으로 조명하기 위해, 실존주의 철학(하이데거, 키에르케고어, 카뮈)과 현대 정신분석학(프로이트, 라캉)의 주요 개념들을 분석적으로 고찰한다. 기존의 자살 연구들이 사회학적 접근과 임상심리학적 관점에서 상당한 학문적 성과를 거두었음에도 불구하고, 자살에 내재된 인간 존재의 실존적 문제, 즉 ‘불안’과 ‘절망’, ‘자유’와 ‘책임’, ‘욕망’과 ‘결여’ 등 인간 실존의 근원적 문제에 대한 철학적, 정신분석학적 탐구는 상대적으로 미흡했다. 본 연구는 본 연구는 실존철학의 ‘존재론적 의미’와 라캉 정신분석학의 ‘욕망의 구조’ 사이의 변증법적 관계를 분석함으로써, 자살에 대한 새로운 해석의 기반을 마련한다. 이를 위해 하이데거의 죽음에 대한 존재론적 분석과 라캉의 상징계 논의를 연결하고, 키르케고르의 ‘절망’ 개념과 프로이트의 ‘죽음 충동’ 이론을 비판적으로 고찰하여 <햄릿>, <블랙스완>에 나타난 자기-파괴의 동기를 분석한다. 또한, 현대 사회의 왜곡된 욕망 구조와 소외 현상이 인간의 실존적 경험과 주체성 형성에 미치는 부정적 영향을 고찰하고, 이러한 사회적 맥락이 자살 충동과 어떻게 상호작용하는지 규명한다. 본 연구는 이러한 다층적 분석을 통해 자살 현상에 대한 통합적이고 심층적인 이해를 제공하며, 나아가 자살 예방 및 개입을 위한 실천적 함의를 도출하고자 한다.",
+      "keywords": "Suicide, Death, Death Drive, Existentialism, Psychoanalysis, Heidegger, Kierkegaard, Lacan, 자살, 죽음, 죽음충동, 실존주의, 정신분석, 하이데거, 키에르케고어, 라캉"
+    },
+    {
+      "title": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "author": "정명교",
+      "journal": "비교한국학 Comparative Korean Studies",
+      "year": 2015,
+      "citations": 1,
+      "article_id": "ART002065222",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "해방 이후의 한국인 및 한국문학에 실존주의가 끼친 영향은 아주 크다고 할 수 있다. 그리고 그 영향은 오늘날까지도 사그라들지 않고 있다.\n이 논문은 실존주의의 한국적 영향력이 사르트르에 집중되고 있음을 밝히고 사르트르 실존주의 및 그 문학적 이론인 앙가주망론이 수용되거나이해된 경로를 추적하여 그 이해 양상을 밝히고자 했다. 사르트르 실존주의는 해방 이후 세 가지 경로를 통해서 수용되었다. 첫째는 해방 직후새로운 이념형을 모색하는 차원에서였고, 두 번째는 6.25 전쟁의 참화가가져다 준 정신적 공황을 대변할 수 있는 철학을 만났기 때문이었고, 세번째는 참여문학론의 목청이 드높아지는 정황 속에서 참여문학론의 대표격으로서 앙가주망론이 검토된 경우였다. 이 아주 이질적으로 보이는 세 가지 경로에서 한국인들은 그러나 실질적으로는 동일한 의지에 의해 실존주의로 이끌렸으니, 그것은 새로운 생의 의지를 실존주의가 제공해준 덕분이었다. 따라서 ‘허무’, ‘절망’의 철학적 대응물로서의 실존주의라는 종래의 상투적 인식은 수정되어야 한다. 다른 한편, 실존주의, 특히 사르트르 실존주의는 첫 번째 경로와 세 번째 경로에서 모두 비판되었는데, 그 근거는 모두 ‘주관적 관념론’이라는 판단에 의해서였다. 그런데 이 판단의 정치적 배경은 극단적으로 상이했는데, 첫 번째 경로에서의 사르트르 비판은 공산주의에 근거한 것이었던 데 비해, 세 번째 경로에서의 사르트르 비판은 그의 앙가주망론이 공산주의에로 경사될 것을 우려한 반공주의적 태도에 의한 것이었다. 이 정치적으로 상극인 두 입장이 함께 찾아낸 사르트르 실존주의의 ‘주관적 관념론’은 따라서 그 실내용의 부실성을 의심케 하였으니, 첫 번째 입장은 막연한 유토피아주의에 근거한 졸속적 인식에 그치고 있었으며, 세 번째 입장 역시 공동체적 결속에 대한 심리적 집착이 촉진한 주관적 편견에 의한 것이었다고 할 수 있다. 문제는 이러한 피상적 이해가 오늘날까지도 한국 지식인들의 심리를 장악하고 있다는 것으로서, 그것은 사르트르 실존주의가 출현한 계기, 즉 개인과 집단을 동시에 구출하고자 하는 논리를 세우려 했던 의도와 그 실천을 정당히 이해하지 못하고 오히려 사르트르 이전의 정신적 수준에 머물게 하고 있다. 따라서 사르트르를 온당하게 극복하기 위해서는 개인과 집단에 대한 근본적으로 새로운 논리적 사유가 요청된다고 할 수 있다.",
+      "keywords": "Sartre, existentialism, Korean intellectuals, subjective idealism, the will to live, 실존주의, 사르트르, 앙가주망, 생의 의지, 주관적 관념론, 한국지식인의 정신적 수준"
+    },
+    {
+      "title": "손창섭 대중소설의 실존주의적 고찰",
+      "author": "양미영",
+      "journal": "비평문학",
+      "year": 2020,
+      "citations": 0,
+      "article_id": "ART002667346",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 논문은 손창섭의 60년대 신문 장편소설 『인간교실』을 분석대상으로 삼아 손창섭 대중소설이 초기문학의 변질이 아닌 확장이자 연장선상에 있다는 것을 밝히고, 손창섭 작품 세계를 관통하는 핵심 사상은 무엇인지 탐구하고자 하였다. 연구방법으로 실존주의를 택했는데, 실존주의 사상이 손창섭의 50년대와 60년대 작품을 하나로 묶어주는 사상적 거점이 될 수 있을 것이라고 판단하였기 때문이다. 손창섭의 전후소설은 이미 실존주의 문학으로서 연구되어 왔으며, 인간의 존재 방식에 관한 물음을 가지고 고투하는 작가 손창섭의 실존주의적 관심은 60년대 이후에도 문학 활동 전반에 걸쳐 변함없이 지속된다는 것이 본고의 입장이다.\n손창섭은 『인간교실』에 다양한 인간상을 등장시켜 ‘인간은 어떤 존재인가’, ‘인간은 어떻게 실존하는가’에 대한 작가의 생각을 생생하게 전달하고 있다. 손창섭의 인간 존재에 대한 가치관은 타락과 통속이라는 키워드로 표현될 수 있을 것인데, 손창섭은 타락한 삶을 일상성의 특징으로 인정하며 여기에 윤리적 가치의 문제를 제기하지 않는다. 이를 바탕으로 『인간교실』에서 나타나는 가십, 훔쳐보기, 위선 등의 요소를 하이데거의 빈말, 호기심, 애매함의 세 가지 일상적 존재양상에 빗대어 살펴보았으며, 실존주의의 핵심인 자유가 소설 속에서 어떤 방식으로 실천되고 있는지도 검토하였다. 이를 통해 『인간교실』이 존재의 통속성에도 불구하고 진정한 실존을 추구하는 주체의 기투(企投) 가능성을 보여주고 있다는 것을 알 수 있었다.",
+      "keywords": "Son Chang-seop, Popular Noverl, “A Classroom of Human Being”(InganGyosil), Existentialism, Heidegger, Being-in-the-world., 손창섭, 대중소설, 『인간교실』, 실존주의, 하이데거, 타락, 일상성, 통속성, 자유"
+    },
+    {
+      "title": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "author": "김지웅;이현석",
+      "journal": "문화기술의 융합",
+      "year": 2024,
+      "citations": 1,
+      "article_id": "ART003083530",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "니체의 허무주의 주창 이후 많은 문학, 드라마, 영화에서 허무주의와 연관한 인간 심리에 대한 묘사가 이루어졌으며, 애니메이션 또한 허무주의를 담아낸 서사가 TV 시리즈와 극장용 애니메이션으로 제작되고 있다. 특히, 애니메이션은 여타 매체와 달리 어떠한 상상의 이미지도 구현할 수 있는 시각 영상매체로써 실사 촬영 영상과 다른 특성을 보이며, 시간적 속성을 가짐으로써 만화와 차별된다. 이에 본 연구는 니체가 정의한 허무주의의 세 단계가 어떻게 애니메이션 캐릭터에서 재현되고, 어떠한 상황을 연출하는지 애니메이션 <진격의 거인>을 사례로 분석하고자 한다. 이를 위한 연구의 전개는 첫째, 니체의 허무주의의 유형과 세 단계에 대해 문헌을 중심으로 고찰하고, 대중매체에 재현된 허무주의와 애니메이션의 특성에 대해 살펴본다. 둘째, 문헌연구에 기초하여 사례분석 대상의 서사와 구축된 세계관을 통해 허무주의적 관점에서 해석하며, 수동적 허무주의, 능동적 허무주의, 영원회귀의 삶의 세 단계 허무주의를 통해 네 명의 주요 등장인물을 분석한다. 그 결과 해당 애니메이션은 자신의 삶과 존재의 의미를 향한 부정과 긍정이라는 두 가지 메시지를 전달하며, 이를 통해 관객들은 인간의 실존에 대해 심도 있게 고찰할 기회를 맞이한다. 본 연구는 니체의 허무주의가 대중오락 매체인 애니메이션에서 어떻게 재현되는지 살펴볼 수 있는 연구라 사료된다.",
+      "keywords": "Nihilism, Nietzsche, Animation, Production, Existentialism, 허무주의, 니체, 애니메이션, 연출, 실존주의"
+    },
+    {
+      "title": "한국전쟁기 희곡에 나타난 삶의 일상성 연구",
+      "author": "김리안",
+      "journal": "한민족어문학(구 영남어문학)",
+      "year": 2025,
+      "citations": 0,
+      "article_id": "ART003250169",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 한국전쟁기 창작 희곡이 신극운동이 추구해 온 리얼리즘 정신을 어떤 방식으로 계승하였는지를 고찰하고, 이 시기 극작품들이 전쟁이라는 극단 적 현실 속에서 민중의 일상을 어떻게 형상화하였는지를 분석하였다. 전후문학 에 비해 상대적으로 조명되지 못했던 한국전쟁기 희곡은, 극단적 이념의 압력과 창작 조건의 제약 속에서도 가정과 공동체, 노동과 연대, 실존적 결단과 윤리를 통해 인간 삶의 지속 가능성을 탐색하였다. 본고는 한노단의 전유화(戰有花) 와 김진수의 불더미 속에서 를 중심으로 무대 구성과 인물의 행위를 통해 민중 의 일상이 재편되는 양상을 구체적으로 살펴보았는데, 이들 작품은 반공이데올 로기를 표방한 데서 나아가, 리얼리즘극으로서 민중의 삶과 현실의 다층적 복합성을 예술적으로 형상화하고자 했다는 점에서 주목된다. 특히 본고에서 시도한 일상의 지속과 실존적 주체성에 대한 탐구는 전후 한국연극에서 실존주의극의 등장과 리얼리즘 미학의 전환을 예비하는 중요한 문학사적 실천으로 평가될 수 있다.",
+      "keywords": "Korean War-era drama, New Drama Movement, Realist theatre, Existential drama, Everyday life, Anti-communist ideology, People’s narrative, Original Korean plays, History of Korean drama, 한국전쟁기 희곡, 신극운동, 리얼리즘극, 목적극, 일상성, 실존주의, 민중의 삶, 희곡사"
+    },
+    {
+      "title": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "author": "신은경",
+      "journal": "인문사회 21",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002908437",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "연구 목적: 이 연구는 블라쇼와 낭시가 논의한 ‘공동체’의 의미를 통해서 1950년대 손창섭 소설에서 발생하는 공동체적 의식을 살펴보고자 한다.\n연구 방법: 연구 방법은 손창섭 소설에서 공동체 생성 원리는 ‘결핍’에서 비롯되며, 이러한 공동체는 ‘죽음’, ‘사랑’의 형태로 구현된다. 이는 블랑쇼와 낭시가 주장한 공동체의 특징을 통해 연구하였다.\n연구 내용: 이 논문의 연구내용은 손창섭의 소설에서 ‘죽음’과 ‘사랑’의 두 갈래는 공동체의 속성을 띠며, 이는 타자와의 관계에서 자신의 실존적 인간의 모습으로 구현되었다. ‘죽음’은 타자와 나와의 관계성 즉, 공통의 의식적 소산에서 발생하는 내적 지향성이었다. ‘사랑’은 남녀 간의 사랑, 타인에 대한 이타적인 사랑의 등 다양한 대상과의 관계에서 공동체를 이루고 있었다.\n결론 및 제언: 손창섭의 1950년대 소설에서 제시되는 죽음과 사랑이라는 극단적 사유의 방식은 전후의 공동체를 해석할 수 있는 인식적 지표가 되며, 당대 현실을 사유하게 하는 바탕이 된다는 점에서 의의가 있다.",
+      "keywords": "Son Chang-seop, Community, Death, Love, Existentialism, 손창섭, 공동체, 죽음, 사랑, 실존주의"
+    },
+    {
+      "title": "전후의 이어령 비평과 하이데거적 실존주의",
+      "author": "방민호",
+      "journal": "이화어문논집",
+      "year": 2018,
+      "citations": 2,
+      "article_id": "ART002346046",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 논문은 이어령과 실존주의 관련성을 검토한 것이다. 이는 한국 전후 비평에 있어 이어령의 위상을 설정하는 문제와 관련이 있다. 전후의 이어령 비평은 김동리, 조연현, 서정주 등의 토속적, 지방적 ‘정체성주의’에 대항하는 의미를 지닌다. 그의 이러한 문제의식은 그가 일제 강점기 작가 이상을 부각시킨 데서도 나타난다.\n이어령과 김동리의 비평적 대립은, 작가 한말숙의 「신화의 단애」를 어떻게 해석할 것인가를 중심으로 이루어졌다. 즉, 이 단편소설을 실존주의적인 의미에서 진정성을 가진 작품으로 이해할 수 있는가가 논쟁의 중심적인 문제였다. 이러한 논쟁 과정은 이어령이 실존주의 사상에 대해 사르트르보다는 하이데거의 개념, 즉 ‘탈존’에 더 가까운 이해를 가지고 있었음을 보여준다. 이어령은 그러한 자신의 실존 개념을 중심으로 일종의 실험소설인 「장군의 수염」을 발표했다.\n이러한 이어령 전후 비평의 이해는 김수영과 그 사이에 벌어진 논쟁을 이해하는데도 많은 점을 시사한다. 이어령의 전후 비평은 ‘정치’의 결핍이 아니라 ‘정치’를 넘어서 더 근본적인 실존적 문제를 탐구하고자 한 것이었다.",
+      "keywords": "이어령, 한국 전후문학, 실존주의, 이상, 김동리, 김수영, 조가경, 장군의수염, 장 폴 사르트르, 마르틴 하이데거, Lee Eoryeong, Korean postwar literature, existentialism, Lee sang, Kim Dongri, Kim Suyoung, Jo Gakyung, The beard of the General, Jean Paul Sartre, Martin Heideggert"
+    },
+    {
+      "title": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "author": "신민철;강유원",
+      "journal": "움직임의 철학 : 한국체육철학회지",
+      "year": 2021,
+      "citations": 1,
+      "article_id": "ART002796061",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 한국의 학생선수들이 경험하고 있는 수많은 미해결의 난제들을 해결하기 위해, 장 폴 사르트르의 실존주의를 중심으로 그들이 지녀야 할 모습과 태도를 끌어내고자 하였다. 이를 위해 사르트르가 제시한 실존주의의 두 주요 논점을 다음과 같이 제시하였다. 첫째, 실존은 본질에 앞선다. 인간은 자신의 본질을 구현해 나아가는 주체적 인간이 되어야 한다. 이에 학생선수들이 자신 스스로 자기가 자신의 주인임을 깨닫고 자유로운 삶을 선택해 나아갈 것을 제시하였다. 둘째, 실존은 주체성이다. 자신을 만들어나가는 주체는 오로지 자기 자신이라는 것이다. 이에 학생선수들도 지도자 아래에서 살아왔던 수동적 삶에서 탈피하여, 자유롭고 주체적인 인간으로서 자신의 본질을 스스로 만들어 내는 창조적 존재이자 기획의 주체이며 책임의 주체가 되어야 할 것을 제시하였다. 이를 통해 학생선수들은 자신이 자기의 주인임을 깨닫고 자신의 주체성을 찾아 자유로운 선택을 해야 하며, 그 선택에 따른 책임과 불안을 감당하는 진실된 인간이 되어야 한다.",
+      "keywords": "existentialism, existence, student athletes, subjectivity, active subject, responsibility, anxiety, 실존주의, 실존, 학생선수, 주체성, 능동적 주체, 책임, 불안"
+    },
+    {
+      "title": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "author": "김정관",
+      "journal": "국제언어문학",
+      "year": 2014,
+      "citations": 0,
+      "article_id": "ART001923164",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 장용학의 초기 소설을 중심으로 실존주의의 영향과 문학적 수용 양상을 분석하여 작가의 인식구조와 미학적 구성 원리의 형성 과정 및 기능을 밝히고, 실존주의적 사유가 전쟁의 경험을 통해 시대 인식과 세계관으로 변화하는 과정을 조명하여 장용학 소설의 가치를 새롭게 구명하려 하였다. 자의식적 실존의식에서 반항적 실존의식을 거쳐 종말론적 실존의식으로 전개된 실존주의의 수용 양태는 실존주의를 통해 시대 인식 및 소설형식을 성숙하게 전개시킨 장용학 문학의 질적 발전 과정과 상응한다. 특히 실존주의적 사유가 질적 변화를 하는 과정에서 형성된 장용학 문학의 종말론적 의식구조 혹은 묵시록적 전망은 소설의 미적 형식과 전후사회의 정신적 패러다임을 중개하며, 전후세대 지식인 집단의 시대 인식 및 세계관을 표현한다. 장용학 소설은 추상화된 관념의 세계를 표상함에도 불구하고 전쟁 체험 세대의 인식구조를 실존주의적 사유 방식을 통해 문학형식으로 치환하여 보여주었다. 여기에 장용학 소설의 문학사적 가치와 의미가 있다고 하겠다. 퇴폐의 극단까지 온 재난의 세계를 종식시키고 훼손당한 인간의 실존을 찾을 수 있는 초월적 세계의 도래를 소망하는 정신의 지향성이 장용학만의 것은 아니었기 때문이다.",
+      "keywords": "실존주의, 인식구조, 미학적 구성 원리, 전후세대, 패러다임, 종말론적 실존의식, 묵시록적 전망, existentialism, cognitive Structure, the principle of the aesthetic composition, post-war generation, paradigm, the eschatological consciousness of the existence, apocalyptic view"
+    },
+    {
+      "title": "Kierkegaard’s Existentialist Conception of “the Single Individual” and the Evil of Banality",
+      "author": "정화열",
+      "journal": "현상학과 현대철학",
+      "year": 2013,
+      "citations": 0,
+      "article_id": "ART001806882",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "In the present paper the author attempts to re-examine the notion of “the single individual” suggested by Kierkegaard. As is well known, Kierkegaard’s existential thought is a search for the heroic mind and the moral soul of a single individual. Any conception of the public which does not account for the plurality of men and women as single individuals is an abstraction. In that respect Kierkegaard’s conception of man as the single individual serves as pharmakon for the present age as well as for the nineteenth century. His formulation of deep subjectivity or inwardness as the depth of subjectivity, however, should not be confused with any form of subjectivism-moral or otherwise: the subjective thinker is never a subjectivist. On the contrary, according to him, the discovery of the “heroic mind” of the single individual acknowledges the recovery of the radical alterity of the other as a single individual. The cultivation of deep subjectivity is no denial of sociality, but is rather the affirmation of sociality as civil. Here the dialectical interplay of equality (identity) and distinction (difference) of the single individuals is the only antidote to one-dimensional tendencies in the age of “calculative thinking” whose “banality” or “vulgarity” threatens the end of history.",
+      "keywords": "키에르케고르, 단독자, 주체성, 내향성, 기술주의적 단원주의, Kierkegaard, single individual, subjectivity, inwardness, subjectivism, technocratic monocentrism"
+    },
+    {
+      "title": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "author": "류호인",
+      "journal": "현대정신분석",
+      "year": 2026,
+      "citations": 1,
+      "article_id": "ART003308713",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 인공지능시대 디지털 플랫폼 환경에서 형성되는 ‘유령성(hauntology)’의 경험이 주체의 실존적 불안·유한성·욕망의 구조를 어떻게 재구성하는지를 분석한다. 이를 위해 (1) 하이데거의 ‘죽음-가능성(Sein-zum-Tode)’ 및 ‘비본래성’ 분석을 통해 실존적 ‘유한성의 무게’가 디지털 기억-축적 구조에서 어떻게 변형되는지 검토하고, (2) 라캉의 대타자/초자아/결여 개념을 통해 알고리즘적 ‘호명’과 ‘인정’의 경제가 주체의 욕망을 재구성하는 방식을 해명한다. 실존철학과 정신분석을 하나의 방법론으로 통합하기보다, 알고리즘 환경에서 나타나는 불안, 결여, 책임, 자기-관계의 ‘설명 층위’를 구분한 채 교차 독해한다. 특히 플랫폼의 추천·평가·기록 체계는 주체가 자신의 욕망을 ‘이미 계산된 것’으로 오인하도록 만들며, 그 결과 결여를 견디는 능력은 약화되고 초자아적 자기비하가 강화된다. 나아가 본 고는 ‘알고리즘적 대타자’라는 개념을 상징적 대타자의 자리를 대체하는 실체로 제시하기보다, 대타자의 결여를 은폐하고 완결성을 가장하는 사회기술적 장치로 기능하고 있음을 밝힌다. 결론에서는 이러한 조건 속에서 주체가 ‘자기-관계’와 ‘타자-관계’를 재배치할 수 있는 최소한의 실천적 ‘틈(비최적화·지연·침묵의 윤리)’을 도출한다.",
+      "keywords": "artificial intelligence, Heidegger, Lacan, existentialism, psychoanalysis, 인공지능, 알고리즘, 하이데거, 라캉, 실존주의, 정신분석"
+    },
+    {
+      "title": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "author": "나종석",
+      "journal": "헤겔연구",
+      "year": 2010,
+      "citations": 1,
+      "article_id": "ART001450668",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글의 목적은 1950년대 실존주의의 수용사를 철학 교양교육의 제도화라는 맥락에서 검토하는 것이다. 달리 말하자면, 이 글은 1950년대 한국사회, 특히 한국 대학 및 지성사회에서 실존철학이 어떤 방식으로 ‘지식인’의 ‘교양’으로 수용되는지 그리고 그 의미가 무엇이었는지를 철학교재 및 잡지 분석을 실마리로 하여 탐구하는 것을 목표로 삼는다.\n이 연구는 한국철학사 연구의 공백을 채우고자 하는 작업의 일환이기도 하다. 한국철학사 연구는 이제 막 시작되고 있다. 따라서 각 시대별로 서양 철학의 수용사를 탐구하는 작업은 전무한 실정이다. 이 글의 탐구대상인 실존주의가 50년대 한국사회에서 큰 영향력을 행사한 사실에 비추어 볼 때, 이 시기의 실존주의의 수용에 대한 연구가 철학의 영역에서 전무하다는 것은 문제가 아닐 수 없다. 더 나아가 이 글은 50년대 실존주의에 대한 학제 연구의 활성화에 기여하고자 한다. 문학사 연구와 철학사 연구의 결합 없이 진행되는 50년대의 실존주의 연구는 극히 일면적일 수 밖에 없다. 실존주의는 50년대 철학의 영역에 국한되어 있지 않고 비평과 문학 그리고 문화 전반에 걸쳐 받아들여졌기 때문이다. 그러므로 이 글은 1950년대 실존주의적 영향을 받은 문학에 대한 연구경향을 비판적으로 검토하여 학제적 연구에 기여하고자 한다.",
+      "keywords": "교양, 1950년대, 근대화 담론, 박종홍, 사르트르, 『사상계』, 실존주의, 조가경, culture(Bildung), the 1950s, modernization-discourse, Sartre, Sasangge Monthly, existentialism, Jong Hong Park, Kah Kyung Cho"
+    },
+    {
+      "title": "하이데거에서 레비나스로 또는 유식에서 여래장으로",
+      "author": "김상록",
+      "journal": "현상학과 현대철학",
+      "year": 2025,
+      "citations": 2,
+      "article_id": "ART003249353",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본고는 하이데거에서 레비나스로 이어지는 현대 유럽 철학의 흐름이 원효가 이해한 대로 유식에서 여래장으로 이어지는 대승불교의 흐름과 등가적인 사건임을 보이고자 한다. 첫째로 하이데거가 실존주의를 관철하여 후설의 이상주의적 잔재를 제거함으로써 현상학을 혁신한 것은 원효가 유식의 종지로 본 ‘업번뇌소감의문業煩惱所感義門’과 같은 것을 연 것에 해당함을 보일 것이다. 둘째로 레비나스가 하이데거의 실존주의와 고전적 이상주의 사이에 제3의 길을 연 것은 원효가   대승기신론  을 유식과 중관 사이의 중도로 본 것과 동일한 의미를 갖는 철학적 사건임을 보일 것이다. 이때 레비나스의 ‘일리야’론이 원효가   대승기신론  의 취지로 본 ‘무명소동의문無明所動義門’과 같은 중차대한 역할을 하고 있음이 밝혀질 것이다. 이것이 의미하는바 레비나스는 헬레니즘의 존재론 전복에 몰두하는 헤브라이즘의 사상가가 아니라, 연기법을 통찰한 중도의 사상가다.",
+      "keywords": "Dualism of True and the Worldly, Unity of True and the Worldly, Dependent Origination, Fundamental Ignorance, Perfuming, Natural Attitude, ReductionDualism of True and the Worldly, Unity of True and the Worldly, Dependent Origination, Fundamental Ignorance, Perfuming, Natural Attitude, Reduction, 진속이원, 진속불이, 연기, 근본무명, 훈습, 자연적 태도, 환원"
+    },
+    {
+      "title": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "author": "김선옥",
+      "journal": "영어권문화연구",
+      "year": 2023,
+      "citations": 0,
+      "article_id": "ART002989442",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper aims to study the modern characteristics of Robert Frost's natural poetry, which are distinguished from romantic natural poetry, focusing on the relationship between humans and nature in his poems. Frost did not participate in experimental poetry movements conducted in the early 20th century and mainly dealt with human life in nature and rural settings with spoken language and traditional rhymes, putting his poems on the boundary between 19th-century romanticism and modern poetry. On the one hand, the harmony between man and nature or the spiritual comfort and happiness seen in some of his early poems made him called a traditionalist or regionalist who inherited the literary tradition of the 19th century New England. However, many of Frost's poems are distinct from 19th -century romantic poems in that they portray nature as a world that has its own laws of life separate from human ones. Frost depicts existential speakers who try to fulfill their social responsibilities as humans by enduring the pain and solitude of life in front of nature, which is beautiful but dangerous, without transcendental beings or gods. This study shows the fact that Frost's natural poetry inherits British romanticism and American transcendentalism in the 19th century, but reflects the modern perception and attitude of nature that do not appear in them.",
+      "keywords": "Robert Frost, natural poetry, modernity, man and nature, existentialism, 로버트 프로스트, 자연시, 현대성, 인간과 자연, 실존주의"
+    },
+    {
+      "title": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "author": "임종명",
+      "journal": "사이間SAI",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002905360",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "1945년 8월 아시아 태평양 전쟁에서의 미국과 소련의 승리와 조선의 일제 식민지 해방 직후 남한 내 ‘단일 언어〮 문화 공동체 중심의 민족주의’(ethnical nationalism)의 고조 속에서 탈식민의 주체 구성, 또 이와 연관해서 보편 세계의 구성․재구성 문제가 긴급한 의제가 되었다. 이에 유의하면서 본 논문은 식민지 해방 직후 남한 담론 공간에서 구성되고 있던 전후 독일․독일인상(像)을 검토한다.\n전후 독일․독일인을 바라보는 데 있어, 전후 세계 평화, 그리고 이와 연관된 민주주의와 독일 민주화는 시좌(視座)로 기능하였다. 그와 같은 관점에서 당대 독일 인민은 민주주의적으로 생활할 수 없는, 비민주적인 존재로 재현되었다. 그뿐만 아니라 전후 독일 지식인들 역시 당대 독일 민주주의 교육․계몽의 주체화 가능성이 부인되었다. 이는 전후 민주주의의 관점에서 당대 독일․독일인을 비․탈주체화하는 것이다. 이들 비․탈주체화는 당대 독일이, 확대해서 유럽이 더 이상 남한에서 모델이 될 수 없음을 이야기하는 것이다.\n독일․독일인의 탈주체화 과정에서, 독일 전체주의와 실존주의는 나치즘과의 연결을 이유로 공적 담론장 바깥으로 추방되었다. 탈주체화는 독일의 근대 역사를 탈역사화하는 것이었을 뿐만 아니라 1930년대와 전쟁기 근대성에 대한 비판적 성찰 노력을 무효화하는 것이기도 했다. 이들 무효화는 미국의 전후 세계 정치적 헤게모니와 그것에 의해 표현된 근대 문명주의와 민주주의 헤게모니를 보강하는 것이었다. 나아가 그것은 해방 직후 남한 담론공간에서 미국이 전후 보편 세계화하는, 구체적인 역사적 과정을 보여주는 것이다. 바로 이것이 전후 민주주의․민주화라는 관점에서 재현된 독일․독일상의 종전/해방 직후 역사적 함의였다.",
+      "keywords": "전후 독일․독일인상, 전후 세계 평화, 민주주의, 독일 민주화, 전후 폐허, 독일인 탈주체화, 비민주적 독일인의 재교육과 계몽, 독일 근대의 탈역사화, 전체주의, 실존주의, 미국 헤게모니, 근대성, 특수성, 보편성, 근대 성찰, the imaginations of post-War Germany and the German people, the peace of the post-War world, democracy, the German democratization, post-War devastation, the post-War educations and enlightenments of undemocratic German, the de-historicizations of modern German, the de-subjectivization of the German people, totalitarianism, existentialism, universality & particularity, American hegemony, modernity, reflection upon modernity"
+    },
+    {
+      "title": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "author": "강동호",
+      "journal": "사이間SAI",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002905357",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "1945년 8월 아시아 태평양 전쟁에서의 미국과 소련의 승리와 조선의 일제 식민지 해방 직후 남한 내 ‘단일 언어〮 문화 공동체 중심의 민족주의’(ethnical nationalism)의 고조 속에서 탈식민의 주체 구성, 또 이와 연관해서 보편 세계의 구성․재구성 문제가 긴급한 의제가 되었다. 이에 유의하면서 본 논문은 식민지 해방 직후 남한 담론 공간에서 구성되고 있던 전후 독일․독일인상(像)을 검토한다.\n전후 독일․독일인을 바라보는 데 있어, 전후 세계 평화, 그리고 이와 연관된 민주주의와 독일 민주화는 시좌(視座)로 기능하였다. 그와 같은 관점에서 당대 독일 인민은 민주주의적으로 생활할 수 없는, 비민주적인 존재로 재현되었다. 그뿐만 아니라 전후 독일 지식인들 역시 당대 독일 민주주의 교육․계몽의 주체화 가능성이 부인되었다. 이는 전후 민주주의의 관점에서 당대 독일․독일인을 비․탈주체화하는 것이다. 이들 비․탈주체화는 당대 독일이, 확대해서 유럽이 더 이상 남한에서 모델이 될 수 없음을 이야기하는 것이다.\n독일․독일인의 탈주체화 과정에서, 독일 전체주의와 실존주의는 나치즘과의 연결을 이유로 공적 담론장 바깥으로 추방되었다. 탈주체화는 독일의 근대 역사를 탈역사화하는 것이었을 뿐만 아니라 1930년대와 전쟁기 근대성에 대한 비판적 성찰 노력을 무효화하는 것이기도 했다. 이들 무효화는 미국의 전후 세계 정치적 헤게모니와 그것에 의해 표현된 근대 문명주의와 민주주의 헤게모니를 보강하는 것이었다. 나아가 그것은 해방 직후 남한 담론공간에서 미국이 전후 보편 세계화하는, 구체적인 역사적 과정을 보여주는 것이다. 바로 이것이 전후 민주주의․민주화라는 관점에서 재현된 독일․독일상의 종전/해방 직후 역사적 함의였다.",
+      "keywords": "전후 독일․독일인상, 전후 세계 평화, 민주주의, 독일 민주화, 전후 폐허, 독일인 탈주체화, 비민주적 독일인의 재교육과 계몽, 독일 근대의 탈역사화, 전체주의, 실존주의, 미국 헤게모니, 근대성, 특수성, 보편성, 근대 성찰, the imaginations of post-War Germany and the German people, the peace of the post-War world, democracy, the German democratization, post-War devastation, the post-War educations and enlightenments of undemocratic German, the de-historicizations of modern German, the de-subjectivization of the German people, totalitarianism, existentialism, universality & particularity, American hegemony, modernity, reflection upon modernity"
+    },
+    {
+      "title": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "author": "나종석",
+      "journal": "사회와 철학",
+      "year": 2010,
+      "citations": 2,
+      "article_id": "ART001490460",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 글은 50년대 실존주의라는 철학사조의 수용에 대한 연구사이다. 특히 이 글은 50년대 한국 지성사의 공백을 메우려는 의도로 작성되었다. 50년대에 실존주의가 한국 지성사회에 가장 큰 영향력을 행사한 이론임에도 불구하고 철학의 분야에서 이 시대의 실존주의에 대한 연구는 찾아보기 힘들기 때문이다.\n이 글에서는 실존주의가 50년대 한국 철학계에 수용되는 방식을 박종홍과 조가경을 중심으로 살펴볼 것이다. 그리고 실존주의가 50년대 철학계에서 수용되는 방식을 분명히 하기 위해 전통과 현대의 화합의 가능성이라는 당대의 중요한 지적 논쟁의 맥락에서 연구를 진행할 것이다. 그리하여 이 글은 세 부분으로 구성된다. 첫째 부분에서 다루어지는 것은 50년대 박종홍과 조가경이 실존주의에 대해 취한 입장의 비교 분석이다.\n두 번째 부분에서는 50년대에 존재했던 한국 지식사회에서 진행된 ‘전통’ 논쟁과 관련하여 박종홍과 조가경이 어떤 입장을 보이고 있는지를 분석한다. 그러면서도 박종홍과 조가경이 동양과 서양의 창조적인 만남의 가능성을 모색하는 과정에서 보여주는 차이점도 분석할 것이다. 박종홍은 유학의 전통을 그리고 조가경은 노장사상의 전통을 비판적으로 섭취하여 동양과 서양의 만남을 모색한다는 점을 들어 이 두 철학자 사이에 존재하는 차이점을 분명히 한다.\n마지막으로 다루어지는 쟁점은 50년대 한국의 지식인 사회의 공통적인 화두였던 근대화론에 대해 박종홍과 조가경이 어떤 입장을 보이는가 하는 것이다. 이 부분에서 우리는 박종홍이 왜 60년대에 박정희가 주도하는 개발 독재적 근대화의 길에 동참할 수 있었는가에 대한 이론적 토대를 발견할 수 있을 것이다. 그래서 우리는 한국의 지성사에서 50년대와 60년대의 연속성과 단절이라는 문제를 새롭게 이해할 수 있게 될 것이다. 마찬가지로 조가경은 근대화 담론에 어떤 입장을 취하고 있었는지 그리고 그것은 박종홍과 과연 유의미한 차이점을 안고 있었는지 하는 문제도 분석될 것이다.",
+      "keywords": "Park Jong Hong, Cho Kah Kyung, Existentialism of the 1950's, Existentialism, Tradition, Modernization Discourse., 박종홍, 조가경, 1950년대 실존주의, 실존주의, 근대화 담론, 전통."
+    },
+    {
+      "title": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "author": "權惠珍",
+      "journal": "중국어문학지",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003125204",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "소설집「고독 깊은 곳」은 다양한 인간상을 그대로 기술함으로써 삶에 대한 이유와 가치를 묻는다는 점에서 철학적이다. 하오징팡이 자신의 경험에 기반해 단 삼 일만에 완성했다는「접는 도시」속 등장인물들을 “현실주의現實主義”라는 한 마디로 집약해 표현할 수 있는 것도 이와 같은 맥락이다. 즉, 그녀의 작품 세계에 발을 들인다는 것은 곧 그녀의 시선 속에 비춰진 타인, 바로 우리들 자신을 제대로 들여다보기 위한 준비를 마쳤음을 의미하고 있다. 요컨대, 의미 없이 반복되는 삶 속에서 찾아오는 고독과 권태는 세계와의 분리로 인한 존재적 공허함과 자신의 세계가 침몰해 버리는 고립감을 수반한다. 하지만 그것은 오히려 권태를 극복하기 위한 단초가 되어 삶의 활력소로 전환될 가능성을 품고 있다고 해야 할 것이다. 본 논의에서는 하오징팡이 2016년「접는 도시」로 휴고상을 수상한 이래 처음 출간한 소설집「고독 깊은 곳孤獨深處」을 대상으로 하오징팡의 수상작의 내적 가치와 의의는 무엇이라 이야기할 수 있는가에 대한 실마리를 찾고자 한다. 소설집「고독 깊은 곳孤獨深處」에는 수상작「접는 도시」를 비롯해「현의 노래弦歌」,「화려한 한가운데繁華中央」,「우주극장宇宙劇場」,『마지막 남은 용감한 사람最後一個勇敢的人』,『삶과 죽음生死域』,『아방궁阿房宮』,『곡신의 비상谷神的飛翔』,『선산요양원深山療養院』,『고독한 병실孤獨病房』에 이르기 까지 총 10편의 중‧단편이 수록되어 있다. 본 논의에서는 상기 작품들을 고도로 발전된 미래 속에서 가시화된 인간의 존재론적 문제라는 시각에서 접근함으로써 하오징팡이 말하는 추상화된 의미와 상징성을 구체화 하고자 한다. “인간은 차안에, 인공지능은 피안에 있다. 피안에 대한 요원함은 우리가 차안을 비춰보도록 하기 위함에 있다.\"고 한다면, 하오징팡의 작품 속 외적 세계는 어디까지나 개인의 내적 세계와 관계할 때에 이르러서야 비로소 유의미하다 할 수 있다. 본 논의에서는 상기 작품들 속 등장인물들이 공통적으로 경험하는 모호한 삶의 상황들을 카뮈의 ‘부조리’개념의 선상에 놓고 출발한다. “SF 소설을 쓰는 것은 가능성의 세계를 구상하고 그 세계의 끄트머리에 인물을 세워놓는 일이다. 그때 가장 쉽게 느끼게 되는 것은 탄생과 소외라는 감각이다. 세계에서 떨어져 나오는 느낌보다 더 고독한 것이 있을까.”라고 말하는 작가의 시선은 자신이 어쩌지 못하는 탄생과 죽음에 의해 한계 지워진 인간의 삶과 황량한 현실 세계에 대한 관찰로부터 시작되고 있기 때문이다. 이에 상기 소설집 속 인물들은 삶의 의미와 진실을 열렬히 갈구하면서도 삶 속에 드리워진 모호한 삶의 상황과 마주해 곤혹스러워하는 평범한 인간들이다. 부조리에 대한 논의는 곧 삶의 의미에 대한 논의로 직결되는 바, 이는 하오징팡의 작품들을 철학적 성찰로 안내하기 위한 핵심 키워드가 될 것이다. 그렇다면 하오징팡의 작품 속 다양한 인간에 대한 묘사가 어떻게 철학과 문학을 이어주는 가교 역할을 해내고 있는지 그 논의를 시작해 보자.",
+      "keywords": "부조리, 권태, 반복, 실존주의, 저항, 실존적 위기, absurdity, ennui, repetition, existentialism, rebellion, existential crisis"
+    },
+    {
+      "title": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "author": "박두현",
+      "journal": "현대영미어문학",
+      "year": 2024,
+      "citations": 0,
+      "article_id": "ART003116880",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "This paper traces out the concept of agency based on anti-foundationalism through the various actions of the two characters, Guildenstern and Rosencrantz, in Tom Stoppard’s Rosencrantz and Guildenstern Are Dead. Traditionally, these characters have been viewed as typical performers often found in Absurd plays. However, they can be better understood as willful individuals who create their own purposes and desires, as they continuously manipulate their sense of self rather than fully adhering to a scripted role controlled by others’ will and purpose. Although it seems that they fall short of full autonomy, their actions in the play allow us to recognize them as unique individuals who respond to given situations with self-creative knowledge. Consequently, their actions prove to be paradoxical as they perform their missions based both on orders from others and their own desires.",
+      "keywords": "톰 스토파드, 실존주의, 우발성, 자율성, 자기창조, Tom Stoppard, existentialism, contingency, autonomy, self-creation"
+    },
+    {
+      "title": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "author": "문성훈",
+      "journal": "가톨릭철학",
+      "year": 2015,
+      "citations": 3,
+      "article_id": "ART002043755",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "시몬 드 보부아르가 현대 페미니즘 철학의 시원을 이루었다는 데는 이론의 여지가 없지만, 오늘날 보부아르의 페미니즘은 시대에 맞지 않은 철 지난 이론으로 취급되면서 거의 논의의 대상이 되고 있지 못하다. 물론 그 이유는 ‘여성성의 인정’과 ‘여성성의 해체’라는 대안적 패러다임이 페미니즘 논의를 주도하고 있기 때문이다. 그러나 보부아르는 사르트르와 구별되는 독창적 실존주의 철학을 발전시켰을 뿐만 아니라, ‘여성성의 인정’이나 ‘여성성의 해체’를 주장하는 새로운 페미니즘의의 한계를 넘어설 수 있는 유용한 개념 틀을 제공한다. 본 논문에서는 이를 보여주기 위해 첫째, 보부아르의 실존주의를 윤리학이란 관점에서 소개함으로써 사르트르의 실존주의와 차별화시킬 것이다. 둘째, 이러한 시각에 따라 『제2의 성』을 재구성함으로써 보부아르가 제시한 실존주의적 페미니즘이 무엇인지를 밝힐 것이다. 셋째, ‘여성성의 인정’과 ‘여성성의 해체’라는 입장에 대해 보부아르가 어떤 장점을 가질 수 있는지를 보여줄 것이다.",
+      "keywords": "보부아르, 길리건, 버틀러, 페미니즘, 실존주의, 여성성의 인정, 여성성의 해체, Beauvoir, Gilligan, Butler, Existentialism, Feminism, Recognition of femininity, Deconstruction of femininity"
+    },
+    {
+      "title": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "author": "박정근",
+      "journal": "한민족문화연구",
+      "year": 2015,
+      "citations": 2,
+      "article_id": "ART002043609",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "김수영은 실존주의 영향으로 인해 세계와 인간 사이의 괴리를 발견하고 상호간의 어떤 유기적 관계의 부재로부터 부조리를 인식하고 있다. 현대인은 과학과 기술의 발전을 기초로 해서 이성으로 세계를 분석하고자 하지만 그 합리적 관점은 인간의 삶의 환상적 무의미성을 인식하게 할 뿐이다. 하지만 우리는 무의식이나 무(無)에 잠재한 진리에 이를 수 없다. 실존주의자로서 김수영은 한국사회의 뒤떨어진 현실을 바라보면서 과거와 현재, 문명과 전통, 정치와 자유 사이에서 보여주는 부조리를 발견한 바 있다. 특히 그는 세계의 무한대적 혼돈과 개체의 의미부여 사이의 경계선에서 깊은 시적 사유를 보여준다.\n김수영은 세계와 인간 사이에 존재한 부조리적 괴리에 대해 염세주의적 관점을 보여주었던 까뮈와 달리 독특한 실존주의적 비전을 제시한다. 그는 그의 시에 나타난 부조리의 문학적 의미가 무의미의 거대한 힘에 의해 소멸되는 것이 아니라 무의미의 은폐와 투쟁하는 과정에서 혼돈에의 접촉과 기록에 의해서 획득된다고 본다. 김수영은 무의식의 무한대와 인간의 유한적 의식 사이에서 필연적으로 부조리가 일어날 수밖에 없지만 부조리가 가져오는 고통을 통해서 오히려 무의식과 접촉이 가능하게 된다. 그것을 통해 그는 시인의 유한자적 존재를 넘어서는 새로운 창조의 가능성을 획득할 수 있다고 보는 것이다.",
+      "keywords": "부조리, 자유, 실존주의, 죽음, 무의식, 의식, 혼돈, 무한대, 정체성, 참여시, 불가능성, 가능성, 이데올로기, 억압, 후진성, 설사, 무, absurdity, liberty, existentialism, death, subconscious, conscious, chaos, infinity, identity, engagement poetry, impossibility, possibility, ideology, restraint, backwardness, diarrhea, nothingness"
+    },
+    {
+      "title": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "author": "나윤희;이경화",
+      "journal": "인문사회 21",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002812334",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구 목적은 영화 ‘소림 축구’에 나타난 자기회복 과정을 살펴보는 것이다. 이에 본 연구는 저예산 영화 ‘소림 축구’를 텍스트로 질적 텍스트 분석을 실시하였으며, 이를 통해 영화에 내재 된 자기회복 과정을 분석하였다. 연구 결과 현대인의 실존 위기는 전통적 공동체 붕괴로부터 시작된 것이며, 이는 현대인의 인간 소외라는 결과로 이어졌다. 또한 영화에 나타난 자기회복 과정을 살펴 볼 때, 개인 간 우연한 만남을 계기로 시작된다. 특히 이러한 만남은 약자들의 결합, 새로운 구성원 영입을 통해 새로운 공동체 구성의 원동력을 제공한다. 따라서 본 연구는 개인 회복이 심리, 정서, 행동 특성에 의해 발생된다는 기존 연구와 달리 영화 텍스트에 주목함으로써 사회현상을 비판적으로 해석하는데 크게 기여할 것으로 기대된다.",
+      "keywords": "Sorim Soccer, Existentialism, Self-recovery, Low-budget Movie, Text Analysis, 소림 축구, 실존주의, 자기회복, 저예산 영화, 텍스트 분석"
+    },
+    {
+      "title": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "author": "이명곤",
+      "journal": "동서철학연구",
+      "year": 2013,
+      "citations": 3,
+      "article_id": "ART001782685",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "실존주의에서 ‘무신론적 실존주의’와 ‘유신론적 실존주의’는 동일하게 ‘실존이 본질에 앞선다’는 출발점을 지니고 있으며, 동일하게 휴머니즘을 지향하고 있지만 서로 다른 두 얼굴을 지니고 있다. 인간에 대한 일체의 ‘일반적인’ 혹은 ‘보편적인’ 관념을 규정할 수 없으며, 인간의 본질은 스스로 선택하고 책임을 져야 한다고 생각하는 사르트르에게 있어서 신에 대한 부정은 필연적인 것이다. 신 중심의 사유를 부정하고 나아가 인간의 개별적이고 실존적인 자유를 억압하는 일체의 ‘유형화’와 ‘이데올로기적인 것’을 부정하고 있는 사르트르에게 있어서 인간이 추구해야할 가장 소중한 가치는 ‘자유’이다. 그에게 있어서 경험적 자아에 앞서는 초월적인 주관이라는 것도 자아가 성립하기 위한 가능성의 조건으로서만 의미가 있을 뿐 개별자에 대한 어떠한 실체화도 있을 수가 없다. 이러한 사르트르의 사유에서 ‘타인’과의 실존적인 소통은 불가능한 것이며, 인간실존의 근원적 상황은 고독과 불안처럼 나타난다. 반면 가브리엘 마르셀은 인간의 실존을 분석함에 있어서 ‘소통의 갈망’과 하나의 ‘역설적인 상황’에 주목하고 있다. 이 역설은 자유의 박탈감을 체험하는 것이 곧 ‘자유롭고자 갈망하는 것’이다. 가브리엘 마르셀에게 있어서 자유란 곧 자신의 실현이라는 것을 의미하기에 개별자의 실체성은 부정될 수 없으며, 개별자의 실체성을 파괴하는 모든 유형적, 이데올로기적 문화를 비판하고 있다. 실존에 선행하는 본질이 있을 수 없기에 개별자의 실체성(본질)은 실존적인 삶을 통해서 실현되어야 하는 것이며, 따라서 나에 대한 앎은 곧 너와의 관계성 속에서 가능하다. 즉 인간은 근원적으로 ‘너’와의 관계성을 통해서 ‘나’를 알고 ‘나 자신인 것’을 형성해가는 존재이다. 바로 이러한 특성이 ‘상호-주관적 특성(le caractère inter-subjectif)’이다. 이러한 상호주관적 특성은 사르트르의 무신론적인 실존주의와 근본적으로 다른 점이며, 신을 긍정하게 되는 계기가 된다. 인간실존의 ‘상호주관적 특성’은 절대적인 너를 요청하며, 절대자와의 어떤 상호적인 관여는 불안과 비극의 현대적 상황 안에서도 ‘희망’을 가지게 하고, 형제적 사랑을 가능하게 한다.",
+      "keywords": "실존주의, 휴머니즘, 자유, 관계성, 상호주관성., existentialisme, humanisme, liberté, relation, inter-subjectivité."
+    },
+    {
+      "title": "실재와 실재성의 해석학",
+      "author": "신승환",
+      "journal": "신학과철학",
+      "year": 2022,
+      "citations": 1,
+      "article_id": "ART002914281",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "「디지털 문화가 일상화된 현대 사회에서 인간에 대한 이해는 물론 실제하는 사물에 대한 이해 역시 커다란 변화를 맞이하고 있다. 전통적인 실재론의 주장을 넘어 실재 현상의 다양함은 철학적 맥락에서 실재론을 새롭게 성찰하도록 재촉한다. 이 글은 현대 철학이 당면한 실재 이해의 다양함을 실재성의 해석학으로 해명해보려는 연구를 담고 있다. 그에 따라 여기서는 자연적 사물의 실재성을 넘어 사회적 실재와 상상적 실재, 개념적 실재 내지 초월적 실재 등 다양한 형태의 실재가 지닌 특성에 대해 해석학적 관점에서 해명해보고자 한다.\n먼저 M. 하이데거는 실재성을 세계내부적 존재자로 파악하면서 실재 이해를 세계지평과 함께 현존재의 존재이해와 연결지어 논의한다. 하이데거는 실재 이해를 실체성을 넘어 세계 개방성과 함께 현존재의 실존성 해명의 맥락에서 논의한다. 이런 주장을 제2장에서 살펴본다.\n제3장에서는 신실재론의 논의를 해명한다. 페라리스에 의해 제창된 신실재론의 논의를 심화시켜 가브리엘은 철학적 생각하기를 인간이 지닌 하나의 감각으로 이해하면서 그 의미장(Sinnfield)에 드러나는 모든 현상에 새로운 실재성을 부여하려 한다. 이를 통해 자연적 사물만이 존재한다는 자연주의의 한계를 벗어나려 한다. 이를 위해 그는 제4장에서 새로운 실재를 수용하는 인간의 실존성을 새롭게 규정하고 있다.\n이 논문은 이러한 논의를 바탕으로 해서 실재 이해의 새로움을 생명철학과 연결시켜 논의를 전개한다. 생명철학은 인간이 지닌 총체적 생명성에 근거하여 실재 이해의 존재론을 해명하려는 철학적 사유를 지향한다.",
+      "keywords": "실재, 실재성, 신실재론, 신실존주의, 생명철학, The Real, Reality, New Realism, Neo-Existentialism, Biophilosophy"
+    },
+    {
+      "title": "실존주의적 페미니즘의 시각에서 본 한(恨)의 문제",
+      "author": "강대석",
+      "journal": "철학논총",
+      "year": 2004,
+      "citations": 2,
+      "article_id": "ART000887086",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 논문은 한국여성이 지니는 한(恨)의 정서를 실존주주적인 페미니즘의 입장에서 분석하고 비판하려는 목표아래 쓰여졌다. 그것을 위해 우선 실존주의의 근본입장, 특히 페미니즘과 연관되어있는 프랑스 실존주의 철학자 사르트르의 철학적 근본입장을 밝힌 후에 이러한 철학을 페미니즘의 분석에 이용한 보부아르의 제2의 성을 중심으로 여성들이 가고 있는 보편적인 문제들을 점검해 보았다. 그리고 보부아르가 제시한 해결방식이 전통적으로 내려오는 한국여성들의 한을 해결하는 하나의 방법이 될 수 있는가를 고려해 보았다. 결론적으로 한국여성이 지니는 한이 실존주의적인 결단과 선택만으로 해결될 수 없으며 그 한이 발생하게 된 사회경제적인 배경을 염두에 두면서 그 해결방식을 찾아야 한다는 사실을 강조하였다.",
+      "keywords": "실존, 본질, 선택, 자유, 남녀평등, 한(恨), Existenialismus, Sartre, Beauvoir, Feminismus, koreanische Frauen, Existenialismus, Sartre, Beauvoir, Feminismus, koreanische Frauen"
+    },
+    {
+      "title": "인간의 위상, 실존주의와 동학을 중심으로",
+      "author": "김영철",
+      "journal": "동학학보",
+      "year": 2016,
+      "citations": 3,
+      "article_id": "ART002179911",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "이 연구의 목적은 인간의 위상 문제를 현대 서양 실존주의 철학과 한국의 현대 사상인 동학의 관점에서 조명하는 것이다. 인간 위상의 문제는 곧 인간 본질에 대한 실존적 논의이다. 이는 곧 인간이라는 실존적 존재 자체에 대한 논의이다. 실존적 인간 존재란 어떤 의미를 지니는가에 대한 논의이다. \n 이 연구의 논의 내용은 다음과 같다. 첫째, 인간에 대하여 조명했다. 이것은 인간의 본질에 대하여 질문하는 것이다. 둘째, 실존적 삶의 문제에 대하여 서양 실존주의 관점에서 논의했다. 실존적 삶의 문제는 인간 존재의 위상에 대한 논의이다. 셋째, ‘나 자신’에 대한 반성적 논의였다.넷째, 실존적 인간 존재의 문제를 동학사상의 관점에서 논의했다. \n 이 연구의 결과는 다음과 같다. 인간 존재의 실존적 삶은 자기반성이나 자각에서 시작한다. 이는 수동적인 삶을 사는 자신을 부정하는 것을 뜻한다. 이러한 부정은 곧 새로운 삶을 살게 한다. 주체적인 삶을 살게 한다. 주체적인 삶을 사는 모습이 바로 인간의 실존적인 삶이다. 인간의 실존적인 위상이다. 그리고 나 자신의 실존적 위상이다. 이러한 사상적 경향이 서양 실존주의 철학과 동학사상에서 나타났다.",
+      "keywords": "동학, 실존주의, 니체, 인간의 위상, 인간의 불완전성, Donghak, existentialism, Nietzsche, Human’s Positionality, Human’s Incomplete"
+    },
+    {
+      "title": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "author": "설민",
+      "journal": "철학연구",
+      "year": 2015,
+      "citations": 1,
+      "article_id": "ART002035972",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "허무주의와 가치의 몰락은 현대인의 가장 절박한 문제에 속한다. 철학사에서 이 두 문제는 실존주의를 통해서 부각되었다. 그러나 전통적 실존주의자들은 ‘영웅적 허무주의’와 ‘결단주의’라는 난점에 봉착한다. 프랑스의 분자생물학자 자크 모노(Jacques Monod)는 실존주의자와 마찬가지로 현대의 시대사적 문제로 “영혼의 질환”을 언급하지만 문제의 대응방식에서는 합리주의적 답변을제시하는 차별성을 보인다. 그는 “객관성의 공리”을 채택함으로써 객관적 지식이 원초적 가치로 수립된다고 주장한다. 이로써 ‘영웅적 허무주의’가 제거되고‘결단주의’가 약화된다. 그러나 객관성의 공리는 여전히 그 자체로는 무근거할따름이다. 이러한 한계는 독일의 담론이론가 칼-오토 아펠(Karl-Otto Apel)의 윤리학 최종정초에 의해서 극복된다. 그는 초월론적 반성을 통해 논의전제에 ‘이미’ 윤리적 원칙이 함축되어 있다고 주장하면서 이상적 의사소통공동체의 실현을 선험적인 윤리적 목표로 내세운다. 이러한 목표 설정은 가치의 몰락 문제를해결하지만 의지적, 정서적 성격을 지니는 허무를 일소하는 데에는 한계가 있다. 그럼에도 아펠의 합리주의적 대안은 현대인에게 삶의 실존적, 윤리적 무의미를 극복할 한 가닥 실마리를 내어준다.",
+      "keywords": "Existentialism, Jacques Monod, Karl-Otto Apel, Nihilism, Ethics, 실존주의, 모노, 아펠, 허무주의, 윤리"
+    },
+    {
+      "title": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "author": "송창연;오장환",
+      "journal": "대한건축학회연합논문집",
+      "year": 2013,
+      "citations": 1,
+      "article_id": "ART001814034",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구의 목적은 건축의 근원적 물음, 즉 사물의 본질에 관한 생각을 바탕으로 철학적 사유가 건축에 어떻게 적용될 수 있는가에 대한 것이다. 건축은 공간을 다루는 학문이다. 이미 공간이라는 단어는 그 어원부터 철학적 사고를 내포하고 있다. 이러한 건축의 근원적 본질에 대한 물음의 시작이 이 연구의 배경이다. 이러한 물음을 바탕으로 사르트르의 실존주의 철학을 선정하였다. 존재하는 모든 것은 의식을 가지고 있다는 철학적 고찰을 실시하고, 이를 건축에 적용시킨 슐츠의 실존주의적 건축이론을 고찰한다. 슐츠는 모든 공간이 상호작용하여 유기적 관계를 형성한다고 주장한다. 장 누벨은 프랑스를 대표하는 건축가로써 표피를 통해 독창성을 나타내는 건축가이다. 장 누벨의 철학과 건축특징을 살피고, 앞서 고찰한 실존주의 적용하여 작품을 선정, 분석한다. 작품 분석결과 장 누벨은 자신의 건축을 통해 주변과 상호작용함이 드러났다.",
+      "keywords": "실존주의, 공간, 장 폴 사르트르, 크리스티앙 노베르크-슐츠, 장 누벨, Existentialism, Space, Jean Paul Sartre, Christian Norberg-Schulz, Jean Nouvel"
+    },
+    {
+      "title": "실존주의의 본래성 관점에서 고찰한 Neill의 아동교육론",
+      "author": "박용석",
+      "journal": "열린유아교육연구",
+      "year": 2011,
+      "citations": 2,
+      "article_id": "ART001626760",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구의 목적은 Neill의 아동교육 사상이 갖는 실존주의적 성격을 실존주의의 핵심개념 하나인 ‘본래성(authenticity)’의 관점에서 해석하는 것이다. 이를 위해 본래성의 개념을 자유의 존재로서의 자기인식, 존재의 주체성, 존재의 관계성을 중심으로 서술하였다. 이러한 본래성을 구성하는 개념들의 관점에서 Neill의 교육사상과 실천을 해석하였다. 우선, 존재인식과 관련, Neill 교육의 대전제는 자유이며 이는 니일의 사상 전체를 관통하는 개념이다. Neill은 그의 서머힐 학교(Summerhil School)에서 아동들이 자유와 선택의 원리에 의해 배우고 생활하도록 하였으며 그 교육의 목적은 자기자신이 되는 것(to become oneself)이었다. 주체성의 관점에서 Neill은 학습에서 아동들에게 학습 선택의 자유를 폭넓게 부여하고 흥미에 기초한 학습을 하게 함으로서 학습자와 학습이 일체가 되는 학습의 주체성을 실현하였다. 나아가 관계성의 관점에서 Neill은 자유에 따른 책임의 문제를 서머힐 학교의 자치(self-government)를 통해 해결하였다. 자치를 통해 인간관계에서 발생하는 책임의 문제를 강제적 권위가 아니라 상호 합의된 공동체적 권위에 의해 해결하였다. 이는 아동들에게 타인을 의식하고 존중하는 능력을 자연스럽게 길러주는 결과를 가져다 주었다. 결론적으로 Neill의 아동교육 사상과 실천은 실존주의의 본래성을 학교단위의 교육에서 가장 이상적으로 실현한 사례로서, 오늘날 자신의 본래성 추구와는 거리가 먼 우리 아동교육의 현실을 되돌아보게 한다.",
+      "keywords": "본래성(authenticity)주체성(subjectivity)자유(freedom)책임(responsibility)자치(self-government)"
+    },
+    {
+      "title": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "author": "배상식",
+      "journal": "철학논총",
+      "year": 2010,
+      "citations": 2,
+      "article_id": "ART001466287",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 논문은 김춘수의 초기 詩에서 나타나는 실존주의적 특성이 과연 하이데거(M. Heidegger)의 영향인지, 아니면 릴케(R. M. Rilke)의 영향인지에 대해 해명해보는 것을 근본목적으로 삼고 있다. 지금까지 많은 문학 평론가들은 김춘수의 초기 시들이 하이데거의 실존사상으로부터 직접적인 영향을 받은 것으로 해석해 왔다. 하지만 우리가 검토해 본 바로는, 김춘수의 초기 詩에서 드러나는 실존주의적 경향은 모두가 릴케의 영향이었다. 그렇다면 김춘수가 자신의 글에서 릴케의 영향을 받았음을 그렇게 많이 고백하고 있음에도 불구하고 하이데거의 실존주의를 거론하는 이유는 무엇인가? 본 논문에서는 바로 이러한 물음에 대한 해답을 제시하고자 다음과 같은 순서로 논의를 전개해 보았다. 먼저, 우리는 김춘수의 초기 시에서 나타나는 실존주의적 특성에 대해 살펴보았다. 이것은 김춘수의 초기 시에 내재된 실존주의적 성격을 제대로 규명하기 위함이다. 이어서 우리는 김춘수의 초기 시에서 나타나는 시적 성향들이 대부분 릴케의 영향이었음을 검토해 보았다. 특히 여기서는 김춘수가 릴케의 어떠한 시적 성향을 수용하고 있는지를 크게 세 부분으로 나누어 살펴보았다. 그런 다음, 김춘수의 초기 시를 하이데거의 영향으로 오해하게 만든 원인이 무엇인지에 주목하면서, 그의 시론들에서 언급되는 하이데거 사상에 대해 함께 검토해 보았다. 이상과 같은 논의를 통해, 결국 우리는 김춘수의 초기 시에서 나타나는 실존주의적 특성은 릴케의 지대한 영향이며, 하이데거의 사상은 그의 초기 詩作에 직접적인 영향을 미치지 못했음을 밝혀 보았다.",
+      "keywords": "김춘수, 릴케, 하이데거, 실존주의, 시작(詩作), Existentialism, Poetry, R. M. Rilke, Kim Chun-soo, M. Heidegger, Existentialism, Poetry, R. M. Rilke, Kim Chun-soo, M. Heidegger"
+    },
+    {
+      "title": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "author": "이정희",
+      "journal": "한국기독교신학논총",
+      "year": 2022,
+      "citations": 2,
+      "article_id": "ART002831083",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "윤동주의 시를 사랑하는 일반적인 독자들뿐만 아니라, 윤동주가 살았 던 시대의 아픔을 공유하고 공감하는 독자들에게 그의 ‘삶’ 즉, 그의 일생(一 生)에 대한 해석을 담고 있는 시적 이미지와 언어는 매력적이다. 이러한 매력적인 어구들은 독자인 우리를 종교적인 실존의 영역까지 이끌어간다. 윤동주가 살았던 일제 강점기 시대에 그의 시들은 연희전문학교에서 주로 창작되었다. 윤동주의 시는 나라를 잃은 슬픔과 식민지 현실을 보며 무기력할 수밖에 없었던 지식인의 현실을 담고 있다.\n이 논문은 키에르케고어의 종교적 실존에 관한 것이 아니라 윤동주의 실존을 다룬 것이다. 21세기를 살아가는 우리들이 1940년대 시를 보면서 공 감할 수 있는 것은 바로 해석학적 지평의 역할이 크다고 생각한다. 윤동주의 시, 다시 말해서 윤동주의 텍스트는 철학적 해석학자인 게오르규 가다머의 해석학적 지평에 유사하다. 전통은 해석된 텍스트에 대한 시간성과 역사 성을 초월한다. 윤동주의 삶과 사상은 전통의 지평에 섞여 있고, 윤동주의 시는 윤동주의 시와 사상에 대한 해석을 공유하는 전통을 가지는 공동체에 계속 살아 있을 것이기 때문이다.",
+      "keywords": "Existentialism, Historical Horizons, Religiosity, Kierkegaard, Yun Dong-ju, 실존주의, 역사적 지평, 종교성, 키에르케고어, 윤동주"
+    },
+    {
+      "title": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "author": "김리안",
+      "journal": "한민족어문학(구 영남어문학)",
+      "year": 2022,
+      "citations": 3,
+      "article_id": "ART002860624",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "인간존엄은 신체의 자유에서 비롯한다. 특히 섹슈얼리티는 자아정체성의 근원이자 인간을 인간답게 만드는 핵심 요소가 된다. 그러나 이승만 정권은 한국전쟁 이후 국가재건이란 미명 아래 장기집권을 위하여 사상과 섹슈얼리티를 억압하였다. 이로써 인간존재는 반공이데올로기에 따라 선과 악으로 이분화되고, 섹슈얼리티는 전통적 가족주의를 근거로 재단되었다. 하지만 미국을 정치적ㆍ경제적 토대로 한 정권은 오히려 인간 내면의 욕망을 부추기는 모순을 낳았다.\n전후세대는 이념전쟁의 비극으로 인해 삶이 폐허로 변하고 공동체가 해체되었음에도 전후 사회가 과거의 가치체계와 물신(物神)으로 양립하며 인간을 소외하는 현실에 반기를 들었다. 그리고 인간이 본래의 성질대로 자유로운 삶을 살기 위하여 인간존재의 정체성을 내밀히 탐구하였다. 이때 섹슈얼리티는 자기해방의 한 방식으로 작동하기 때문에 인간존재의 정체성을 탐구하는 중요한 소재가 된다.\n전후세대의 희곡인 김상민의 <벼랑에 선 집>(『현대문학』,1958.12.)과 오학영의 <심연의 다리>(『현대문학』,1959.10.)는 사랑이라는 근원적인 욕망조차도 보편적 사회규범의 범위 내에서 윤리ㆍ도덕적으로 수행되어야 하는 억압적 현실에 반발하여 성적 일탈을 극화하였다. 이 논문은 두 희곡을 바탕으로 전후세대의 실존의식을 담은 무대배경과 극중인물의 섹슈얼리티에 대한 갈등을 분석하고자 한다. 이로써 실존에 대한 갈등이 불륜으로 처단되고 마는 당시의 현실을 조명하여 전후세대의 시대정신을 이해하고자 한다.",
+      "keywords": "existentialism, post-war generation, sexuality, adultery, self-liberation, 실존주의, 전후세대, 섹슈얼리티, 자아정체성, 불륜, 자기해방"
+    },
+    {
+      "title": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "author": "민선희;박종수",
+      "journal": "어문론집",
+      "year": 2020,
+      "citations": 0,
+      "article_id": "ART002636410",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "오학영 삼부작에 대한 기존 논의는 실존주의와의 상관성 속에서 텍스트 정체성을 구성해왔다. 이는 당시의 실존주의 사조의 유행과 이론적 논쟁 배경 속에 삼부작이 존재하기 때문이다. 그런데 삼부작은 장르적 범주 속에서 미완 혹은 과도기적 정체성으로 정의되고, 장르적 범주 밖에서는 형식적 차원에 국한된 텍스트 가치를 부여받고 있다. 전자와 후자는 모두 텍스트 삼부작을 형식과내용으로 이분화한 작위적 인식론 속에서 불완전하게 텍스트 정체성을 규정하고 있는 한계를 보여준다. 이러한 한계는 실존주의라는 서구 사조의 수용과 그적용의 과정에서 발생하는 특정한 인식론적 관점을 반영한다. 오학영은 텍스트 삼부작에서 다루고 있는 실존적 문제의식을 1950년대뿐만 아니라 그 이후에도 유사한 텍스트 구조로 반복, 재현하고 있다. 이는 그의 삼부작이 1950년대라는 특정한 시대의 유행성에 국한된 것이 아니라 지속적인 텍스트 정체성을 구성하고 있다는 사실을 의미한다. 즉 삼부작에 대한 해석적 지층을 1950년대 이후로 확장할 때, 삼부작은 서구 사조의 영향 관계와 그 자체의 독자적인 텍스트 구조의 상관성 속에서 사유 가능해진다. 그리고 이때 삼부작의 구조는 형식과 내용으로 분리될 수 없는, 하나의 총체적인 텍스트 내적 구조를 확보한다. 왜냐하면 지속성은 동일성을 전제하고 동일성은 정체성이 전제되지 않으면 불가능하기 때문이다. 역설적으로 기존 논의가 오학영의 삼부작을 원전적 실존주의와 ‘다르다’고 인식하는 지점은 여기서 텍스트 그 자체의 정체성의 조건으로 기능하게 된다. 오학영의 삼부작은 서구의 실존주의 텍스트와 다르며, 그 형식적 한계는 텍스트 자체의 내적 구조로 흡수되는 것이다. 이 글은 이와 같은 문제의식을 바탕으로 오학영 텍스트의 미학적 지층이나 극적 완성도보다는 기존의 논의 속 실존주의 담론의 존재와 그 상관성 속에서 텍스트 삼부작의내적 구조를 확보하고 해석하고자 한다.",
+      "keywords": "contradiction, Messiah, existentialism, existentialist plays, Oh Hakyoung, 1950s, 모순성, 메시아, 실존주의, 실존주의 희곡, 오학영, 1950년대"
+    },
+    {
+      "title": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "author": "장순호;최지원",
+      "journal": "PREVIEW : 디지털영상학술지",
+      "year": 2025,
+      "citations": 2,
+      "article_id": "ART003201124",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "최근 게임 이용자들은 단순한 조작 중심의 플레이를 넘어, 게임의 세계관과 스토리의 구조에 몰입하려는 경향을 보이고 있으며, 이는 서사 중심의 설계 전 략이 게임 디자인 전반에서 점차 중요하게 다뤄지고 있음을 보여준다. 이러한 흐름은 스토리텔링 구조의 다변화를 이끌고 있으며, 그 중에서도 소울라이크 게임은 파편화된 서사 전략을 통해 플레이어에게 능동적인 탐색 경험을 제공 하는 방식으로 주목받고 있다. 프롬소프트웨어의 대표작 <엘든 링>은 플레이 어가 흩어진 정보 조각을 바탕으로 세계관을 유추하고 스토리를 구성하게 함 으로써, 기존의 선형적 서사와는 다른 상호작용 구조를 형성한다. 본 논문은 <엘든 링>을 중심으로, 소울라이크 게임의 파편화 스토리텔링 구조가 서사를 어떻게 구성하며, 이러한 구조가 플레이어의 해석적 참여와 상호작용 경험에 어떤 영향을 미치는지를 분석하고자 한다.",
+      "keywords": "소울라이크, 파편화 스토리텔링, 상호작용, 게임, 실존주의, 부조리, Souls-like, Fragmented Storytelling, Interaction, Game, Existentialism, Absurdism"
+    },
+    {
+      "title": "실존주의적 상담기법을 통한 인성교육",
+      "author": "심성보",
+      "journal": "초등도덕교육",
+      "year": 2008,
+      "citations": 2,
+      "article_id": "ART001231398",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "실존주의적 상담을 통한 인성교육 : 소외와 무의미 그리고 비인간화를 극복하고자 하는 실존철학자들은 실존이 본질에 앞선다고 믿는다. 이런 실존철학은 실존주의 심리학에 영향을 미쳐 실존적 상담을 탄생하게 하였다. 실존적 상담은 세계내의 네 가지 존재방식을 구체화한다. 매 순간 각 개인은 자연적 세계, 사회적 세계, 자아의 세계, 정신적 세계 속에 있다. 즉, 개개의 인간은 환경, 인간관계, 자기의식, 그리고 정신적 가치 속에서 동시에 존재한다. 세계내의 네 가지 존재방식은 항상 서로를 관계시키고 삶의 균형을 잡아주는 의미있는 능력을 갖게 하는데 필요하다. 실존적 상담가는 세계내의 존재가 시간과 공간 속에서 발생하고 있음을 깨닫게 하고 사람들로 하여금 삶의 불안과 불확실성에 직면하게 한다. 실존적 불안을 치유하고자 하는 실존적 상담의 목표는 정체성의 탐구, 위기에 직면하기, 의미있는 만남을 갖기, 용기있는 선택하기, 의미를 탐색하기이다. 다섯 가지 실존적 상담의 목표를 하고자 하는 구체적 기법은 역설적 의도, 반성제거, 호소, 대화, 문제의 외재화, 시제전환 등등이다.",
+      "keywords": "세계내의 존재, 정체성의 탐구, 위기의 직면, 의미있는 만남, 용기있는 선택, 의미의 탐색, being-in-the-world, exploration of identity, confronting to crisis, meaningful encounter, courageous choice, searching for meaning"
+    },
+    {
+      "title": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "author": "배재훈",
+      "journal": "문학교육학",
+      "year": 2020,
+      "citations": 0,
+      "article_id": "ART002576988",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구는 작중 등장인물의 주체성을 실존주의를 통해 이해하고 감상해 볼 수 있음을 <오월춘추>의 오자서와 범려의 사례를 들어 제안하였다. 사르트르의 실존주의 관점에서 바라본 주체성은 책임과 조망으로 재해석해 볼 수 있다.\n오자서는 자신의 생애의 모든 순간, 오직 자신에 대한 실존적 책임에 의해서만 행동하였다. 자신에게 닥친 선택의 순간, 그는 자신의 모습을 먼저 정의해놓고 실존을 추구하지 않았다. 오로지 자기 자신의 실존만을 위해서 주체적으로 행동하였다. 범려 또한 실존적 인물이었다. 자신의 군왕 구천에게 수많은 죽을 고비를 넘기며 충성했지만, 실존적 조망의 통찰을 보이며 구천을 떠난다. 오직 자신의 주체적인 삶을 이어나갔다.\n이러한 독법 사례를 통한 문학 감상 교육에서의 함의는 다음과 같다. 첫째, 실존주의를 통한 주체성 이해는 다양한 주체성 탐색에 유의미한 감상 방안이 될 수 있다. 둘째, 실존주의를 통한 주체성 이해는 주체성 형성에 유의미한 감상 방안이 될 수 있다. 본 논의는 사르트르의 실존주의를 통한 주체성 이해가 실존의 의미를 모색하는 인물 이해 방법 중 하나가 될 수 있음을 제안한다.",
+      "keywords": "사르트르, 실존주의, 주체성, 인물 이해, 오월춘추, Sartre, existentialism, subjectivity, understanding character, Wu-Yue Chunqiu"
+    },
+    {
+      "title": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "author": "양준영",
+      "journal": "기전문화연구",
+      "year": 2024,
+      "citations": 3,
+      "article_id": "ART003165831",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "본 연구의 목적은 유배문화 서사 구조를 활용하여 실존치료적 관점에서 진로성찰 프로그램을 구상하는 데 있다. 급변하는 사회로 인해 개인이 직면하는 고통과 불안 또한 높 아지는 만큼, 유배라는 한계상황을 마주하고 이를 극복한 추사의 삶과 진로에 대한 태도는 현대인들에게 시사하는 바가 크다. 본 연구는 문헌 고찰을 통해 추사 김정희의 유배 서사를 절망과 고독, 자아 성찰, 자아 실현의 세 단계로 구분하고, 실존치료적 관점에서 분석하였 다. 이를 바탕으로 진로성찰 프로그램을 구상하였다. 본 프로그램의 목적은 현재 마주한 한 계상황을 이해하고(1회기), 자신의 가능성을 탐구하고(2회기) 목표를 실현할 수 있게 구체 화함으로써(3회기) 한계상황을 극복하고 실존적 존재로서 진로를 구성하도록 돕는 데 있다. 본 연구는 유배문화의 긍정적 가치를 새롭게 조명하고 진로 및 철학 분야와 같이 다른 영역 과의 융합을 통해 개인의 성장을 지원할 수 있는 방안을 모색했다는 점에서 의의가 있다.",
+      "keywords": "유배문화, 유배문화 서사 구조, 추사 김정희, 실존주의, 진로성찰 프로그램, Exile Culture, Narrative Structure of Exile Culture, Chusa Kim Jeong-hee, Existentialism, Career Reflection Program"
+    },
+    {
+      "title": "Anthony Browne의 <겁쟁이 윌리>의 세계관 분석",
+      "author": "강다혜;현은자",
+      "journal": "어린이문학교육연구",
+      "year": 2022,
+      "citations": 2,
+      "article_id": "ART002916796",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "『겁쟁이 윌리(Willy the Wimp)』는 세계적으로 사랑받는 Anthony Browne의 윌리시리즈를 탄생시킨 작품이다. 주인공 윌리는 Anthony Browne의 내면의 자아를 상징하며 윌리의 삶의 모습이나 방식은 작가가 생각하는 아동의 삶을 반영한다. 본 연구에서는 Vanhoozer의 문화해석 방법론에 따라 『겁쟁이 윌리』를 평론하였다. 텍스트 자체의 세계에서는 이 그림책에 Darwin의 진화론과 실존주의적 부조리가 반영되어 있음이 나타났으며, 텍스트 뒤의 세계를 조사함을 통해 Anthony Browne에게 실존주의와 초현실주의가 영향을 미쳤으나 이 역시 Darwin의 진화론에 그 기초를 두고 있음을 알 수 있었다. 그러나 텍스트 앞의 세계인 독자의 반응과 평가를 살펴본 결과, 독자들은 내용에 대한 이해가 부족하더라도 작가의 명성을 신뢰해 그림책을 긍정적으로 평가하는 것을 알 수 있었다. 결론적으로 그림책 『겁쟁이 윌리』에는 다윈의 진화론적 세계관이 투영되어 있으며, 이는 모든 의미와 가치를 부정하는 의미론적 허무주의로 귀결시킨다는 것을 알아냈다. 본 연구는 Anthony Browne의 사상적 기저가 Darwin의 진화론에 있음을 밝혔다는 의의를 가진다. 그러나 성인 독자는 이를 알아채지 못하고, 이 그림책이 아동에게 교육적으로 좋은 그림책이라고 평가하고 있다. 하지만 본 연구는 독자의 반응을 살피는 텍스트 앞 세계에서 인터넷 서평만을 가지고 분석을 하였기에 한계를 지닌다. 그리하여 본 연구는 성인 독자의 도서 선택과 평론에 윤리적 책무가 있음을 시사하며, 성인 독자들의 읽기 역량에 관한 심층 분석에 대한 후속 연구를 제안하고자 한다.",
+      "keywords": "Anthony Browne, Picturebook Worldview Analysis, Darwin's Theory of Evolution, Anthony Browne, 그림책 세계관 분석, 다윈의 진화론"
+    },
+    {
+      "title": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "author": "이예훈",
+      "journal": "인문사회과학연구",
+      "year": 2025,
+      "citations": 3,
+      "article_id": "ART003174650",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "연구 목적: 이 연구는 로맹 가리의 『유럽의 교육』에서 교육이 지칭하는 다차원적 의미를 살펴보는 것을 목적으로 한다.\n연구 방법: 본 연구는 작품 텍스트를 기반으로 ‘교육’의 상징적, 서사적, 철학적 요소를 분석하는 데 초점을 맞춘다.\n연구 내용: 첫째, 문학적 배경과 시대 상황을 바탕으로 교육 체계가 붕괴한 유럽의 상황을 살펴본다. 둘째, 작품 속에서 실질적으로 행해지는 ‘교육’의 과정과 내용을 파악하여 ‘교육’의 역할과 상징적 의미들을 고찰한다. 셋째, 제 2차 세계대전 이후 새롭게 태어나려는 유럽에서 ‘교육’의 역할과 가치를 살펴본다.\n결론 및 제언: 『유럽의 교육』에서 강조하고 있는 ‘교육’은 단순한 학문적 배움을 넘어선 전쟁과 폭력의 참상 속에서 인간 존재의 본질을 찾는 여정의 통합적 지칭이라 할 수 있다. 나아가 위협에 노출되어있는 인간성과 존엄성의 가치를 회복하고 유럽의 재탄생을 위해 꼭 필요한 노력임을 알 수 있었다. 이러한 연구를 통하여 로맹 가리 문학의 주요 소재인 전쟁과 그 의미를 보다 잘 파악할 기회가 되길 기대한다.",
+      "keywords": "로맹 가리, 유럽의 교육, 제2차 세계대전, 실존주의, 부조리, Romain Gary, European education, World War II, Existentialism, Absurdity"
+    },
+    {
+      "title": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "author": "선민서",
+      "journal": "우리문학연구",
+      "year": 2021,
+      "citations": 1,
+      "article_id": "ART002774068",
+      "sartre_ref_count": 0,
+      "references": [],
+      "abstract": "「광인일기」를 재독함으로써 우리는 반공주의를 양가적으로 대하는 강용준의 정치적 (무)의식을 간취할 수 있다. 간첩조작사건이 횡행하던 시기에 실존철학을 통해 간첩죄를 저지른 자를 이해하고자 노력하는 반공주의자의 내면을 이 소설은 형상화한다. 「광인일기」의 모티프가 된 1959년의 조봉암 사형과 1967년의 동백림 사건은 남한사회의 대표적인 간첩조작사건이다. 간첩죄인이자 빨갱이라 낙인을 찍힌 조순덕의 행위를 최 대위는 실존주의를 통해 이해하고 분석하려고 한다. 조순덕의 자살을 해석하는 최대위의 모습은 담론장의 왜곡 속에서 간첩설에 휘말리는 사람들의 고통을 가시화해야 한다는 강용준의 무의식적 맥락을 드러낸다. 빨갱이에 대한 실존주의적 해석의 시도는 동백림 사건과 같이 해명되지 않고 있었던 당대의 간첩조작사건이 남긴 잉여에 따른 결과일 수 있다.\n1974년에 「광인일기」를 표제작으로 내세운 작품집 『광인일기』를 출간하던 때에 그에게는 반공주의를 객관화하려는 의지가 있었다. 예컨대 「악령」에서 그는 반공 풍조에 기생해 물질적 이득을 취하려는 인물을 비판적으로 형상화했다. 또한 「화령장기행」에서는 7ㆍ4남북공동성명 당시의 화해 분위기 속에서 인민군을 죽인 국방군에 관한 목격담을 소개하거나 국군으로 참전해 사람을 죽인 적이 있다고 고백하는 등장인물을 묘사하며 그는 반공주의와 거리를 두었다. 거제도 포로수용소 시절을 회고한 1975년의 에세이에서도 좌익수용소에서의 폭동이 좌익포로들이 아니라 미군으로 인해 일어났다고 명시할 정도의 균형 감각을 그는 가지고 있었다. 1974년 2월에 발발한 지식인ㆍ문인 간첩단 조작 사건이나 1975년 5월 13일자로 시행된 박정희 정권의 긴급조치 제9호가 표현의 자유를 제한하며 강용준의 자기검열을 부추길 수 있었다. 그러나 1975년 7월까지만 해도 그는 반공이데올로기에 완전히 포섭되지는 않은 상태였다.\n그러나 남한사회의 강박적이고 신경증적인 반공주의 광풍 속에서 강용준의 작품은 점차 반공텍스트로 귀결되었다. 1976년 1월에 발표한 에세이 「춤추는 붉은 악령들」에서 빨갱이라 낙인을 찍힌 사람을 이해하기 위해서가 아니라 공산주의와 관련된 일체의 것을 배격하겠다며 그는 실존철학을 인용했다. 1976년의 제1회 반공문학상 대통령상 수상 이후에 반공주의는 그의 에세이만이 아니라 소설에까지 깊은 영향을 미쳤다. 1984년작 「고독한 영웅」에서 평화주의자를 비난하고 폭력 사용을 주창하는 반공주의 이데올로그들의 언설에 그는 동조하게 되었던 것이다. 반공문학가로서의 정체성을 확립하기 이전에 반공주의에 대한 양가적 태도를 지녔던 강용준의 내면세계를 짐작할 수 있게 해준다는 점에 「광인일기」가 지니는 문제적 가치가 있다.",
+      "keywords": "Kang Yong-Jun, Madman's Diary, Rumor of Espionage, Manipulation of Spy Case, Anti-communism, Existentialism, 강용준, 「광인일기」, 간첩설, 간첩조작사건, 반공주의, 실존주의"
+    }
+  ],
+  "citation_links": [
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "신시론의 실존주의와 김수영",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 윤리의 문제",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 4
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 4
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 3
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "신시론의 실존주의와 김수영",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "『사람의 아들』에 나타난 무신론적 실존주의와 자기 파멸 고찰",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "『사람의 아들』에 나타난 무신론적 실존주의와 자기 파멸 고찰",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "value": 4
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 4
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 3
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 6
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 5
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 시론의 실존주의와 휴머니즘-박인환, 조병화, 전봉건을 중심으로-",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "존 듀이 철학에 대한 실존주의적 해석과 교육적 시사",
+      "target": "후회의 실존주의적 이해와 그 교육적 의미에 관한 一考: 야스퍼스, 하이데거, 사르트르를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존 듀이 철학에 대한 실존주의적 해석과 교육적 시사",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "value": 4
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 4
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 3
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 4
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 4
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 4
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "밀란 쿤데라의 『참을 수 없는 존재의 가벼움』과 실존주의: 사르트르와의 관계를 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현사실성과 목적론 - 후설 철학의 실존주의적 동기들에 대한 해명",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의와 해석학 - 그는 실존주의자인가, 존재론자인가? -",
+      "target": "실존주의적 페미니즘의 시각에서 본 한(恨)의 문제",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 4
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 3
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 4
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 4
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "생태교육의 실천적 한계에 대한 실존주의적 고찰: 사르트르 철학을 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "후회의 실존주의적 이해와 그 교육적 의미에 관한 一考: 야스퍼스, 하이데거, 사르트르를 중심으로",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "후회의 실존주의적 이해와 그 교육적 의미에 관한 一考: 야스퍼스, 하이데거, 사르트르를 중심으로",
+      "target": "실존주의적 페미니즘의 시각에서 본 한(恨)의 문제",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 4
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "존재적 불안과 인간 회복의 시학: 전봉건과 박인환의 시에 나타난 휴머니즘적 실존주의",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "황순원의 『신들의 주사위』(1982)에 나타난 실존주의적 특성 연구 -주인공 한수의 형제애와 연애담을 중심으로-",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 4
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 4
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "애니메이션 영화 \"코코\"를 중심으로 톨스토이의 실존주의적 삶과 죽음 이론 탐구",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트의 자연시에 나타난 실존주의적 태도",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 4
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 4
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "보부아르의 ‘실감할 수 없는’ 노년: 실존주의자는 노년을 어떻게 받아들이는가?",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 3
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 3
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 4
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 3
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 3
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "치마만다 은고지 아디치에의 『아메리카나』에 나타난 ‘아프로폴리탄 실존주의’",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 4
+    },
+    {
+      "source": "사무엘 테일러 콜리지의 「노수부의 노래」에 나타난 실존의 부조리성과 구원의 문제",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "1950년대-60년대 초까지 한국현대철학에서 니체 수용과 의미",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "근대성의 끝에서 마주한 정치적 존재의 문제 : 스트라우스의 하이데거 실존주의 해석과 새로운 존재물음의 가능성",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 3
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 3
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "두 얼굴의 실존주의 역사철학: 하이데거와 야스퍼스",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 5
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "극락왕생의 세속주의 지향에 대한 불교민속학적 이해",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "현대사회 실존적 공허에 대처하는 여가참여의 방향",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 4
+    },
+    {
+      "source": "보후밀 흐라발(Bohumil Hrabal)의 『너무 시끄러운 고독』 분석: 철학적 사유를 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "무(無)의 역량으로서 이미지 - 배용균의 <달마가 동쪽으로 간 까닭은?>, <검으나 땅에 희나 백성>을 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김남조 시의 실존의식 연구 - 1950년대 시를 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "성속의 갈등과 극락왕생의 비교불교민속론－연화화생(蓮華化生)과 일련탁생(一蓮托生)의 비교를 중심으로－",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "새마을운동의 철학적 기초에 관한 소고- 지역개발과 ‘자조’의 역할을 중심으로 -",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 3
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 3
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후(戰後) 시인의 세대적 위상 확립 과정과 형이상학적 시(론) 연구 - 허만하와 이승훈을 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다문화 부부의 문화적 갈등과 실존주의 철학상담의 적용 가능성 및 효과",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "정규의 미술비평에 나타난 시대의식: 전후 시기 새로운 한국 현대미술 모색",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "蕭紅香港時期小說再解讀 - 以《呼蘭河傳》、《馬伯樂》、《小城三月》、《紅玻璃的故事》爲中心 -",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 4
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 6
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Ethical Solidarity beyond Anxiety: The Ethics of Anxiety in Paul Tillich’s Theology",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 3
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 3
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "Coping with Suffering: An Existentialist Perspective of the 10 Ox herding Pictures",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "솔 벨로우의 『허공에 매달린 사나이』에 나타난하이데거 실존 구조의 문학적 변주",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "평생교육 현장에서의 미술활동이 여성노인의 웰다잉 인식에 미치는 영향",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "기능적 관점에서 본 인간 존엄성의 개념사",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 3
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "Kierkegaard’s Existentialist Conception of “the Single Individual” and the Evil of Banality",
+      "value": 3
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "카뮈의 “이방인”에 등장하는 주인공 뫼르소의 탈신화화",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 4
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 6
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 6
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "조대현 동화에 나타난 실존의식 연구--1960년대와 1970년대를 중심으로-",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 4
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "역동적 소그룹 운영을 위한 대화 설교와 실존주의 상담 이론의 접목",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "이승훈 비대상 시편에 대한 실존 의식",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 4
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 4
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "실존주의적 페미니즘의 시각에서 본 한(恨)의 문제",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의 철학이 도덕교육에 주는 시사",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "이승훈 비대상 시편에 대한 실존 의식",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "디지털시대의 법과 윤리의 혼탁에 관한 고찰",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "target": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 『파리떼, Les Mouches』의 신화 변용과 결말의 재해석",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 3
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "사회변동과 입헌주의",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 5
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "‘앙가주망’과 언어적 존재로서의 책임: 사르트르의 관점에서 본 읽기와 쓰기",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사회변동과 입헌주의",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "COVID-19와 삶의 의미 탐구",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "겨울 공화국의 소설 읽기 - 이선영의 1960~70년대 당대비평을 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "COVID-19와 삶의 의미 탐구",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "손창섭 대중소설의 실존주의적 고찰",
+      "value": 4
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 4
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 6
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "자살의 존재론적 구조에 대한 실존철학과 정신분석의 통합적 이해: 키에르케고어, 하이데거의 존재 분석론과 프로이트, 라캉 주체이론의 변증법적 고찰 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "전후의 이어령 비평과 하이데거적 실존주의",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 4
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르 실존주의와 앙가주망론의 한국적 반향",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "한국전쟁기 희곡에 나타난 삶의 일상성 연구",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 4
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 3
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "손창섭 대중소설의 실존주의적 고찰",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 4
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "니체의 허무주의가 재현된 애니메이션의 연출적 특성 – <진격의 거인>을 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "1950년대 손창섭 소설에 나타난 ‘죽음’과 ‘사랑’의 공동체 연구-모리스 블랑쇼와 장 뤼 낭시의 공동체 사유를 바탕으로-",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 3
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 3
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후의 이어령 비평과 하이데거적 실존주의",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "Kierkegaard’s Existentialist Conception of “the Single Individual” and the Evil of Banality",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "사르트르의 실존주의에서 바라본 대한민국의 학생선수",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 4
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장용학 초기 소설에 나타난 실존주의적 인식구조 연구",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "Kierkegaard’s Existentialist Conception of “the Single Individual” and the Evil of Banality",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인공지능 시대, 디지털 유령성과 몽유병적 주체의 분열과 자기-관계의 윤리: 알고리즘적 욕망·불안·유한성에 대한 실존철학과 정신분석학의 교차 분석",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 3
+    },
+    {
+      "source": "1950년대 실존주의 수용사 연구-'교양'으로서의 실존주의를 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 4
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "value": 3
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 3
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "로버트 프로스트 시의 현대성 : 인간과 자연의 관계를 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "value": 29
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "종전/해방 직후(1945.08~1950.05) 남한 담론 공간과 전후 독일․독일인상(像)",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "이상의 모조기독－이상 문학에 나타난 기독교 모티프와 자본주의 비판－",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "1950년대 한국철학계에서의 실존주의 - 박종홍과 조가경을 중심으로 -",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 4
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "고독과 연대의 변증법 ― 하오징팡의 『고독 깊은 곳』을 읽는 한 가지 독법",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "target": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "value": 2
+    },
+    {
+      "source": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "톰 스토파드의 연극『로젠크란츠와 길던스턴은 죽었다』: 반정초주의적 우연성과 자기창조의 의미",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "다시 보부아르로! -실존주의적 페미니즘의 논쟁적 재평가-",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "인간이해에 있어서 실존주의의 두 지평과 가브리엘 마르셀의 상호주관성",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "인간의 위상, 실존주의와 동학을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "김수영 시에 나타난 실존주의적 전망의 긍정성",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "저예산 영화 ‘소림 축구’에 나타난 자기회복에 관한 연구",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "인간의 위상, 실존주의와 동학을 중심으로",
+      "target": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "value": 2
+    },
+    {
+      "source": "인간의 위상, 실존주의와 동학을 중심으로",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "인간의 위상, 실존주의와 동학을 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "실존주의, 모노, 아펠을 바탕으로 한 가치회복 및 허무주의 극복 시도",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "장 누벨 건축에서 드러난 실존주의적 특성에 관한 연구",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "target": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "target": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "키에르케고어 ‘종교적 실존’ 개념을 적용한 윤동주 시의 신학적 분석 — 1940년대 윤동주 후기 시를 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "target": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "value": 2
+    },
+    {
+      "source": "전후 희곡문학과 실존에 대한 갈등- 김상민의 <벼랑에 선 집>과 오학영의 <심연의 다리>에 나타난 섹슈얼리티를 바탕으로 -",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "오학영 희곡 텍스트의 모순성 연구 ―텍스트 내적 구조와 실존주의의 상관성을 중심으로",
+      "target": "실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "target": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "value": 2
+    },
+    {
+      "source": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 3
+    },
+    {
+      "source": "소울라이크 게임의 파편화 스토리텔링에 대한 연구 :<엘든 링>을 중심으로",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "target": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "value": 2
+    },
+    {
+      "source": "유배문화 서사 구조 활용 실존치료 기반 진로성찰 프로그램 구상 방안 - 추사 김정희 유배 서사를 중심으로 -",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    },
+    {
+      "source": "로맹 가리의 『유럽의 교육』 속 교육의 의미 고찰",
+      "target": "간첩설과 타자화, 그리고 실존주의 -강용준, 「광인일기」론-",
+      "value": 2
+    }
+  ],
+  "journal_kpi": {
+    "倫理硏究": {
+      "year": 2024,
+      "if": 2.31,
+      "self_cite": "6%"
+    },
+    "역사와 융합": {
+      "year": 2024,
+      "if": 1.4,
+      "self_cite": "25%"
+    },
+    "신학과 학문": {
+      "year": 2024,
+      "if": 0.73,
+      "self_cite": "21%"
+    },
+    "우리문학연구": {
+      "year": 2024,
+      "if": 1.45,
+      "self_cite": "16%"
+    },
+    "교육사상연구": {
+      "year": 2024,
+      "if": 1.85,
+      "self_cite": "5%"
+    },
+    "비교문학": {
+      "year": 2024,
+      "if": 1.18,
+      "self_cite": "12%"
+    },
+    "현상학과 현대철학": {
+      "year": 2024,
+      "if": 1.44,
+      "self_cite": "25%"
+    },
+    "지식융합연구": {
+      "year": 2024,
+      "if": 1.66,
+      "self_cite": "14%"
+    },
+    "환경교육": {
+      "year": 2024,
+      "if": 2.46,
+      "self_cite": "18%"
+    },
+    "아시아태평양융합연구교류논문지": {
+      "year": 2024,
+      "if": 0.79,
+      "self_cite": "22%"
+    },
+    "지식과 교양": {
+      "year": 2024,
+      "if": 1.34,
+      "self_cite": "11%"
+    },
+    "국제어문": {
+      "year": 2024,
+      "if": 2.22,
+      "self_cite": "15%"
+    },
+    "독어교육": {
+      "year": 2024,
+      "if": 1.81,
+      "self_cite": "20%"
+    },
+    "영어영문학연구": {
+      "year": 2024,
+      "if": 0.85,
+      "self_cite": "12%"
+    },
+    "근대 철학": {
+      "year": 2024,
+      "if": 1.39,
+      "self_cite": "8%"
+    },
+    "현대영미시연구": {
+      "year": 2024,
+      "if": 1.69,
+      "self_cite": "14%"
+    },
+    "영어권문화연구": {
+      "year": 2024,
+      "if": 1.0,
+      "self_cite": "8%"
+    },
+    "현대영미어문학": {
+      "year": 2024,
+      "if": 1.87,
+      "self_cite": "21%"
+    },
+    "문학과 종교": {
+      "year": 2024,
+      "if": 1.97,
+      "self_cite": "17%"
+    },
+    "니체연구": {
+      "year": 2024,
+      "if": 1.86,
+      "self_cite": "21%"
+    },
+    "어문학": {
+      "year": 2024,
+      "if": 0.52,
+      "self_cite": "8%"
+    },
+    "정치사상연구": {
+      "year": 2024,
+      "if": 1.09,
+      "self_cite": "22%"
+    },
+    "서강인문논총": {
+      "year": 2024,
+      "if": 1.86,
+      "self_cite": "15%"
+    },
+    "실천민속학 연구": {
+      "year": 2024,
+      "if": 1.87,
+      "self_cite": "7%"
+    },
+    "한국융합과학회지": {
+      "year": 2024,
+      "if": 1.99,
+      "self_cite": "18%"
+    },
+    "동유럽발칸연구": {
+      "year": 2024,
+      "if": 2.13,
+      "self_cite": "14%"
+    },
+    "한국영상학회논문집": {
+      "year": 2024,
+      "if": 0.73,
+      "self_cite": "22%"
+    },
+    "불어불문학연구": {
+      "year": 2024,
+      "if": 0.67,
+      "self_cite": "13%"
+    },
+    "한국근대문학연구": {
+      "year": 2024,
+      "if": 1.57,
+      "self_cite": "24%"
+    },
+    "비교민속학": {
+      "year": 2024,
+      "if": 0.88,
+      "self_cite": "14%"
+    },
+    "한국지방행정학보": {
+      "year": 2024,
+      "if": 1.75,
+      "self_cite": "16%"
+    },
+    "국어국문학": {
+      "year": 2024,
+      "if": 2.48,
+      "self_cite": "5%"
+    },
+    "한국언어문화": {
+      "year": 2024,
+      "if": 0.52,
+      "self_cite": "14%"
+    },
+    "미술이론과 현장": {
+      "year": 2024,
+      "if": 0.58,
+      "self_cite": "6%"
+    },
+    "중국인문과학": {
+      "year": 2024,
+      "if": 0.99,
+      "self_cite": "25%"
+    },
+    "현대영어영문학": {
+      "year": 2024,
+      "if": 2.3,
+      "self_cite": "15%"
+    },
+    "한국조직신학논총": {
+      "year": 2024,
+      "if": 0.66,
+      "self_cite": "14%"
+    },
+    "禪學(선학)": {
+      "year": 2024,
+      "if": 2.43,
+      "self_cite": "21%"
+    },
+    "인문사회과학연구": {
+      "year": 2024,
+      "if": 1.53,
+      "self_cite": "14%"
+    },
+    "연극교육연구": {
+      "year": 2024,
+      "if": 2.43,
+      "self_cite": "17%"
+    },
+    "학습자중심교과교육연구": {
+      "year": 2024,
+      "if": 2.08,
+      "self_cite": "23%"
+    },
+    "인권법평론": {
+      "year": 2024,
+      "if": 0.95,
+      "self_cite": "22%"
+    },
+    "유럽문화예술학논집": {
+      "year": 2024,
+      "if": 0.76,
+      "self_cite": "11%"
+    },
+    "교회교육·복지실천 연구": {
+      "year": 2024,
+      "if": 0.93,
+      "self_cite": "20%"
+    },
+    "문화와융합": {
+      "year": 2024,
+      "if": 1.0,
+      "self_cite": "16%"
+    },
+    "방정환연구": {
+      "year": 2024,
+      "if": 1.55,
+      "self_cite": "13%"
+    },
+    "한국기독교신학논총": {
+      "year": 2024,
+      "if": 2.36,
+      "self_cite": "17%"
+    },
+    "도덕교육연구": {
+      "year": 2024,
+      "if": 2.21,
+      "self_cite": "5%"
+    },
+    "홍익법학": {
+      "year": 2024,
+      "if": 1.05,
+      "self_cite": "22%"
+    },
+    "프랑스 문화 연구": {
+      "year": 2024,
+      "if": 1.83,
+      "self_cite": "10%"
+    },
+    "헌법학연구": {
+      "year": 2024,
+      "if": 2.45,
+      "self_cite": "14%"
+    },
+    "교육철학연구": {
+      "year": 2024,
+      "if": 1.74,
+      "self_cite": "18%"
+    },
+    "현대문학의 연구": {
+      "year": 2024,
+      "if": 1.64,
+      "self_cite": "18%"
+    },
+    "가톨릭철학": {
+      "year": 2024,
+      "if": 1.82,
+      "self_cite": "11%"
+    },
+    "한국융합학회논문지": {
+      "year": 2024,
+      "if": 1.64,
+      "self_cite": "18%"
+    },
+    "중국어문학": {
+      "year": 2024,
+      "if": 1.52,
+      "self_cite": "7%"
+    },
+    "현대정신분석": {
+      "year": 2024,
+      "if": 1.92,
+      "self_cite": "10%"
+    },
+    "비교한국학 Comparative Korean Studies": {
+      "year": 2024,
+      "if": 2.4,
+      "self_cite": "10%"
+    },
+    "비평문학": {
+      "year": 2024,
+      "if": 1.93,
+      "self_cite": "9%"
+    },
+    "문화기술의 융합": {
+      "year": 2024,
+      "if": 1.73,
+      "self_cite": "22%"
+    },
+    "한민족어문학(구 영남어문학)": {
+      "year": 2024,
+      "if": 2.26,
+      "self_cite": "6%"
+    },
+    "인문사회 21": {
+      "year": 2024,
+      "if": 0.52,
+      "self_cite": "21%"
+    },
+    "이화어문논집": {
+      "year": 2024,
+      "if": 1.5,
+      "self_cite": "5%"
+    },
+    "움직임의 철학 : 한국체육철학회지": {
+      "year": 2024,
+      "if": 1.34,
+      "self_cite": "25%"
+    },
+    "국제언어문학": {
+      "year": 2024,
+      "if": 1.14,
+      "self_cite": "14%"
+    },
+    "헤겔연구": {
+      "year": 2024,
+      "if": 2.2,
+      "self_cite": "25%"
+    },
+    "사이間SAI": {
+      "year": 2024,
+      "if": 1.91,
+      "self_cite": "17%"
+    },
+    "사회와 철학": {
+      "year": 2024,
+      "if": 1.48,
+      "self_cite": "25%"
+    },
+    "중국어문학지": {
+      "year": 2024,
+      "if": 1.98,
+      "self_cite": "8%"
+    },
+    "한민족문화연구": {
+      "year": 2024,
+      "if": 2.5,
+      "self_cite": "16%"
+    },
+    "동서철학연구": {
+      "year": 2024,
+      "if": 1.07,
+      "self_cite": "6%"
+    },
+    "신학과철학": {
+      "year": 2024,
+      "if": 2.38,
+      "self_cite": "23%"
+    },
+    "철학논총": {
+      "year": 2024,
+      "if": 1.8,
+      "self_cite": "11%"
+    },
+    "동학학보": {
+      "year": 2024,
+      "if": 2.2,
+      "self_cite": "20%"
+    },
+    "철학연구": {
+      "year": 2024,
+      "if": 1.91,
+      "self_cite": "7%"
+    },
+    "대한건축학회연합논문집": {
+      "year": 2024,
+      "if": 0.96,
+      "self_cite": "22%"
+    },
+    "열린유아교육연구": {
+      "year": 2024,
+      "if": 1.61,
+      "self_cite": "15%"
+    },
+    "어문론집": {
+      "year": 2024,
+      "if": 2.27,
+      "self_cite": "25%"
+    },
+    "PREVIEW : 디지털영상학술지": {
+      "year": 2024,
+      "if": 2.42,
+      "self_cite": "13%"
+    },
+    "초등도덕교육": {
+      "year": 2024,
+      "if": 1.9,
+      "self_cite": "22%"
+    },
+    "문학교육학": {
+      "year": 2024,
+      "if": 2.35,
+      "self_cite": "16%"
+    },
+    "기전문화연구": {
+      "year": 2024,
+      "if": 1.32,
+      "self_cite": "22%"
+    },
+    "어린이문학교육연구": {
+      "year": 2024,
+      "if": 2.29,
+      "self_cite": "13%"
+    }
+  },
+  "affiliation_ratio": [
+    {
+      "name": "고려대학교",
+      "value": 50
+    },
+    {
+      "name": "서울대학교",
+      "value": 41
+    },
+    {
+      "name": "연세대학교",
+      "value": 32
+    },
+    {
+      "name": "중앙대학교",
+      "value": 31
+    },
+    {
+      "name": "한국외국어대학교",
+      "value": 30
+    },
+    {
+      "name": "경희대학교",
+      "value": 26
+    },
+    {
+      "name": "동국대학교",
+      "value": 26
+    },
+    {
+      "name": "부산대학교",
+      "value": 21
+    },
+    {
+      "name": "성균관대학교",
+      "value": 21
+    },
+    {
+      "name": "단국대학교",
+      "value": 18
+    }
+  ],
+  "author_network": {
+    "nodes": [
+      {
+        "id": "변광배",
+        "name": "변광배",
+        "value": 31,
+        "category": "Micro Focus",
+        "micro": 28,
+        "macro": 3,
+        "symbolSize": 40
+      },
+      {
+        "id": "지영래",
+        "name": "지영래",
+        "value": 26,
+        "category": "Micro Focus",
+        "micro": 20,
+        "macro": 6,
+        "symbolSize": 40
+      },
+      {
+        "id": "윤정임",
+        "name": "윤정임",
+        "value": 20,
+        "category": "Micro Focus",
+        "micro": 15,
+        "macro": 5,
+        "symbolSize": 40
+      },
+      {
+        "id": "오은하",
+        "name": "오은하",
+        "value": 17,
+        "category": "Micro Focus",
+        "micro": 17,
+        "macro": 0,
+        "symbolSize": 40
+      },
+      {
+        "id": "이솔",
+        "name": "이솔",
+        "value": 14,
+        "category": "Micro Focus",
+        "micro": 12,
+        "macro": 2,
+        "symbolSize": 40
+      },
+      {
+        "id": "강초롱",
+        "name": "강초롱",
+        "value": 11,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 10,
+        "symbolSize": 40
+      },
+      {
+        "id": "강충권",
+        "name": "강충권",
+        "value": 11,
+        "category": "Micro Focus",
+        "micro": 10,
+        "macro": 1,
+        "symbolSize": 40
+      },
+      {
+        "id": "오장환",
+        "name": "오장환",
+        "value": 9,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 8,
+        "symbolSize": 36
+      },
+      {
+        "id": "이성환",
+        "name": "이성환",
+        "value": 9,
+        "category": "Micro Focus",
+        "micro": 9,
+        "macro": 0,
+        "symbolSize": 36
+      },
+      {
+        "id": "이명곤",
+        "name": "이명곤",
+        "value": 7,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 6,
+        "symbolSize": 28
+      },
+      {
+        "id": "김진규",
+        "name": "김진규",
+        "value": 7,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 6,
+        "symbolSize": 28
+      },
+      {
+        "id": "이기언",
+        "name": "이기언",
+        "value": 7,
+        "category": "Bridge Node",
+        "micro": 4,
+        "macro": 3,
+        "symbolSize": 28
+      },
+      {
+        "id": "장근상",
+        "name": "장근상",
+        "value": 7,
+        "category": "Micro Focus",
+        "micro": 7,
+        "macro": 0,
+        "symbolSize": 28
+      },
+      {
+        "id": "조현천",
+        "name": "조현천",
+        "value": 6,
+        "category": "Bridge Node",
+        "micro": 3,
+        "macro": 3,
+        "symbolSize": 24
+      },
+      {
+        "id": "한상연",
+        "name": "한상연",
+        "value": 6,
+        "category": "Micro Focus",
+        "micro": 5,
+        "macro": 1,
+        "symbolSize": 24
+      },
+      {
+        "id": "류호인",
+        "name": "류호인",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 4,
+        "symbolSize": 20
+      },
+      {
+        "id": "양미영",
+        "name": "양미영",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 4,
+        "symbolSize": 20
+      },
+      {
+        "id": "설민",
+        "name": "설민",
+        "value": 5,
+        "category": "Micro Focus",
+        "micro": 4,
+        "macro": 1,
+        "symbolSize": 20
+      },
+      {
+        "id": "권혁정",
+        "name": "권혁정",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 2,
+        "macro": 3,
+        "symbolSize": 20
+      },
+      {
+        "id": "김모세",
+        "name": "김모세",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 3,
+        "macro": 2,
+        "symbolSize": 20
+      },
+      {
+        "id": "김현화",
+        "name": "김현화",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 2,
+        "macro": 3,
+        "symbolSize": 20
+      },
+      {
+        "id": "김유중",
+        "name": "김유중",
+        "value": 5,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 5,
+        "symbolSize": 20
+      },
+      {
+        "id": "강미라",
+        "name": "강미라",
+        "value": 5,
+        "category": "Micro Focus",
+        "micro": 4,
+        "macro": 1,
+        "symbolSize": 20
+      },
+      {
+        "id": "정지은",
+        "name": "정지은",
+        "value": 5,
+        "category": "Bridge Node",
+        "micro": 3,
+        "macro": 2,
+        "symbolSize": 20
+      },
+      {
+        "id": "이창석",
+        "name": "이창석",
+        "value": 5,
+        "category": "Micro Focus",
+        "micro": 5,
+        "macro": 0,
+        "symbolSize": 20
+      },
+      {
+        "id": "조영훈",
+        "name": "조영훈",
+        "value": 5,
+        "category": "Micro Focus",
+        "micro": 5,
+        "macro": 0,
+        "symbolSize": 20
+      },
+      {
+        "id": "박민규",
+        "name": "박민규",
+        "value": 4,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 3,
+        "symbolSize": 16
+      },
+      {
+        "id": "김정현",
+        "name": "김정현",
+        "value": 4,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 3,
+        "symbolSize": 16
+      },
+      {
+        "id": "남지연",
+        "name": "남지연",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "나종석",
+        "name": "나종석",
+        "value": 4,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 3,
+        "symbolSize": 16
+      },
+      {
+        "id": "김영철",
+        "name": "김영철",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "변종민",
+        "name": "변종민",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "박정태",
+        "name": "박정태",
+        "value": 4,
+        "category": "Bridge Node",
+        "micro": 2,
+        "macro": 2,
+        "symbolSize": 16
+      },
+      {
+        "id": "차지연",
+        "name": "차지연",
+        "value": 4,
+        "category": "Micro Focus",
+        "micro": 3,
+        "macro": 1,
+        "symbolSize": 16
+      },
+      {
+        "id": "강선보",
+        "name": "강선보",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "조선희",
+        "name": "조선희",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "김정란",
+        "name": "김정란",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "신인섭",
+        "name": "신인섭",
+        "value": 4,
+        "category": "Micro Focus",
+        "micro": 3,
+        "macro": 1,
+        "symbolSize": 16
+      },
+      {
+        "id": "심승환",
+        "name": "심승환",
+        "value": 4,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 4,
+        "symbolSize": 16
+      },
+      {
+        "id": "박지영",
+        "name": "박지영",
+        "value": 4,
+        "category": "Micro Focus",
+        "micro": 3,
+        "macro": 1,
+        "symbolSize": 16
+      },
+      {
+        "id": "김길웅",
+        "name": "김길웅",
+        "value": 4,
+        "category": "Bridge Node",
+        "micro": 2,
+        "macro": 2,
+        "symbolSize": 16
+      },
+      {
+        "id": "강준수",
+        "name": "강준수",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "오태호",
+        "name": "오태호",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "최원호",
+        "name": "최원호",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "이정원",
+        "name": "이정원",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "방민호",
+        "name": "방민호",
+        "value": 3,
+        "category": "Micro Focus",
+        "micro": 2,
+        "macro": 1,
+        "symbolSize": 12
+      },
+      {
+        "id": "강유원",
+        "name": "강유원",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "강대석",
+        "name": "강대석",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "배상식",
+        "name": "배상식",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "강용수",
+        "name": "강용수",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "전소영",
+        "name": "전소영",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "조광제",
+        "name": "조광제",
+        "value": 3,
+        "category": "Micro Focus",
+        "micro": 2,
+        "macro": 1,
+        "symbolSize": 12
+      },
+      {
+        "id": "오주리",
+        "name": "오주리",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "이행선",
+        "name": "이행선",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "임경수",
+        "name": "임경수",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "정일권",
+        "name": "정일권",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "이화식",
+        "name": "이화식",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "정은경",
+        "name": "정은경",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "이병승",
+        "name": "이병승",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "신교남",
+        "name": "신교남",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "김동규",
+        "name": "김동규",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "서상범",
+        "name": "서상범",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "백승진",
+        "name": "백승진",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "김주언",
+        "name": "김주언",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "임영봉",
+        "name": "임영봉",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "홍덕선",
+        "name": "홍덕선",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "정경은",
+        "name": "정경은",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "양아람",
+        "name": "양아람",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "이현정",
+        "name": "이현정",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "양은창",
+        "name": "양은창",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "정대성",
+        "name": "정대성",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "김성봉",
+        "name": "김성봉",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "천정환",
+        "name": "천정환",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "김재철",
+        "name": "김재철",
+        "value": 3,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 2,
+        "symbolSize": 12
+      },
+      {
+        "id": "하피터",
+        "name": "하피터",
+        "value": 3,
+        "category": "Micro Focus",
+        "micro": 2,
+        "macro": 1,
+        "symbolSize": 12
+      },
+      {
+        "id": "김희봉",
+        "name": "김희봉",
+        "value": 3,
+        "category": "Micro Focus",
+        "micro": 2,
+        "macro": 1,
+        "symbolSize": 12
+      },
+      {
+        "id": "신문궤",
+        "name": "신문궤",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "서향숙",
+        "name": "서향숙",
+        "value": 3,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 3,
+        "symbolSize": 12
+      },
+      {
+        "id": "임지혜",
+        "name": "임지혜",
+        "value": 3,
+        "category": "Micro Focus",
+        "micro": 3,
+        "macro": 0,
+        "symbolSize": 12
+      },
+      {
+        "id": "김남준",
+        "name": "김남준",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이창호",
+        "name": "이창호",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "최현주",
+        "name": "최현주",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "정용환",
+        "name": "정용환",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "박유정",
+        "name": "박유정",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "유한준",
+        "name": "유한준",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김진영",
+        "name": "김진영",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "Zhou Yufeng",
+        "name": "Zhou Yufeng",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김선옥",
+        "name": "김선옥",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "조영호",
+        "name": "조영호",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "홍성규",
+        "name": "홍성규",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김대중",
+        "name": "김대중",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "이상원",
+        "name": "이상원",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "편무영",
+        "name": "편무영",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "최희진",
+        "name": "최희진",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "안태하",
+        "name": "안태하",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "송영숙",
+        "name": "송영숙",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이수진",
+        "name": "이수진",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "나진환",
+        "name": "나진환",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김성수",
+        "name": "김성수",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "노혜진",
+        "name": "노혜진",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "이신형",
+        "name": "이신형",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "이한진",
+        "name": "이한진",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "문경훈",
+        "name": "문경훈",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "고연수",
+        "name": "고연수",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이소영",
+        "name": "이소영",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "정명교",
+        "name": "정명교",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김리안",
+        "name": "김리안",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "신은경",
+        "name": "신은경",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "신민철",
+        "name": "신민철",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "문성훈",
+        "name": "문성훈",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "박정근",
+        "name": "박정근",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "신승환",
+        "name": "신승환",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "송창연",
+        "name": "송창연",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "배재훈",
+        "name": "배재훈",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이예훈",
+        "name": "이예훈",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "김지연",
+        "name": "김지연",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "빙원철",
+        "name": "빙원철",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김혜진",
+        "name": "김혜진",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "최욱",
+        "name": "최욱",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "김성중",
+        "name": "김성중",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "황훈성",
+        "name": "황훈성",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "이민애",
+        "name": "이민애",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "배경열",
+        "name": "배경열",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "이석영",
+        "name": "이석영",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "서승희",
+        "name": "서승희",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김영인",
+        "name": "김영인",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이상호",
+        "name": "이상호",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "김용환",
+        "name": "김용환",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "장지원",
+        "name": "장지원",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "장인식",
+        "name": "장인식",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "박미영",
+        "name": "박미영",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김선하",
+        "name": "김선하",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "김광호",
+        "name": "김광호",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "박인실",
+        "name": "박인실",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "김점석",
+        "name": "김점석",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "金艶",
+        "name": "金艶",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "이승하",
+        "name": "이승하",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "최창근",
+        "name": "최창근",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "송승훈",
+        "name": "송승훈",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "최재정",
+        "name": "최재정",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "나병우",
+        "name": "나병우",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "Yves Millet",
+        "name": "Yves Millet",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "Jean-Charles Jambon",
+        "name": "Jean-Charles Jambon",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "연남경",
+        "name": "연남경",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "박현정",
+        "name": "박현정",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "송태효",
+        "name": "송태효",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "조창현",
+        "name": "조창현",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "권구현",
+        "name": "권구현",
+        "value": 2,
+        "category": "Macro Focus",
+        "micro": 0,
+        "macro": 2,
+        "symbolSize": 10
+      },
+      {
+        "id": "황혜경",
+        "name": "황혜경",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      },
+      {
+        "id": "박영신",
+        "name": "박영신",
+        "value": 2,
+        "category": "Bridge Node",
+        "micro": 1,
+        "macro": 1,
+        "symbolSize": 10
+      }
+    ],
+    "links": [
+      {
+        "source": "Zhou Yufeng",
+        "target": "최원호",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "조영호",
+        "target": "홍성규",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "고연수",
+        "target": "이소영",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "강유원",
+        "target": "신민철",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "송창연",
+        "target": "오장환",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "권혁정",
+        "target": "빙원철",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "김영인",
+        "target": "서승희",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "권혁정",
+        "target": "이상호",
+        "value": 5,
+        "type": "coauthor"
+      },
+      {
+        "source": "권구현",
+        "target": "이병승",
+        "value": 5,
+        "type": "coauthor"
+      },
+      {
+        "source": "신교남",
+        "target": "이병승",
+        "value": 10,
+        "type": "coauthor"
+      },
+      {
+        "source": "양아람",
+        "target": "이행선",
+        "value": 5,
+        "type": "coauthor"
+      },
+      {
+        "source": "김모세",
+        "target": "변광배",
+        "value": 5,
+        "type": "coauthor"
+      },
+      {
+        "source": "변광배",
+        "target": "지영래",
+        "value": 4,
+        "type": "journal"
+      },
+      {
+        "source": "변광배",
+        "target": "윤정임",
+        "value": 4,
+        "type": "journal"
+      },
+      {
+        "source": "변광배",
+        "target": "오은하",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "지영래",
+        "target": "윤정임",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "지영래",
+        "target": "오은하",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "지영래",
+        "target": "강초롱",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "지영래",
+        "target": "강충권",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "윤정임",
+        "target": "오은하",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "윤정임",
+        "target": "조영훈",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "오은하",
+        "target": "강충권",
+        "value": 3,
+        "type": "journal"
+      },
+      {
+        "source": "강초롱",
+        "target": "강충권",
+        "value": 3,
+        "type": "journal"
+      }
+    ]
+  }
+};

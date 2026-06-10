@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleSearch</apiCode>
+    <keyword>사르트르 자유</keyword>
+    <page>1</page>
+    <displayCount>100</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <total>20</total>
+    </result>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2026</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>108</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003318164">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[나의 자유는 어떻게 타인의 자유를 요구하는가? : 사르트르 자유 개념의 존재론적 재구성]]></article-title>
+          <article-title lang="english"><![CDATA[How Does My Freedom Require the Freedom of Others? An Ontological Reconstruction of Sartre’s Concept of Freedom]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyun Jung PARK">박현정(서울대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르 철학에서 개인의 자유가 어떻게 타인의 자유와 내재적으로 연결되는지를 밝히기 위해 자유의 존재론적 구조를 분석한다. 기존 해석들은 나와 타인의 자유 사이의 관계를 부분적으로 외재적인 것으로 설명해 왔으며, 그 결과 자유와 상호성의 존재론적 결합은 충분히 긴밀하게 해명되지 못한 채 남아 있었다. 본 연구는 이러한 한계가 자유의 존재론적 구조 자체를 충분히 검토하지 않은 데서 비롯된 것이라고 비판한다.
+본 논문은 자유를 사실성으로부터의 초월이라는 자기 관계적 운동으로 재정식화하고, 이 구조 안에서 타인의 자유가 나의 자유가 성립하기 위한 내적 계기로 작동함을 보인다. 타인은 나를 객체화함으로써 내가 넘어설 구체적 사실성을 제공하는 동시에, 공동 실천 속에서 나의 초월을 촉발하고 증폭시키는 상호 매개의 역할을 수행한다. 이러한 분석은 자유가 타인을 단순한 제한으로만 다루는 것이 아니라, 함께 존재함으로써 오히려 자기 자신을 형성하고 현실화하는 관계적 운동임을 드러낸다.
+이로써 사르트르의 자유 개념은 개인주의적 자유라는 통상적 이해를 넘어, 상호 공존의 가능성을 그 존재론적 구조 안에서부터 함축하고 있음이 밝혀진다. 본 논문은 자유와 상호성 사이의 간극을 외재적 규범으로 메우는 대신, 자유의 구조 자체 안에서 재구성함으로써 개인의 자유에 근거한 보편 윤리의 존재론적 토대를 제시한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analyzes the ontological structure of freedom in Sartre in order to clarify how individual freedom is intrinsically connected to the freedom of others. Prevailing interpretations have tended to treat the relation between my freedom and that of others as partially external, leaving the ontological unity of freedom and reciprocity insufficiently elucidated. This study argues that this limitation arises from an inadequate examination of the ontological structure of freedom itself.
+The paper rearticulates freedom as a self relational movement of transcendence from facticity and demonstrates that, within this structure, the freedom of others functions as an internal moment in the constitution of my own freedom. The other provides the concrete facticity that I must transcend by objectifying me, while at the same time, within shared praxis, playing a mediating role that provokes and intensifies my transcendence. This analysis shows that freedom does not merely encounter the other as a limitation but unfolds as a relational movement in which the self is formed and actualized through being with others.
+In this way, Sartre’s concept of freedom is shown to imply, at the level of its ontological structure, the possibility of coexistence beyond the conventional interpretation of freedom as individualistic. Rather than bridging the gap between freedom and reciprocity through external norms, this paper reconstructs their connection within the structure of freedom itself, thereby presenting an ontological foundation for a universal ethics grounded in individual freedom.]]></abstract>
+        </abstract-group>
+        <fpage>68</fpage>
+        <lpage>99</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003318164]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현대영미시연구</journal-name>
+        <publisher-name>한국현대영미시학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>31</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003216512">
+        <article-categories>영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[밥 딜런의 가사에 내재된 ‘자유’의 실존주의적 함의]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Existential Implications of “Freedom” in Bob Dylan’s Lyrics]]></article-title>
+          <article-title lang="english"><![CDATA[The Existential Implications of “Freedom” in Bob Dylan’s Lyrics]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Yeong-Ho Cho">조영호(경희대학교)</author>
+          <author english="Sung-Kyoo Hong">홍성규(경희대학교 대학원 포스트모던음악학과)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper analyzes the existential implications of “freedom” embedded in the lyrics of Bob Dylan through the lens of Jean-Paul Sartre’s existentialist philosophy. Centered on Dylan’s 1960s works, it investigates how his poetic voice intersects with Sartre’s core existential concepts. Set against the sociopolitical context of the Vietnam War, civil rights movements, and the Beat Generation, Dylan’s music resonates with Sartrean themes of radical freedom and individual responsibility. Songs such as “Blowin’ in the Wind” and “The Times They Are a-Changin’” clearly express Sartre’s spirit of engagement, emphasizing the artist’s moral involvement in history and society. After 1964, Dylan’s lyrics begin to reveal deeper existential inquiries, particularly through the concept of être-pour-autrui (being-for-others). His 1965-1966 compositions are especially rich in existential meaning. This study discusses that Dylan’s lyrics during this period reflect four Sartrean dimensions of freedom as outlined in Being and Nothingness: freedom as the condition for action, freedom within limitation, freedom in anxiety, and freedom through engagement. These categories serve as interpretive tools for understanding Dylan’s work beyond protest music. Through this study, Dylan’s music is positioned as more than resistance art; it becomes an extension of existential literature and a valuable form of popular art that provides philosophical insight into the nature of freedom.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper analyzes the existential implications of “freedom” embedded in the lyrics of Bob Dylan through the lens of Jean-Paul Sartre’s existentialist philosophy. Centered on Dylan’s 1960s works, it investigates how his poetic voice intersects with Sartre’s core existential concepts. Set against the sociopolitical context of the Vietnam War, civil rights movements, and the Beat Generation, Dylan’s music resonates with Sartrean themes of radical freedom and individual responsibility. Songs such as “Blowin’ in the Wind” and “The Times They Are a-Changin’” clearly express Sartre’s spirit of engagement, emphasizing the artist’s moral involvement in history and society. After 1964, Dylan’s lyrics begin to reveal deeper existential inquiries, particularly through the concept of être-pour-autrui (being-for-others). His 1965-1966 compositions are especially rich in existential meaning. This study discusses that Dylan’s lyrics during this period reflect four Sartrean dimensions of freedom as outlined in Being and Nothingness: freedom as the condition for action, freedom within limitation, freedom in anxiety, and freedom through engagement. These categories serve as interpretive tools for understanding Dylan’s work beyond protest music. Through this study, Dylan’s music is positioned as more than resistance art; it becomes an extension of existential literature and a valuable form of popular art that provides philosophical insight into the nature of freedom.]]></abstract>
+        </abstract-group>
+        <fpage>57</fpage>
+        <lpage>88</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22536/bapoet.2025.31.1.57]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003216512]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>프랑스학연구</journal-name>
+        <publisher-name>프랑스학회</publisher-name>
+        <pub-year>2011</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume />
+        <issue>55</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001526625">
+        <article-categories>프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[『구토』와『요한시집』의 비교]]></article-title>
+          <article-title lang="foreign"><![CDATA[Etude comparative sur La Nausée et Poème de Jean]]></article-title>
+          <article-title lang="english"><![CDATA[Etude comparative sur La Nausée et Poème de Jean]]></article-title>
+        </title-group>
+        <author-group>
+          <author>이재룡(숭실대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[L'existentialisme est connu en Corée au milieu des année 40 et discuté d'une faon plus sérieuse pendant la guerre coréenne. La guerre a certes provoqué la prise de conscience sur la conditon humaine et la réflexion d'ordre existentiel. Les auteurs coréens d'alors, sensibles aux mouvements littéraires des autres pays se penchent donc à l'existentialisme d'origine franaise notamment celui de Sartre.
+Jang Yong-Hak, auteur de Poème de Jean, affirme qu'il a été inspiré de La Nausée et de ce fait, ce roman est considéré comme un des romans de l'existentialisme coréen. Cela incitait les chercheurs aux études comparatives. Le point de départ de leur recherches consiste à dire que l'expérience commune de la guerre rapproche deux auteurs et que deux romans partagent presque mê̂me thème, celui de la liberté. Or, La Nausée est, comme on le sait bien, conu et rédigé avant la deuxième guerre et la situation dans laquelle Roquentin se trouve à Bouvile n'a rien de comparable avec celle de la guerre vécue par Dongho et d'autres personnages de Poème de Jean. Et La Nausée est construit sur le thème de la contingence auquel reste indifférent le roman de Jang.
+Une des différence qui sépare Roquentin de Dongho consiste en leur sens de histoire et conscience de la responsabilté. Face à la guerre les personnages de Jang Yong-Hak sont obligés d'assumer le rô̂le historique, et de réflechir sur leur identités sociales tandis que Roquentin prend une attitude distante et observatrice vis-à-vis des autres et ne cherche nullement à nouer une relation positive. La solidarité humaine n'effleure jamais son esprit. Si Roquentin est jeté dans Bouville sans aucune attache affective, Dongho et Nouhai sont marqués par le sens de solidadité colletive qui constitue leur identité, autrement dit leur essence. Ce qui rapproche Dongho et Roquention, c'est leur réaction à l'approche sexuel. L'expérience de camps de prisonnier provoque une forte répulsion qui mérite une analyse psychanalytique. On peut supposer que s'il y a une résonnance entre deux auteurs, cela aurait s'opérer sur le plan inconscient, mais il reste à le prouver à l'appui de l'analyse approfondie en ce sens.]]></abstract>
+          <abstract lang="english"><![CDATA[L'existentialisme est connu en Corée au milieu des année 40 et discuté d'une faon plus sérieuse pendant la guerre coréenne. La guerre a certes provoqué la prise de conscience sur la conditon humaine et la réflexion d'ordre existentiel. Les auteurs coréens d'alors, sensibles aux mouvements littéraires des autres pays se penchent donc à l'existentialisme d'origine franaise notamment celui de Sartre.
+Jang Yong-Hak, auteur de Poème de Jean, affirme qu'il a été inspiré de La Nausée et de ce fait, ce roman est considéré comme un des romans de l'existentialisme coréen. Cela incitait les chercheurs aux études comparatives. Le point de départ de leur recherches consiste à dire que l'expérience commune de la guerre rapproche deux auteurs et que deux romans partagent presque mê̂me thème, celui de la liberté. Or, La Nausée est, comme on le sait bien, conu et rédigé avant la deuxième guerre et la situation dans laquelle Roquentin se trouve à Bouvile n'a rien de comparable avec celle de la guerre vécue par Dongho et d'autres personnages de Poème de Jean. Et La Nausée est construit sur le thème de la contingence auquel reste indifférent le roman de Jang.
+Une des différence qui sépare Roquentin de Dongho consiste en leur sens de histoire et conscience de la responsabilté. Face à la guerre les personnages de Jang Yong-Hak sont obligés d'assumer le rô̂le historique, et de réflechir sur leur identités sociales tandis que Roquentin prend une attitude distante et observatrice vis-à-vis des autres et ne cherche nullement à nouer une relation positive. La solidarité humaine n'effleure jamais son esprit. Si Roquentin est jeté dans Bouville sans aucune attache affective, Dongho et Nouhai sont marqués par le sens de solidadité colletive qui constitue leur identité, autrement dit leur essence. Ce qui rapproche Dongho et Roquention, c'est leur réaction à l'approche sexuel. L'expérience de camps de prisonnier provoque une forte répulsion qui mérite une analyse psychanalytique. On peut supposer que s'il y a une résonnance entre deux auteurs, cela aurait s'opérer sur le plan inconscient, mais il reste à le prouver à l'appui de l'analyse approfondie en ce sens.]]></abstract>
+        </abstract-group>
+        <fpage>245</fpage>
+        <lpage>276</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001526625]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>불어불문학연구</journal-name>
+        <publisher-name>한국불어불문학회</publisher-name>
+        <pub-year>2011</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>85</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001535790">
+        <article-categories>프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[L'écriture de la guerre et les femmes chez Sartre]]></article-title>
+          <article-title lang="foreign"><![CDATA[사르트르의 전쟁의 글쓰기와 여성]]></article-title>
+          <article-title lang="english"><![CDATA[L'écriture de la guerre et les femmes chez Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="CHO Yeung-Hun">조영훈(전남대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 제2차 세계대전을 배경으로 하고 있는 사르트르의 소설 『자유의 길』3부작 (『철들 무렵』, 『유예』, 『영혼 속의 죽음』그리고 미완의 『기이한 우정』)과 «야릇한 전쟁» 기간 동안 병사 사르트르에 의해 쓰인 『전쟁 수첩』과 편지를 중심으로 사르트르의 여성관을 재조명하고 있다. 전쟁 소설에서 여성들은 부수적인 역할만을 담당한다. 병사가 될 수 있는 <특권>이 박탈되어 있는 여성들에게 전쟁은 소설 사회 속에서의 시민권을 거부한다. 원시시대 이래 전쟁은 노동의 성적 분배에 중대한 영향을 미친다. 시몬 드 보부아르는 『제2의 성』에서 “생명을 부여하면서가 아니라 자신의 생명을 걸면서 인간은 동물 상태를 넘어선다. 따라서 인류에게 있어서 우월성은 낳는 성이 아닌 죽이는 성에게 부여되었다”라고 지적한다.
+『구토』에서 『자유의 길』에 이르기까지 소설가 사르트르는 여성 인물들의 무기력하고 수동적이며 범용하고 보수적인 면모들을 부각시킴으로써 여성적인 것에 결정론적 <본성>을 부여하는 듯하며, 사르트르에게 있어 남성/여성의 이분법과 자유로운 존재/응고된 존재의 이분법이 일치하고 있는 듯하다. 이와 같은 여성성의 부정적 표상은 철학자 사르트르의 자유의 인간학을 조금이라도 알고 있는 독자들을 당혹시키기에 충분하다. 사르트르에 의하면 인간은 무엇보다도 미래를 향해 자신을 투기하는 자이다. 실존철학은 이미 결정된 본질로서의 그리고 영속적 규정으로서의 인간 본성의 관념을 거부한다. 이러한 관점에서 Dorothy Mac Call은 실존철학은 그 자체 논리 속에서 페미니즘을 포함(해야)한다고 주장한다. 그러나 철학적 이념과 소설적 재현 사이의 모순은 쉽게 해소될 것 같지 않다. 이상주의적, 교화주의적 자유의 철학을 설파하는 철학자 바로 옆에 좀 더 사실주의적이고 비관론에 사로잡힌 소설가를 보는 셈이다. 따라서 Suzanne Lilar와 Michèle Le Doeuff 등과 함께 사르트르의 철학적 이론과 허구의 작품 간에 모순이 있는가라는 질문을 다시 해 봐야 한다.
+비평가들은 사르트르가 여성을 주로 <점액질visqueux>이라는 물질적 이미지로 비유하고 있다고 비판한다. 그러나 <점액질>의 물질성은 그 자체로 부정적인 것은 아니다. 『구토』의 체험은 인간과 세계와의 진정한 만남은 기존 질서체계의 의미를 벗어버린 사물들과의 몽환적 접촉에서 시작되며, 이때 <점액질>을 포함한 범람, 유동, 증식의 물질성은 진정한 창조적 모험의 출발을 상징할 수도 있다는 사실을 보여준다. <점액질>은 긍정적, 부정적 두 방향으로 여가(與價)되어 각각 <바다>와 <식물>의 테마를 발생시킨다. 사르트르에 있어 여성의 이미지는 수동성을 의미하는 <식물>의 테마와 유사성을 보인다. 『구토』에서 이미 꿈틀대기 시작한 <바다>는 『유예』에서 거대한 운동의 힘으로 드러난다. 『구토』에서 화자가 빈번히 드나드는 “역부회관”은 서로 대립하는 두 세계로 구성되며, 작품의 결구에서 로캉탱은 순수한 운동으로 표상되는 <재즈>의 세계를 선택하며 기차를 타고 모험을 떠난다. 『자유의 길』에서 <교통기관에 승선하기>는 가장 중요한 라이트 모티브를 형성한다. 『유예』에서 징집병들을 전선으로 실어나르는 <기차의 옆질roulis du train>은 전쟁의 위기의 가속화를, 『영혼 속의 죽음』에서 포로가 된 병사들이 종착지도 모른 채 실려가는 기차의 선로의 분기점은 집단적 운명의 갈림길을 상징한다. 『유예』의 바다에서 표류하는 기선은 뮌헨 협정의 위기를 통과하는 전 유럽을 환유한다. 이때 <배의 키질tangage du bateau>은 작품의 모든 요소들을 동조화시키는 공명기로써 작용한다. 『구토』에서의 모험-운동의 세계와 여성-식물의 세계의 대립은 『자유의 길』에서 교통기관에 승선하기-전쟁에 들어가기와 교통기관에서 하선하기-전쟁에서 나오기의 대립으로 확대 발전된다.
+많은 비평가들은 『구토』의 Anny와 『자유의 길』의 Ivich 만은 사르트르가 여성에게 가한 부정적 판단에서 벗어난 인물이라고 믿는다. 안니는 미모와 지성을 겸비한, 프루스트 식의 <완벽한 순간>을 추구하는 여성이다. 안니의 예술적․연극적 삶은 언제나 로캉탱에게 동경의 대상이었으며, 로캉탱은 안니와의 재회를 통해 자신의 구원을 모색한다. 안니는 사르트르가 몇 년간 관계를 맺었던 실제 여성을 모델로 가장 심혈을 기울여 형상화한 인물이다. 그러나 «야릇한 전쟁» 기간 동안 병사-작가 사르트르에 의해 쓰인 편지에는 『구토』의 작가가 보여준 바와는 사뭇 다른 태도가 나타난다. “내면적 자아”의 신화를 신봉했던 여성은 전쟁의 위협 앞에서 <n'importe qui>로 환원된 자신의 모습에 괴로워한다. 『철들 무렵』의 이비크는 마티외에게 젊음의 향수를 불러일으키는 인물이다. 러시아 혁명 때에 망명한 귀족가문 출신으로 세계적 위기 상황에 민감한 이 인물은 소설의 공간 속에 <배의 갑판 위의 이민자들émigrants sur un pont de bateau>라는 테마를 발생시켜, 스페인 전쟁 패배 후 미국으로 망명한 고메즈, 『영혼 속의 죽음』의 프랑스 군대의 패주 속의 마티외, 포로들의 집단적 강제 유형, 그리고 『기이한 우정』의 수용소에서 레지스탕스를 조직하는 브뤼네에게 연속적으로 반향을 일으키는 중요한 인물로 등장하나, 정작 본인은 교통기관에 승선하여 현기증나는 운동 속에서 전쟁이라는 <여행-시련voyage-épreuve>을 체험함으로써 존재론적 상승을 하는 <특권>을 향유하지 못한다. 가령, 『유예』에서 최초의 척추병 환자들의 강제 수송에서 짐짝처럼 화물칸에 실린 샤를르와 카트린느가 기차의 질주 속에서 인간으로서의 존엄을 회복하며 사랑을 획득하는 것처럼, 이비크와 마티외의 사랑도 교통기관 안에서 시작된다. 그러나 이번에는 파리 도심을 통과하는 택시 속에서다. 택시는 잦은 멈춤과 느린 속도로 인해 일상적 시간성의 엄습으로부터 사랑의 자발성을 보호해주지 못한다. 그것은 막 태어나자 마자 이미 낡아버린 사랑으로 전락한다.
+사르트르 소설에서 문제가 없는 유일한 관계는 『유예』와 『영혼 속의 죽음』에 등장하여 마티외와 단 한번의 사랑을 나누는 Irène와의 관계이다. 그들은 서로의 이름도 모른채 <n'importe qui>로서 “익명의 하룻밤”을 공유한다. 이렌느 외에 긍정적으로 표상된 여성으로는 『구토』에서 재즈를 부르는 흑인 여가수와, 셍고르가 편집했던 『불어로 쓰여진 아프리카 흑인 시전집』의 서문인 「검은 오르페」에서 사르트르가 인종 차별 없는 사회의 실현을 목표로 하고 있는 가장 혁명적인 시라고 찬양한 <네그리튀드Négrutude>에 등장하는 흑인 여성을 들 수 있다. 특히, <네그리튀드>의 원천으로서 “인간과 자연과의 합일”, “흑인 남성과 여성과의 결합” 그리고 “식물적 상징들과 성적 상징들 간의 깊은 융합”을 들고 있는 「검은 오르페」는 사르트르에게 있어서 여성과 식물의 이미지가 그 자체로 부정적이지 않음을 여실히 보여주고 있다.
+제2차 세계대전은 사르트르에게 기존 질서 체계의 전면적 붕괴와 새로운 세계의 묵시록적 탄생이라는 전쟁관을 배양한다. 『자유의 길』3부작은 전쟁의 운동 상태에 연결되지 않는 여성성의 여가작용을 부인한다. 1940년대의 사르트르는 계급투쟁과 여성운동은 서로 접목되어야 하지만, 계급투쟁을 가장 시급한 1차적 투쟁으로 여성운동을 부수적 2차적 투쟁으로 보고 있다. 그러나 1975년에 사르트르는 시몬 드 보부아르와의 대담에서 여성운동을 가장 시급한 1차적 투쟁으로 간주하고 있다는 입장을 밝히면서, 그 근거로 부르주아 여성과 하녀 또는 가정부 사이에, 또는 사장의 부인과 노동자의 아내 사이에 가능한 여성으로서의 동질감을 들고 있다. 이러한 태도는 『유예』에서 노동자 모리스의 아내 제제트가 뮌헨 협정의 위기 속에서 전쟁 반대 서명운동을 벌이는 부르주아 여성단체 앞에서 보이는 계급의식과는 묘한 대조를 보인다.
+제2차 세계대전 당시 사르트르의 남성적 원리와 여성적 원리의 대립은 글쓰기의 <성적> 규정에까지 작용한다. «야릇한 전쟁» 기간 동안 병사 사르트르는 일기체 글쓰기로 『전쟁 수첩』과 편지들을 남기고 있으며, 『구토』와 『자유의 길』3부작 중 특히 전쟁의 글쓰기가 극대화된 『유예』또한 날짜가 매겨진 일기의 형식을 띠고 있다. 이 작품들은 잡다한 이종 교배식 글쓰기라는 공동 특징을 지닌다. 각 작품은 동일한 주제 또는 동일한 상황에 연관된 여러 요소들로 구성되어 있는데 이 요소들은 서로 매우 이질적이고 항용 미완성이고 언제라도 새로 시작하며 때로는 상호 파괴적이다. 텍스트는 특히 운동과 자유로운 흐름, 즉흥성과 예측불가능성에 의해 의미를 생산한다. 사르트르에 있어 일기체 글쓰기는 혼란과 동요, 파열과 붕괴가 지배하는 세계 즉 현란한 운동 상태의 세계를 재현하는 탁월한 수단이다. 즉, 사르트르에 있어 일기는 무엇보다도 <전쟁 일기journal guerrier>이다. 그러나 사르트르는 일기체 글쓰기가 지닐 수 있는 내재적 위험에 대해서도 경계한다. 로캉탱은 “내 느낌을 예쁜 새 공책에 계집애들처럼 매일같이 쓰는 일을 그만 두겠다”라며 일시적으로 일기 쓰는 일을 포기하며, 병사-작가는 «야릇한 전쟁» 기간 동안 상당한 시간을 할애하여 여러 작가들의 일기를 읽으면서 “일기의 문제는 진실성이다”라고 개탄한다. 병사 사르트르에게 다른 작가들의 평화로운 시절에 쓰인 <점액질>의 시간성이 침투해 들어와 있는 일기가 어떻게 보였을까 짐작하기 어렵지 않다. 당시의 사르트르에게 있어 운동과 비 운동의 대립, 전쟁 상태와 비 전쟁 상태의 대립은 이처럼 전횡적이어서 자의적 장르 개념을 낳고 있다.]]></abstract>
+        </abstract-group>
+        <fpage>5</fpage>
+        <lpage>37</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001535790]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2018</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>76</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002333248">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르와 윤리의 문제: 자아를 넘어선 초월의 가능성]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre and The Problem of Ethics: The Possibility of Transcendence beyond the Ego]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre and The Problem of Ethics: The Possibility of Transcendence beyond the Ego]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Sol">이솔(서강대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사르트르의 실존주의 철학에서 윤리의 가능성을 타진하고자한다. 사르트르가 『존재와 무』의 결론에서 자신의 차후 과제로 윤리학을 계획했음에도 불구하고 이를 완수하지 못했다는 것은 주지의 사실이며, 이는 실존주의에 대한 오해와 맞물려 사르트르에게 윤리학이란 없거나 혹은 실패한 것이라는바판으로까지 이어져 왔다. 이 논문은 바로 이러한 ‘사르트르의 실존주의 철학이윤리학의 가능성을 가지는가’라는 문제에 대해 해명함을 목적으로 한다. 『도덕을위한 노트』에서 사르트르가 고안했던 윤리학, 그리고 그것의 구체적이며 실천적인 모습을 담고 있는 『문학이란 무엇인가』를 통해 우리는 사르트르에게 있어서윤리의 가능성이란 무엇보다도 ‘자아’로부터 벗어날 수 있는 방법을 찾는 것에있음을 확인할 수 있다. 그에게 있어서 윤리적 문제를 해결하기 위하여 관건이되는 것은 ‘자기기만’으로부터 벗어나는 것이며, 모든 종류의 자기기만은 끈질긴환영과 같이 나를 사로잡는 ‘자아’로부터 비롯된다는 점을 염두에 둘 때, 사르트르 철학의 중심에 결국 윤리에 대한 관심이 놓여 있었음을 부정하기란 어려운일일 것이다. 나아가 ‘사르트르와 윤리의 문제’는 주체를 소거한 채 윤리에 답하고자 골몰하는 현대의 사상적 지형으로부터 탈출구를 발견하기 위한 견지에서의의를 가진다. 사르트르의 실존주의가 모든 종류의 결정론에 대항하여 책임을복권시키는 것을 과제로 삼기에, 구조주의적 사유가 한계에 다다른 지점에서 우리는 사르트르의 철학과 다시 대면할 수밖에 없다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper explores the possibility of ethics in Sartre’s existentialism.
+It is well known that, at the conclusion of the L’être et le néant, Sartre planed to launch a research for ethics, but never carried out this. Along with the misapprehension of existentialism, it has produced a misunderstanding that there is no ethics in his existentialism or he failed to establish ethics. This study is an attempt to defend the question ‘Does Sartre’s existential philosophy have the potential of ethics?’. By exploring the Cahiers pour une morale which contains the traces of ethical ideas that Sartre devised in and the Qu’est-ce que la littérature? where we can witness its concrete and practical aspects, we come to know that, for Sartre, the possibility of ethics is, above all, in finding a way to escape from the ‘Ego’. Keeping in mind that all kinds of the Bad-faith(selfdeception) arise from the ‘Ego’ who captivates me as a persistent illusion, and the key to resolving ethical issues is to avoid this Bad-faith, it is difficult to deny that there was an interest in ethics in the center of Sartre’s philosophy. Furthermore, ‘Sartre and the Problem of Ethics’ has its significance from the standpoint of finding an escape from contemporary philosophical terrain that concentrate hard on answering the problems of ethics while eliminating the subject. Since Sartre’s existentialism challenges the reintegration of responsibility against all kinds of determinism, at the point where structuralism is at its limit, we have to face Sartre’s philosophy again.]]></abstract>
+        </abstract-group>
+        <fpage>25</fpage>
+        <lpage>51</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.35851/PCP.2018.03.76.25]]></doi>
+        <uci />
+        <citation-count kci="5" wos="0">5</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002333248]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>동서정신과학</journal-name>
+        <publisher-name>한국동서정신과학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume>26</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002964675">
+        <article-categories>동서비교철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 철학과 현대사회와 자유, 그리고 책임의 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+          <article-title lang="english"><![CDATA[Sartre philosophy and problems of modern society and freedom and responsibility]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kwon Wook Hye">권욱혜(대구가톨릭대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[인간의 삶에 있어서 자유는 언제나 중요한 위치에 있으며 많은 철학자가 의미 있게 다루는 부분이다. 우리는 순간마다 자유의지로 결단하고 선택하고 행위하고 또 자신의 행위에 대한 책임을 생각하며 살아야 하기 때문이다. 자유는 개인의 자유를 중요하게 생각하는 현대사회로 오면서 더 많은 의미를 지닌다. 그리하여 본 연구에서는 현대 실존철학자 사르트르의 주요 작품들을 중심으로 하여 사르트르가 이야기하는 자유란 무엇인지에 대해 먼저 살펴본 다음, 자유와 책임과의 관계 도덕적 주체로서의 인간에 대해 살펴보고자 한다. 사르트르의 자유는 인간에게 무조건적으로 주어져 있는 것이다. 그리고 자유에는 항상 책임이 따르는데 사르트르가 이야기하는 책임은 개인적인 의미의 책임이 아니라 대자존재로서의 책임을 의미한다. 개인적이며 주관적인 주체가 아니라 상호주체성을 가진 인간으로서의 책임에 대해 이야기한다. 그리하여 우리는 사르트르가 이야기하는 개인의 자유와 책임, 그리고 도덕적 주체로서의 대자존재에 대한 고찰을 통해 지금 우리에게 필요한 자유에 대한 개념을 새롭게 재정비할 수 있을 것이다. 그리고 현대를 살아가는 우리의 삶과 미래세대를 위한 교육에 더욱더 실질적으로 적용될 수 있기를 기대한다]]></abstract>
+          <abstract lang="english"><![CDATA[Liberty is always in an important position in human life and is a part that many philosophers deal with meaningfully. This is because humans have to make decisions, choose, act, and live thinking about their responsibilities for actions every moment. Liberty has more meaning as it comes to a modern society that values individual liberty. Thus, in this study, focusing on the main works of modern existential philosopher Sartre, the researcher will first look at what Sartre talks about liberty, and then look at the relationship between freedom and responsibility and humans as moral subjects. Sartre's liberty is unconditionally given to humans. And liberty always comes with responsibility, and the responsibility that Sartre talks about means responsibility as a Being-for-itself, not in a personal. It talks about responsibility as a human being with mutual subjectivity, not as a personal subject. Thus, this study will be able to reorganize the concept of liberty that human need now through the consideration of Sartre's personal liberty and responsibility, and the Being-for-itself as a moral subject. And it is expected that it can be applied more and more practically to the life of humans living in modern times and education for future generations.]]></abstract>
+        </abstract-group>
+        <fpage>81</fpage>
+        <lpage>96</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002964675]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>범한철학</journal-name>
+        <publisher-name>범한철학회</publisher-name>
+        <pub-year>2021</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>103</volume>
+        <issue>4</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002801191">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[‘존재론적 불안’에서 ‘실존적 불안’으로: 하이데거(M. Heidegger)에서 사르트르(J-P. Sartre)에로]]></article-title>
+          <article-title lang="foreign"><![CDATA[From ontological anxiety to existential anxiety: From Heidegger to Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[From ontological anxiety to existential anxiety: From Heidegger to Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee Chang Suk">이창석(부산대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문의 목적은 사르트르의 불안의 기원과 그 현상을 연구하는 데 있다. 하지만 사르트르에게서 불안은 하이데거의 그것을 다시 재해석하기 때문에, 하이데거의 입장을 살펴볼 필요가 있다. 먼저 불안의 기원은 사르트르에 의하면 의식의 출현이다. 인간은 이 출현으로 인해 세계-내-존재가 되는데, 이는 하이데거에게서 현존재의 세계-내-존재의 근본 구성틀 이기도 하다. 그런데 하이데거는 어떻게 해서 불안이 현존재에 도래하게 되었는지 설명하지 않고, 이미-거기에 있음으로 설명한다. 하지만 사르트르에 의하면, 존재의 파멸로 인해 의식이 출현하고 존재와 관계를 맺는다. 의식의 출현을 달리 말하면, ‘자유’인데, 이 자유에서 불안이 발생한다. 또한 의식의 출현으로 인해 인간의 의식은 ‘전반성적 의식’과 ‘반성적 의식’으로 양분되는데, 전자는 세계와의 직접적인 관계를 맺는다면, 후자는 자기에 관한 의식, 즉 반성적 사고이며, 이에서 불안은 구체화된다. 하지만 문제는 ‘무의 문제’이다. 하이데거는 현존재의 불안을 통하여 무에 직면하여 본래성으로 회복가능하다고 주장하지만, 그는 현존재의 존재를 강조한 나머지 ‘의식’ 즉 ‘대자존재’를 간과했다. 하지만 사르트르에 의하면, 불안이라는 것은 의식 자체이기에 불안을 통하여 무의 존재자체에 직면하기보다 불안의 의식에 직면할 수밖에 없다.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this thesis is to study the origin and phenomenon of Sartre's anxiety. But in Sartre, anxiety reinterprets Heidegger's, so we have to look at Heidegger's opinion. First, the origin of anxiety is, according to Sartre, the advent of consciousness. Man becomes a being-in-the-world by this advent, which is also the fundamental framework of being-in-the-world of Dasein for Heidegger. But Heidegger does not explain how anxiety came to Dasein, but rather as already-there. However, according to Sartre, with the destruction of being and consciousness, consciousness emerges and establishes a relationship with being. The advent of this consciousness is ‘freedom', from which anxiety arises. Also, due to the advent of consciousness, human consciousness is divided into ‘pre-reflective consciousness' and ‘reflective consciousness'. The former has a direct relationship with the world, while the latter is reflective thinking as consciousness of the self, and Anxiety is embodied in it. But the problem is the ‘problem of nothingness’. Heidegger argues that it is possible to restore authenticity in the face of nothing through the anxiety of Dasein, but he emphasized the existence of Dasein and overlooked 'consciousness', that is, 'for-being'. However, according to Sartre, since anxiety is consciousness itself, through anxiety, we have no choice but to face the consciousness of anxiety rather than the existence of nothingness itself.]]></abstract>
+        </abstract-group>
+        <fpage>111</fpage>
+        <lpage>132</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22932/pkps.2021.103.4.111]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002801191]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>철학연구</journal-name>
+        <publisher-name>대한철학회</publisher-name>
+        <pub-year>2012</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume>123</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART001691952">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[자유의 문제: 메를로-퐁티와 사르트르]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Problem of Freedom: Merleau-Ponty and Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[The Problem of Freedom: Merleau-Ponty and Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Sim, Gui Yeon">심귀연(경상대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[우리에게 자유는 너무나 당연한 것으로 여겨진다. 그럼에도 불구하고 자유롭지 못한 현실을 경험하고선 당황한다. 우리는 자유로워야 하며, 자유로울 수밖에 없는 존재인데, 왜 그렇지 않은 현실을 느끼게 되는 것일까? 본고는 이와 같은 생각이 인식론적 사유에서 기인한다고 보면서, 사르트르의 자유 또한 이와 같은 사유 위에서 잘못 평가되고 있음에 주목한다. 특히 사르트르에 대한 이와 같은 평가는 메를로-퐁티 연구자들에 의한 것으로서, 그들에 따르면 ‘메를로-퐁티가 사르트르를 전통적인 인식론적 사유를 기반으로 한 자유론자라고 비판’하고 있다는 것이다. 본고의 목적은 이와 같은 평가의 문제점을 밝히고 사르트르의 자유가 ‘메를로-퐁티가 비판하는 절대적 자유’가 아님을 보여주는데 있다. 이를 위해 먼저 메를로-퐁티가 비판하는 절대적 자유가 어떤 것인지 살펴볼 필요가 있는데, 여기서 우리는 이 ‘절대적 자유’를 인식론적 이원론에 따른 이성의 절대적 자유로 파악한다. 이성의 절대적 자유는 추상적이고 이념적 자유인 까닭에, 메를로-퐁티에 따르면 존재하지 않는 자유로 간주된다. 이와 같은 논점을 전제로 하여 우리가 확인하는 것은 사르트르의 절대적 자유가 인식론적이 아닌 존재론적으로 파악되어야한다는 점이다. 사르트르는 이 문제를 즉자존재와 대자존재와의 관계를 통해 밝혀 보이고 있다. 마지막 장에서 우리는 메를로-퐁티의 조건지어진 자유에 대해 논하면서, 그것이 상황의 자유이자 선택의 자유임을 보여줄 것이다. 이때 우리가 확인하게 될 것은 사르트르가 말하고자 하는 자유 또한 절대적 이성의 자유가 아니고, 상황 속에서 우리가 선택하게 되는 자유라는 점이다. 사르트르는 대자존재의 사실성이 우리를 상황 속에 처하게 하고, 이 상황이 나의 자유의 토대가 된다고 말하고 있다. 따라서 대자존재의 무는 절대적 이성의 다른 모습이 아니라, 부정의 상태로만 존재하는 대자존재의 존재방식을 드러내고 있다는 사실을 주지해야 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[Our freedom is natural, however we are amazed at the fact that we don’t sometimes have the freedom. we have to have a freedom and must be a freedom. But we think our life is restrained. Why do we think that? This is due to epistemological thinking. Also critic of Sartre’ freedom is due to that. Especially Merleau-Ponty’s researchers say that Sartre is an epistemologist on the problem of the freedom and his freedom is an absolute freedom. Aim of this paper is to find out problem of the critic. To achieve this, first we need to exmaine what absoulte freedom is. It is abstract and ideological. According to Merleau-Ponty, it dosen’t exist.
+This paper argues that Sartre’s freedom is not epistemoligical but ontological. It is going to come out in relation between ‘l’être-en-soi’ and ‘l’être-en-soi’. Then, on the problem of the freedom, we can discover that Sartre and Merleau-Ponty are no different from each other. Finally, As I argue about Merleau-Ponty’s freedom, I will show that it is ‘a freedom of situation’ and ‘a freedom of choice’. Also, This freedom is Sartre’s freedom. Sartre showes a situation is my freedom.]]></abstract>
+        </abstract-group>
+        <fpage>165</fpage>
+        <lpage>187</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="4" wos="0">4</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001691952]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국문예비평연구</journal-name>
+        <publisher-name>한국현대문예비평학회</publisher-name>
+        <pub-year>2006</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>21</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001037514">
+        <article-categories>한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[『광장』과 사르트르 철학의 관련성]]></article-title>
+          <article-title lang="foreign"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Young-Hoon Jeong">정영훈(경희대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+          <abstract lang="english"><![CDATA[Study on Gwangjang in Comparison with the Philosophy of Jean-Paul Sartre(Seoul University)Jeong, Young-Hun]]></abstract>
+        </abstract-group>
+        <fpage>359</fpage>
+        <lpage>376</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="6" wos="0">6</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001037514]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>헤겔연구</journal-name>
+        <publisher-name>한국헤겔학회</publisher-name>
+        <pub-year>2015</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>38</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002058744">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 철학에서 도덕 주체에 대한 탐구]]></article-title>
+          <article-title lang="foreign"><![CDATA[La recherche pour le sujet moral chez Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[La recherche pour le sujet moral chez Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author>김선영(고려대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문의 목적은 ‘절대적 자유’를 주장하는 것으로 알려진 사르트르 철학에서 자유와 도덕이 어떤 방식에서 양립 가능한지를 탐구하는 데 있다. 이러한 가능성을 사르트르의 인간존재가 자유로운 의식을 지닌 한에서 자유로운 존재로 정의된다는 점에서 출발해서 이런 의식을 지닌 인간이 어떤 방식에서 ‘도덕 주체’일 수 있는지에 대한 논의를 통해 모색해보고자 하는 것이다. 사르트르는 인간존재 자체를 단지 ‘있음으로 있는 존재’와 구분하여 ‘없음으로 있는 존재’로 파악한다. 인간은 자신을 무화시킬 수 있는 존재로 자신의 뿌리를 뽑는 존재이며 인간에게 주어진 본질은 없고 ‘기투’의 존재라는 것이다. 인간은 스스로 만드는 것일 뿐이라는 것이 인간 실재에 대한 사르트르의 규정이다. 사르트르는 이러한 인간 존재 자체에서 도덕적 구조를 발견한다. 선택과 가치의 출현이 그 자신에게 달려있다는 점에서 인간은 불안하고 이에 따른 책임을 지닌다. 이 책임은 내가 인간이라는 한에서 나의 책임인 동시에 인류에 대한 책임을 의미한다. 사르트르는 개인적이고 주관적인 주체가 아니라 상호주체성을 지닌 인간을 제시하며 인간의 실존 안에 도덕적 요소들을 포함시킨다.]]></abstract>
+          <abstract lang="english"><![CDATA[Dans cette article, nous essayons de comprendre dans quelle mesure la liberté et la morale peuvent être compatibles chez Sartre à travers la question du sujet moral. En general, la liberté sartrienne est connue comme une liberté absolue. En ce sens la liberté de l’acte se pose comme problème moral. Or pour Sartre l’homme est un être qui n’est pas ce qu’il est par rapport l’être qui est ce qu’il est. L’homme s’arrarche et neantise son être. L’homme n’a pas d’essence, il est le projet. L’homme se construit, c’est tout. Pourtant Sartre trouve la structure morale dans la réalité-humain dans la mesure où le choix et la valeur viennent au monde par l’homme. Par là, l’homme est angoisse et resposable non seulement en tant que Je mais en tant que humain. D’ailleurs, pour Sartre l’homme implique l’autre en son porpre existence, il est donc l’intersubjectivité. Et tant que l’humain est resposable de l’humain, il est humaniste. Ainsi, pour Sartre l’existence humain signifie à la fois un sujet d’être et un sujet moral.]]></abstract>
+        </abstract-group>
+        <fpage>219</fpage>
+        <lpage>240</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17281/khegel.2015..38.010]]></doi>
+        <uci />
+        <citation-count kci="5" wos="0">5</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002058744]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>도덕교육연구</journal-name>
+        <publisher-name>한국도덕교육학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>34</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002850814">
+        <article-categories>교육학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 실존주의 철학이 도덕교육에 주는 시사]]></article-title>
+          <article-title lang="foreign"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+          <article-title lang="english"><![CDATA[Implications of Sartre's Existentialism Philosophy on the Moral Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Han-Jin">이한진(연동초등학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르는 인간의 근원적인 불안이 자유에 기인하는 것으로 파악한다. 의식으로서의 대자(對自)는 타인의 시선에서 결코 자유로울 수 없다. 그러나 인간은 불안을 지우기 위해서 자유를 포기하고 자기기만에 빠지는 경향이 있다. 실존으로서의 인간은 스스로 자신을 만들어가는 존재자다. 사르트르는 인간 실존의 핵심으로 자유를 꼽는다. 인간존재는 고정되어 있지 않다. 끊임없이 변화하며 다수성을 내포하고 있는 자유로운 의식의 존재다. 대자는 자신을 대상화하여 바라볼 수 있다. 대자는 실체로서 존재하지 않지만 자유롭게 즉자(卽自)를 부정할 수 있다. 자유로운 인간은 자기 내면성에 대한 내적 부정을 통해서 자기 자신을 새롭게 형성할 수 있다. 자율적 선택에 따라 자기 삶을 사는 사람만이 도덕적 주체로서 자신의 존재론적 책임을 다할 수 있다. 인간의 자기기만 극복과 자유를 강조한 사르트르의 실존주의 철학은 도덕적 주체의 정립을 추구하는 도덕교육과 관련하여 이론적 뒷받침이 되어준다.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre understands that the fundamental human anxiety is caused by freedom. For itself as consciousness can never be free from the gaze of others. However, humans tend to give up their freedom to get rid of their anxiety and fall into self-deception. Human beings as existential beings are beings who create themselves. According to Sartre, freedom is the essence of human existence. Human existence is not fixed. It is an existence of free consciousness that is constantly changing and contains a plurality. For itself can objectify itself and look at it. Although for itself does not exist as a substance, it can freely deny in itself. A free man can reshape himself through an inner denial of his inner self. Only those who live their lives according to their autonomous choices can fulfill their ontological responsibilities as a moral subject. Sartre's existentialist philosophy, which emphasized overcoming human self-deception and freedom, provides theoretical support in relation to moral education that seeks to establish a moral subject.]]></abstract>
+        </abstract-group>
+        <fpage>131</fpage>
+        <lpage>149</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17715/jme.2022.6.34.2.131]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850814]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>프랑스 문화 연구</journal-name>
+        <publisher-name>한국프랑스문화학회</publisher-name>
+        <pub-year>2019</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>41</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002478899">
+        <article-categories>프랑스문화학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 문학작품을 통해 본 실존적 인간]]></article-title>
+          <article-title lang="foreign"><![CDATA[L’homme existentiel de Sartre décrit dans ses œuvres littéraires]]></article-title>
+          <article-title lang="english"><![CDATA[L’homme existentiel de Sartre décrit dans ses œuvres littéraires]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Kyung-hee">이경희(대구가톨릭대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Sartre est un penseur de l’après-guerre qui a étudié les questions fondamentales de l’existence humaine. Les études visaient à répondre à la demande de l’époque et à répondre à sa propre demande. C’était un intellectuel engageant, qui adhérait au principe «être, c’est faire»; c’est pourquoi son nom est devenu plus tard synonyme de philosophie existentielle. La pensée de Sartre s’est concrétisée dans ses œuvres littéraires, puisqu’il a souligné: «écris roman pour philosopher, philosopher pour écrire roman». Si, selon son principe, on analyse les personnages tel que Roquentin dans La Nausée, Orestes dans Les Mouches, et Garcin dans Huis clos, le résultat ne serait autre que les caractéristiques des êtres humains existentiels.
+La philosophie existentielle est une théorie sévère, mais elle peut aussi être définie comme une proposition: «L’existence précède l’essence.» Ainsi, les êtres humains existentiels reconnaissent avant tout que les êtres humains sont libres et temporaires. Puisque la nature de l’homme n’est pas prédéterminée, l’homme est jeté dans le monde alors que tout est permis. La richesse et l’honneur ne peuvent compromettre la liberté; ils ne peuvent pas non plus compenser le caractère temporaire de l’existence humaine. Un être humain existentiel choisit et décide librement de son action pour chaque situation. Même si le choix devait conduire à un résultat grave, il assume seul la responsabilité de ses actes sans regret ni conscience.
+La liberté qui semble être une punition, en revanche, a le pouvoir de transcender son propre être, le pouvoir de transformation. Roquentin, par exemple, estime: «Que puis-je bien faire? Quelles sont les choses qui justifient mon existence?» Tout en agonisant de désespoir et de solitude après le départ de son amoureux. Oreste entreprend un voyage dans l’inconnu pour découvrir son vrai moi, rejetant le trône. Garcin essaie également de trouver le meilleur moyen d’aller avec les autres, tout en mettant à mal l’existence des autres. Ainsi, un être humain existentiel ne reconnaît d’autre sauveur que lui-même et cherche à s’améliorer constamment. En ce sens, un être humain existentiel est un optimiste et un être en action.]]></abstract>
+          <abstract lang="english"><![CDATA[Sartre est un penseur de l’après-guerre qui a étudié les questions fondamentales de l’existence humaine. Les études visaient à répondre à la demande de l’époque et à répondre à sa propre demande. C’était un intellectuel engageant, qui adhérait au principe «être, c’est faire»; c’est pourquoi son nom est devenu plus tard synonyme de philosophie existentielle. La pensée de Sartre s’est concrétisée dans ses œuvres littéraires, puisqu’il a souligné: «écris roman pour philosopher, philosopher pour écrire roman». Si, selon son principe, on analyse les personnages tel que Roquentin dans La Nausée, Orestes dans Les Mouches, et Garcin dans Huis clos, le résultat ne serait autre que les caractéristiques des êtres humains existentiels.
+La philosophie existentielle est une théorie sévère, mais elle peut aussi être définie comme une proposition: «L’existence précède l’essence.» Ainsi, les êtres humains existentiels reconnaissent avant tout que les êtres humains sont libres et temporaires. Puisque la nature de l’homme n’est pas prédéterminée, l’homme est jeté dans le monde alors que tout est permis. La richesse et l’honneur ne peuvent compromettre la liberté; ils ne peuvent pas non plus compenser le caractère temporaire de l’existence humaine. Un être humain existentiel choisit et décide librement de son action pour chaque situation. Même si le choix devait conduire à un résultat grave, il assume seul la responsabilité de ses actes sans regret ni conscience.
+La liberté qui semble être une punition, en revanche, a le pouvoir de transcender son propre être, le pouvoir de transformation. Roquentin, par exemple, estime: «Que puis-je bien faire? Quelles sont les choses qui justifient mon existence?» Tout en agonisant de désespoir et de solitude après le départ de son amoureux. Oreste entreprend un voyage dans l’inconnu pour découvrir son vrai moi, rejetant le trône. Garcin essaie également de trouver le meilleur moyen d’aller avec les autres, tout en mettant à mal l’existence des autres. Ainsi, un être humain existentiel ne reconnaît d’autre sauveur que lui-même et cherche à s’améliorer constamment. En ce sens, un être humain existentiel est un optimiste et un être en action.]]></abstract>
+        </abstract-group>
+        <fpage>165</fpage>
+        <lpage>188</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.18022/acfco.2019.41.1.007]]></doi>
+        <uci />
+        <citation-count kci="3" wos="0">3</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002478899]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>미술사와 시각문화</journal-name>
+        <publisher-name>미술사와 시각문화학회</publisher-name>
+        <pub-year>2014</pub-year>
+        <pub-mon>11</pub-mon>
+        <volume />
+        <issue>14</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001930264">
+        <article-categories>미술</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[박서보의〈원형질(原形質)〉연작 연구: ‘절규하는 인간의 영상’ —사르트르(J-P. Sartre)의 사상과 접목 고찰—]]></article-title>
+          <article-title lang="foreign"><![CDATA[Park Seo-Bo’s series of Protoplasm: ‘the Image of a screaming human’, a reading by the philosophy of J-P. Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[Park Seo-Bo’s series of Protoplasm: ‘the Image of a screaming human’, a reading by the philosophy of J-P. Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim Hyun-wha">김현화(숙명여자대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[박서보는 5·16 군사쿠데타가 발발한 그 다음 해 1962년 10월에 국립도서관 화랑에서 〈원형질〉 연작을 전시했다. 이것은 박서보가 1950년대 말부터 탐구한 앵포르멜 미술(Informel Art) 탐구의 절정에 해당되는 것으로서 그의 예술적 성취의완성을 보여 주는 동시에 한국전쟁 이후 암울한 시대를 살아가는 한국의 자화상이기도 하다. 당시 미술비평가, 정규는 〈원형질〉 연작을 ‘절규하는 인간의 영상’이라고 평했다.
+〈원형질〉 연작은 당시 한국 젊은이들의 내적 고통, 생의 허무, 절망 등의 트라우마를 표현하며 동시에 한국의 경제부국을 향한 도약(첫걸음)의 희망을 내포하고 있다. 박정희 군사정부는 부국강병을 위한 경제개발 정책을 과감하게 추진하기 시작했다. 군사정부는 당시 ‘앵포르멜’이라 불리운 추상미술을 혁명의 상징적 형식으로 지지했고, 그동안 타성적인 구상을 보여 줬던 〈국전〉을 개혁하기 시작했다. 뿐만 아니라 젊은 아방가르드 미술가들의 국제적인 진출을 적극적으로후원했고 또한 그들의 작품을 구매하기도 했다. 〈원형질〉 연작은 오늘날 한국전쟁 후의 혼란과 정신적 상처를 상징하며 그리고 암울한 상황을 극복하고자 하는젊은이들의 생존본능의 의미를 함축하고 있다.
+〈원형질〉 연작은 앵포르멜 미술에 속하며 실존주의에 그 기반을 두고 있다.
+박서보의 미술은 직접적으로 물질 그 자체를 보여 주는 충격을 던졌다. 그는 날것의 물질 그 자체의 잠재적 표현성을 탐구하는 데 몰입했다. 그의 물성을 탐구한작품은 이미지와 물질의 관계를 고찰하게 하며 전반적으로 실존주의에 영향을 받은 프랑스 앵포르멜 미술과 비교를 가능케 한다. 원형질 연작이 사용한 다양한 물질은 인간실존을 대변하는 것이다. 박서보와 그의 동료 미술가들은 1960년대에실존주의에 깊이 몰입했다. 중요한 미술 비평가였던 방근택은 1958-1960년 사이에 현대미술가협회의 젊은 현대 미술가들과 함께 앵포르멜 운동에 가담했으며 실존주의의 토론을 이끌었다. 한국에서 젊은 미술가들에게 실존주의는 한국전쟁의정신적 외상으로 인한 절규와 허무를 극복하는 대안책 역할을 했다. 실존주의, 현상학의 중요한 학자였던 사르트르는 “실존은 본질에 앞선다.”라고 주장했다. 사르트르는 현상학적인 방법으로 세계와 인간을 이해하고자 했으며, 절대적 존재로서 인간 의식을 현상학적인 증명으로 탐구했다. 실존주의자로서 사르트르는 역사적 상황과 장소에서 개인의 삶이 기억되어야 한다고 말한다.
+〈원형질〉 연작은 이 같은 실존주의의 영향을 반영하고 있다. 이것은 그 시대의 상황, 환경, 조건 속에서의 인간의 실존적 이미지이다. 이 논문에서 필자는 원형질 연작을 통해 앵포르멜 미술에서 실존주의 영향을 밝히면서, 또한 사르트르의 이론에 초점을 맞추어 ‘실존적 인간’의 의미를 함축하고 있다는 관점에서 고찰하고자 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[In October 1962, the year following the 5·16 military coup, Park Seo-Bo exhibited a series of Protoplasm in the gallery of the National Library. This series is the epitome of Art informel that Park has investigated since the late 1950’s. Not only does it display the new artistic process in Park’s works, but it is also a self-portrait of Koreans living in the darkest years following the Korean War. Art critic Chung Kyu(정규) stated that the shapes in the Protoplasms are the ‘Images of the Screaming Human’.
+The Protoplasms represents the traumatic experiences of the young Korean generation such as inner pain, futility of life, and despair. At the same time, it signifies hope in Korea’s economic takeoff. During the period of General Park Chung-hee’s military government, drastic measures were taken to boost Korea’s economy for national prosperity and military power.
+Regarded as a symbolic form of revolution, the new abstract art called “Art Informel” was promoted by General Park’s military government. The system of the 〈Korea National Exhibition〉 was reformed, and young avant-garde artists were sponsored by receiving opportunities to go abroad. The Protoplasms has now come to symbolize psychological wound, disorder post-Korean War, and young people’s instinct for survival to overcome a despairing situation.
+The Protoplasms is a form of Art Informel and has its roots in Existentialism. Park’s art has shocked its audience through direct display of material itself. Park focused on the potential expressiveness of raw material. His work leaves one to consider a new relationship between the image and material, and can be compared to the French Art Informel that was greatly influenced by existentialism. The diversity of materials used in the Protoplasmsrepresents human existence.
+Park Seo-Bo and his fellow artists submerged themselves in Existentialism in 1960s. Bang Keun Taek, an important art critic, joined the Informe lmovement from 1958 to 1960 with the contemporary young artist group from ‘Modern Artist association’, and became a significant provider of Existentialism. To young artists, Existentialism was the alternative means to overcome despair and hollowness brought by the Korean War.
+Jean-Paul Sartre, one of the key philosophers of existentialism and phenomenology, claimed that “existence precedes essence”. He tried to understand the human and the world through the phenomenological method, and attempted to make the philosophical verification of the human consciousness as an absolute being to a solid groundwork for a phenomenological ontology. As Existentialist, Sartre stated that “if a certain Jean-Paul Sartre is remembered, I would like people to remember the milieuor historical situation in which I lived, ... how I lived in it, in terms of all the aspirations which I tried to gather up within myself.” The Protoplasms reflects the effects of Existentialism. It is a symbolic images of the human existence under the circumstances, environment, and conditions of that period.
+In this paper, I discuss the Protoplasms by tracing the effects of Existentialism in Art Informel. Focusing on the theories of Sartre, the series is investigated from the perspective that it signifies ‘human existence’.]]></abstract>
+        </abstract-group>
+        <fpage>136</fpage>
+        <lpage>167</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22835/ahvc.2014..14.006]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001930264]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>세계문학비교연구</journal-name>
+        <publisher-name>세계문학비교학회</publisher-name>
+        <pub-year>2017</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>61</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002304888">
+        <article-categories>문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[모리악과 사르트르 - 문학 논쟁의 의미와 전망에 대하여]]></article-title>
+          <article-title lang="foreign"><![CDATA[Mauriac and Sartre - meaning and prospect of the literary argument]]></article-title>
+          <article-title lang="english"><![CDATA[Mauriac and Sartre - meaning and prospect of the literary argument]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim Mose">김모세(한국외국어대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[사르트르(J. P. Sartre)는 1939년 2월 N.R.F.지에 실린 “프랑수아 모리악 씨와 자유”라는제목의 비평 기사에서 모리악을 신랄하게 비판했다. 문제의 기사에서 사르트르는 우선 소설 속 인물들, 특히 테레즈라는 인물의 자유에 대해 문제를 제기한다. 나아가 그는 소설가의전능성, 신의 모방자로서의 작가의 지위를 문제 삼는다.56)57) 이와 같은 사르트르의 비평은 무엇보다 자신의 실존주의적 사상에 근거하고 있는 것으로보인다. 사르트르의 실존주의에서 인간 존재는 완전한 ‘자유’를 속성으로 한다. 또한 인간은의식의 주체로서 존재하건 아니면 타자의 대상으로 존재하건 둘 중 하나일 수밖에 없다는것이 사르트르의 주장이다. 인간의 ‘자유’와 ‘주체성’에 대한 철학적 사유가 모리악의 문학에 대한 비판에 그대로 적용된 것이다. 반면, 기독교인이었던 모리악이 바라볼 때 소설가란, 마치 신이 인간을 창조한 것처럼, 인물들에게 삶을 부여할 수 있고, 살아있는 존재들을 창조할 수 있어야 한다.
+작가와 인물의 자유와 관련해 대립되었던 사르트르와 모리악의 문학은 ‘독자’의 개념을통해 서로 연결될 수 있는 가능성을 보여준다. 사르트르는 ‘문학을 통한 구원’을 주장했다.
+이것은 곧 ‘대자-즉자 존재’의 가능성을 의미하며, ‘신이 되고자 하는 욕망’으로 연결된다.
+작가가 써 놓은 작품을 독자들이 읽을 때, 독자들은 그 작품을 해석하고, 그런 작가가 있었다는 것을 기억해준다. 그 순간 작가는 의식의 주체이면서 동시에 대상으로 존재하게 되고, 문학을 통한 구원이 실현된다. 모리악은 ‘신의 대리자’ 혹은 ‘매개자’로서의 작가의 역할을강조함과 동시에 “글쓰기의 목적은 잊혀지지 않는 것”이라고 주장하기도 했다. 모리악과사르트르의 문학 논쟁을 통해 우리는 창조자로서의 작가의 권위와 인물의 자유, 나아가독자의 자유를 함께 인정하는 문학의 가능성을 살펴볼 수 있을 것으로 기대한다.]]></abstract>
+          <abstract lang="english"><![CDATA[French writer Jean-Paul Sartre mounted a scathing attack on his contemporary writer François Mauriac in his essay François Mauriac and Liberty, which peared in La Nouvelle Revue Française in February 1939. Sartre's primary target was he novel La Fin de la Nuit (the End of the Night), the final piece of Mauriac's eries of works featuring his most representative character Thérèse Desqueyroux.
+Sartre began the critical essay by pointing out the lack of liberty in the racters of the novel, particularly Thérèse. He then went on to challenge, albeit indirectly, the novelist's omniscience and omnipotence, and even the existence of God. Sartre's next focus was the issue of the changing point of view in the novel. Sartre wrote, "The novelist may be either their witness or their accomplice, but never both at the same time. The novelist must be either inside or out." Mauriac shifted the point of view several times in Thérèse Desqueyroux and La Fin de la Nuit, yet Sartre believed the strategy is not suitable for a fictional work, calling it the "see-sawing [...] from Thérèse-subject to Thérèse-object". Sartre's disagreement with the technique, in essence, comes out of his belief that shifting points of view inevitably presuppose the writer's intervention. Objectifying a character through the voice of an omniscient writer, just like what Mauriac did, goes against Sartre's fundamental emphasis on human existence as a "being-for-itself" (être-pour-soi) who is aware of his own freedom.
+It appears that Sartre's criticical examination of Mauriac's work is, above all, based on his existentialist philosophy. Sartre assumes the absence of God as the basis of his thoughts and, as a consequence, he argues that liberty is a unique potentiality of human existence by its very nature. Also, according to him, humans have only two options between existing as a subject or as an object to be used by others. Then it comes as no surprise that Sartre's criticism of Mauriac's literary work well reflects his philosophical idea of human beings' liberty and subjectivity. Mauriac was a Christian and therefore held opposing views from those of Sartre. According to Mauriac, a novelist should be able to create living characters just as God created humans.
+In conclusion, the thesis explores the possibility of identifying similarities between the literary works of the two French authors. Sartre calls for salvation through literary creation. This translates into the possibility of "being-for-itself-and-in-itself" (être-pour- soi-en-soi) which, in turn, is linked to the desire to become God. When readers read a writer's work, they interpret it and remember that the author existed. The moment this happens, the writer becomes the subject and object of consciousness at the same time, realising salvation through literature that Sartre advocates. Mauriac also viewed writers as an agent of God and argued that their role is to direct characters towards Him. In this sense, Mauriac's literary works that Sartre criticised may actually represent the hidden aspect of the literary ideal that Sartre sought to pursue. The thesis concludes with the anticipation that the two writers' literary debate will shed light on the possibility of the literature that recognises the authority of a writer as a creator, characters' freedom, and readers' freedom, all at the same time.]]></abstract>
+        </abstract-group>
+        <fpage>149</fpage>
+        <lpage>177</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002304888]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>프랑스학연구</journal-name>
+        <publisher-name>프랑스학회</publisher-name>
+        <pub-year>2016</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume />
+        <issue>77</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002131988">
+        <article-categories>프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 정치적 유언]]></article-title>
+          <article-title lang="foreign"><![CDATA[Le testament politique de J.-P. Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[Le testament politique de J.-P. Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Choung-Kwon Kang">강충권(아주대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Depuis son entrée dans les activités politiques après la deuxième guerre mondiale, J.-P. Sartre a connu plusieurs expériences tumultueuses. Ne pouvant se satisfaire ni de la S.F.I.O. ni du Parti Communiste Français, il a essayé de défricher une troisième voie politique en participant activement à la R.D.R..
+Après l’échec de celle-ci, il s’est finalement incliné vers le P.C.F. et le bloc de l’Est, pour s’en distancier dès l’invasion de la Hongrie par l’U.R.S.S. C’est à cette période qu’il a commencé à parler d’impérialisme soviétique autant que d’impérialisme américain.
+En ce qui concerne la France, il a dénoncé le colonialisme et le fascisme du gouvernement qui altèrent la réalité et la vérité des situations de l’Algérie et du Vietnam.
+Son itinéraire politique a, par conséquent, été parsemé tantôt d’admirations, tantôt de critiques sévères. Mais la personne de J.-P. Sartre représente un cas exemplaire d’intellectuel qui a assumé ses activités politiques en toute sincérité et toute objectivité. Il a incarné avec courage la mauvaise conscience des hommes issus des pays puissants.
+S’il fallait synthétiser ses propos politiques pour en proposer un testament politique, voici les 4 grands axes que nous proposerions : Premièrement, la politique et l’homme politique doivent mener des réflexions autocritiques. Sans cela, la politique régresse et perd son sens de la vérité et sa fonction d’autopurification. Elle n’aura alors aucune chance d’être révisée et de se voir progresser.
+Deuxièmement, il faut se méfier de la renaissance du colonialisme et de l’impérialisme dans lesquels risquent de tomber les pays puissants. Sartre remarque avec clairvoyance que le colonialisme et l’impérialisme détruisent finalement autant les pays bourreaux que les pays victimes sur le triple plan politique, économique et moral.
+Troisièmement, le fascisme ne s’étend pas seulement à l’impérialisme, mais également au totalitarisme autoritaire qui dissimule la vérité et les problèmes de la nation de sorte à tromper et opprimer le peuple. De surcroît, le fascisme donne naissance au racisme et agit comme un piège fournissant une justification aux citoyens dépourvus d’esprit critique et causant les conflits sociaux et internationaux.
+Quatrièmement, si un système politique imprégné de socialisme humanitaire basé sur la liberté, l’égalité et la démocratie est difficile à réaliser, il reste toujours une référence pour le monde d’aujourd’hui, un monde où ne cessent les conflits et les guerres entre les blocs politiques et économiques, entre les états, les ethnies, les religions, etc., tout en opprimant les droits de l’homme, en blessant ou en supprimant la vie de nombreux innocents. Il est urgent d’établir, de par une sorte de conversion morale, un système politique qui puisse garantir une valeur fondamentale et universelle de l’Homme et de ses droits sur le plan national et international.]]></abstract>
+          <abstract lang="english"><![CDATA[Depuis son entrée dans les activités politiques après la deuxième guerre mondiale, J.-P. Sartre a connu plusieurs expériences tumultueuses. Ne pouvant se satisfaire ni de la S.F.I.O. ni du Parti Communiste Français, il a essayé de défricher une troisième voie politique en participant activement à la R.D.R..
+Après l’échec de celle-ci, il s’est finalement incliné vers le P.C.F. et le bloc de l’Est, pour s’en distancier dès l’invasion de la Hongrie par l’U.R.S.S. C’est à cette période qu’il a commencé à parler d’impérialisme soviétique autant que d’impérialisme américain.
+En ce qui concerne la France, il a dénoncé le colonialisme et le fascisme du gouvernement qui altèrent la réalité et la vérité des situations de l’Algérie et du Vietnam.
+Son itinéraire politique a, par conséquent, été parsemé tantôt d’admirations, tantôt de critiques sévères. Mais la personne de J.-P. Sartre représente un cas exemplaire d’intellectuel qui a assumé ses activités politiques en toute sincérité et toute objectivité. Il a incarné avec courage la mauvaise conscience des hommes issus des pays puissants.
+S’il fallait synthétiser ses propos politiques pour en proposer un testament politique, voici les 4 grands axes que nous proposerions : Premièrement, la politique et l’homme politique doivent mener des réflexions autocritiques. Sans cela, la politique régresse et perd son sens de la vérité et sa fonction d’autopurification. Elle n’aura alors aucune chance d’être révisée et de se voir progresser.
+Deuxièmement, il faut se méfier de la renaissance du colonialisme et de l’impérialisme dans lesquels risquent de tomber les pays puissants. Sartre remarque avec clairvoyance que le colonialisme et l’impérialisme détruisent finalement autant les pays bourreaux que les pays victimes sur le triple plan politique, économique et moral.
+Troisièmement, le fascisme ne s’étend pas seulement à l’impérialisme, mais également au totalitarisme autoritaire qui dissimule la vérité et les problèmes de la nation de sorte à tromper et opprimer le peuple. De surcroît, le fascisme donne naissance au racisme et agit comme un piège fournissant une justification aux citoyens dépourvus d’esprit critique et causant les conflits sociaux et internationaux.
+Quatrièmement, si un système politique imprégné de socialisme humanitaire basé sur la liberté, l’égalité et la démocratie est difficile à réaliser, il reste toujours une référence pour le monde d’aujourd’hui, un monde où ne cessent les conflits et les guerres entre les blocs politiques et économiques, entre les états, les ethnies, les religions, etc., tout en opprimant les droits de l’homme, en blessant ou en supprimant la vie de nombreux innocents. Il est urgent d’établir, de par une sorte de conversion morale, un système politique qui puisse garantir une valeur fondamentale et universelle de l’Homme et de ses droits sur le plan national et international.]]></abstract>
+        </abstract-group>
+        <fpage>47</fpage>
+        <lpage>69</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002131988]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>프랑스학연구</journal-name>
+        <publisher-name>프랑스학회</publisher-name>
+        <pub-year>2011</pub-year>
+        <pub-mon>05</pub-mon>
+        <volume />
+        <issue>56</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001552704">
+        <article-categories>프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르의 전쟁의 글쓰기와 미학 -『자유의 길』과『알토나의 유폐자』를 중심으로-]]></article-title>
+          <article-title lang="foreign"><![CDATA[L'écriture et l'esthétique de la guerre chez Sartre -Des Chemins de la liberté aux Séquestrés d'Altona-]]></article-title>
+          <article-title lang="english"><![CDATA[L'écriture et l'esthétique de la guerre chez Sartre -Des Chemins de la liberté aux Séquestrés d'Altona-]]></article-title>
+        </title-group>
+        <author-group>
+          <author>조영훈(전남대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Nous analyserons dans cette étude la mise en texte de l'écriture sartrienne de la guerre dans la tétralogie romanesque des Chemins de la liberté et l'oeuvre théâtrale des Séquestrés d'Altona, ces deux ouvrages qui traitent de la Seconde Guerre mondiale en montrant des structures esthétiques fort différentes et des attitudes idéologiques radicalement opposées. Les Chemins de la liberté représentent une guerre en devenir sur l'étendue de toute l'Europe de façon linéaire, avec un projet esthétique de Sartre de situer son roman au ‘présent’ de son écriture. Au contraire, Les Séquestrés d'Altona reconstituent ou, plus précisément, remettent en cause la guerre en tant que ‘passé’, dans une forme de mise en contraste. La comparaison des deux oeuvres permettra également de comprendre l'évolution de la pensée de Sartre sur la Seconde Guerre mondiale.
+Le problème que la guerre soulève dans le texte romanesque de Sartre est entre autres celui de la fictionnalisation ‘immédiate’ et des restrictions de champ. Ce dont souffrent Les Chemins de la liberté, ce sont donc la perte de références extratextuelles et l'absence de perspectives généralisantes. La ‘focalisation interne multiple’ introduit la fragmentation et la transmigration des unités narratives, et la transformation du chronotope accompagnant, à son tour, l'évolution de la problématique de la guerre. L'Age de raison constitue la première étape de l'enjeu narratif des Chemins de la liberté. Dans Le Sursis qui correspond à la deuxième étape, la guerre se met à produire son propre temps-espace, c'est-à-dire ce que l'on pourrait appeler chronotope ‘guerrier’. La migration vertigineuse de l'espace fragmente le récit en micro-récits que le partage neutralisé du temps permet de relier. C'est la plus ou moins grande rapidité de succession des images qui donne l'illusion de leur simultanéité. La première partie de La Mort dans l'âme ralentit le rythme narratif du Sursis, tandis que ce dernier a accéléré celui de L'Age de raison. En perte de vitesse, La Mort dans l'âme finit par concentrer, dans sa deuxième partie, la focalisation sur Brunet, qui sera le seul point de vue jusqu'à Drôle d'amitié.
+
+
+Alors que l'écriture sartrienne représente, surtout dans Le Sursis, un mouvement, elle se concentre sur les contrastes dans Drôle d'amitié, dernier ouvrage inachevé de la tétralogie romanesque des Chemins de la liberté, et puis dans l'oeuvre théâtrale des Séquestrés d'Altona. C'est la concentration qui caractérise la quatrième et dernière étape dans l'enjeu narratif des Chemins de la liberté. Les caractéristiques du chronotope du camp de concentration résident avant tout dans la fixation du temps et le rétrécissement de l'espace. Le camp représente en particulier une espèce de synthèse des souffrances d'idées et de passions. L'espace romanesque ayant été rétréci, le débat idéologique revêt un caractère théâtral. Produisant un effet de zoom et permettant une action simple, Drôle d'amitié donne lieu à une théâtralisation des passions en conflit. Le chronotope de Drôle d'amitié rappelle la règle classique des trois unités. C'est un chronotope ‘théâtralisé’.
+L'intérêt dramaturgique de l'espace de Drôle d'amitié et des Séquestrés d'Altona tient essentiellement à ses propres caractères. Premièrement, cet espace homogène s'expose paradoxalement à des fêlures par lesquelles les éléments hétérogènes entrent pour le dynamiser en provoquant à son intérieur une crise fatale. Deuxièmement, cet espace isolé soulève notamment un problème de la gestion d'informations. Ainsi, Drôle d'amitié et Les Séquestrés d'Altona montrent respectivement l'intrusion du novice Chalais dans le stalag et celle de la nouvelle bru Johanna dans la chambre de Frantz. Drôle d'amitié et Les Séquestrés d'Altona permettent la rivalité et la concurrence des unités idéologiques en conflit, de même que Le Sursis le fait avec ses unités narratives. Le relativisme narratif du Sursis devient un relativisme idéologique dans Drôle d'amitié et dans Les Séquestrés d'Altona. Le jeu guerrier de la textualisation du Sursis, de Drôle d'amitié et des Séquestrés d'Altona fait penser à la ‘forme carnavalesque’ de Mikhaïl Bakhtine.
+
+
+Dans l'oeuvre théâtrale des Séquestrés d'Altona, où Sartre revient, avec une quinzaine d'années d'écart, sur la Seconde Guerre mondiale, cette dernière remplit un rôle très important cette fois en tant que ‘passé’. Cette pièce obscure et hermétique montre une confrontation violente entre le monde appartenant au passé et le monde appartenant au présent qui ont en effet leurs espaces et leurs langages particuliers. Le monde du passé se polarise dans la chambre de Frantz, le séquestré. L'entrée dans cette chambre signifie ici l'entrée en contact avec le passé.
+Il faut souligner notamment que, dans Les Séquestrés d'Altona, on assiste à un renversement paradoxal du sens que Les Chemins de la liberté attribuent à la Seconde Guerre mondiale. Tandis que Les Chemins de la liberté décrivent la guerre comme résistance et libération contre le fascisme, ennemi commun et simple, on voit, dans Les Séquestrés d'Altona, une autre guerre interprétée de manière déconcertante. L'une des interprétations, fantasmagorique, vient de Frantz, lors de son dialogue avec Johanna qui tente de lui révéler la vérité et de le faire ainsi sortir de son monde moribond et mensonger. Le prétexte que donne Frantz à sa séquestration volontaire est en effet le suivant : lorsqu'il revenait du front de Russie en 46, il a vu l'Allemagne occupée, agonisant sous les décombres. Les Alliés, selon lui, avaient décidé l'extermination systématique du peuple allemand. Il s'est séqustré afin de ne pas assister de façon passive à l'agonie de l'Allemagne et pour témoigner dans un long plaidoyer qu'il adressera à la postérité du trentième siècle - aux Crabes - de la non-culpabilité des Allemands.
+Pour se rendre compte de cette interprétation irréelle et chimérique de Frantz, cet ancien tortionnaire devenu maintenant ‘poète’, il faut situer l'oeuvre des Séquestrés d'Altona dans son contexte historique, qu'est la guerre d'Algérie. A une quinzaine d'années d'intervalle, la Seconde Guerre mondiale parle de la guerre d'Algérie et vice versa. On assiste ici à un jeu théâtral de changement de rôle, tel que l'a défini Sartre dans une interview qui accompagnait la première représentation de cette pièce : “il y a entre les Allemands et nous des liens très particuliers. Nous nous sommes trouvés, vis-à-vis d'eux, exactement dans la situation où se trouvent les Algériens vis-à-vis de nous aujourd'hui”. Ce jeu théâtral paradoxal permet de traduire le langage ésotérique de l'ancien soldat allemand : si la vision de Frantz sur la Seconde Guerre mondiale n'est pas légitime, la guerre coloniale d'Algérie ne l'est pas non plus. Prétendre la légitimité de la guerre actuelle, c'est accepter en même temps le point de vue de Frantz. Si l'usage de la torture en Algérie était toléré, Frantz, cet ancien ‘boucher de Smolensk’ serait acquitté, et les jugements du Tribunal de Nuremberg de 45 seraient révisés selon le ‘Tribunal des Crabes’ requis par Frantz.
+Il faut remarquer également que le ‘Tribunal des Crabes’ imaginaire des Séquestrés d'Altona fonctionne d'une manière non seulement rétrospective mais également prospective dans les écrits de Sartre sur la guerre. D'une part, il se rapporte rétrospectivement au Tribunal de Nuremberg de 45, de l'autre, il se rattache prospectivement au Tribunal Russell de 66-67. En fait, la confrontation imaginaire entre le Tribunal de Nuremberg et le ‘Tribunal des Crabes’ dans Les Séquestrés d'Altona anticipe l'opposion réelle entre ceux de Nuremberg et de Russell. Dans Les Séquestrés d'Altona, la Seconde Guerre mondiale est mise en parallèle avec les guerres d'Algérie puis du Vietnam. Parodiée et parodiant, elle constitue à la fois le point de départ et le dénouement dans l'ensemble textuel de l'écriture sartrienne de la guerre. Dans cette perspective, nous considérons Les Séquestrés d'Altona comme une conclusion ‘nuancée’ des Chemins de la liberté.]]></abstract>
+          <abstract lang="english"><![CDATA[Nous analyserons dans cette étude la mise en texte de l'écriture sartrienne de la guerre dans la tétralogie romanesque des Chemins de la liberté et l'oeuvre théâtrale des Séquestrés d'Altona, ces deux ouvrages qui traitent de la Seconde Guerre mondiale en montrant des structures esthétiques fort différentes et des attitudes idéologiques radicalement opposées. Les Chemins de la liberté représentent une guerre en devenir sur l'étendue de toute l'Europe de façon linéaire, avec un projet esthétique de Sartre de situer son roman au ‘présent’ de son écriture. Au contraire, Les Séquestrés d'Altona reconstituent ou, plus précisément, remettent en cause la guerre en tant que ‘passé’, dans une forme de mise en contraste. La comparaison des deux oeuvres permettra également de comprendre l'évolution de la pensée de Sartre sur la Seconde Guerre mondiale.
+Le problème que la guerre soulève dans le texte romanesque de Sartre est entre autres celui de la fictionnalisation ‘immédiate’ et des restrictions de champ. Ce dont souffrent Les Chemins de la liberté, ce sont donc la perte de références extratextuelles et l'absence de perspectives généralisantes. La ‘focalisation interne multiple’ introduit la fragmentation et la transmigration des unités narratives, et la transformation du chronotope accompagnant, à son tour, l'évolution de la problématique de la guerre. L'Age de raison constitue la première étape de l'enjeu narratif des Chemins de la liberté. Dans Le Sursis qui correspond à la deuxième étape, la guerre se met à produire son propre temps-espace, c'est-à-dire ce que l'on pourrait appeler chronotope ‘guerrier’. La migration vertigineuse de l'espace fragmente le récit en micro-récits que le partage neutralisé du temps permet de relier. C'est la plus ou moins grande rapidité de succession des images qui donne l'illusion de leur simultanéité. La première partie de La Mort dans l'âme ralentit le rythme narratif du Sursis, tandis que ce dernier a accéléré celui de L'Age de raison. En perte de vitesse, La Mort dans l'âme finit par concentrer, dans sa deuxième partie, la focalisation sur Brunet, qui sera le seul point de vue jusqu'à Drôle d'amitié.
+
+
+Alors que l'écriture sartrienne représente, surtout dans Le Sursis, un mouvement, elle se concentre sur les contrastes dans Drôle d'amitié, dernier ouvrage inachevé de la tétralogie romanesque des Chemins de la liberté, et puis dans l'oeuvre théâtrale des Séquestrés d'Altona. C'est la concentration qui caractérise la quatrième et dernière étape dans l'enjeu narratif des Chemins de la liberté. Les caractéristiques du chronotope du camp de concentration résident avant tout dans la fixation du temps et le rétrécissement de l'espace. Le camp représente en particulier une espèce de synthèse des souffrances d'idées et de passions. L'espace romanesque ayant été rétréci, le débat idéologique revêt un caractère théâtral. Produisant un effet de zoom et permettant une action simple, Drôle d'amitié donne lieu à une théâtralisation des passions en conflit. Le chronotope de Drôle d'amitié rappelle la règle classique des trois unités. C'est un chronotope ‘théâtralisé’.
+L'intérêt dramaturgique de l'espace de Drôle d'amitié et des Séquestrés d'Altona tient essentiellement à ses propres caractères. Premièrement, cet espace homogène s'expose paradoxalement à des fêlures par lesquelles les éléments hétérogènes entrent pour le dynamiser en provoquant à son intérieur une crise fatale. Deuxièmement, cet espace isolé soulève notamment un problème de la gestion d'informations. Ainsi, Drôle d'amitié et Les Séquestrés d'Altona montrent respectivement l'intrusion du novice Chalais dans le stalag et celle de la nouvelle bru Johanna dans la chambre de Frantz. Drôle d'amitié et Les Séquestrés d'Altona permettent la rivalité et la concurrence des unités idéologiques en conflit, de même que Le Sursis le fait avec ses unités narratives. Le relativisme narratif du Sursis devient un relativisme idéologique dans Drôle d'amitié et dans Les Séquestrés d'Altona. Le jeu guerrier de la textualisation du Sursis, de Drôle d'amitié et des Séquestrés d'Altona fait penser à la ‘forme carnavalesque’ de Mikhaïl Bakhtine.
+
+
+Dans l'oeuvre théâtrale des Séquestrés d'Altona, où Sartre revient, avec une quinzaine d'années d'écart, sur la Seconde Guerre mondiale, cette dernière remplit un rôle très important cette fois en tant que ‘passé’. Cette pièce obscure et hermétique montre une confrontation violente entre le monde appartenant au passé et le monde appartenant au présent qui ont en effet leurs espaces et leurs langages particuliers. Le monde du passé se polarise dans la chambre de Frantz, le séquestré. L'entrée dans cette chambre signifie ici l'entrée en contact avec le passé.
+Il faut souligner notamment que, dans Les Séquestrés d'Altona, on assiste à un renversement paradoxal du sens que Les Chemins de la liberté attribuent à la Seconde Guerre mondiale. Tandis que Les Chemins de la liberté décrivent la guerre comme résistance et libération contre le fascisme, ennemi commun et simple, on voit, dans Les Séquestrés d'Altona, une autre guerre interprétée de manière déconcertante. L'une des interprétations, fantasmagorique, vient de Frantz, lors de son dialogue avec Johanna qui tente de lui révéler la vérité et de le faire ainsi sortir de son monde moribond et mensonger. Le prétexte que donne Frantz à sa séquestration volontaire est en effet le suivant : lorsqu'il revenait du front de Russie en 46, il a vu l'Allemagne occupée, agonisant sous les décombres. Les Alliés, selon lui, avaient décidé l'extermination systématique du peuple allemand. Il s'est séqustré afin de ne pas assister de façon passive à l'agonie de l'Allemagne et pour témoigner dans un long plaidoyer qu'il adressera à la postérité du trentième siècle - aux Crabes - de la non-culpabilité des Allemands.
+Pour se rendre compte de cette interprétation irréelle et chimérique de Frantz, cet ancien tortionnaire devenu maintenant ‘poète’, il faut situer l'oeuvre des Séquestrés d'Altona dans son contexte historique, qu'est la guerre d'Algérie. A une quinzaine d'années d'intervalle, la Seconde Guerre mondiale parle de la guerre d'Algérie et vice versa. On assiste ici à un jeu théâtral de changement de rôle, tel que l'a défini Sartre dans une interview qui accompagnait la première représentation de cette pièce : “il y a entre les Allemands et nous des liens très particuliers. Nous nous sommes trouvés, vis-à-vis d'eux, exactement dans la situation où se trouvent les Algériens vis-à-vis de nous aujourd'hui”. Ce jeu théâtral paradoxal permet de traduire le langage ésotérique de l'ancien soldat allemand : si la vision de Frantz sur la Seconde Guerre mondiale n'est pas légitime, la guerre coloniale d'Algérie ne l'est pas non plus. Prétendre la légitimité de la guerre actuelle, c'est accepter en même temps le point de vue de Frantz. Si l'usage de la torture en Algérie était toléré, Frantz, cet ancien ‘boucher de Smolensk’ serait acquitté, et les jugements du Tribunal de Nuremberg de 45 seraient révisés selon le ‘Tribunal des Crabes’ requis par Frantz.
+Il faut remarquer également que le ‘Tribunal des Crabes’ imaginaire des Séquestrés d'Altona fonctionne d'une manière non seulement rétrospective mais également prospective dans les écrits de Sartre sur la guerre. D'une part, il se rapporte rétrospectivement au Tribunal de Nuremberg de 45, de l'autre, il se rattache prospectivement au Tribunal Russell de 66-67. En fait, la confrontation imaginaire entre le Tribunal de Nuremberg et le ‘Tribunal des Crabes’ dans Les Séquestrés d'Altona anticipe l'opposion réelle entre ceux de Nuremberg et de Russell. Dans Les Séquestrés d'Altona, la Seconde Guerre mondiale est mise en parallèle avec les guerres d'Algérie puis du Vietnam. Parodiée et parodiant, elle constitue à la fois le point de départ et le dénouement dans l'ensemble textuel de l'écriture sartrienne de la guerre. Dans cette perspective, nous considérons Les Séquestrés d'Altona comme une conclusion ‘nuancée’ des Chemins de la liberté.]]></abstract>
+        </abstract-group>
+        <fpage>123</fpage>
+        <lpage>154</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="3" wos="0">3</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001552704]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국근대문학연구</journal-name>
+        <publisher-name>한국근대문학회</publisher-name>
+        <pub-year>2018</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>19</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002399846">
+        <article-categories>한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[이청준 소설 속 인물들의 자기기만과 실존의 조건 탐색]]></article-title>
+          <article-title lang="foreign"><![CDATA[Self-Deceit of Yi Cheong-joon's Characters and Examination on Condition of Existence]]></article-title>
+          <article-title lang="english"><![CDATA[Self-Deceit of Yi Cheong-joon's Characters and Examination on Condition of Existence]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Seo Eunhye">서은혜(홍익대학교/Hongik uni.)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[1960년대 중반 이후 한국사회는 반공법을 명분으로 한 지배권력에 대한 순응이 가시적, 비가시적 형태로 요구되었다. 이청준은 실존적 사유를 그러한 현실포착과 의미화의 프레임으로 개입시키고 있다. 이 글에서는 『존재와 무』 제 2부에서 인간 의식의 보편적 특성이자 필연적 현상으로서의 ‘부정성’을 드러내는 ‘자기기만(la mauvais foi)’의 개념을 통하여 이청준 소설의 인물을 유형화하고, 실존과 자유의 문제의식을 어떤 식으로 드러내고 있는지를 살펴보았다. 이 때 ‘자기기만’은 신념에 대한 집착으로 이어지는 성실성의 폭력, 자유와 선택을 스스로 거부하고 사물에 가까워지고자 하는 죽음 지향의 유혹, 명증해 보이는 진리에 대한 인간의 끝없는 회의와 부정성이라는, 인간 삶의 근원적 조건으로서의 불안으로부터 도피하려는 일반적 유형들을 다양한 현상으로 제시한 개념이다.
+『소문의 벽』의 김 박사, 『당신들의 천국』의 조백헌 대령으로 이어지는 자신의 신념에 대한 무조건적 확신을 보이는 인물이 보일 수 있는 위험성의 차원은 자기기만의 허위를 파악하지 못한 채 그것을 세상에 대한 충실한 태도라 믿는 ‘성실함의 자기기만’으로 묶어서 이해해 볼 수 있다. 이는 반공법을 명분으로 한 여러 필화, 간첩 사건이 가시화되던 시대배경과 함께 독재 심리의 내밀한 역동을 암시하고 그 폭력성을 우회적으로 비판한다는 점에서 중요하다.
+한편 『씌어지지 않은 자서전』, 「소문의 벽」에 있는 소설 속 소설에서는 스스로 능동적인 선택의 기회와 그에 따른 자기 형성의 과정을 거부하며 유사 죽음의 상태를 지향하는 인물들이 나온다. 『씌어지지 않은 자서전』에서 여성 두 명을 두고 저절로 그들 사이에 선택이 이뤄지도록 하는 소설 속 소설의 주인공, <괴상한 버릇>에서 낭패한 일이 생길 때마다 잠을 자거나 시체처럼 누워 있는 주인공, <벌거벗은 임금님>에서 사장의 일탈을 발설하면 안 된다는 강박에 못 이겨 마침내 감시의 환상에 시달리는 주인공, 마지막 소설에서 신문관의 ‘스스로 선택한 수형’이라는 발화에 이르기까지 인물들은 모두 선택을 미루거나 변화의 기회를 스스로 박탈하고 자기를 부정함으로써 삶 그 자체의 가능성을 인정하지 않는다. 스스로 사물이 되고자 하는 유혹에 굴복하는 이들 인물은 사르트르의 자기기만 개념 중 ‘즉자화의 자기기만’이라 표현된는 유형, 혹은 이를 ‘석화(石化)작용’이라 번역하고 있는 정명환의 논의를 떠올리게 한다.
+성실함의 자기기만, 혹은 스스로 죽음에 가까운 상태인 사물화의 유혹에 굴복하는 자기기만의 상태를 벗어나 실존을 지향하는 인물들의 행동은 진술 거부나 소설 쓰기와 같은 언어행위, 혹은 탈출로 구체화된다. 『소문의 벽』에서 한국전쟁에서의 어느 한 진영의 선택, 특정한 문학 이념과 형상화 방식을 선택하라는 작가에 대한 요구, 자신을 정신병자로 규정하는 김 박사를 피하는 박준의 행위, 그리고 이를 모두 종합한 진술 거부라는 상황은 자신의 신념을 보편의 차원으로까지 격상시키려는 모든 종류의 확실성의 요구에 대한 소극적 저항을 의미한다. 또 『당신들의 천국』에서 오마도 환자들이 섬이 살기 좋은 곳이 되어가고 있음에도 불구하고 굳이 바다를 헤엄쳐 육지로 탈출해 나가는 행동 역시 원장들의 명분의 독점과 독단성에 대한 저항의 의미를 담고 있다. 이 점에서 『당신들의 천국』은 모든 종류의 ‘명증한 진리를 거부’하는 행위 속에서 탄생될 수 있는 역설적인 진리의 순간을 강조하고자 한 것으로 보인다. 이는 미래의 불안과 위험을 스스로 감내하고라도 인간으로서의 자유를 수행하겠다는 결단, 즉 긍정적 자기기만을 보이는 부분이다.
+이처럼 법과 제도로서 지배 권력의 신념을 강력하게 언표하고 통제하려 했던 60~70년대의 권력과 통제사회 내 인물들의 심리적 역동을 이청준은 인간 의식의 보편적 특성인 자기기만의 사례를 통해 좀 더 구체적으로 형상화하고자 하였다. 이를 통해 이청준은 독재 체재로의 변화와 그 사회 속 지식인, 민중의 심리적 역동에 대해 깊이 있는 서사를 창안해 낼 수 있었으며, 더 나아가 실존적 자유의 개념을 암시하며 근원적인 삶의 조건에 대해 발화할 수 있었다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper examines on the relation between existential thoughts and recognition of the society in 1960s in Yi Cheong-jun's early short stories and novels. Existentialism is in fashion in Korean intellectual fields in 1950s and 1960s. Most writers and intellectuals accept it as a usual thought right after Korean War, and especially '4·19 generation' writers such as Kim Sung-ok (김승옥), Yi Cheong-jun(이청준), Park tae-sun(박태순), Seo Jeong-in (서정인) accept it as a educational background in Humanities Department of Seoul National University.
+The way of describing mechanism of autocracy system in Yi's various novels is closely related to this kind of existential thought. I especially here focus on the concept of 'the project of bad faith' and 'self-deceit', which Jean-Paul Sartre supposed in his early work, Being and Nothingness. Among the different types of project, that of bad faith is of generic importance for an existential understanding of what it is to be human. And it is universal human nature who always aims at freedom in his life. Sartre devide it into three types with vivid examples, sincere self-deceit, cynicism, positive self-deceit.
+The way of demonstrating the psychological dynamics of an autocrat can be explained as self-deceit of sincerity. It also reminds contemporary readers of Park Jeong-hee regime's governing mechanism. A psychologist Kim in the Wall of rumor (「소문의 벽」) , Jo Baek-heon in the Heaven of Yours (『당신들의 천국』) are common with being in a state of 'self-deceit of sincerity' because they are stick with their own belief. That strong belief itself occur another tragedy, because they cannot realize that they deceit themselves. Like this, they symbolize the autocracy, which refer to Park's regime itself.
+The heros of the frame story in the Autobiography which is not Written (『씌어지지 않은 자서전』) and the Wall of rumor (「소문의 벽」) are commonly show the attitude of 'self-diceit of alienation'. It means they deny the chance to change their own identity or deny themselves for external reasons. They literary mimic 'the state of death', or oppress the desire of telling. Denying themselves is ultimately concluded to insanity or horror of being under sentence. Sartre refer this kind of attitude as self-deceit of alienation, which means the desire of being an object, not a human who suffer various change in his(her) life.
+The third category of self-deceit is positive self-deceit, which means the attitude enduring uncertainty and anxiety about life. For example, the patients who escape Oma-island instead of going out in the Heaven of Yours (『당신들의 천국』) can be read as the people who desperately want to get freedom as a human. They want to be treated not as a patient, but as a human. They resist all kinds of obvious truth which is given from governing people. This kind of attitude is also discovered in main character in the Wall of rumor (「소문의 벽」) Park-Joon. He resist all kinds of demands selecting one side such as the conflict of ideology in Korean War, the belief about literature, diagnosis of the psychologist Kim. And 'I' in the Autobiography which is not Written (『씌어지지 않은 자서전』) also decide to be a writer, after overcoming his own horror and hesitation in 10 days. This attitude can be explained as positive self-deceit.
+In conclusion, Yi Cheong-joon create his characters who have various level of self-deceit. Through this kind of description, he can criticize indirectly the oppression of Park's regime.]]></abstract>
+        </abstract-group>
+        <fpage>337</fpage>
+        <lpage>373</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002399846]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현대유럽철학연구</journal-name>
+        <publisher-name>한국하이데거학회</publisher-name>
+        <pub-year>2019</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume />
+        <issue>55</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002518012">
+        <article-categories>서양철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[자유의 절대성과 현존재]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Absoluteness of Ontological Freedom and Dasein]]></article-title>
+          <article-title lang="english"><![CDATA[The Absoluteness of Ontological Freedom and Dasein]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Han, Sang-Youn">한상연(가천대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 글은 사르트르의 실존주의적 자유 개념과 하이데거의 존재론적 자유 개념의 철학적 관계를 밝히고자 한다. 잘 알려진 것처럼 하이데거는 사르트르의 실존주의를 받아들이지 않는다. 그 대표적인 사례는 「인본주의에 대한 편지」이다. 이 유명한 서간에서 하이데거는 장 보프레가 1946년 11월 10일의 편지에서 프랑스 실존주의의 발전에 관해 제기한 일련의 물음들에 대해 응답하며 사르트르의 입장과 실존주의 일반과 비판적 거리를 둔다. 사르트르의 실존주의가 하이데거의 존재론과 조화될 수 있는지는 여전히 해결되지 않은 문제이다. 그러나 필자는 사르트르의 실존주의적 자유 개념이 하이데거의 존재론적 현존재 개념과 전혀 모순되지 않는다고 여긴다. 사르트르뿐 아니라 하이데거 역시 현존재의 존재가 인과율의 법칙에 의해 결정되는 물리적 사물과도 같이 고찰되어야 한다는 것에 동의하지 않는다. 현존재의 존재는 그 고유한 가능존재와의 관계 속에서 고찰되어야 한다. 현존재는 그 자신의 존재를 도래할 미래를 향해 기획투사해나가는 존재자인 것이다. 물론 현존재는 세계-안에-있는 존재자이며, 그 때문에 현존재의 기획은 언제나 상황에 의해 조건 지어져 있다. 그러나 이것이 현존재의 존재가 인과율의 법칙에 의해 제약되어 있다는 것을 뜻하지는 않는다. 세계의 근원적 근거는 바로 현존재이기 때문이다. 존재론적으로 세계는, 도구적 의미연관의 지시적 총체로서, 그 자신의 존재를 미래를 향해 기획투사할 현존재의 자유에 기초해 있는 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper seeks to clarify the philosophical relationships between J.-P. Sartre’s existentialist concept of freedom and M. Heidegger’s ontological concept of Dasein. As is well known, Heidegger does not accept Sartre’s existentialism. In Letter on Humanism, a famous letter written by Martin Heidegger in December 1946 in response to a series of questions by Jean Beaufret (10 November 1946) about the development of French existentialism, Heidegger distanced himself from Sartre's position and existentialism in general. The problem of whether Sartre’s existentialism is with Heidegger’s ontology in general is still unsettled. But I firmly believe that Sartre’s existentialist concept of freedom is not at all at odds with Heidegger’s ontological concept of Dasein. Not only Sartre, but Heidegger also denies that Dasein’ being should be considered as a physical thing that is determined by the law of causality: Dasein’s being should be considered in the relationship with its ownmost possible-beings, which means that Dasein projects itself towards the future. Of course, Dasein is a being-in-the-world and therefore Dasein’s project is always a situated one. But this does not mean that Dasein’s freedom is restricted by the law of cause and effect. The reason for that is that the Dasein is the fundamental ground for the world, which means that the world as a referential totality is based on Dasein’s Freedom to project itself towards the future.]]></abstract>
+        </abstract-group>
+        <fpage>1</fpage>
+        <lpage>32</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.20974/dasein.2019..55.1]]></doi>
+        <uci />
+        <citation-count kci="5" wos="0">5</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002518012]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국근대문학연구</journal-name>
+        <publisher-name>한국근대문학회</publisher-name>
+        <pub-year>2005</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>12</volume>
+        <issue>12</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001172669">
+        <article-categories>한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[김수영 시의 차이와 동일성 연구-앙가지망의 가능성을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the variation of Difference and Identity Reflected into the Poetry of Soo-Young kim-Focused on the Possibility of Engagement]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the variation of Difference and Identity Reflected into the Poetry of Soo-Young kim-Focused on the Possibility of Engagement]]></article-title>
+        </title-group>
+        <author-group>
+          <author>김미정(동아대)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+        </abstract-group>
+        <fpage>290</fpage>
+        <lpage>328</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="6" wos="0">6</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001172669]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>민족문학사연구</journal-name>
+        <publisher-name>민족문학사연구소</publisher-name>
+        <pub-year>2018</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>68</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002427320">
+        <article-categories>한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[김수영의 문학과 초현실주의]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Literature of Kim Soo-young and Surrealism]]></article-title>
+          <article-title lang="english"><![CDATA[The Literature of Kim Soo-young and Surrealism]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Jin Hee Kim">김진희(이화여자대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구는 김수영의 문학과 삶에 미친 초현실주의의 영향과 그 문학사적 의의를 논의하는 글이다. 초현실주의자들은 서구의 미적 제도도 역시 근대 이성의 체계 속에서 정상화된 것이므로 이를 철저하게 해체하는 것이 예술의 혁명이라고 생각했고, 이런 틀을 부수는 일은 당대 미학적 규범이나 사회적 제도에 대한 저항, 즉 혁명을 의미했다. 김수영은 4․19혁명을 계기로 정치적 혁명의 불완전성과 마주해야 했고, 자신의 문학을 통해 미완의 혁명을 어떻게 완성시켜나갈 것인가 고민하는 과정에서 초현실주의를 발견했다. 그는 브르통, 바타이유, 모리스 블랑쇼, 앙리 미쇼, 사르트르 등의 초현실주의를 수용하면서 1960년대 정치적 혁명과 시의 혁명을 함께 사유할 수 있었다. 그는 초현실주의에 대한 풍부한 학습과 사유를 통해 무의식과 실존, 정치 이념을 연결시킨, 독자적인 시학인 ‘참여시’를 만들었고, 긴장과 갈등을 통합하여 미래의 비전을 보여주는 사랑의 시학을 제시했다. 김수영의 시학은, 1930년대 초현실주의의 사회적, 시대적 의의를 강조했던 김기림의 논의를, 1960년대 한국시의 장으로 수용하여 참여시의 이론적 토대로 삼았다는 점에서 한국 초현실주의 전통을 심화 확장시킨 것으로 평가할 수 있을 것이다. 결론적으로 한국 현대시는 김수영의 초현실주의 수용을 통해 혁명과 예술, 정치와 문학 등 대립되는 가치들에 대한 진지한 고민과 분명한 문학사적 성과를 얻을 수 있었다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study discusses the influence of surrealism on Kim Soo-young’s literature and life, aspects which researchers have indicated the need to be studied but has not yet been car-ried out. The surrealists have thought that the revolution of the arts is to thoroughly de-construct Western aesthetic institutions as they have become normalized through the modern rational systems, and to demolish such structure meant the resistance to, or i.e. the revolution of aesthetic norms and social institutions of the times. With the 4․19 revolution, Kim acknowledged the imperfection of the political revolution, and encoun-tered surrealism in the process of pondering about how to complete the unfinished revo-lution through his own literature. By accepting the surrealism of Breton, Bataille, Maurice Blanchot, Henri Michaux and Sartre, he was able to contemplate on the 1960s political revolution and poetical revolution together. He created a unique poetics of “participatory poetry” that linked the unconsciousness to existence and political ideology through the rich study and thoughts about surrealism, and presented a poetics of love that integrated tension and conflict, to show a vision for the future. Kim Soo-young’s poetry can be eval-uated as deepening and extending the Korean surrealist tradition by bringing Kim Ki-rim’s emphasis of the social and historical significance of the 1930s surrealism over to the 1960s Korean poetry and establishing the theoretical basis of participatory poetry. In conclusion, contemporary Korean poetry was able to gain profound reflections and clear literary results about conflicting values such as revolution and art, politics and literature, etc. through Kim Soo-young’s acceptance of surrealism.]]></abstract>
+        </abstract-group>
+        <fpage>9</fpage>
+        <lpage>45</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.23296/minmun.2018.68.9]]></doi>
+        <uci />
+        <citation-count kci="5" wos="0">5</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002427320]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

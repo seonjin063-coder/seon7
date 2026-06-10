@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002777995</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004731">
+        <issn>2508-3309</issn>
+        <journal-name>트랜스-</journal-name>
+        <publisher-name>성균관대학교 트랜스미디어연구소</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>07</pub-mon>
+        <volume>11</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002777995">
+        <article-categories>사회과학 &gt; 신문방송학 &gt; 영상학 &gt; 뉴미디어</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[오디션 프로그램의 리얼리티 왜곡이 보여주는 미디어의 주관성과 윤리성]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the TV Audition Show's Distortion of Reality with Sartre's Existentialism which shows Media Subjectivity and Ethicality]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the TV Audition Show's Distortion of Reality with Sartre's Existentialism which shows Media Subjectivity and Ethicality]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[도릉요]]></name>
+            <name-eng><![CDATA[Lingyao Tu]]></name-eng>
+            <institution>성균관대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 각 미디어의 리얼리티와 오디션 프로그램의 상품성 등 몇 가지 측면에서 실존주의를 이론 모델로 오디션 프로그램의 리얼리티가 왜곡되는 상황에 대해 살펴보고자 했다. 실존주의의 제1원리 ‘주관성’에 따르면 사람들은 자유의지에 따른 행동을 통해 자신의 본질을 만든 이론적 관점에서 알 수 있듯이 제작 과정에서 캐릭터 메이킹과 스토리텔링을 통해 인물의 이미지를 만들고, 방송 분량 증감을 통해 마지막으로 결성된 단체 인물의 포지션 균형을 이룬다. 연구 결과에 의하면 제작진의 주관적인 개입으로 인해 비본질적인 모습을 대외적으로 드러냄으로써 본질적인 왜곡을 초래한다는 것을 알 수 있다. 상품화 사회에서 무조건 이익만 추구하면 커뮤니케이션의 윤리성과 괴리가 생기고, 리얼리티와 이익의 균형을 어떻게 맞출 수 있느냐 가 여전히 현재 오디션 프로그램의 주요 문제이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study looks to explore situations in which the authenticity of reality audition programs is inherently distorted by subjective intervention through a theoretical model of existentialism and case study of how it was practiced in an actual program. In detail, we examine the impact on the essence of human subjective intervention and the behavior by free will and use Sartre's existentialism a theoretical model and a Korean audition program <Produce 101> series as the case for the study. We believe that the producers intended to narrow the audiences choices by creating a favorable environments for certain participants (trainees as they were called) to be recognized and liked by the voting audiences. We look to "subjectivity," the first principle of existentialism, people determine their essence through free will, and all actions in the production process are aimed at achieving that goal, which keeps the position balance of final debut group by creating the character image and personality through character making, storytelling and increasing or decrease the assigned air-time of each individuals.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Audition Program]]></keyword>
+          <keyword><![CDATA[Reality]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Character making]]></keyword>
+          <keyword><![CDATA[Subjectivity]]></keyword>
+          <keyword><![CDATA[Ethicality]]></keyword>
+          <keyword><![CDATA[오디션 프로그램]]></keyword>
+          <keyword><![CDATA[리얼리티]]></keyword>
+          <keyword><![CDATA[왜곡]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[주관성]]></keyword>
+          <keyword><![CDATA[상품성]]></keyword>
+        </keyword-group>
+        <fpage>1</fpage>
+        <lpage>35</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002777995]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF059701340" type-code="03" type-name="단행본">
+          <title>텔레비전 프로그램 포맷 창작론</title>
+          <author>홍순철</author>
+          <pubilisher>국립중앙도서관</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701341" type-code="03" type-name="단행본">
+          <title>사실적텔레비전과방송편성문화</title>
+          <author>최은경</author>
+          <pubilisher>커뮤니케이션북스</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701342" type-code="03" type-name="단행본">
+          <title>커뮤니케이션북스</title>
+          <author>이영돈</author>
+          <pubilisher>국립중앙도서관</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701343" type-code="03" type-name="단행본">
+          <title>신문원론</title>
+          <author>임영호</author>
+          <pubilisher>한나래출판사</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701344" type-code="03" type-name="단행본">
+          <title>영화란 무엇인가?</title>
+          <author>앙드레 바쟁</author>
+          <pubilisher>시각과 언어</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701345" type-code="03" type-name="단행본">
+          <title>다큐멘터리 이론과 실제</title>
+          <author>유현석</author>
+          <pubilisher>도서출판 차송</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701346" type-code="03" type-name="단행본">
+          <title>다큐멘터리, 또 하나의 영화</title>
+          <author>기이 고티에</author>
+          <pubilisher>커뮤니케이션북스</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701347" type-code="03" type-name="단행본">
+          <title>영화 이해의 길잡이</title>
+          <author>정재형</author>
+          <pubilisher>개마고원</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701348" type-code="03" type-name="단행본">
+          <title>Groping for Ethics in Journalism</title>
+          <author>Ron F. Smith</author>
+          <pubilisher>Xinhua Publishing House</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701349" type-code="03" type-name="단행본">
+          <title>Restyling Factual TV</title>
+          <author>Hill, Annette</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701350" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>SDX Joint Publishing House</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701351" type-code="03" type-name="단행본">
+          <title>Existentialism Is a Humanism</title>
+          <author>Sartre, J. P</author>
+          <pubilisher>Shanghai Translation Publishing House</pubilisher>
+          <pubi-year>1946</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701352" type-code="03" type-name="단행본">
+          <title>The Historical Novel</title>
+          <author>George Lukács</author>
+          <pubilisher>Merlin</pubilisher>
+          <pubi-year>1962</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701353" type-code="03" type-name="단행본">
+          <title>Nature Performed: Environment, Culture and Performance</title>
+          <author>Szerszynski, Bronislaw</author>
+          <pubilisher>Blackwell Publishing</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701354" type-code="03" type-name="단행본">
+          <title>Basic Issues in Mass Communication : a Debate</title>
+          <author>Everette E. Dennis</author>
+          <pubilisher>Mcmillan Publishing Co</pubilisher>
+          <pubi-year>1984</pubi-year>
+          <page>104-117</page>
+        </reference>
+        <reference refebibl-id="REF059701355" type-code="03" type-name="단행본">
+          <title>Grierson on Documentary</title>
+          <author>Forsyth Hardy</author>
+          <pubilisher>Faber and Faber</pubilisher>
+          <pubi-year>1966</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701356" type-code="03" type-name="단행본">
+          <title>Theorizing Documentary</title>
+          <author>Michael Renov</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701357" type-code="03" type-name="단행본">
+          <title>Que sont les médias? Pratiques</title>
+          <author>Rieffel and Rémy</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701358" type-code="07" type-name="기타자료">
+          <title>qupest2ce que la littérature Gallima2rd</title>
+          <author>Jean Paul Sartre</author>
+        </reference>
+        <reference refebibl-id="REF059701359" type-code="03" type-name="단행본">
+          <title>萨特文集:第7卷 关于我自己</title>
+          <author>萨特</author>
+          <pubilisher>People's Literature Publishing House</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701360" type-code="03" type-name="단행본">
+          <title>理论新闻传播学导论</title>
+          <author>童兵</author>
+          <pubilisher>中国人民大学出版社</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701361" type-code="03" type-name="단행본">
+          <title>新闻传播学辞典</title>
+          <author>程曼丽</author>
+          <pubilisher>新华出版社</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF059701362" arti-id="ART001231048" type-code="01" type-name="학술지(정기간행물)">
+          <title>오디션 리얼리티쇼와 현대 여성의 '통과 의례': &lt;도전 슈퍼모델&gt; 서사분석을 중심으로</title>
+          <author>이종수</author>
+          <journal-name>미디어, 젠더 &amp; 문화</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume />
+          <isseue>9</isseue>
+          <serno />
+          <page>51-86</page>
+          <pubilisher>한국여성커뮤니케이션학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701363" type-code="05" type-name="학위논문">
+          <title>미디어의 사회적 현실구성 이론의 현상학적 체계에 관한 연구 : 텔레비전 뉴스의 현실구성 기능을 중심으로</title>
+          <author>하광언</author>
+          <degree>석사</degree>
+          <university>延世大學校 言論弘報大學院</university>
+          <department>방송</department>
+          <pubi-year>1999</pubi-year>
+        </reference>
+        <reference refebibl-id="REF059701364" arti-id="ART002355499" type-code="01" type-name="학술지(정기간행물)">
+          <title>다큐멘터리 리얼리즘의 사운드 미학</title>
+          <author>강세윤 ; 이원덕</author>
+          <journal-name>영상기술연구</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume>1</volume>
+          <isseue>28</isseue>
+          <serno />
+          <page>115-140</page>
+          <pubilisher>한국영상제작기술학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.34269/mitak.2018.1.28.007]]></doi>
+        </reference>
+        <reference refebibl-id="REF059701365" arti-id="ART001335351" type-code="01" type-name="학술지(정기간행물)">
+          <title>리얼리티 프로그램의 서사전략과 낭만적 사랑의 담론 &lt;우리 결혼했어요&gt;를 중심으로</title>
+          <author>홍지아</author>
+          <journal-name>한국방송학보</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume>23</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>567-608</page>
+          <pubilisher>한국방송학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701366" arti-id="ART001687910" type-code="01" type-name="학술지(정기간행물)">
+          <title>오디션 리얼리티 쇼 &lt;스타오디션 위대한 탄생&gt;과 &lt;슈퍼스타 K2&gt; 등장인물의 성격 유형과 수행 기능 연구</title>
+          <author>정민희 ; 강승묵</author>
+          <journal-name>미디어와 공연예술 연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>7</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>7-32</page>
+          <pubilisher>방송·예술연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701367" arti-id="ART000980052" type-code="01" type-name="학술지(정기간행물)">
+          <title>텔레비전 리얼리티 프로그램의 현실구성 :현실과 허구의 혼합을 통한 텔레비전의 장르형성에 대한 연구</title>
+          <author>홍석경</author>
+          <journal-name>방송문화연구</journal-name>
+          <pubi-year>2004</pubi-year>
+          <volume>16</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>10-10</page>
+          <pubilisher>한국방송공사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701368" arti-id="ART001447855" type-code="01" type-name="학술지(정기간행물)">
+          <title>오락프로그램에 차용된 리얼리티와 경쟁의 조합: &lt;서바이버&gt;와 &lt;무한도전!&gt; 비교분석</title>
+          <author>이경숙 ; 조경진</author>
+          <journal-name>방송과 커뮤니케이션</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>11</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>89-119</page>
+          <pubilisher>한국방송학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22876/bnc.2010.11.1.003]]></doi>
+        </reference>
+        <reference refebibl-id="REF059701369" arti-id="ART001619455" type-code="01" type-name="학술지(정기간행물)">
+          <title>정서적 참여와 실재(reality)의 재구성 : 한국 리얼리티 텔레비전쇼의 작동방식에 대한 고찰</title>
+          <author>윤태진</author>
+          <journal-name>방송문화연구</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume>23</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>7-36</page>
+          <pubilisher>한국방송공사</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22854/sbc.2011.23.2.7]]></doi>
+        </reference>
+        <reference refebibl-id="REF059701370" arti-id="ART001670502" type-code="01" type-name="학술지(정기간행물)">
+          <title>텔레비전 오디션 리얼리티 쇼의 서사구조 분석 : &lt;스타오디션 위대한 탄생&gt;과 &lt;슈퍼스타 K2&gt;를 중심으로</title>
+          <author>최소망 ; 강승묵</author>
+          <journal-name>한국콘텐츠학회 논문지</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>12</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>120-131</page>
+          <pubilisher>한국콘텐츠학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.5392/JKCA.2012.12.06.120]]></doi>
+        </reference>
+        <reference refebibl-id="REF059701371" arti-id="ART001616390" type-code="01" type-name="학술지(정기간행물)">
+          <title>오디션 프로그램의 리얼리티와 경쟁 그리고 참가자의 순환적 위치: &lt;슈퍼스타K&gt;를 중심으로</title>
+          <author>이경숙</author>
+          <journal-name>미디어, 젠더 &amp; 문화</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>20</isseue>
+          <serno />
+          <page>107-136</page>
+          <pubilisher>한국여성커뮤니케이션학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701372" type-code="03" type-name="단행본">
+          <title>The Historical Novel</title>
+          <author>George Lukács</author>
+          <pubilisher>Merlin</pubilisher>
+          <pubi-year>1962</pubi-year>
+          <page>64-</page>
+        </reference>
+        <reference refebibl-id="REF059701373" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Perversity of (reality) TV: A Symptom of Our Times</title>
+          <author>J. Jagodozinkin</author>
+          <journal-name>Journal for the Psychoanalysis of Culture &amp; Society</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>8</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>320-329</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701374" type-code="03" type-name="단행본">
+          <title>Narrative, Apparatus, Ideology: A Film Theory Reader</title>
+          <author>Jean Louis Baudry</author>
+          <pubilisher>Columbia University Press</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>281-298</page>
+        </reference>
+        <reference refebibl-id="REF059701375" type-code="01" type-name="학술지(정기간행물)">
+          <title>I Just Want to be Again!: Beauty Pageants, Reality Television and Post-feminism</title>
+          <author>S. Barnet-Weiser</author>
+          <journal-name>Feminist Theory</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>7</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>255-272</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701376" type-code="03" type-name="단행본">
+          <title>Reality Squared: Televisual on the Real</title>
+          <author>Caldwell, J</author>
+          <pubilisher>Rutgers University Press</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>259-292</page>
+        </reference>
+        <reference refebibl-id="REF059701377" type-code="03" type-name="단행본">
+          <title>Reality TV: The Big Brother phenomenon</title>
+          <author>Sparks, C</author>
+          <pubilisher>International Socialism</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>114-</page>
+        </reference>
+        <reference refebibl-id="REF059701378" type-code="01" type-name="학술지(정기간행물)">
+          <title>新闻:真实性或者客观性--一种现象学路径的分析</title>
+          <author>张小元</author>
+          <journal-name>新闻与传播评论</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>19-22</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701379" type-code="01" type-name="학술지(정기간행물)">
+          <title>谈纪录片的真实性与故事性</title>
+          <author>鲍雁林</author>
+          <journal-name>电影传媒论文</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701380" type-code="01" type-name="학술지(정기간행물)">
+          <title>纪录片的责任与影响</title>
+          <author>何苏六</author>
+          <journal-name>现代传播</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>84-85</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701381" type-code="03" type-name="단행본">
+          <title>电影艺术</title>
+          <author>Joris Ivens</author>
+          <pubilisher />
+          <pubi-year>1980</pubi-year>
+          <page>47-51</page>
+        </reference>
+        <reference refebibl-id="REF059701382" type-code="01" type-name="학술지(정기간행물)">
+          <title>受众：“商品”的发现与“人”的忽视 ——“受众商品论”的一种解读</title>
+          <author>彭晶晶</author>
+          <journal-name>新闻世界</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF059701383" type-code="06" type-name="인터넷자원">
+          <title>Engels to Margaret Harkness In London</title>
+          <author>Friedrich Engels</author>
+          <url><![CDATA[https://www.marxists.org/chinese/engels/mia-chinese-engels-188804.htm]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day>1888</registration-day>
+        </reference>
+        <reference refebibl-id="REF059701384" type-code="06" type-name="인터넷자원">
+          <title>Emma021218</title>
+          <author />
+          <url><![CDATA[https://baike.baidu.com/item/萨特存在主义]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day>2021</registration-day>
+        </reference>
+        <reference refebibl-id="REF059701385" type-code="06" type-name="인터넷자원">
+          <title>https://namu.wiki/w/슈퍼스타K%20시리즈</title>
+          <author />
+          <url><![CDATA[https://namu.wiki/w/슈퍼스타K%20시리즈]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

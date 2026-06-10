@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002942704</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000003889">
+        <issn>2093-3320</issn>
+        <journal-name>유럽문화예술학논집</journal-name>
+        <publisher-name>유럽문화예술학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2023</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume>14</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002942704">
+        <article-categories>사회과학 &gt; 인류학 &gt; 문화이론</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[프랑시스 그뤼버의 <욥> 연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on Francis Gruber's <Job>]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Francis Gruber's <Job>]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[김승환]]></name>
+            <name-eng><![CDATA[Kim, Seung Hwan]]></name-eng>
+            <institution>조선대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 제1,2차 세계대전을 겪고, 평생을 천식이란 지병과 투병하면서도 자신만의 독특한 미술세계를 보여주었던 그뤼버를 소개하고자 한다. 그의 대표작 중 하나로 평가되는 <욥>을 통해 그가얼마나 서양미술의 전통을 당대의 정치, 사회적 상황과 연결하고자 했는지를 이해하고자 하였다.
+그뤼버의 작품 속 주인공인 욥은 전통적인 멜랑콜리의 자세인 팔을 머리에 괴고 있는 모습으로나타난다. 이렇게 ‘욥’을 표현하는 도상은 독일 르네상스의 거장 뒤러의 작품 속 욥의 자세와 관련이있다. 뒤러의 작품 속 욥이 당시 유행하던 페스트와 같은 유행병에 대한 두려움에서 그려졌듯, 그뤼버는 ‘욥’이란 주제를 독일군의 프랑스 점령 시기의 큰 고통을 경험했던 파리 시민들의 억압 상징으로서탐구하고자 했다.
+그뤼버의 작품 속 멜랑콜리한 욥은 고민하고 회의한다. 그는 보편적 윤리, 인권 등의 문제를 핵심으로 부각한다. 결국 전쟁으로 인한 혼란 이후, 모두가 징벌과 재건의 수단에 대해 궁금해하는 시기에그뤼버는 인간의 구원과 도덕적 교화에 대해 성찰했다.]]></abstract>
+          <abstract lang="english"><![CDATA[Francis Gruber is not classified as a so-called avant-garde artist in the first half of the 20th century.
+Besides he died at the young age of 36. For that reason, his works are not widely known and have not even been properly evaluated. This study aims to introduce Gruber, who went through World War I and II and showed his own unique art world while struggling with asthma all his life. Through <Job>, which is evaluated as one of his representative works, this article tried to understand how much he tried to connect the tradition of Western art with the political and social situation of the time.
+Job, the main character in Gruber's work, appears with his arms resting on his head, a traditional posture of melancholy. The iconography of ‘Job’ like this is related to the posture of Job in the work of Durer, a master of the German Renaissance. Frederick III, Elector of Saxony, who ordered this painting from Durer in his work <Job and his wife>, ordered this painting out of fear of an epidemic like the plague. In a similar vein, Gruber's desire to explore the theme of 'Job' as an allegory for Paris during the German occupation of France, that is, as a symbol of oppression of Parisians who did not lose hope and faith and experienced great suffering, is well illustrated.
+Job in the traditional Bible is a man who has not lost his absolute faith in God. However, the melancholic Job in Gruber's work agonizes and doubts. He is rebellious. Dangerously, he gets to the point of articulating human beliefs. Now, the story of Job highlights issues such as universal ethics, human rights, and the question of divine justice and human justice. Gruber found in Job a figure who evoked the ethical, legal, and theological ambiguity raised by the purges and expulsions in France during and after the German occupation.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[프란시스 그뤼버(Francis Gruber)]]></keyword>
+          <keyword><![CDATA[욥(Job)]]></keyword>
+          <keyword><![CDATA[멜랑콜리(Melancholy)]]></keyword>
+          <keyword><![CDATA[실존주의(Existentialism)]]></keyword>
+          <keyword><![CDATA[홀로코스트(Holocaust)]]></keyword>
+        </keyword-group>
+        <fpage>1</fpage>
+        <lpage>23</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002942704]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF066445959" type-code="03" type-name="단행본">
+          <title>서양미술과 촛불</title>
+          <author>김승환</author>
+          <pubilisher>아르테스 시각문화연구소</pubilisher>
+          <pubi-year>2022</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445960" type-code="03" type-name="단행본">
+          <title>파노프스키와 뒤러 : 르네상스 미술과 유럽중심주의</title>
+          <author>신준형</author>
+          <pubilisher>시공사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445961" type-code="03" type-name="단행본">
+          <title>인문주의 예술가 뒤러 1</title>
+          <author>에르빈 파노프스키</author>
+          <pubilisher>한길아트</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445962" type-code="03" type-name="단행본">
+          <title>Francis Gruber et ses amis</title>
+          <author>Annie-Claire Lussiez</author>
+          <pubilisher>Musée de Melun</pubilisher>
+          <pubi-year />
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445963" type-code="03" type-name="단행본">
+          <title>Francis Gruber</title>
+          <author>Catherine Bernard-Gruber</author>
+          <pubilisher>Editions Ides et Calende</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445964" type-code="03" type-name="단행본">
+          <title>Georges de la tour</title>
+          <author>Jacques Thuillier</author>
+          <pubilisher>Flammarion</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066445965" type-code="03" type-name="단행본">
+          <title>Vers le retour à l'ordre</title>
+          <author>Kenneth E. Silver</author>
+          <pubilisher>Flammarion</pubilisher>
+          <pubi-year>1991</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066446000" type-code="01" type-name="학술지(정기간행물)">
+          <title>“Interviews et opinions.” Francis Gruber. “</title>
+          <author>Madeleine Riffaud</author>
+          <journal-name>Arts de France</journal-name>
+          <pubi-year>1945</pubi-year>
+          <volume>5</volume>
+          <isseue />
+          <serno />
+          <page>27-34</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF066446001" type-code="07" type-name="기타자료">
+          <title>Francis Gruber 1912-1948</title>
+          <author>Musée d'Art Moderne de la ville de Paris</author>
+        </reference>
+        <reference refebibl-id="REF066446002" type-code="03" type-name="단행본">
+          <title>Francis Gruber</title>
+          <author>Musée National d'Art Moderne Paris</author>
+          <pubilisher>Editions des Musées Nationaux</pubilisher>
+          <pubi-year>1950</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF066446003" type-code="03" type-name="단행본">
+          <title>Paris Post-War: Art and existentialism, 1945-1955</title>
+          <author>Sarah Wilson</author>
+          <pubilisher>Tate Gallery</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>25-52</page>
+        </reference>
+        <reference refebibl-id="REF066446005" type-code="05" type-name="학위논문">
+          <title>The rhetoric of realism: Painting, politics, and commitment in France, 1940-56</title>
+          <author>Vivian Sky Rehberg</author>
+          <degree>Doctoral</degree>
+          <university>Northwestern University</university>
+          <department />
+          <pubi-year>2000</pubi-year>
+        </reference>
+        <reference refebibl-id="REF066446078" type-code="06" type-name="인터넷자원">
+          <title>https://www.bibleodyssey.org/people/related-articles/the-reception-of-job-in-visual-art/</title>
+          <author />
+          <url><![CDATA[https://www.bibleodyssey.org/people/related-articles/the-reception-of-job-in-visual-art/]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+        <reference refebibl-id="REF066446079" type-code="06" type-name="인터넷자원">
+          <title>https://www.wallraf.museum/en/collections/middle-ages/masterpieces/albrecht-duerer-piper-and-trummer-c-1503-1505/the-hightlight/</title>
+          <author />
+          <url><![CDATA[https://www.wallraf.museum/en/collections/middle-ages/masterpieces/albrecht-duerer-piper-and-trummer-c-1503-1505/the-hightlight/]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+        <reference refebibl-id="REF066446080" type-code="06" type-name="인터넷자원">
+          <title>https://www.original-prints.com/Marc-Chagall-Job-Praying-Illustrations-for-The-Bible-Lithograph::1230:321.html</title>
+          <author />
+          <url><![CDATA[https://www.original-prints.com/Marc-Chagall-Job-Praying-Illustrations-for-The-Bible-Lithograph::1230:321.html]]></url>
+          <citation-day />
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

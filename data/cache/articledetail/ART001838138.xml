@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001838138</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000011444">
+        <issn>1975-3284</issn>
+        <journal-name>불어문화권연구</journal-name>
+        <publisher-name>서울대학교 불어문화권연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2013</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>23</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001838138">
+        <article-categories>인문학 &gt; 프랑스어와문학 &gt; 프랑스문학 &gt; 소설(프랑스문학)</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[바르다뮈 이전의 바르다뮈 : 셀린의『교회 L’église』에 관한 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[Bardamu avant Bardamu : une lecture de L’Église de Céline]]></article-title>
+          <article-title lang="english"><![CDATA[Bardamu avant Bardamu : une lecture de L’Église de Céline]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[김예령]]></name>
+            <institution>서울대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[L’Église, la première tentative littéraire et pièce de théâtre de Céline, est généralement considérée comme une ‘répétition’ du Voyage au bout de la nuit. L’oeuvre contient en effet en germes tous les éléments révélateurs de l’univers célinien.
+Notre objectif consiste à l’examiner à travers les thèmes suivants : En premier lieu, sa forme. À savoir le problème de la théâtralité qui s’éteint étrangement dans cette “comédie en cinq actes”, et qui se déploiera merveilleusement dans les romans. De l’église au voyage, d’une langue restreinte au style libéré, la comparaison de deux premières créations démontre comment une logique intérieure conduit l’écriture à explorer sa vérité romanesque avec un regard introspective du monde théâtre.
+En deuxième lieu, la question du héros. Avec Bardamu, il s’agit d’un “individu sans importance collective”. Vaincu volontaire, il est le seul à aller jusqu’au bout. Ce que les “salauds” ne veulent jamais pour se refuser d’assumer la vérité du monde : la mort.
+Bardamu de L’Église ne se révèle pas encore—ou suffisamment—un sujet larvaire, comme le sont la plupart des personnages céliniens. Lui et sa langue se caractérisant par leur solitude solide, Bardamu se présente comme l’ainé authentique de Roquentin, un autre condamné à la liberté.
+En derinier lieu, la signification de “l’Église” et le rôle des danseuses. S’il ne faut pas “habiller les murs en église”, seulement les danseuses sont capables de les déshabiller. Car leur beauté ne promet point l’éternité. A l’opposé des salauds, elles ne dansent qu’avec la mort, pour la mort. Devant Bardamu le païen, leurs jambes s’écartent comme la voie unique contenant le secret du monde. Ainsi, L’Église exprime une des idées primordiales de Céline sur le rapport étroit de la mort et de la danse, ou de la vérité et de l’art dans sa forme et sa langue plutôt prometteuses qu’abouties.]]></abstract>
+          <abstract lang="english"><![CDATA[L’Église, la première tentative littéraire et pièce de théâtre de Céline, est généralement considérée comme une ‘répétition’ du Voyage au bout de la nuit. L’oeuvre contient en effet en germes tous les éléments révélateurs de l’univers célinien.
+Notre objectif consiste à l’examiner à travers les thèmes suivants : En premier lieu, sa forme. À savoir le problème de la théâtralité qui s’éteint étrangement dans cette “comédie en cinq actes”, et qui se déploiera merveilleusement dans les romans. De l’église au voyage, d’une langue restreinte au style libéré, la comparaison de deux premières créations démontre comment une logique intérieure conduit l’écriture à explorer sa vérité romanesque avec un regard introspective du monde théâtre.
+En deuxième lieu, la question du héros. Avec Bardamu, il s’agit d’un “individu sans importance collective”. Vaincu volontaire, il est le seul à aller jusqu’au bout. Ce que les “salauds” ne veulent jamais pour se refuser d’assumer la vérité du monde : la mort.
+Bardamu de L’Église ne se révèle pas encore—ou suffisamment—un sujet larvaire, comme le sont la plupart des personnages céliniens. Lui et sa langue se caractérisant par leur solitude solide, Bardamu se présente comme l’ainé authentique de Roquentin, un autre condamné à la liberté.
+En derinier lieu, la signification de “l’Église” et le rôle des danseuses. S’il ne faut pas “habiller les murs en église”, seulement les danseuses sont capables de les déshabiller. Car leur beauté ne promet point l’éternité. A l’opposé des salauds, elles ne dansent qu’avec la mort, pour la mort. Devant Bardamu le païen, leurs jambes s’écartent comme la voie unique contenant le secret du monde. Ainsi, L’Église exprime une des idées primordiales de Céline sur le rapport étroit de la mort et de la danse, ou de la vérité et de l’art dans sa forme et sa langue plutôt prometteuses qu’abouties.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[집단적 중요성이 없는 개인]]></keyword>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[연극]]></keyword>
+          <keyword><![CDATA[교회]]></keyword>
+          <keyword><![CDATA[무희]]></keyword>
+          <keyword><![CDATA[individu sans importance collective]]></keyword>
+          <keyword><![CDATA[sujet]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[théâtre]]></keyword>
+          <keyword><![CDATA[église]]></keyword>
+          <keyword><![CDATA[danseuse]]></keyword>
+        </keyword-group>
+        <fpage>35</fpage>
+        <lpage>69</lpage>
+        <doi />
+        <uci>G704-SER000011444.2013..23.011</uci>
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.53</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001838138]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF032775696" type-code="03" type-name="단행본">
+          <title>L’Église (1926-1933)</title>
+          <author />
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1952</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775697" type-code="03" type-name="단행본">
+          <title>Romans I-IV, pléiade</title>
+          <author>Céline</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775698" type-code="03" type-name="단행본">
+          <title>À l’agité du bocal, In Le style contre les idées</title>
+          <author />
+          <pubilisher>Éditions Complexe</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775749" type-code="03" type-name="단행본">
+          <title>Le maniérisme, In Une avant-garde au XVIe siècle</title>
+          <author>Falguière P.</author>
+          <pubilisher>Découvertes Gallimard</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775750" type-code="03" type-name="단행본">
+          <title>Nausée de Céline</title>
+          <author>Richard J. -P.</author>
+          <pubilisher>Fata Morgana</pubilisher>
+          <pubi-year>1980</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775752" type-code="03" type-name="단행본">
+          <title>La nausée</title>
+          <author>Sartre J. -P.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775753" type-code="03" type-name="단행본">
+          <title>Portrait d’un antisémite, In Réflexions sur la question juive</title>
+          <author>Sartre J. -P.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1985</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775754" type-code="03" type-name="단행본">
+          <title>Lire le théâtre II. L’école du spectateur</title>
+          <author>Ubersfeld A.</author>
+          <pubilisher />
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775756" type-code="03" type-name="단행본">
+          <title>Céline, In Les dossiers Belfond</title>
+          <author>Vitoux F.</author>
+          <pubilisher />
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF032775758" type-code="03" type-name="단행본">
+          <title>셀린과 사르트르에 나타난 구토 연구, In 존재와 언어/현대프랑스 문학을 찾아서(김현문학전집 12권)</title>
+          <author>김현</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

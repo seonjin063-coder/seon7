@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002427320</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000519">
+        <issn>1227-0962</issn>
+        <journal-name>민족문학사연구</journal-name>
+        <publisher-name>민족문학사연구소</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2018</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>68</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002427320">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[김수영의 문학과 초현실주의]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Literature of Kim Soo-young and Surrealism]]></article-title>
+          <article-title lang="english"><![CDATA[The Literature of Kim Soo-young and Surrealism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[김진희]]></name>
+            <name-eng><![CDATA[Jin Hee Kim]]></name-eng>
+            <institution>이화여자대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구는 김수영의 문학과 삶에 미친 초현실주의의 영향과 그 문학사적 의의를 논의하는 글이다. 초현실주의자들은 서구의 미적 제도도 역시 근대 이성의 체계 속에서 정상화된 것이므로 이를 철저하게 해체하는 것이 예술의 혁명이라고 생각했고, 이런 틀을 부수는 일은 당대 미학적 규범이나 사회적 제도에 대한 저항, 즉 혁명을 의미했다. 김수영은 4․19혁명을 계기로 정치적 혁명의 불완전성과 마주해야 했고, 자신의 문학을 통해 미완의 혁명을 어떻게 완성시켜나갈 것인가 고민하는 과정에서 초현실주의를 발견했다. 그는 브르통, 바타이유, 모리스 블랑쇼, 앙리 미쇼, 사르트르 등의 초현실주의를 수용하면서 1960년대 정치적 혁명과 시의 혁명을 함께 사유할 수 있었다. 그는 초현실주의에 대한 풍부한 학습과 사유를 통해 무의식과 실존, 정치 이념을 연결시킨, 독자적인 시학인 ‘참여시’를 만들었고, 긴장과 갈등을 통합하여 미래의 비전을 보여주는 사랑의 시학을 제시했다. 김수영의 시학은, 1930년대 초현실주의의 사회적, 시대적 의의를 강조했던 김기림의 논의를, 1960년대 한국시의 장으로 수용하여 참여시의 이론적 토대로 삼았다는 점에서 한국 초현실주의 전통을 심화 확장시킨 것으로 평가할 수 있을 것이다. 결론적으로 한국 현대시는 김수영의 초현실주의 수용을 통해 혁명과 예술, 정치와 문학 등 대립되는 가치들에 대한 진지한 고민과 분명한 문학사적 성과를 얻을 수 있었다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study discusses the influence of surrealism on Kim Soo-young’s literature and life, aspects which researchers have indicated the need to be studied but has not yet been car-ried out. The surrealists have thought that the revolution of the arts is to thoroughly de-construct Western aesthetic institutions as they have become normalized through the modern rational systems, and to demolish such structure meant the resistance to, or i.e. the revolution of aesthetic norms and social institutions of the times. With the 4․19 revolution, Kim acknowledged the imperfection of the political revolution, and encoun-tered surrealism in the process of pondering about how to complete the unfinished revo-lution through his own literature. By accepting the surrealism of Breton, Bataille, Maurice Blanchot, Henri Michaux and Sartre, he was able to contemplate on the 1960s political revolution and poetical revolution together. He created a unique poetics of “participatory poetry” that linked the unconsciousness to existence and political ideology through the rich study and thoughts about surrealism, and presented a poetics of love that integrated tension and conflict, to show a vision for the future. Kim Soo-young’s poetry can be eval-uated as deepening and extending the Korean surrealist tradition by bringing Kim Ki-rim’s emphasis of the social and historical significance of the 1930s surrealism over to the 1960s Korean poetry and establishing the theoretical basis of participatory poetry. In conclusion, contemporary Korean poetry was able to gain profound reflections and clear literary results about conflicting values such as revolution and art, politics and literature, etc. through Kim Soo-young’s acceptance of surrealism.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[김수영]]></keyword>
+          <keyword><![CDATA[초현실주의]]></keyword>
+          <keyword><![CDATA[4․19 혁명]]></keyword>
+          <keyword><![CDATA[참여시]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[브르통]]></keyword>
+          <keyword><![CDATA[초현실주의 선언]]></keyword>
+          <keyword><![CDATA[바타이유]]></keyword>
+          <keyword><![CDATA[모리스 블랑쇼]]></keyword>
+          <keyword><![CDATA[앙리 미쇼]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[김기림]]></keyword>
+          <keyword><![CDATA[무라노 시로]]></keyword>
+          <keyword><![CDATA[즉물주의]]></keyword>
+          <keyword><![CDATA[일본 초현실주의]]></keyword>
+          <keyword><![CDATA[1930년대 모더니즘]]></keyword>
+          <keyword><![CDATA[Kim Soo-young]]></keyword>
+          <keyword><![CDATA[Surrealism]]></keyword>
+          <keyword><![CDATA[4․19 Revolution]]></keyword>
+          <keyword><![CDATA[Participatory Poetry]]></keyword>
+          <keyword><![CDATA[Liberty]]></keyword>
+          <keyword><![CDATA[Manifeste du Surréalisme]]></keyword>
+          <keyword><![CDATA[Breton]]></keyword>
+          <keyword><![CDATA[Bataille]]></keyword>
+          <keyword><![CDATA[Maurice Blanchot]]></keyword>
+          <keyword><![CDATA[Henri Michaux]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[Murano Siro]]></keyword>
+          <keyword><![CDATA[Sachlichkeit]]></keyword>
+          <keyword><![CDATA[Kim Ki-rim]]></keyword>
+          <keyword><![CDATA[Modernism]]></keyword>
+          <keyword><![CDATA[Japanese Surrealism]]></keyword>
+          <keyword><![CDATA[1930s Modernism]]></keyword>
+        </keyword-group>
+        <fpage>9</fpage>
+        <lpage>45</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.23296/minmun.2018.68.9]]></doi>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">0.72</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002427320]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF047759998" type-code="03" type-name="단행본">
+          <title>김수영 전집 1(시)</title>
+          <author>김수영</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759999" type-code="03" type-name="단행본">
+          <title>김수영 전집 2(산문)</title>
+          <author>김수영</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759948" type-code="01" type-name="학술지(정기간행물)">
+          <title>パリの超現実国際展(対談)</title>
+          <author />
+          <journal-name>芸術新潮</journal-name>
+          <pubi-year>1960</pubi-year>
+          <volume>11</volume>
+          <isseue>5</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>新潮社</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759949" type-code="01" type-name="학술지(정기간행물)">
+          <title>西脇三郎と村野四郎</title>
+          <author>鍵谷幸信</author>
+          <journal-name>國文學－解釈と教材の研究</journal-name>
+          <pubi-year>1961</pubi-year>
+          <volume>6</volume>
+          <isseue>10</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>學燈社</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759950" arti-id="ART002179914" type-code="01" type-name="학술지(정기간행물)">
+          <title>모리스 블랑쇼와 초현실주의 - 『헛발Faux Pas』 (1943)에서 『불의 몫La part du feu』 (1949)까지 -</title>
+          <author>고재정</author>
+          <journal-name>프랑스어문교육</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>55</isseue>
+          <serno />
+          <page>267-301</page>
+          <pubilisher>한국프랑스어문교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759951" type-code="01" type-name="학술지(정기간행물)">
+          <title>村野四郞의 卽物詩 I</title>
+          <author>고창범</author>
+          <journal-name>일본학보</journal-name>
+          <pubi-year>1988</pubi-year>
+          <volume>21</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759952" type-code="01" type-name="학술지(정기간행물)">
+          <title>東京美術学校の外国人生徒(後篇)</title>
+          <author>吉田千鶴子</author>
+          <journal-name>東京藝術大学美術学部紀要</journal-name>
+          <pubi-year>1999</pubi-year>
+          <volume>34</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>東京 藝術大学美術学部</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759953" type-code="03" type-name="단행본">
+          <title>세월이 가면－시인 박인환과 문학과 그 주 변</title>
+          <author>김경린</author>
+          <pubilisher>근역서제</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759954" type-code="01" type-name="학술지(정기간행물)">
+          <title>허무의 낭떠러지를 보는 사람－무라노 시로오에 대하여</title>
+          <author>김기림</author>
+          <journal-name>시학</journal-name>
+          <pubi-year>1994</pubi-year>
+          <volume>44</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047961173" type-code="03" type-name="단행본">
+          <title>살아있는 김수영</title>
+          <author>김규동</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759956" type-code="03" type-name="단행본">
+          <title>새로운 시론</title>
+          <author>김규동</author>
+          <pubilisher>산호장</pubilisher>
+          <pubi-year>1956</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759957" type-code="01" type-name="학술지(정기간행물)">
+          <title>로이드와 시</title>
+          <author>김기림</author>
+          <journal-name>인문평론</journal-name>
+          <pubi-year>1939</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759958" type-code="03" type-name="단행본">
+          <title>한국 미술기록존소 자료집</title>
+          <author>김병기</author>
+          <pubilisher>삼성미술</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759959" type-code="03" type-name="단행본">
+          <title>일본 근문학과 스포츠</title>
+          <author>김옥희</author>
+          <pubilisher>소명출판</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759960" type-code="01" type-name="학술지(정기간행물)">
+          <title>앙리 미쇼의 초기 작품에 관한 연구</title>
+          <author>김인환</author>
+          <journal-name>한국문화연구원 논총</journal-name>
+          <pubi-year>1972</pubi-year>
+          <volume>19</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>이화여대 한국문화연구원</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759961" arti-id="ART002175114" type-code="01" type-name="학술지(정기간행물)">
+          <title>김기림의 초현실주의론과 모더니즘 연구 I</title>
+          <author>김진희</author>
+          <journal-name>한국문학연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>52</isseue>
+          <serno />
+          <page>355-394</page>
+          <pubilisher>한국문학연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.20881/skl.2016..52.011]]></doi>
+        </reference>
+        <reference refebibl-id="REF047759962" type-code="03" type-name="단행본">
+          <title>회화로 읽는 1930년 시문학사</title>
+          <author>김진희</author>
+          <pubilisher>북코리아</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759963" arti-id="ART002359863" type-code="01" type-name="학술지(정기간행물)">
+          <title>『만선일보』에 실린 「시현실 동인집」과 동인 활동의 문학사적 의의</title>
+          <author>김진희</author>
+          <journal-name>현대문학의 연구</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>65</isseue>
+          <serno />
+          <page>125-164</page>
+          <pubilisher>한국문학연구학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.35419/kmlit.2018..65.005]]></doi>
+        </reference>
+        <reference refebibl-id="REF047937356" type-code="03" type-name="단행본">
+          <title>월경의 아방가르드</title>
+          <author>나미가타 츠요시</author>
+          <pubilisher>서울대출판문화원</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759965" type-code="03" type-name="단행본">
+          <title>모더니티의 다섯 얼굴</title>
+          <author>마테이 칼리니스쿠</author>
+          <pubilisher>시각과언어</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759966" arti-id="ART001809693" type-code="01" type-name="학술지(정기간행물)">
+          <title>김병욱의 시에 나타난 세계 인식 고찰</title>
+          <author>맹문재</author>
+          <journal-name>한국문학이론과 비평</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>17</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>387-412</page>
+          <pubilisher>한국문학이론과비평학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759967" arti-id="ART002118204" type-code="01" type-name="학술지(정기간행물)">
+          <title>임호권의 시 연구</title>
+          <author>맹문재</author>
+          <journal-name>한국문예비평연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>50</isseue>
+          <serno />
+          <page>149-176</page>
+          <pubilisher>한국현대문예비평학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.35832/kmlc..50.201606.149]]></doi>
+        </reference>
+        <reference refebibl-id="REF047759968" type-code="03" type-name="단행본">
+          <title>파리의 작가들</title>
+          <author>박이문</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1976</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759969" type-code="03" type-name="단행본">
+          <title>장 폴 사르트르</title>
+          <author>박정태</author>
+          <pubilisher>작은길</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759970" type-code="03" type-name="단행본">
+          <title>살아 있는 김수영</title>
+          <author>박지영</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759971" type-code="03" type-name="단행본">
+          <title>문학의 공간</title>
+          <author>박혜영</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759972" type-code="03" type-name="단행본">
+          <title>실주의</title>
+          <author>신현숙</author>
+          <pubilisher>동아출판사</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759973" arti-id="ART002229696" type-code="01" type-name="학술지(정기간행물)">
+          <title>이상(李箱)의 시와 초현실주의 시론이 김수영의 후기 시론에 미친 영향 - 「참여시의 정리」(1967)를 중심으로</title>
+          <author>신형철</author>
+          <journal-name>한국시학연구</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>50</isseue>
+          <serno />
+          <page>259-282</page>
+          <pubilisher>한국시학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15705/kopoet..50.201705.009]]></doi>
+        </reference>
+        <reference refebibl-id="REF047759974" type-code="03" type-name="단행본">
+          <title>실주의 선언</title>
+          <author>앙드 르통</author>
+          <pubilisher>미메시스</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759975" type-code="03" type-name="단행본">
+          <title>주기 증의 사례</title>
+          <author>앙리 미쇼</author>
+          <pubilisher />
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759976" type-code="03" type-name="단행본">
+          <title>세월이 가면－시인 박인환과 문학과 그 주변</title>
+          <author>양병식</author>
+          <pubilisher>근역서제</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759977" type-code="03" type-name="단행본">
+          <title>실주의 시와 문학의 명</title>
+          <author>오생근</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759978" type-code="03" type-name="단행본">
+          <title>살아 있는 김수영</title>
+          <author>강연호</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759979" type-code="03" type-name="단행본">
+          <title>한국근문학의 랑스 문학수용</title>
+          <author>이건우</author>
+          <pubilisher>서울대출판문화원</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759980" arti-id="ART001618919" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시론과 ‘죽음’ -블랑쇼의 영향을 중심으로-</title>
+          <author>이미순</author>
+          <journal-name>국어국문학</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>159</isseue>
+          <serno />
+          <page>329-351</page>
+          <pubilisher>국어국문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17291/kolali.2011..159.012]]></doi>
+        </reference>
+        <reference refebibl-id="REF047759981" arti-id="ART001216588" type-code="01" type-name="학술지(정기간행물)">
+          <title>김수영 시에 나타난 바타이유의 영향 - 에로티즘을 중심으로</title>
+          <author>이미순</author>
+          <journal-name>한국현대문학연구</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>23</isseue>
+          <serno />
+          <page>527-562</page>
+          <pubilisher>한국현대문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22871/mklite.2007..23.015]]></doi>
+        </reference>
+        <reference refebibl-id="REF047759982" type-code="03" type-name="단행본">
+          <title>초현실주의</title>
+          <author>이브디프레시</author>
+          <pubilisher>양문사</pubilisher>
+          <pubi-year>1963</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759983" type-code="01" type-name="학술지(정기간행물)">
+          <title>絶緣하는 論理</title>
+          <author>이시우</author>
+          <journal-name>삼사문학</journal-name>
+          <pubi-year>1934</pubi-year>
+          <volume />
+          <isseue>3</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759984" type-code="01" type-name="학술지(정기간행물)">
+          <title>surrealism</title>
+          <author>이시우</author>
+          <journal-name>삼사문학</journal-name>
+          <pubi-year>1935</pubi-year>
+          <volume />
+          <isseue>4</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759985" type-code="03" type-name="단행본">
+          <title>세월이 가면－시인 박인환과 문학과 그 주변</title>
+          <author>이정숙</author>
+          <pubilisher>근역 서제</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759986" type-code="03" type-name="단행본">
+          <title>살아 있는 김수</title>
+          <author>임홍배</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759987" arti-id="ART002180689" type-code="01" type-name="학술지(정기간행물)">
+          <title>밤의 침묵과 자유의 타수 - 김수영의 해방공간과 임화의 4.19 -</title>
+          <author>장문석</author>
+          <journal-name>반교어문연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>44</isseue>
+          <serno />
+          <page>313-374</page>
+          <pubilisher>반교어문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759988" arti-id="ART002099534" type-code="01" type-name="학술지(정기간행물)">
+          <title>초현실주의와 에로스의 수사학 - 1959년 국제 초현실주의 전시(EROS)를 중심으로 -</title>
+          <author>정은영</author>
+          <journal-name>조형디자인연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>19</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>153-173</page>
+          <pubilisher>사단법인 한국조형디자인협회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF047759989" type-code="07" type-name="기타자료">
+          <title>詩의 純粹性을 지킨 ｢르베르디｣ 自由人으로 神을 擇한 詩人</title>
+          <author>조류쥬 레이예</author>
+        </reference>
+        <reference refebibl-id="REF047759990" type-code="07" type-name="기타자료">
+          <title>學生欄 : 『수르톤』의 『通底器』 超現實主義와 物體論</title>
+          <author>조우식</author>
+        </reference>
+        <reference refebibl-id="REF047759991" type-code="03" type-name="단행본">
+          <title>정신분석학의 근 본개념</title>
+          <author>지그문트 로이트</author>
+          <pubilisher>열린책들</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759992" type-code="03" type-name="단행본">
+          <title>김수영 평전</title>
+          <author>최하림</author>
+          <pubilisher>실천문학사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759993" type-code="03" type-name="단행본">
+          <title>제국미술학교와 조선인 유학생들 (1929∼1945)</title>
+          <author>한국근미술기록연구회</author>
+          <pubilisher>빛</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759994" type-code="03" type-name="단행본">
+          <title>살아 있는 김수</title>
+          <author>황산</author>
+          <pubilisher>창비</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759995" type-code="03" type-name="단행본">
+          <title>침묵하는 공화국</title>
+          <author>J. P. 사르트르</author>
+          <pubilisher>일월서각</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759996" type-code="03" type-name="단행본">
+          <title>日本近代文學大事典 第一卷</title>
+          <author />
+          <pubilisher>講談社</pubilisher>
+          <pubi-year>1977</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF047759997" type-code="03" type-name="단행본">
+          <title>今日の詩論</title>
+          <author>村野四郞</author>
+          <pubilisher>寶文館</pubilisher>
+          <pubi-year>1952</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

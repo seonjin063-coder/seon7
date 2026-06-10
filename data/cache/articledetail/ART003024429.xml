@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003024429</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000006111">
+        <issn>2635-4225</issn>
+        <journal-name>교회교육·복지실천 연구</journal-name>
+        <publisher-name>한국교회교육복지실천학회</publisher-name>
+        <kci-registration>미등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>3</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003024429">
+        <article-categories>사회과학 &gt; 사회복지학 &gt; 사회복지학일반 &gt; 사회복지교육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>영어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education]]></article-title>
+          <article-title lang="foreign"><![CDATA[쇠렌 키에르케고르가 주장한 실존주의와 기독교 교육에서 인식론에 대한 성령의 역할 비교]]></article-title>
+          <article-title lang="english"><![CDATA[Comparing Existentialism asserted by Soren Kierkegaard and The Role of the Holy Spirit Regarding Epistemology in Christian Education]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[오경환]]></name>
+            <name-eng><![CDATA[Kyunghwan Oh]]></name-eng>
+            <institution>총신대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This study investigates existentialism as suggested by Søren Kierkegaard who is a leading theist and advocate of existentialism. Kierkegaard maintains truth can find through an individual’s freedom, choice, and personality because individuals can explore meaningful truth. Subjectivity as truth is the core philosophical idea of theistic existentialism. According to Kierkegaard, the concept of a subject is not abstract but concrete as an individual who exists self-consciously. The truth is that it begins with a concrete individual in a life situation. Also, subjective truth and passionate inwardness are essential means to an authentic individual mode of existence. However, in contrast to this, the Bible claims that only the Holy Spirit leads and teaches true truth and knowledge. In this study, the role, character, and application of the Holy Spirit are examined in detail, and the epistemological failure claimed by Kierkegaard is biblically criticized and considered. In addition. This study argues the essential role of the Holy Spirit in Christian education from an epistemological point of view contradicts the fundamental idea of existentialism, and this has important significance and implication in the field of Christian education in which the role of the Holy Spirit has been relatively neglected.]]></abstract>
+          <abstract lang="english"><![CDATA[This study investigates existentialism as suggested by Søren Kierkegaard who is a leading theist and advocate of existentialism. Kierkegaard maintains truth can find through an individual’s freedom, choice, and personality because individuals can explore meaningful truth. Subjectivity as truth is the core philosophical idea of theistic existentialism. According to Kierkegaard, the concept of a subject is not abstract but concrete as an individual who exists self-consciously. The truth is that it begins with a concrete individual in a life situation. Also, subjective truth and passionate inwardness are essential means to an authentic individual mode of existence. However, in contrast to this, the Bible claims that only the Holy Spirit leads and teaches true truth and knowledge. In this study, the role, character, and application of the Holy Spirit are examined in detail, and the epistemological failure claimed by Kierkegaard is biblically criticized and considered. In addition. This study argues the essential role of the Holy Spirit in Christian education from an epistemological point of view contradicts the fundamental idea of existentialism, and this has important significance and implication in the field of Christian education in which the role of the Holy Spirit has been relatively neglected.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[키에르케고르]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[성령]]></keyword>
+          <keyword><![CDATA[인식론]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Kierkegaard]]></keyword>
+          <keyword><![CDATA[Subjectivity]]></keyword>
+          <keyword><![CDATA[Holy Spirit]]></keyword>
+          <keyword><![CDATA[Epistemology]]></keyword>
+        </keyword-group>
+        <fpage>108</fpage>
+        <lpage>125</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003024429]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF068958679" type-code="03" type-name="단행본">
+          <title>Introducing Christian Education: Foundations for the Twentyfirst. Century</title>
+          <author>Anthony, J. Michael</author>
+          <pubilisher>Baker Academic</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958680" type-code="03" type-name="단행본">
+          <title>A Greek-English Lexicon of the New Testament and Other Early Christian Literature</title>
+          <author>Bauer W</author>
+          <pubilisher>Chicago University Press</pubilisher>
+          <pubi-year>1957</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958681" type-code="03" type-name="단행본">
+          <title>Philosophy of Education</title>
+          <author>Brauner, H. W.</author>
+          <pubilisher>The Ronald Press</pubilisher>
+          <pubi-year>1962</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958682" type-code="03" type-name="단행본">
+          <title>The Anointed Community: The Holy Spirit in the Johannine Tradition</title>
+          <author>Bürge, Gary M.</author>
+          <pubilisher>Wm. B. Eerdmans</pubilisher>
+          <pubi-year>1987</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958683" type-code="03" type-name="단행본">
+          <title>Notes from Underground</title>
+          <author>Dostoevsky, Fyodor</author>
+          <pubilisher>New American Library</pubilisher>
+          <pubi-year>1961</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958684" type-code="03" type-name="단행본">
+          <title>Existentialism : A Guide for the Perplexed</title>
+          <author>Earnshaw, Steven</author>
+          <pubilisher>MJF Books</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958685" type-code="01" type-name="학술지(정기간행물)">
+          <title>Kierkegaard and the ‘existential’ philosophy</title>
+          <author>Emmet, D. M.</author>
+          <journal-name>Philosophy</journal-name>
+          <pubi-year>1941</pubi-year>
+          <volume>16</volume>
+          <isseue>63</isseue>
+          <serno />
+          <page>257-271</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958686" type-code="03" type-name="단행본">
+          <title>A Theology for Christian Education</title>
+          <author>Estep Jr., James R.</author>
+          <pubilisher>B&amp;H Academic Publishing</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958687" type-code="01" type-name="학술지(정기간행물)">
+          <title>Kierkegaard’s View of Humor: Must Christians Always Be So Solemn?</title>
+          <author>Evans C. Stephen</author>
+          <journal-name>Faith and Philosophy</journal-name>
+          <pubi-year>1987</pubi-year>
+          <volume>4</volume>
+          <isseue />
+          <serno />
+          <page>176-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958688" type-code="03" type-name="단행본">
+          <title>Men’s Search for Meaning</title>
+          <author>Frankl, Viktor E.</author>
+          <pubilisher>Beacon Press</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958689" type-code="03" type-name="단행본">
+          <title>Dreadful Freedom</title>
+          <author>Green, Marjorie</author>
+          <pubilisher>University of Chicago Press</pubilisher>
+          <pubi-year>1948</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958690" type-code="03" type-name="단행본">
+          <title>20th Century Theology: God and the World in a Transitional Age</title>
+          <author>Grenz, Stanley J.</author>
+          <pubilisher>IVP academic</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958691" type-code="03" type-name="단행본">
+          <title>On Being Authentic</title>
+          <author>Guignon, Charles</author>
+          <pubilisher>Routledge</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958692" type-code="03" type-name="단행본">
+          <title>Theology of Holiness and Love</title>
+          <author>Jones, Kenneth E</author>
+          <pubilisher>Reformation Publishers</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958693" type-code="01" type-name="학술지(정기간행물)">
+          <title>On Truth as Subjectivity in Kierkegaard’s Concluding Unscientific Postscript</title>
+          <author>Johnson, Daniel</author>
+          <journal-name>Quodlibet Journal</journal-name>
+          <pubi-year>2003</pubi-year>
+          <volume>5</volume>
+          <isseue>2-3</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958694" type-code="03" type-name="단행본">
+          <title>The pedagogy of Holy Spirit : According to Early Christian Tradition</title>
+          <author>Johns Jackie David</author>
+          <pubilisher>Center for Pentecostal Ministries</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958695" type-code="03" type-name="단행본">
+          <title>Dictionary of New Testament Theology</title>
+          <author>Kamalah, E</author>
+          <pubilisher>Zondervan</pubilisher>
+          <pubi-year>1978</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958696" type-code="03" type-name="단행본">
+          <title>Pneumatology: The Holy Spirit in Ecumenical, International, and Contextual Perspective</title>
+          <author>Karkkainen, Veli-Matti</author>
+          <pubilisher>Baker</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958697" type-code="03" type-name="단행본">
+          <title>Concluding Unscientific Postscript</title>
+          <author>Kierkegaard, Soren</author>
+          <pubilisher>Princeton University Press</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958698" type-code="03" type-name="단행본">
+          <title>he Sickness unto Death: A Christian Psychological Exposition of Edification &amp; Awakening by Anti-Climacus</title>
+          <author>Kierkegaard, Soren</author>
+          <pubilisher>Penguin Books</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068959010" type-code="03" type-name="단행본">
+          <title>Existentialism and Education</title>
+          <author>Kneller, George</author>
+          <pubilisher>Science Inc publishing</pubilisher>
+          <pubi-year>1958</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958699" type-code="03" type-name="단행본">
+          <title>Philosophy &amp; Education: An Introduction in Christian Perspective</title>
+          <author>Knight, George R</author>
+          <pubilisher>Andrews University Press</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958700" type-code="03" type-name="단행본">
+          <title>Education that is Christian</title>
+          <author>LeBar, Lois E.</author>
+          <pubilisher>David C. Cook</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958701" type-code="03" type-name="단행본">
+          <title>Life in the Spirit</title>
+          <author>McQuilkin, Robertson</author>
+          <pubilisher>Broadman &amp; Holman Publishers</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958702" type-code="03" type-name="단행본">
+          <title>Existentialism as Philosophy</title>
+          <author>Molina, Fernando R.</author>
+          <pubilisher>The Spectrum Publishing</pubilisher>
+          <pubi-year>1969</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958703" type-code="03" type-name="단행본">
+          <title>The Spirit of Christ</title>
+          <author>Murray, Andrew</author>
+          <pubilisher>Whitaker House</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958704" type-code="01" type-name="학술지(정기간행물)">
+          <title>Concept of Truth and Subjectivity in Kierkegaard’s Philosophy</title>
+          <author>Nath, Shanjendu</author>
+          <journal-name>International Journal of Social Relevance &amp; Concern</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>2</volume>
+          <isseue>5</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958705" type-code="01" type-name="학술지(정기간행물)">
+          <title>Nature of human existence in Kierkegaard’s ethical philosophy:A step towards self-valuation and transformation in our contemporary world</title>
+          <author>Obinyan, E. Valentine</author>
+          <journal-name>International Journal of Philosophy</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>1-14</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958706" type-code="03" type-name="단행본">
+          <title>Assumptions that Affect Our Lives</title>
+          <author>Overman, Christian</author>
+          <pubilisher>Ablaze Publishing Company</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958707" type-code="03" type-name="단행본">
+          <title>Philosophical Foundations of Education</title>
+          <author>Ozmon, Howard A.</author>
+          <pubilisher>Merrill Publishing Compnay</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958708" type-code="03" type-name="단행본">
+          <title>Kierkegaard and the Dialectic of Faith</title>
+          <author>Paredes, Daniel</author>
+          <pubilisher>FILOSOF</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068959011" type-code="03" type-name="단행본">
+          <title>Foundational Issues in Christian Education: An Introduction in Evangelical Perspectives</title>
+          <author>Pazmino, Robert W.</author>
+          <pubilisher>Baker Academic</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958709" type-code="03" type-name="단행본">
+          <title>Being and Nothingness</title>
+          <author>Sartre, Jean-Paul</author>
+          <pubilisher>Washington Square Press</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958710" type-code="03" type-name="단행본">
+          <title>The Holy Spirit: Lord and Life-Giver</title>
+          <author>Satyavrata, Ivan</author>
+          <pubilisher>IVP Academic</pubilisher>
+          <pubi-year>1956</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958711" type-code="03" type-name="단행본">
+          <title>The Francis A. Schaeffer Trilogy: Three Essential Books in One Volume</title>
+          <author>Schaeffer, Francis A.</author>
+          <pubilisher>Crossway</pubilisher>
+          <pubi-year>1990</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958712" type-code="03" type-name="단행본">
+          <title>The Universe next Door : A Basic Worldview</title>
+          <author>Sire, James W.</author>
+          <pubilisher>IVP Academic</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958713" type-code="03" type-name="단행본">
+          <title>Kierkegaard’s Hermeneutic</title>
+          <author>Skaggs, Rebecca</author>
+          <pubilisher>HeyJLV</pubilisher>
+          <pubi-year>2014</pubi-year>
+          <page>817-826</page>
+        </reference>
+        <reference refebibl-id="REF068959012" type-code="03" type-name="단행본">
+          <title>A Casebook on Existentialism</title>
+          <author>Spanos, William V.</author>
+          <pubilisher>Thomas Y. Crowell</pubilisher>
+          <pubi-year>1966</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958714" type-code="03" type-name="단행본">
+          <title>Holy Spirit Power</title>
+          <author>Spurgeon, Charles H.</author>
+          <pubilisher>Whitaker House</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958715" type-code="01" type-name="학술지(정기간행물)">
+          <title>Kierkegaard: The self and ethical existence</title>
+          <author>Stack, George J.</author>
+          <journal-name>Ethics</journal-name>
+          <pubi-year>1973</pubi-year>
+          <volume>83</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068959013" type-code="03" type-name="단행본">
+          <title>The Holy Spirit</title>
+          <author>Walvoord, John F.</author>
+          <pubilisher>Zondervan</pubilisher>
+          <pubi-year>1954</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958716" type-code="03" type-name="단행본">
+          <title>The Logic of Hegal</title>
+          <author>Wallace, William</author>
+          <pubilisher>Oxford University Press</pubilisher>
+          <pubi-year>1959</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF068958717" type-code="01" type-name="학술지(정기간행물)">
+          <title>Existential being as transformative learning</title>
+          <author>Walters, D. A.</author>
+          <journal-name>Pastoral Care in Education</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>26</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>111-118</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958718" type-code="01" type-name="학술지(정기간행물)">
+          <title>Resurgent Calvinism Renews Debate Over Chance for Heaven</title>
+          <author>Wingfield, Mark</author>
+          <journal-name>Baptist Today</journal-name>
+          <pubi-year>1995</pubi-year>
+          <volume>13</volume>
+          <isseue>4</isseue>
+          <serno />
+          <page>16-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF068958719" type-code="03" type-name="단행본">
+          <title>Teaching as Jesus Taught</title>
+          <author>Zuck, Roy</author>
+          <pubilisher>Baker</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

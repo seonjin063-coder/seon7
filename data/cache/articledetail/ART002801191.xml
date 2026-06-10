@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002801191</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001234">
+        <issn>1225-1410</issn>
+        <journal-name>범한철학</journal-name>
+        <publisher-name>범한철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2021</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>103</volume>
+        <issue>4</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002801191">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[‘존재론적 불안’에서 ‘실존적 불안’으로: 하이데거(M. Heidegger)에서 사르트르(J-P. Sartre)에로]]></article-title>
+          <article-title lang="foreign"><![CDATA[From ontological anxiety to existential anxiety: From Heidegger to Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[From ontological anxiety to existential anxiety: From Heidegger to Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[이창석]]></name>
+            <name-eng><![CDATA[Lee Chang Suk]]></name-eng>
+            <institution>부산대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문의 목적은 사르트르의 불안의 기원과 그 현상을 연구하는 데 있다. 하지만 사르트르에게서 불안은 하이데거의 그것을 다시 재해석하기 때문에, 하이데거의 입장을 살펴볼 필요가 있다. 먼저 불안의 기원은 사르트르에 의하면 의식의 출현이다. 인간은 이 출현으로 인해 세계-내-존재가 되는데, 이는 하이데거에게서 현존재의 세계-내-존재의 근본 구성틀 이기도 하다. 그런데 하이데거는 어떻게 해서 불안이 현존재에 도래하게 되었는지 설명하지 않고, 이미-거기에 있음으로 설명한다. 하지만 사르트르에 의하면, 존재의 파멸로 인해 의식이 출현하고 존재와 관계를 맺는다. 의식의 출현을 달리 말하면, ‘자유’인데, 이 자유에서 불안이 발생한다. 또한 의식의 출현으로 인해 인간의 의식은 ‘전반성적 의식’과 ‘반성적 의식’으로 양분되는데, 전자는 세계와의 직접적인 관계를 맺는다면, 후자는 자기에 관한 의식, 즉 반성적 사고이며, 이에서 불안은 구체화된다. 하지만 문제는 ‘무의 문제’이다. 하이데거는 현존재의 불안을 통하여 무에 직면하여 본래성으로 회복가능하다고 주장하지만, 그는 현존재의 존재를 강조한 나머지 ‘의식’ 즉 ‘대자존재’를 간과했다. 하지만 사르트르에 의하면, 불안이라는 것은 의식 자체이기에 불안을 통하여 무의 존재자체에 직면하기보다 불안의 의식에 직면할 수밖에 없다.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this thesis is to study the origin and phenomenon of Sartre's anxiety. But in Sartre, anxiety reinterprets Heidegger's, so we have to look at Heidegger's opinion. First, the origin of anxiety is, according to Sartre, the advent of consciousness. Man becomes a being-in-the-world by this advent, which is also the fundamental framework of being-in-the-world of Dasein for Heidegger. But Heidegger does not explain how anxiety came to Dasein, but rather as already-there. However, according to Sartre, with the destruction of being and consciousness, consciousness emerges and establishes a relationship with being. The advent of this consciousness is ‘freedom', from which anxiety arises. Also, due to the advent of consciousness, human consciousness is divided into ‘pre-reflective consciousness' and ‘reflective consciousness'. The former has a direct relationship with the world, while the latter is reflective thinking as consciousness of the self, and Anxiety is embodied in it. But the problem is the ‘problem of nothingness’. Heidegger argues that it is possible to restore authenticity in the face of nothing through the anxiety of Dasein, but he emphasized the existence of Dasein and overlooked 'consciousness', that is, 'for-being'. However, according to Sartre, since anxiety is consciousness itself, through anxiety, we have no choice but to face the consciousness of anxiety rather than the existence of nothingness itself.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Heidegger]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[anxiety]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+          <keyword><![CDATA[nothingness]]></keyword>
+          <keyword><![CDATA[하이데거]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[불안]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[무]]></keyword>
+        </keyword-group>
+        <fpage>111</fpage>
+        <lpage>132</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.22932/pkps.2021.103.4.111]]></doi>
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.56</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002801191]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF060787737" type-code="03" type-name="단행본">
+          <title>존재와 시간</title>
+          <author>마틴 하이데거</author>
+          <pubilisher>까지</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787738" type-code="03" type-name="단행본">
+          <title>형이상학이란 무엇인가</title>
+          <author>마틴 하이데거</author>
+          <pubilisher>서문당</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787739" arti-id="ART002636218" type-code="01" type-name="학술지(정기간행물)">
+          <title>불안의 형이상학적 의미:하이데거의『존재와 시간』과 「형이상학이란 무엇인가?」를 중심으로</title>
+          <author>박일태</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume />
+          <isseue>130</isseue>
+          <serno />
+          <page>131-156</page>
+          <pubilisher>철학연구회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060787740" arti-id="ART001316717" type-code="01" type-name="학술지(정기간행물)">
+          <title>초기 하이데거의 불안 개념에 대한 비판적 고찰―하이데거의 불안 분석은 얼마나 사태 자체를 드러내는가―</title>
+          <author>박찬국</author>
+          <journal-name>가톨릭신학과사상</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume />
+          <isseue>62</isseue>
+          <serno />
+          <page>143-177</page>
+          <pubilisher>신학과사상학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060787741" type-code="03" type-name="단행본">
+          <title>The Mystical Element in Heidergger's Thought</title>
+          <author>Caputo, John D.</author>
+          <pubilisher>New York Fordham University Press</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787742" type-code="03" type-name="단행본">
+          <title>A Commentary on Jean Paul Sartre's “Being and Nothingness”</title>
+          <author>Catalano, Joseph S.</author>
+          <pubilisher>The University of Chicago Press Chicago and London</pubilisher>
+          <pubi-year>1974</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787743" type-code="03" type-name="단행본">
+          <title>Jean-Paul Sartre Key Concepts</title>
+          <author>Churchill, Steven</author>
+          <pubilisher>Acumen</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787744" type-code="03" type-name="단행본">
+          <title>The Existentialists And God</title>
+          <author>Cochrane, Arthur C</author>
+          <pubilisher>Westminster Press</pubilisher>
+          <pubi-year>1956</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787745" type-code="03" type-name="단행본">
+          <title>Heidegger and Sartre : an Essay on Being and Place</title>
+          <author>Fell, Joseph P</author>
+          <pubilisher>Columbia University Press</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787746" type-code="01" type-name="학술지(정기간행물)">
+          <title>Metaphysics of Nothingness : Heidegger, Ibn 'Arabi and Nagarjuna</title>
+          <author>Naeim, Fauzi</author>
+          <journal-name>Katha</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>15</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060787747" type-code="03" type-name="단행본">
+          <title>To be and Not to be : an Analysis of Jean Paul Sartre's Ontology</title>
+          <author>Jacques, Salvan</author>
+          <pubilisher>Detroit Wayne State University Press</pubilisher>
+          <pubi-year>1962</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787748" type-code="03" type-name="단행본">
+          <title>L’être et Ie néant : essaí d'ontologie phénoménologique</title>
+          <author>Sartre, Jean-Paul</author>
+          <pubilisher>Galimard</pubilisher>
+          <pubi-year>1943</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF060787749" type-code="01" type-name="학술지(정기간행물)">
+          <title>Sartre's Conception of Consciousness</title>
+          <author>Vedaparayana, G.</author>
+          <journal-name>Indian Philosophical Quarterly</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>ⅩⅩⅩⅢ</volume>
+          <isseue>3 and 4</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF060787750" type-code="03" type-name="단행본">
+          <title>The Cambridge Companion to Heidegger's Being and Time</title>
+          <author>Wrathall, Mark A.</author>
+          <pubilisher>Cambridge University Press</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

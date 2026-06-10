@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001526625</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000606">
+        <issn>1226-5128</issn>
+        <journal-name>프랑스학연구</journal-name>
+        <publisher-name>프랑스학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2011</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume />
+        <issue>55</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001526625">
+        <article-categories>인문학 &gt; 프랑스어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[『구토』와『요한시집』의 비교]]></article-title>
+          <article-title lang="foreign"><![CDATA[Etude comparative sur La Nausée et Poème de Jean]]></article-title>
+          <article-title lang="english"><![CDATA[Etude comparative sur La Nausée et Poème de Jean]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[이재룡]]></name>
+            <institution>숭실대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[L'existentialisme est connu en Corée au milieu des année 40 et discuté d'une faon plus sérieuse pendant la guerre coréenne. La guerre a certes provoqué la prise de conscience sur la conditon humaine et la réflexion d'ordre existentiel. Les auteurs coréens d'alors, sensibles aux mouvements littéraires des autres pays se penchent donc à l'existentialisme d'origine franaise notamment celui de Sartre.
+Jang Yong-Hak, auteur de Poème de Jean, affirme qu'il a été inspiré de La Nausée et de ce fait, ce roman est considéré comme un des romans de l'existentialisme coréen. Cela incitait les chercheurs aux études comparatives. Le point de départ de leur recherches consiste à dire que l'expérience commune de la guerre rapproche deux auteurs et que deux romans partagent presque mê̂me thème, celui de la liberté. Or, La Nausée est, comme on le sait bien, conu et rédigé avant la deuxième guerre et la situation dans laquelle Roquentin se trouve à Bouvile n'a rien de comparable avec celle de la guerre vécue par Dongho et d'autres personnages de Poème de Jean. Et La Nausée est construit sur le thème de la contingence auquel reste indifférent le roman de Jang.
+Une des différence qui sépare Roquentin de Dongho consiste en leur sens de histoire et conscience de la responsabilté. Face à la guerre les personnages de Jang Yong-Hak sont obligés d'assumer le rô̂le historique, et de réflechir sur leur identités sociales tandis que Roquentin prend une attitude distante et observatrice vis-à-vis des autres et ne cherche nullement à nouer une relation positive. La solidarité humaine n'effleure jamais son esprit. Si Roquentin est jeté dans Bouville sans aucune attache affective, Dongho et Nouhai sont marqués par le sens de solidadité colletive qui constitue leur identité, autrement dit leur essence. Ce qui rapproche Dongho et Roquention, c'est leur réaction à l'approche sexuel. L'expérience de camps de prisonnier provoque une forte répulsion qui mérite une analyse psychanalytique. On peut supposer que s'il y a une résonnance entre deux auteurs, cela aurait s'opérer sur le plan inconscient, mais il reste à le prouver à l'appui de l'analyse approfondie en ce sens.]]></abstract>
+          <abstract lang="english"><![CDATA[L'existentialisme est connu en Corée au milieu des année 40 et discuté d'une faon plus sérieuse pendant la guerre coréenne. La guerre a certes provoqué la prise de conscience sur la conditon humaine et la réflexion d'ordre existentiel. Les auteurs coréens d'alors, sensibles aux mouvements littéraires des autres pays se penchent donc à l'existentialisme d'origine franaise notamment celui de Sartre.
+Jang Yong-Hak, auteur de Poème de Jean, affirme qu'il a été inspiré de La Nausée et de ce fait, ce roman est considéré comme un des romans de l'existentialisme coréen. Cela incitait les chercheurs aux études comparatives. Le point de départ de leur recherches consiste à dire que l'expérience commune de la guerre rapproche deux auteurs et que deux romans partagent presque mê̂me thème, celui de la liberté. Or, La Nausée est, comme on le sait bien, conu et rédigé avant la deuxième guerre et la situation dans laquelle Roquentin se trouve à Bouvile n'a rien de comparable avec celle de la guerre vécue par Dongho et d'autres personnages de Poème de Jean. Et La Nausée est construit sur le thème de la contingence auquel reste indifférent le roman de Jang.
+Une des différence qui sépare Roquentin de Dongho consiste en leur sens de histoire et conscience de la responsabilté. Face à la guerre les personnages de Jang Yong-Hak sont obligés d'assumer le rô̂le historique, et de réflechir sur leur identités sociales tandis que Roquentin prend une attitude distante et observatrice vis-à-vis des autres et ne cherche nullement à nouer une relation positive. La solidarité humaine n'effleure jamais son esprit. Si Roquentin est jeté dans Bouville sans aucune attache affective, Dongho et Nouhai sont marqués par le sens de solidadité colletive qui constitue leur identité, autrement dit leur essence. Ce qui rapproche Dongho et Roquention, c'est leur réaction à l'approche sexuel. L'expérience de camps de prisonnier provoque une forte répulsion qui mérite une analyse psychanalytique. On peut supposer que s'il y a une résonnance entre deux auteurs, cela aurait s'opérer sur le plan inconscient, mais il reste à le prouver à l'appui de l'analyse approfondie en ce sens.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르Sartre]]></keyword>
+          <keyword><![CDATA[장용학Jang Yong-Hak]]></keyword>
+          <keyword><![CDATA[요한시집La Nausée]]></keyword>
+          <keyword><![CDATA[구토Poème de Jean]]></keyword>
+          <keyword><![CDATA[자유iberté]]></keyword>
+          <keyword><![CDATA[사르트르Sartre]]></keyword>
+          <keyword><![CDATA[장용학Jang Yong-Hak]]></keyword>
+          <keyword><![CDATA[요한시집La Nausée]]></keyword>
+          <keyword><![CDATA[구토Poème de Jean]]></keyword>
+          <keyword><![CDATA[자유iberté]]></keyword>
+        </keyword-group>
+        <fpage>245</fpage>
+        <lpage>276</lpage>
+        <doi />
+        <uci>G704-000606.2011..55.002</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001526625]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF025708406" type-code="03" type-name="단행본">
+          <title>La Nausée, Oeuvre romanesques éd</title>
+          <author>Jean-Paul Sartre</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1981</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708407" type-code="03" type-name="단행본">
+          <title>구토</title>
+          <author>사르트르</author>
+          <pubilisher>주우</pubilisher>
+          <pubi-year>1983</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708408" type-code="03" type-name="단행본">
+          <title>구토</title>
+          <author>사르트르</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708409" type-code="03" type-name="단행본">
+          <title>장용학 문학전집</title>
+          <author>장용학</author>
+          <pubilisher>국학자료원</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708410" type-code="03" type-name="단행본">
+          <title>요한 시집 외, In 세계문학전집 1</title>
+          <author>장용학</author>
+          <pubilisher>책세상</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708411" type-code="03" type-name="단행본">
+          <title>La Nausée de Jean-Paul Sartre, éd</title>
+          <author>Jaques Deguy</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708412" type-code="03" type-name="단행본">
+          <title>Silence de Sartre, éd</title>
+          <author>Jean-Franois Louette</author>
+          <pubilisher>Presses universitaire du Mirail</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708413" type-code="03" type-name="단행본">
+          <title>Sartre, éd</title>
+          <author>Philipe Hodard</author>
+          <pubilisher>Jean-Pierre Delarge</pubilisher>
+          <pubi-year>1979</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708414" type-code="03" type-name="단행본">
+          <title>Phallotexte et gynotexte dans Nausée; Feuillet sans date, In Sartre et la mise en signe, éd</title>
+          <author>Serge Doubrovsky</author>
+          <pubilisher>Klincksiek &amp; Cie</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708415" type-code="03" type-name="단행본">
+          <title>사르트르의 문학적 세계</title>
+          <author>김치수</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708416" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 구토에서의 로캉텡의 실패</title>
+          <author>강충권</author>
+          <journal-name>프랑스 어문교육</journal-name>
+          <pubi-year>1999</pubi-year>
+          <volume>7</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>프랑스 어문교육학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF025708417" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『구토』교육</title>
+          <author>박정자</author>
+          <journal-name>인문과학 연구</journal-name>
+          <pubi-year>1998</pubi-year>
+          <volume>7</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>상명대학교 인문과학연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF025708418" type-code="01" type-name="학술지(정기간행물)">
+          <title>한국 실존주의 소설의 수용과 적용양상 연구</title>
+          <author>박배식</author>
+          <journal-name>동신대학교 인문논집</journal-name>
+          <pubi-year>1996</pubi-year>
+          <volume>3</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF025708419" type-code="01" type-name="학술지(정기간행물)">
+          <title>현실의 추상화와 기법의 실험-『요한시집』에 나타난 『구토』의 영향</title>
+          <author>박유화</author>
+          <journal-name>비교문학</journal-name>
+          <pubi-year>2000</pubi-year>
+          <volume>25</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF025708420" type-code="03" type-name="단행본">
+          <title>한국 전후문학과 세대</title>
+          <author>방민호</author>
+          <pubilisher>항연</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708421" type-code="03" type-name="단행본">
+          <title>한국 전후 실존주의 소설 연구</title>
+          <author>배경열</author>
+          <pubilisher>태학사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708422" type-code="03" type-name="단행본">
+          <title>사르트르와 장용학의 비교고찰, In 현대소설연구</title>
+          <author>서수생</author>
+          <pubilisher>정음사</pubilisher>
+          <pubi-year>1982</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708439" type-code="03" type-name="단행본">
+          <title>한국 실존주의 소설연구</title>
+          <author>장양수</author>
+          <pubilisher>새미</pubilisher>
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708440" type-code="03" type-name="단행본">
+          <title>문학을 찾아서</title>
+          <author>정명환</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708441" type-code="03" type-name="단행본">
+          <title>한국 전후세대소설연구</title>
+          <author>엄해영</author>
+          <pubilisher>국학자료원</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708442" type-code="01" type-name="학술지(정기간행물)">
+          <title>장용학 &lt;日附變更線近處&gt; 一考</title>
+          <author>윤진현</author>
+          <journal-name>한국극예술연구</journal-name>
+          <pubi-year>1999</pubi-year>
+          <volume>9</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF025708443" type-code="03" type-name="단행본">
+          <title>한국 전후실존주의 소설 연구</title>
+          <author>이대영</author>
+          <pubilisher>국학자료원</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF025708444" type-code="01" type-name="학술지(정기간행물)">
+          <title>구토를 통해 읽는 육수</title>
+          <author>이재룡</author>
+          <journal-name>성균관대학 인문과학연구소</journal-name>
+          <pubi-year>1994</pubi-year>
+          <volume>29</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

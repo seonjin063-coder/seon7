@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART000931921</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001319">
+        <issn>1598-7124</issn>
+        <journal-name>새한영어영문학</journal-name>
+        <publisher-name>새한영어영문학회</publisher-name>
+        <kci-registration>등재후보</kci-registration>
+        <foreign-registration />
+        <pub-year>2004</pub-year>
+        <pub-mon>07</pub-mon>
+        <volume>46</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART000931921">
+        <article-categories>인문학 &gt; 영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language />
+        <title-group>
+          <article-title lang="original"><![CDATA[헌신과 개입: 존 파울즈의 실존주의 세계관]]></article-title>
+          <article-title lang="foreign"><![CDATA[Commitment and Involvement: John Fowles' s Existentialism]]></article-title>
+          <article-title lang="english"><![CDATA[Commitment and Involvement: John Fowles' s Existentialism]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[배현]]></name>
+            <name-eng><![CDATA[Hyun Pae]]></name-eng>
+            <institution>목포대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original" />
+          <abstract lang="english"><![CDATA[The search for the individual selfhood and existential freedom, the significance of choice, and the consequent self-realization are the major critical concerns about John Fowles's novels. The heroes in Fowles's novels, Nicholas Urfe in The Magus and Charles Smithson in The French Lieutenant's Woman, showed themselves, at the beginning of each novel, as the representatives of modern man who could not find their authenticity. They can not make direct contact with their reality; they are suffering from existential "boredom," "alienation," "anxiety" and "self-deception."
+In the course of the novels, the heroes are undergoing existential quests for true selfhood, and find themselves facing the critical moments when important choices should be made. They choose and their choices lead them to the realization that there is no omnipotent God who regulates the fates of the individuals and that they must become fully aware of the true character of their present being. Finally, they recognize that in order to live meaningful and authentic lives, they must not only achieve individual freedom and choose their existential selfhood, but also must commit themselves to their own lives, walk into their own existence and live bravely in their immediate present.
+The existential wisdom that Fowles revealed through the existential quests of his heroes helps us understand Fowles's view of art. As a modern novelist who lives in the age of 'End of Novel,' 'Death of Author,' and 'Deconstruction,' Fowles tries to ensure the possibilities of the novel genre through various formal experiments. As he asks his protagonists to involve and commit to their own existence, Fowles endeavors to show himself committing to the responsibility of the artist, facing every dilemmas of the modern novelists.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[John Fowles]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[freedom and choice]]></keyword>
+          <keyword><![CDATA[commitment]]></keyword>
+          <keyword><![CDATA[John Fowles]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[freedom and choice]]></keyword>
+          <keyword><![CDATA[commitment]]></keyword>
+        </keyword-group>
+        <fpage>41</fpage>
+        <lpage>63</lpage>
+        <doi />
+        <uci>G704-001319.2004.46.2.010</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000931921]]></url>
+        <verified>N</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF012772903" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>사르트르</author>
+          <journal-name />
+          <pubi-year>1999</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>문예출판사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012772904" type-code="01" type-name="학술지(정기간행물)">
+          <title>Which Way Out of the Room?</title>
+          <author>Churchill</author>
+          <journal-name />
+          <pubi-year>1968</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>72-10 87</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012772905" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Aristos</title>
+          <author>Fowles,John</author>
+          <journal-name />
+          <pubi-year>1981</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>Triad Grafton Books</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773292" type-code="01" type-name="학술지(정기간행물)">
+          <title>A Sort of Exile in Lyme Regis</title>
+          <author>Halpern</author>
+          <journal-name />
+          <pubi-year />
+          <volume />
+          <isseue />
+          <serno />
+          <page>34-46</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773293" type-code="01" type-name="학술지(정기간행물)">
+          <title>Didactic Demons in Modern Fiction</title>
+          <author>Kane</author>
+          <journal-name />
+          <pubi-year>1988</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773294" type-code="01" type-name="학술지(정기간행물)">
+          <title>John Fowles's Sense of an Enging Dramatic Action in Contemporary Fiction</title>
+          <author>Kennedy</author>
+          <journal-name />
+          <pubi-year>1974</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773295" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Romances of John Fowles</title>
+          <author>Loveday</author>
+          <journal-name />
+          <pubi-year>1985</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>The MacMillan Press Ltd</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773297" type-code="01" type-name="학술지(정기간행물)">
+          <title>John Fowles</title>
+          <author>Olshen,Barry N</author>
+          <journal-name />
+          <pubi-year>1978</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher>Frederick Ungar</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012773298" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Fiction of John Fowles and the Loneliness of Selfhood U of Missouri P</title>
+          <author>Palmer</author>
+          <journal-name />
+          <pubi-year>1974</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012772912" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Orgastic Fiction of John Fowles</title>
+          <author>Scholes</author>
+          <journal-name />
+          <pubi-year>1969</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>1-12</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF012772913" type-code="01" type-name="학술지(정기간행물)">
+          <title>The Orgastic Fiction of John Fowles</title>
+          <author>Scholes</author>
+          <journal-name />
+          <pubi-year>1969</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>1-12</page>
+          <pubilisher />
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

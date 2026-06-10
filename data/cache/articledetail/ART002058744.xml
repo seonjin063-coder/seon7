@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002058744</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001225">
+        <issn>1598-9410</issn>
+        <journal-name>헤겔연구</journal-name>
+        <publisher-name>한국헤겔학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2015</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>38</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002058744">
+        <article-categories />
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[사르트르 철학에서 도덕 주체에 대한 탐구]]></article-title>
+          <article-title lang="foreign"><![CDATA[La recherche pour le sujet moral chez Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[La recherche pour le sujet moral chez Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[김선영]]></name>
+            <institution>고려대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문의 목적은 ‘절대적 자유’를 주장하는 것으로 알려진 사르트르 철학에서 자유와 도덕이 어떤 방식에서 양립 가능한지를 탐구하는 데 있다. 이러한 가능성을 사르트르의 인간존재가 자유로운 의식을 지닌 한에서 자유로운 존재로 정의된다는 점에서 출발해서 이런 의식을 지닌 인간이 어떤 방식에서 ‘도덕 주체’일 수 있는지에 대한 논의를 통해 모색해보고자 하는 것이다. 사르트르는 인간존재 자체를 단지 ‘있음으로 있는 존재’와 구분하여 ‘없음으로 있는 존재’로 파악한다. 인간은 자신을 무화시킬 수 있는 존재로 자신의 뿌리를 뽑는 존재이며 인간에게 주어진 본질은 없고 ‘기투’의 존재라는 것이다. 인간은 스스로 만드는 것일 뿐이라는 것이 인간 실재에 대한 사르트르의 규정이다. 사르트르는 이러한 인간 존재 자체에서 도덕적 구조를 발견한다. 선택과 가치의 출현이 그 자신에게 달려있다는 점에서 인간은 불안하고 이에 따른 책임을 지닌다. 이 책임은 내가 인간이라는 한에서 나의 책임인 동시에 인류에 대한 책임을 의미한다. 사르트르는 개인적이고 주관적인 주체가 아니라 상호주체성을 지닌 인간을 제시하며 인간의 실존 안에 도덕적 요소들을 포함시킨다.]]></abstract>
+          <abstract lang="english"><![CDATA[Dans cette article, nous essayons de comprendre dans quelle mesure la liberté et la morale peuvent être compatibles chez Sartre à travers la question du sujet moral. En general, la liberté sartrienne est connue comme une liberté absolue. En ce sens la liberté de l’acte se pose comme problème moral. Or pour Sartre l’homme est un être qui n’est pas ce qu’il est par rapport l’être qui est ce qu’il est. L’homme s’arrarche et neantise son être. L’homme n’a pas d’essence, il est le projet. L’homme se construit, c’est tout. Pourtant Sartre trouve la structure morale dans la réalité-humain dans la mesure où le choix et la valeur viennent au monde par l’homme. Par là, l’homme est angoisse et resposable non seulement en tant que Je mais en tant que humain. D’ailleurs, pour Sartre l’homme implique l’autre en son porpre existence, il est donc l’intersubjectivité. Et tant que l’humain est resposable de l’humain, il est humaniste. Ainsi, pour Sartre l’existence humain signifie à la fois un sujet d’être et un sujet moral.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[existentialisme]]></keyword>
+          <keyword><![CDATA[liberté]]></keyword>
+          <keyword><![CDATA[conscience]]></keyword>
+          <keyword><![CDATA[moral]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[의식]]></keyword>
+          <keyword><![CDATA[도덕]]></keyword>
+        </keyword-group>
+        <fpage>219</fpage>
+        <lpage>240</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.17281/khegel.2015..38.010]]></doi>
+        <uci>G704-001225.2015..38.008</uci>
+        <citation-count kci="5" wos="0">5</citation-count>
+        <fwci create-dt="2025-08-04">1.24</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002058744]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF038407957" arti-id="ART000907889" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『도덕에 관한 노트』 : '도덕적 전환'의 존재론</title>
+          <author>강충권</author>
+          <journal-name>프랑스학연구</journal-name>
+          <pubi-year>2002</pubi-year>
+          <volume>22</volume>
+          <isseue />
+          <serno />
+          <page>43-63</page>
+          <pubilisher>프랑스학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF038407958" type-code="03" type-name="단행본">
+          <title>칸트와 현대유럽철학</title>
+          <author>문성학</author>
+          <pubilisher>한국칸트협회, 철학과 현실사</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407959" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 현재성</title>
+          <author>서동욱</author>
+          <journal-name>문학과사회</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume>18</volume>
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>문학과 지성사</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF038407960" arti-id="ART001474078" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 &lt;행위&gt;의 존재론</title>
+          <author>이성환</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>115</volume>
+          <isseue />
+          <serno />
+          <page>193-219</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF038407961" arti-id="ART001338253" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 『존재와 무』에 나타난 윤리학적 문제의식에 관한 소고</title>
+          <author>한상연</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>19</isseue>
+          <serno />
+          <page>263-301</page>
+          <pubilisher>한국하이데거학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF038407962" type-code="03" type-name="단행본">
+          <title>L’Etre et le Néant</title>
+          <author>Sartre, J.-P.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1943</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407963" type-code="03" type-name="단행본">
+          <title>La transcendance de l’ego</title>
+          <author>Sartre, J.-P.</author>
+          <pubilisher>J. Vrin</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407964" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>박정태</author>
+          <pubilisher>(주)이학사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407965" type-code="03" type-name="단행본">
+          <title>Lettre sur l’humanisme, in Question III</title>
+          <author>Heidegger M.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1989</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407966" type-code="03" type-name="단행본">
+          <title>Sartre, Conscience, ego et psyché</title>
+          <author>Mouille J.-M.</author>
+          <pubilisher>PUF</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407967" type-code="03" type-name="단행본">
+          <title>Le dernier philosophe, Sartre</title>
+          <author>Renault A.</author>
+          <pubilisher>Grasset</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF038407968" type-code="03" type-name="단행본">
+          <title>La dialectique de Sartre</title>
+          <author>Seel G.</author>
+          <pubilisher>L’Age de l’Homme</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

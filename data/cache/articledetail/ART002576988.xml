@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002576988</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000342">
+        <issn>1229-487X</issn>
+        <journal-name>문학교육학</journal-name>
+        <publisher-name>한국문학교육학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2020</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>66</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002576988">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[실존주의를 통한 인물의 주체성 이해와 문학 감상 교육 - <오월춘추>의 등장인물 ‘오자서’와 ‘범려’를 중심으로 -]]></article-title>
+          <article-title lang="foreign"><![CDATA[Understanding the Subjectivity of Characters through Existentialism and Education of Literature Appreciation - Focusing on the ‘Wu Zixu’ and ‘Fan li’ in <Wu-Yue Chunqiu> -]]></article-title>
+          <article-title lang="english"><![CDATA[Understanding the Subjectivity of Characters through Existentialism and Education of Literature Appreciation - Focusing on the ‘Wu Zixu’ and ‘Fan li’ in <Wu-Yue Chunqiu> -]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[배재훈]]></name>
+            <name-eng><![CDATA[Bae, Jae-Hun]]></name-eng>
+            <institution>한국교원대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 작중 등장인물의 주체성을 실존주의를 통해 이해하고 감상해 볼 수 있음을 <오월춘추>의 오자서와 범려의 사례를 들어 제안하였다. 사르트르의 실존주의 관점에서 바라본 주체성은 책임과 조망으로 재해석해 볼 수 있다.
+오자서는 자신의 생애의 모든 순간, 오직 자신에 대한 실존적 책임에 의해서만 행동하였다. 자신에게 닥친 선택의 순간, 그는 자신의 모습을 먼저 정의해놓고 실존을 추구하지 않았다. 오로지 자기 자신의 실존만을 위해서 주체적으로 행동하였다. 범려 또한 실존적 인물이었다. 자신의 군왕 구천에게 수많은 죽을 고비를 넘기며 충성했지만, 실존적 조망의 통찰을 보이며 구천을 떠난다. 오직 자신의 주체적인 삶을 이어나갔다.
+이러한 독법 사례를 통한 문학 감상 교육에서의 함의는 다음과 같다. 첫째, 실존주의를 통한 주체성 이해는 다양한 주체성 탐색에 유의미한 감상 방안이 될 수 있다. 둘째, 실존주의를 통한 주체성 이해는 주체성 형성에 유의미한 감상 방안이 될 수 있다. 본 논의는 사르트르의 실존주의를 통한 주체성 이해가 실존의 의미를 모색하는 인물 이해 방법 중 하나가 될 수 있음을 제안한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study suggested that the Subjectivity of characters in the work can be understood and appreciated through existentialism, citing the examples of Wu Zixu and Fan li in ‘Wu-Yue Chunqiu’. The Subjectivity of Sartre from the existentialist point of view can be reinterpreted with responsibility and perspective.
+Wu Zixu acted only at every moment of his life, by existential responsibility for himself. At the moment of choice he faced himself, he defined himself first and did not seek existence. He acted on his own initiative solely for his own existence. Fan li was also an existential. Although he was loyal to his king, Gou Jian, who passed numerous deathbeds, he leaves Gou Jian with insight into his existential prospects. He only carried on his own life.
+The implications of literature appreciation education through these cases of reading are as follows. First, Subjectivity through existentialism, or reading to explore the value of responsibilities and prospects, can be a significant way to appreciate the search for diverse Subjectivity. Second, Subjectivity awareness through existentialism can be a significant way to appreciate the formation of Subjectivity. This study suggests that Sartre’s existentialism may help us to seek new understanding of the character story and the meaning of its existence.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[인물 이해]]></keyword>
+          <keyword><![CDATA[오월춘추]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+          <keyword><![CDATA[understanding character]]></keyword>
+          <keyword><![CDATA[Wu-Yue Chunqiu]]></keyword>
+        </keyword-group>
+        <fpage>105</fpage>
+        <lpage>141</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.37192/KLER.66.4]]></doi>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">0.92</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002576988]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF055954968" type-code="03" type-name="단행본">
+          <title>사기 열전 1</title>
+          <author>박일봉</author>
+          <pubilisher>육문사</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954969" type-code="03" type-name="단행본">
+          <title>[단행본] 오월춘추_인간사랑</title>
+          <author>조엽</author>
+          <pubilisher>인간사랑</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954970" arti-id="ART002367852" type-code="01" type-name="학술지(정기간행물)">
+          <title>동사성 분석을 통한 청소년 주체의성장 양상 연구－소설 『완득이』를 중심으로</title>
+          <author>강서희</author>
+          <journal-name>아동청소년문학연구</journal-name>
+          <pubi-year>2018</pubi-year>
+          <volume />
+          <isseue>22</isseue>
+          <serno />
+          <page>229-254</page>
+          <pubilisher>한국아동청소년문학학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.24993/JKLCY.2018.06.22.229]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954971" arti-id="ART002494997" type-code="01" type-name="학술지(정기간행물)">
+          <title>복수의 당위성과 가려진 고뇌－효에 바탕한 복수서사를 중심으로－</title>
+          <author>강종임</author>
+          <journal-name>중국어문학</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume />
+          <isseue>81</isseue>
+          <serno />
+          <page>31-55</page>
+          <pubilisher>영남중국어문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15792/clsyn..81.201908.31]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954972" arti-id="ART001077726" type-code="01" type-name="학술지(정기간행물)">
+          <title>동화 감상 유형별 감상 전략</title>
+          <author>곽춘옥</author>
+          <journal-name>한국초등국어교육</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>34</isseue>
+          <serno />
+          <page>5-34</page>
+          <pubilisher>한국초등국어교육학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22818/jeke.2007..34.5]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954973" type-code="05" type-name="학위논문">
+          <title>사르트르의 자유와 책임</title>
+          <author>김강임</author>
+          <degree>석사</degree>
+          <university>동아대학교 교육대학원</university>
+          <department>국민윤리교육</department>
+          <pubi-year>2002</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954974" arti-id="ART001581612" type-code="01" type-name="학술지(정기간행물)">
+          <title>《강아지똥》의 인물 관계 변화와 의미 탐색</title>
+          <author>김상한</author>
+          <journal-name>새국어교육</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>88</isseue>
+          <serno />
+          <page>377-394</page>
+          <pubilisher>한국국어교육학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15734/koed..88.201108.377]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954975" type-code="05" type-name="학위논문">
+          <title>조선 중후기 문인의 오자서 논평 연구</title>
+          <author>김연지</author>
+          <degree>석사</degree>
+          <university>단국대학교</university>
+          <department />
+          <pubi-year>2019</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954976" arti-id="ART002020150" type-code="01" type-name="학술지(정기간행물)">
+          <title>프랑스 실존주의 문학의 한·중 수용양상 비교연구 - 문학 논쟁을 중심으로 -</title>
+          <author>金艶</author>
+          <journal-name>현대소설연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>59</isseue>
+          <serno />
+          <page>289-315</page>
+          <pubilisher>한국현대소설학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954977" arti-id="ART001636209" type-code="01" type-name="학술지(정기간행물)">
+          <title>문학 특히 소설문학으로서의 《吳越春秋》 연구</title>
+          <author>김영식</author>
+          <journal-name>중국문학</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume>70</volume>
+          <isseue />
+          <serno />
+          <page>127-151</page>
+          <pubilisher>한국중국어문학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.21192/scll.70..201202.006]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954978" arti-id="ART002190968" type-code="01" type-name="학술지(정기간행물)">
+          <title>문학의 시대와 문학 문식성</title>
+          <author>김중신 ; 유미향</author>
+          <journal-name>문학교육학</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume />
+          <isseue>53</isseue>
+          <serno />
+          <page>121-146</page>
+          <pubilisher>한국문학교육학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.37192/KLER.53.4]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954979" arti-id="ART001780154" type-code="01" type-name="학술지(정기간행물)">
+          <title>1950년대 전후 희곡에 나타난 실존주의 양상 -오학영과 장용학의 희곡을 중심으로-</title>
+          <author>박명진</author>
+          <journal-name>우리문학연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>39</isseue>
+          <serno />
+          <page>279-316</page>
+          <pubilisher>우리문학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954980" type-code="05" type-name="학위논문">
+          <title>Hemingway의 작품에 나타난 실존주의</title>
+          <author>朴泳杰</author>
+          <degree>석사</degree>
+          <university>계명대학교 교육대학원</university>
+          <department />
+          <pubi-year>1986</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954981" arti-id="ART001466287" type-code="01" type-name="학술지(정기간행물)">
+          <title>김춘수의 초기 詩에 내재된 ‘실존주의’에 관한 연구 ― M. 하이데거와 R. M. 릴케의 영향관계를 중심으로</title>
+          <author>배상식</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>61</volume>
+          <isseue>3</isseue>
+          <serno />
+          <page>393-415</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954982" type-code="05" type-name="학위논문">
+          <title>최인훈의 「가면고」에 나타난 실존주의의 영향</title>
+          <author>백주현</author>
+          <degree>석사</degree>
+          <university>고려대학교 대학원</university>
+          <department>비교문학비교문화</department>
+          <pubi-year>2007</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954983" arti-id="ART001313866" type-code="01" type-name="학술지(정기간행물)">
+          <title>馮至의 역사소설 「伍子胥」 연구 - 「伍子胥」의 人生哲理的인 선택의 문제 고찰</title>
+          <author>유봉구</author>
+          <journal-name>중국연구</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume>45</volume>
+          <isseue />
+          <serno />
+          <page>135-163</page>
+          <pubilisher>중국연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.18077/chss.2009.45..008]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954984" arti-id="ART001767169" type-code="01" type-name="학술지(정기간행물)">
+          <title>역사인물 오자서에 대한 조선 지식인의 인식태도</title>
+          <author>윤세순</author>
+          <journal-name>민족문학사연구</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume />
+          <isseue>51</isseue>
+          <serno />
+          <page>200-229</page>
+          <pubilisher>민족문학사연구소</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954985" arti-id="ART001993949" type-code="01" type-name="학술지(정기간행물)">
+          <title>한일 전후 소설에 나타난 실존주의 양상 비교 연구 - 太宰治(다자이 오사무)의 『인간 실격』과 장용학의 「요한 시집」의 작중 인물을 통해 -</title>
+          <author>이호규</author>
+          <journal-name>일본근대학연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>48</isseue>
+          <serno />
+          <page>247-262</page>
+          <pubilisher>한국일본근대학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.16979/jmak..48.201505.247]]></doi>
+        </reference>
+        <reference refebibl-id="REF055954986" type-code="03" type-name="단행본">
+          <title>서시 범려 열전 5</title>
+          <author>임현덕</author>
+          <pubilisher>해밀</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954987" type-code="03" type-name="단행본">
+          <title>언어 너머의 문학</title>
+          <author>전형준</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954988" type-code="01" type-name="학술지(정기간행물)">
+          <title>명 참모열전 3 : 범려와 문종-용병과 진퇴의 달인</title>
+          <author>정현우</author>
+          <journal-name>월간 경영계</journal-name>
+          <pubi-year>1987</pubi-year>
+          <volume>115</volume>
+          <isseue />
+          <serno />
+          <page>36-39</page>
+          <pubilisher>한국경영자총협회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954989" type-code="05" type-name="학위논문">
+          <title>노신 문학의 실존주의적 경향 연구</title>
+          <author>정호남</author>
+          <degree>석사</degree>
+          <university>동국대학교 교육대학원</university>
+          <department>중국어교육</department>
+          <pubi-year>2005</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954990" type-code="05" type-name="학위논문">
+          <title>실존주의적 관점에서 본 페터 한트케의 소설 『긴 이별을 위한 짧은 편지』</title>
+          <author>최상민</author>
+          <degree>석사</degree>
+          <university>이화여자대학교 대학원</university>
+          <department>독어독문학</department>
+          <pubi-year>2006</pubi-year>
+        </reference>
+        <reference refebibl-id="REF055954991" type-code="01" type-name="학술지(정기간행물)">
+          <title>에르네스또 사바또의 작품에 나타난 실존주의 연구</title>
+          <author>최정설</author>
+          <journal-name>AULA</journal-name>
+          <pubi-year>1997</pubi-year>
+          <volume>9</volume>
+          <isseue />
+          <serno />
+          <page>94-102</page>
+          <pubilisher>한국외국어대학 서반아어과</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954992" arti-id="ART001859550" type-code="01" type-name="학술지(정기간행물)">
+          <title>통제욕구가 우울에 미치는 영향: 스트레스 상황에서 나타나는 지각된 통제 가능성의 조절효과</title>
+          <author>최지윤 ; 오경자</author>
+          <journal-name>한국심리학회지:일반</journal-name>
+          <pubi-year>2014</pubi-year>
+          <volume>33</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>209-220</page>
+          <pubilisher>한국심리학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954993" type-code="03" type-name="단행본">
+          <title>탁월한 사유의 시선</title>
+          <author>최진석</author>
+          <pubilisher>21세기북스</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954994" type-code="01" type-name="학술지(정기간행물)">
+          <title>Wolfgang Borchert 작품에 나타난 실존주의적 요소 연구</title>
+          <author>홍인숙</author>
+          <journal-name>상지대학교 어문집</journal-name>
+          <pubi-year>1998</pubi-year>
+          <volume>19</volume>
+          <isseue />
+          <serno />
+          <page>135-162</page>
+          <pubilisher>상지대학교</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF055954995" type-code="03" type-name="단행본">
+          <title>도덕경</title>
+          <author>老子</author>
+          <pubilisher>현암사</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954996" type-code="03" type-name="단행본">
+          <title>소학</title>
+          <author>朱熹</author>
+          <pubilisher>육문사</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954997" type-code="03" type-name="단행본">
+          <title>푸코의 미학</title>
+          <author>武田宙也</author>
+          <pubilisher>현실문화</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954998" type-code="03" type-name="단행본">
+          <title>서사학강의</title>
+          <author>Abbott, H. P.</author>
+          <pubilisher>문학과지성사</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF055954999" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>Sartre, J. P.</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001506034</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001066">
+        <issn>1229-0742</issn>
+        <journal-name>한민족어문학(구 영남어문학)</journal-name>
+        <publisher-name>한민족어문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2010</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>57</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001506034">
+        <article-categories>인문학 &gt; 한국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[반성 없는 근대적 주체의 초상-조연현의 1950년대 비평 연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Portrait of the Modern Subject That does not Reflect on Itself - A Study on Jo, Yeon-hyun's Criticisms in the 1950s -]]></article-title>
+          <article-title lang="english"><![CDATA[The Portrait of the Modern Subject That does not Reflect on Itself - A Study on Jo, Yeon-hyun's Criticisms in the 1950s -]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[박근예]]></name>
+            <name-eng><![CDATA[Geunye Park]]></name-eng>
+            <institution>이화여자대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 조연현의 1950년대 문학 비평을 중심으로 주체에 대한 확신과 신뢰를 근거로 하는 생리비평과 휴머니즘을 고찰함으로써 반성 없는 근대적 주체를 표상하는 조연현비평의 원리를 밝히고자 한다. 조연현은 객관성을 지향하는 비평은 생명 없는 무가치한비평이라고 믿었다. 따라서 비평에 생명을 줄 수 있는 창조성을 지닌 비평가의 역할을강조하는 생리 비평을 주장하게 된다. 생리비평은 비평의 방법론과 논리보다는 창조적비평-주체의 주관적 세계를 표현한다. 그리고 이러한 생리비평이 담고 있는 문학 정신이바로 휴머니즘이다. 조연현의 휴머니즘은 현대의 위기에 대응하는 문학정신이며, 불안과절망의 분열 상태에 빠진 주체가 아니라 신적인 권위를 지닌 인간 주체에 가치를 부여한다. 이처럼 조연현이 절대적이고 무한한 신뢰를 보내는 주체는 자기를 반성할 줄 모르며,비이성적인 ‘생리’로 표현되건, 절망과 불안의 표정을 하건 간에 1950년대의 새로운 근대성을 표상하기는 어렵다. 주체를 절대적으로 신뢰하면서 주체의 자기반성과 성찰을 말하기는 어렵기 때문이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study examined physiology criticism that contradicts the methodology and logic, and humanism, the literary spirit, as the structural principles of Jo, Yeon-hyun's criticism on the basis of Jo's literary criticisms in the 1950s that sought to find the values of criticism through the valuelessness of criticism.
+Physiology criticism opposes lifeless criticism that produces the same conclusions by the methodology and logic not accumulate by the subject, and pursues the creation of values that express and complete the critic's own world through the accurate judgment of an object. After all, the creator-subject remains in a world of subjectivity that excludes the methodology and logic. Humanism, the literary spirit established through the exclusion of ideology and ideas, disregards an in-depth exploration of the subject in the state of anxiety, frustration and desperation by giving absolute beliefs to the human subject, the object of literature.
+The principles of Jo, Yeon-hyun's criticism lack reflection on the subject as the creator of literature, and the human subject as the object of literature.
+The subject that does not reflect on itself finds it difficult to express the spirit of the 'anti-modern' whether it is manifested in expressions of irrational ‘physiology’ or desperation and anxiety. The subject believed absolutely and unlimitedly by Jo, Yeon-hyun's is not the powerless and disrupted subject that has experienced desperation, but the desirable human being with dignity and values, and modern subject that ensures the human being is the owner of the universe by developing scientific technology.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[physiology criticism]]></keyword>
+          <keyword><![CDATA[humanism]]></keyword>
+          <keyword><![CDATA[modern subject]]></keyword>
+          <keyword><![CDATA[subjectivity]]></keyword>
+          <keyword><![CDATA[생리비평]]></keyword>
+          <keyword><![CDATA[주체성]]></keyword>
+          <keyword><![CDATA[휴머니즘]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[근대적 주체]]></keyword>
+        </keyword-group>
+        <fpage>531</fpage>
+        <lpage>555</lpage>
+        <doi />
+        <uci>G704-001066.2010..57.003</uci>
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.12</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001506034]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF023648025" type-code="03" type-name="단행본">
+          <title>문학입문</title>
+          <author>조연현</author>
+          <pubilisher>창인사</pubilisher>
+          <pubi-year>1954</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648026" type-code="03" type-name="단행본">
+          <title>휴일의 의장</title>
+          <author>조연현</author>
+          <pubilisher>인간사</pubilisher>
+          <pubi-year>1957</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648027" type-code="03" type-name="단행본">
+          <title>문학과 그 주변</title>
+          <author>조연현</author>
+          <pubilisher>인간사</pubilisher>
+          <pubi-year>1958</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648028" type-code="03" type-name="단행본">
+          <title>조연현전집</title>
+          <author>조연현</author>
+          <pubilisher>어문각</pubilisher>
+          <pubi-year>1972</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648029" type-code="03" type-name="단행본">
+          <title>한국현대문학사</title>
+          <author>권영민</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648030" type-code="03" type-name="단행본">
+          <title>조연현, 비극적 세계관과 파시즘 사이</title>
+          <author>김명인</author>
+          <pubilisher>소명출판</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648031" type-code="03" type-name="단행본">
+          <title>조연현 평전</title>
+          <author>박종석</author>
+          <pubilisher>도서출판 역락</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648032" type-code="03" type-name="단행본">
+          <title>조연현의 수필문학- 인간원형의 탐색, 그리고 도스토예프스키</title>
+          <author>윤지영</author>
+          <pubilisher>보고사</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF023648033" type-code="01" type-name="학술지(정기간행물)">
+          <title>조연현 문학사 기술방법-문학사가로서의 조연현</title>
+          <author>김시태</author>
+          <journal-name>한국문학 연구</journal-name>
+          <pubi-year>1992</pubi-year>
+          <volume>15</volume>
+          <isseue />
+          <serno />
+          <page>29-41</page>
+          <pubilisher>동국대</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648034" type-code="01" type-name="학술지(정기간행물)">
+          <title>조연현 평론의 세계</title>
+          <author>김시태</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1986</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>92-100</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648035" type-code="01" type-name="학술지(정기간행물)">
+          <title>창조적 비평의 선구-조연현 문학의 비평사적 의의</title>
+          <author>김양수</author>
+          <journal-name>월간문학</journal-name>
+          <pubi-year>1982</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>182-188</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648036" type-code="01" type-name="학술지(정기간행물)">
+          <title>근대성 또는 주인과 노예의 변증법-조연현 선생의 삶과 문학세계</title>
+          <author>김윤식</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1991</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>70-97</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648037" type-code="03" type-name="단행본">
+          <title>근대와 반근대 in: 한국현대비평가연구</title>
+          <author>김윤식</author>
+          <pubilisher />
+          <pubi-year>1996</pubi-year>
+          <page>114-143</page>
+        </reference>
+        <reference refebibl-id="REF023648038" type-code="03" type-name="단행본">
+          <title>소설과 우연성의 문제-김동리, 조연현, 九鬼周造 in: 한국근대문학사상연구2</title>
+          <author>김윤식</author>
+          <pubilisher>아세아문화사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>109-160</page>
+        </reference>
+        <reference refebibl-id="REF023648039" type-code="03" type-name="단행본">
+          <title>조연현 소묘 in: 한국근대문학사상연구2</title>
+          <author>김윤식</author>
+          <pubilisher>아세아문화사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>342-368</page>
+        </reference>
+        <reference refebibl-id="REF023648040" type-code="01" type-name="학술지(정기간행물)">
+          <title>해방직후 조연현 비평연구 서설</title>
+          <author>류덕제</author>
+          <journal-name>국어교육연구</journal-name>
+          <pubi-year>1993</pubi-year>
+          <volume>25</volume>
+          <isseue />
+          <serno />
+          <page>227-251</page>
+          <pubilisher>경북대</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648041" type-code="03" type-name="단행본">
+          <title>근현대문학사론의 전개과정 in: 한국문학사론 연구</title>
+          <author>송희복</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>166-173</page>
+        </reference>
+        <reference refebibl-id="REF023648042" type-code="01" type-name="학술지(정기간행물)">
+          <title>조연현 문학평론의 특성</title>
+          <author>신동욱</author>
+          <journal-name>현대문학</journal-name>
+          <pubi-year>1991</pubi-year>
+          <volume />
+          <isseue />
+          <serno />
+          <page>54-68</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648043" type-code="01" type-name="학술지(정기간행물)">
+          <title>비평의 열림과 민족모순의 심화-해방기와 한국전쟁 이후 비평의 흐름</title>
+          <author>신형기</author>
+          <journal-name>문학사상</journal-name>
+          <pubi-year>1995</pubi-year>
+          <volume>4</volume>
+          <isseue />
+          <serno />
+          <page>255-268</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648044" type-code="01" type-name="학술지(정기간행물)">
+          <title>해방직후 순수문학논쟁 연구</title>
+          <author>이현식</author>
+          <journal-name>민족문학사 연구</journal-name>
+          <pubi-year>1995</pubi-year>
+          <volume>7</volume>
+          <isseue />
+          <serno />
+          <page>58-93</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648045" type-code="01" type-name="학술지(정기간행물)">
+          <title>조연현의 감성논리-그의 비평과 에세이의 상관관계</title>
+          <author>이형기</author>
+          <journal-name>한국문학연구</journal-name>
+          <pubi-year>1992</pubi-year>
+          <volume>15</volume>
+          <isseue />
+          <serno />
+          <page>43-53</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648046" type-code="01" type-name="학술지(정기간행물)">
+          <title>조연현의 문학비평-창조적 비평의 길</title>
+          <author>천이두</author>
+          <journal-name>한국문학연구</journal-name>
+          <pubi-year>1992</pubi-year>
+          <volume>15</volume>
+          <isseue />
+          <serno />
+          <page>11-27</page>
+          <pubilisher>동국대</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF023648047" type-code="01" type-name="학술지(정기간행물)">
+          <title>편집자-비평가로서 조연현(趙演鉉)의 생애와 문예지 ≪현대문학≫</title>
+          <author>한형구</author>
+          <journal-name>한국현대문학연구</journal-name>
+          <pubi-year>2001</pubi-year>
+          <volume>9</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

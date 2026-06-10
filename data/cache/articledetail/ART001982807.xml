@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001982807</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000875">
+        <issn>1229-0750</issn>
+        <journal-name>대동철학</journal-name>
+        <publisher-name>대동철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2015</pub-year>
+        <pub-mon>03</pub-mon>
+        <volume />
+        <issue>70</issue>
+      </journalInfo>
+      <articleInfo article-id="ART001982807">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[인간의 생물학적 현사실성과 실존적 자유]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Biological Facticity of Man and the Existential Freedom]]></article-title>
+          <article-title lang="english"><![CDATA[The Biological Facticity of Man and the Existential Freedom]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[오용득]]></name>
+            <name-eng><![CDATA[OH  YONG DEUK]]></name-eng>
+            <institution>동아대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구는 유전자의 운반체 혹은 유전자의 생존 기계라는 인간의 생물학적 현사실성에서 경험되는 인간의 부조리함을 극복하기 위해 실존주의에서 제안한 실존적 자유의 가능성을 확인하고 이를 실마리로 삼아 우리가 유전자의 의도에 종속하지 않는 진정한 주체로서 살아갈 수 있는 실천적인 삶의 모델을 탐색하기 위해서 기획되었다.
+따라서 이 연구는 최근까지 이루어진 생물학의 연구 성과들을 바탕으로 인간의 생물학적 현사실성을 분석하고, 실존주의 사상에서 개진된 인간의 존재 의미 해명을 바탕으로 우리가 유전자의 생존 기계일 뿐임을 거부할 수 없는 상황에도 불구하고 실존적 자유를 감행할 수 있는 실천적인 방안을 논구하는 순서로 진행되었다.
+첫째, 리처드 도킨스의 <이기적 유전자>와 <확장된 표현형>을 주로 참조하면서 모든 생물의 존재 의미를 ‘유전자의 전달자’ 혹은 ‘유전자의 생존 기계’로 보는 관점의 근거가 무엇인지를 고찰했다.
+둘째, 인간도 유전자의 생존 기계인지 아닌지를 판정하기 위해서는 일반적으로 생물을 유전자의 생존 기계라고 규정할 수 있는 두 가지 조건, 즉 ① 그 몸의 구조가 유전자의 생존 기계로서 적합하게 조직되었다는 것, ② 그 활동 메커니즘이 유전자를 생존시키기에 적합하게 조성되어 있다는 것을 인간도 충족시키는지 그렇지 않은지를 검토했다.
+셋째, 실존주의 작가이자 사상가인 알베르 카뮈의 『시쥐포스 신화』에 등장하는 시쥐포스라는 인물의 행동을 통해서 우리 인간이 어떻게 유전자의 생존 기계가 아닐 수 있는지를 논구했다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study aims to elucidate how to overcome the absurdity experienced in human biological facticity according to which man is merely a vehicle or a survival machine of gene. To attain this goal, I considered the conception of the existential freedom proposed by existentialists, and investigated a practical life-style of an authentic subject who could reject the orders of gene.
+In this paper, I analysed the human biological facticity with reference to the results of biological research recently performed. And then in the light of the thoughts on the meaning of human being elucidated by existentialists I searched for an way to carry out resolutely the existential freedom even though we could not deny that man is merely a survival machine of gene.
+Firstly, with reference to The Selfish Gene and The Extended Phenotype I considered whether it is or not reasonable that all organism is the vehicles or survival machines of gene.
+Secondary, to find whether is or not man a survival machine of gene, I examined that man has also the conditions in according to which any organism is counted as a survival machine of gene. There are two conditions to count any organism as a survival machine of gene; ① it must have a body organized appropriately in according to the gene program, and ② it must do whatever it thinks best to keep its genes alive.
+And lastly, I investigated how can not be we a survival machine of gene with reference to a life style seen in Sisyphus whom an existentialist writer Albert Camus has regard as the typical revolt.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[유전자]]></keyword>
+          <keyword><![CDATA[생존 기계]]></keyword>
+          <keyword><![CDATA[부조리]]></keyword>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[자유.]]></keyword>
+          <keyword><![CDATA[gene]]></keyword>
+          <keyword><![CDATA[survival machine]]></keyword>
+          <keyword><![CDATA[absurd]]></keyword>
+          <keyword><![CDATA[existentialism]]></keyword>
+          <keyword><![CDATA[freedom]]></keyword>
+        </keyword-group>
+        <fpage>155</fpage>
+        <lpage>176</lpage>
+        <doi />
+        <uci>G704-000875.2015..70.008</uci>
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001982807]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF037865531" type-code="03" type-name="단행본">
+          <title>일부일처제의 신화</title>
+          <author>데이비드 버래쉬</author>
+          <pubilisher>해냄</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865532" type-code="03" type-name="단행본">
+          <title>꿈꾸는 기계의 진화 ― 뇌과학으로 보는 철학 명제</title>
+          <author>로돌포 이나스</author>
+          <pubilisher>북센스</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865533" type-code="03" type-name="단행본">
+          <title>하나의 세포가 어떻게 인간이 되는가</title>
+          <author>최돈찬</author>
+          <pubilisher>궁리출판</pubilisher>
+          <pubi-year>2001</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865534" type-code="03" type-name="단행본">
+          <title>The Selfish Gene, 30th Anniversary Ed</title>
+          <author>Richard Dawkins</author>
+          <pubilisher>Oxford Univ. Press</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865535" type-code="03" type-name="단행본">
+          <title>The Extended Phenotype</title>
+          <author>Richard Dawkins</author>
+          <pubilisher>Oxford Univ. Press</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865536" type-code="03" type-name="단행본">
+          <title>지상 최대의 쇼</title>
+          <author>리처드 도킨스</author>
+          <pubilisher>김영사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865537" type-code="03" type-name="단행본">
+          <title>Le Mythe de Sisyphe</title>
+          <author>Albert Camus</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>2013</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865538" type-code="03" type-name="단행본">
+          <title>Consilience: The Unity of Knowledge</title>
+          <author>Edward O. Wilson</author>
+          <pubilisher>Vintage Books</pubilisher>
+          <pubi-year>1998</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865539" type-code="03" type-name="단행본">
+          <title>이것이 생물학이다</title>
+          <author>에른스트 마이어</author>
+          <pubilisher>몸과마음</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865540" type-code="03" type-name="단행본">
+          <title>생물학의 고유성은 어디에 있는가?</title>
+          <author>박정희</author>
+          <pubilisher>철학과현실사</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF037865541" type-code="01" type-name="학술지(정기간행물)">
+          <title>The theory of games and the evolution of animal conflicts</title>
+          <author>John M. Smith</author>
+          <journal-name>Journal of Theoretical Biology</journal-name>
+          <pubi-year>1974</pubi-year>
+          <volume>47</volume>
+          <isseue />
+          <serno />
+          <page>209-221</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF037865542" type-code="03" type-name="단행본">
+          <title>쾌감 본능</title>
+          <author>진 월렌스타인</author>
+          <pubilisher>은행나무</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

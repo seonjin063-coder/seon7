@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART002474219</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001242">
+        <issn>1225-1968</issn>
+        <journal-name>동서철학연구</journal-name>
+        <publisher-name>한국동서철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2019</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>92</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002474219">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[존재론적 특징과 연결성으로 보는 불교 실존심리학]]></article-title>
+          <article-title lang="foreign"><![CDATA[Buddhist existential psychology in terms of ontological characteristics and connectivity]]></article-title>
+          <article-title lang="english"><![CDATA[Buddhist existential psychology in terms of ontological characteristics and connectivity]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[윤희조]]></name>
+            <name-eng><![CDATA[YOUN, Hee-Jo]]></name-eng>
+            <institution>서울불교대학원대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[불교 실존심리학은 불교심리학적 관점에서 실존의 문제를 연구하는 불교심리학의 한 분야라고 할 수 있다. 불교에서 실존적 문제는 괴로움의 문제이다. 이 문제의 해결을 통해서 드러난 인간, 존재, 세계, 시간에 대한 관점을 중심으로 서구의 실존주의가 제시한 문제에 대한 불교심리학적 대안을 제시하고자 한다. 실존은 본질에 앞선다는 테제는 불교에서는 법의 생멸성을 통해서 지금 여기의 존재론으로 드러나고 있다. 불교의 존재론적 특징인 삼법인과 연기의 연결성은 실존주의가 제시하는 의미, 자유, 불안, 죽음, 소외, 치유, 선택의 문제에 대한 불교 실존심리학의 관점을 보여준다.
+범부인 인간의 실존적인 상황은 오취온으로 드러난다. 오취온적 상황 하에서 의미는 나 중심으로 전개된다. 이러한 나의 해체를 통한 의미해체론으로 나아간다. 이를 통해서 연기의 연결망만이 남게 되고, 이 연결망의 다양성만큼이나 다양한 의미가 관계적 맥락하에서 성립한다. 의미의 연기성에서 보면 자유는 나로 인한 것이 아니고 존재론적 흐름에 따른 자유이다. 존재론적 불안은 죽음에 대한 실존적이고 근원적인 불안이다. 이는 죽음과 탄생을 단절로 보기 때문에 발생한다. 그러나 존재론적 불안은 먼 죽음이 아니라 지금 여기에서 존재론적 특징으로 인해서 발생하는 불안이다. 이러한 특징을 아는 것 자체가 불안에 대한 대처가 된다. 존재론적인 비고정성은 불안을 비고정화시키고 불안을 더 이상 불안으로 성립시키지 않는다.
+실존주의에서 죽음은 의미없음의 최후의 담지자이다. 이는 죽음을 단절로 보기 때문이다. 죽음을 존재 양태의 변화로 볼 경우 죽음은 일종의 존재가 되고, 의미의 연결성은 확보된다. 죽음은 지금 여기에서 삶에 개입하고 있기 때문이다. 인간은 탄생과 죽음으로 인해서 피투된 존재와 기투될 존재가 아니게 된다. 탄생과 삶과 죽음의 연결성이 확보되게 된다. 이렇게 되면 소외와 단절은 존재론적 연결성의 관점에서 보면 단지 전도된 사유이고, 분별된 사고가 된다.
+존재론적 특징과 연결성에 대한 자각은 실존에 대한 불교적 치유로 나아간다. 연기성으로 인해서 인간은 원래 소외될 수 없는 존재이고, 나 중심의 의미는 해체되고, 자유가 아니라 해탈로 나아가고, 죽음이 아니라 존재 양태의 변화로 나아간다. 이처럼 치유는 존재론적 특징과 연결성과 연관되어 있다. 이는 결국 오취온을 기반으로 할 것인가 존재론적 특징과 연결성을 자각한 오법온을 기반으로 할 것인가 하는 실존적 선택의 문제로 귀결된다. 이러한 선택은 마음으로 연결된다. 마음이 가지는 대표적인 기능 가운데 하나가 결택 즉 선택이기 때문이다. 그리고 마음은 불교심리학의 주제가 된다. 이 지점에서 불교 실존심리학은 불교심리학과 연결된다.]]></abstract>
+          <abstract lang="english"><![CDATA[Buddhist existential psychology is a field of Buddhist psychology which studies the problem of existence in a Buddhist psychological viewpoint. In Buddhism, existential problems are a matter of suffering. Centering on the human, the being, the world, and the viewpoint of time revealed through the solution of this problem, I would like to present a Buddhist psychological alternative to the problems posed by Western existentialism. Existence precedes essence, which is revealed in Buddhism as the ontology of here and now through the nature of dhamma. Buddhism's ontological characteristic and the connectivity show the viewpoint of Buddhist existential psychology about the meaning of existentialism, freedom, anxiety, death, alienation, healing, and choice.
+The existential situation of the human being as a layman is revealed as five aggregates of clinging. Meaning is developed centered on oneself in the five aggregates of clinging. It moves on to the deconstruction of meaning through deconstruction of oneself. Through this, only the connectivity remains, and the meaning of this connectivity is as diverse as that of the connectivity itself. In the meaning of connectivity, freedom is not from one’s own, but freedom as liberation according to the flow of being. Ontological anxiety is an existential and fundamental anxiety about death. This is because death and birth are seen as disconnection. However, ontological anxiety is anxiety caused by the ontological characteristic of here and now, not death. Knowing these characteristics is an answer to anxiety. Ontological non-rigidness cleanses anxiety and does not make anxiety more anxious.
+In existentialism death is the last bearer of meaninglessness. This is because death is seen as a disconnection. When death is regarded as a change of existing modes, death becomes a kind of existence, and the connection of meaning is secured. Death is now involved in life here. Human beings are not beings that have been conquered by birth and death. The connection of birth, life and death is secured. In this way, alienation and disconnection are merely false views and discrimination in terms of ontological connectivity.
+The awareness of ontological characteristic and connectivity leads to Buddhist healing of the existence. Healing results in a problem of existential choice. This choice is connected by mind. One of the representative functions of the mind is the choices. And the mind becomes the subject of Buddhist psychology. At this point, Buddhist existential psychology is connected with Buddhist psychology.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[실존주의]]></keyword>
+          <keyword><![CDATA[불교 실존심리학]]></keyword>
+          <keyword><![CDATA[존재론적 특징]]></keyword>
+          <keyword><![CDATA[연결성]]></keyword>
+          <keyword><![CDATA[의미]]></keyword>
+          <keyword><![CDATA[자유]]></keyword>
+          <keyword><![CDATA[불안]]></keyword>
+          <keyword><![CDATA[죽음]]></keyword>
+          <keyword><![CDATA[소외]]></keyword>
+          <keyword><![CDATA[치유]]></keyword>
+          <keyword><![CDATA[선택]]></keyword>
+          <keyword><![CDATA[Existentialism]]></keyword>
+          <keyword><![CDATA[Buddhist existential psychology]]></keyword>
+          <keyword><![CDATA[Ontological characteristic]]></keyword>
+          <keyword><![CDATA[Connectivity]]></keyword>
+          <keyword><![CDATA[Meaning]]></keyword>
+          <keyword><![CDATA[Liberty]]></keyword>
+          <keyword><![CDATA[Anxiety]]></keyword>
+          <keyword><![CDATA[Death]]></keyword>
+          <keyword><![CDATA[Alienation]]></keyword>
+          <keyword><![CDATA[Healing]]></keyword>
+          <keyword><![CDATA[Choice]]></keyword>
+        </keyword-group>
+        <fpage>215</fpage>
+        <lpage>239</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15841/kspew..92.201906.215]]></doi>
+        <citation-count kci="3" wos="0">3</citation-count>
+        <fwci create-dt="2025-08-04">0.83</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002474219]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF050165797" type-code="03" type-name="단행본">
+          <title>Mindfully Facing Disease and Death</title>
+          <author>Anālayo</author>
+          <pubilisher>Windhorse Publications</pubilisher>
+          <pubi-year>2016</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165798" type-code="03" type-name="단행본">
+          <title>아비담마 길라잡이</title>
+          <author>Anuruddha</author>
+          <pubilisher>초기불전연구원</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165799" type-code="03" type-name="단행본">
+          <title>실존주의 상담과 심리치료의 실제</title>
+          <author>Emmy van Deurzen</author>
+          <pubilisher>상담신학연구소</pubilisher>
+          <pubi-year>2010</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165800" arti-id="ART002180164" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존주의 상담에 관한 국내 연구의 동향</title>
+          <author>권윤주</author>
+          <journal-name>인문사회 21</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>7</volume>
+          <isseue>6</isseue>
+          <serno />
+          <page>123-137</page>
+          <pubilisher>인문사회 21</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22143/HSS21.7.6.8]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165801" arti-id="ART001701928" type-code="01" type-name="학술지(정기간행물)">
+          <title>얄롬의 실존적 심리치료와 니체사상</title>
+          <author>김정현</author>
+          <journal-name>니체연구</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>22</isseue>
+          <serno />
+          <page>129-159</page>
+          <pubilisher>한국니체학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.16982/jkns.2012..22.005]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165802" type-code="03" type-name="단행본">
+          <title>앙굿따라 니까야 제1권</title>
+          <author>대림 스님</author>
+          <pubilisher>초기불전연구원</pubilisher>
+          <pubi-year>2006</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165803" type-code="03" type-name="단행본">
+          <title>맛지마니까야 1</title>
+          <author>대림 스님</author>
+          <pubilisher>초기불전연구원</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165804" arti-id="ART001008496" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존과 죽음의 문제 － M. 하이데거의 경우 －</title>
+          <author>배우순</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume>2</volume>
+          <isseue>44</isseue>
+          <serno />
+          <page>127-146</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF050165805" type-code="03" type-name="단행본">
+          <title>실존주의 심리치료</title>
+          <author>어빈 얄롬</author>
+          <pubilisher>학지사</pubilisher>
+          <pubi-year>2007</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165806" type-code="03" type-name="단행본">
+          <title>심리치료와 행복추구</title>
+          <author>에미 반 두르젠</author>
+          <pubilisher>씨아이알</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165807" arti-id="ART002450828" type-code="01" type-name="학술지(정기간행물)">
+          <title>철학상담에 있어 키에르케고어 철학의 적용가능성 검토</title>
+          <author>오신택</author>
+          <journal-name>범한철학</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>92</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>227-250</page>
+          <pubilisher>범한철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17745/pkps.2019.03.92.227]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165808" arti-id="ART002440018" type-code="01" type-name="학술지(정기간행물)">
+          <title>키에르케고어 철학이 지닌 치료적 특성</title>
+          <author>오신택</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2019</pubi-year>
+          <volume>149</volume>
+          <isseue />
+          <serno />
+          <page>275-295</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.20293/jokps.2019.​149.275]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165809" arti-id="ART002081543" type-code="01" type-name="학술지(정기간행물)">
+          <title>드루젠의 실존주의 상담과 실존적 삶</title>
+          <author>윤영선</author>
+          <journal-name>인문과학연구논총</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>37</volume>
+          <isseue>1</isseue>
+          <serno />
+          <page>451-478</page>
+          <pubilisher>인문과학연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.22947/ihmju.2016.37.1.017]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165810" arti-id="ART002063822" type-code="01" type-name="학술지(정기간행물)">
+          <title>불교와 수용전념치료에 대한 재고찰</title>
+          <author>윤희조</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>78</isseue>
+          <serno />
+          <page>331-354</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15841/kspew..78.201512.331]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165811" arti-id="ART002265782" type-code="01" type-name="학술지(정기간행물)">
+          <title>마음의 기능을 중심으로 한 불교심리학의 정의와 분류에 대한 일고찰</title>
+          <author>윤희조</author>
+          <journal-name>동서철학연구</journal-name>
+          <pubi-year>2017</pubi-year>
+          <volume />
+          <isseue>85</isseue>
+          <serno />
+          <page>209-236</page>
+          <pubilisher>한국동서철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.15841/kspew..85.201709.209]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165812" arti-id="ART002110587" type-code="01" type-name="학술지(정기간행물)">
+          <title>Schneider의 실존상담과 실존주의 영성- 미지의 실재를 향한 경외의 출현 -</title>
+          <author>임인구 ; 박성현</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>138</volume>
+          <isseue />
+          <serno />
+          <page>195-220</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.20293/jokps.2016.​138.​195]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165813" type-code="03" type-name="단행본">
+          <title>실존주의는 휴머니즘이다</title>
+          <author>장 폴 사르트르</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165814" type-code="03" type-name="단행본">
+          <title>실존적 인간 중심 치료</title>
+          <author>커크 J. 슈나이더</author>
+          <pubilisher>유원북스</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF050165815" arti-id="ART001823973" type-code="01" type-name="학술지(정기간행물)">
+          <title>실존철학의 죽음이해</title>
+          <author>홍경자</author>
+          <journal-name>철학논집</journal-name>
+          <pubi-year>2013</pubi-year>
+          <volume>35</volume>
+          <isseue />
+          <serno />
+          <page>9-37</page>
+          <pubilisher>철학연구소</pubilisher>
+          <doi><![CDATA[http://dx.doi.org/10.17325/sgjp.2013.35..9]]></doi>
+        </reference>
+        <reference refebibl-id="REF050165816" type-code="06" type-name="인터넷자원">
+          <title>https://plato.stanford.edu/entries/existentialism/</title>
+          <author />
+          <url><![CDATA[https://plato.stanford.edu/entries/existentialism/]]></url>
+          <citation-day>2019</citation-day>
+          <site-name />
+          <pubilisher />
+          <registration-day />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

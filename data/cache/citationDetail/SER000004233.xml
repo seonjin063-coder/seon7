@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>citationDetail</apiCode>
+    <id>SER000004233</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="SER000004233">
+        <registration>
+          <kci-registration>KCI 등재</kci-registration>
+        </registration>
+        <journal-kor-name>한국융합과학회지</journal-kor-name>
+        <journal-kor-abbr-name>한국시큐리티융합경영학회지</journal-kor-abbr-name>
+        <journal-fola-name>Korean Journal of Convergence Science</journal-fola-name>
+        <journal-fola-abbr-name>KJCS</journal-fola-abbr-name>
+        <major>예술체육학 &gt; 기타예술체육</major>
+        <issn />
+        <eissn>2671-7409</eissn>
+        <fsed-yr>2012년</fsed-yr>
+        <impr>연12회, 04월 30일, 06월 30일, 08월 31일, 02월 28일, 10월 31일, 12월 31일, 01월 31일, 03월 31일, 05월 31일, 07월 31일, 09월 31일, 11월 31일</impr>
+        <current-issue>2026년 04월 15(4)</current-issue>
+        <use-lang>한국어, 영어</use-lang>
+        <publisher>
+          <publisher-kor-name>한국융합과학회</publisher-kor-name>
+          <publisher-eng-name>Korean Society for the Convergence Science</publisher-eng-name>
+          <publisher-tel>041-566-3925</publisher-tel>
+          <publisher-homp>www.kscs.kr</publisher-homp>
+          <publisher-addr>충청남도 아산시 배방읍 광장로 210, 203동 330호(요진 와이시티)</publisher-addr>
+        </publisher>
+        <publisher>
+          <publisher-kor-name>한국융합과학회</publisher-kor-name>
+          <publisher-eng-name>Korean Society for the Convergence Science</publisher-eng-name>
+          <publisher-tel>041-566-3925</publisher-tel>
+          <publisher-homp>www.kscs.kr</publisher-homp>
+          <publisher-addr>충청남도 아산시 배방읍 광장로 210, 203동 330호(요진 와이시티)</publisher-addr>
+        </publisher>
+      </journalInfo>
+      <journal-change-history>
+        <journal-change date="2026" div-cd="8"><![CDATA[계속평가 신청대상 (재인증평가)]]></journal-change>
+        <journal-change date="2020-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 유지 (재인증평가)]]></journal-change>
+        <journal-change date="2017-12-01" div-cd="2" registration="02"><![CDATA[한글명 : 한국시큐리티융합경영학회지 -> 한국융합과학회지
+외국어명 : Korean Society for the Security Convergence Management -> Korean Journal of Convergence Science]]></journal-change>
+        <journal-change date="2017-09-27" div-cd="6" registration="02"><![CDATA[한글명 : 한국시큐리티융합경영학회 -> 한국융합과학회
+영문명 : Korean Society for the Security Convergence Management -> Korean Society for the Convergence Science]]></journal-change>
+        <journal-change date="2017-01-01" div-cd="7" registration="02"><![CDATA[등재학술지 선정 (계속평가)]]></journal-change>
+        <journal-change date="2015-01-01" div-cd="7" registration="03"><![CDATA[등재후보학술지 선정 (신규평가)]]></journal-change>
+      </journal-change-history>
+      <journal-citation-index-history>
+        <journal-citation-index year="2024">
+          <impactFactor>1.53</impactFactor>
+          <impactFactor3>1.47</impactFactor3>
+          <impactFactor4>1.36</impactFactor4>
+          <impactFactor5>1.35</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.057</sjr>
+          <immediacyIndex>0.62</immediacyIndex>
+          <selfCitedRate>36.01%</selfCitedRate>
+          <yearsArticles2>334</yearsArticles2>
+          <yearsCited2>511</yearsCited2>
+          <exImpactFactor>0.98</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2023">
+          <impactFactor>1.49</impactFactor>
+          <impactFactor3>1.44</impactFactor3>
+          <impactFactor4>1.39</impactFactor4>
+          <impactFactor5>1.32</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.15</sjr>
+          <immediacyIndex>0.33</immediacyIndex>
+          <selfCitedRate>30.91%</selfCitedRate>
+          <yearsArticles2>258</yearsArticles2>
+          <yearsCited2>385</yearsCited2>
+          <exImpactFactor>1.03</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2022">
+          <impactFactor>1.26</impactFactor>
+          <impactFactor3>1.18</impactFactor3>
+          <impactFactor4>1.15</impactFactor4>
+          <impactFactor5>1.14</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.867</sjr>
+          <immediacyIndex>0.62</immediacyIndex>
+          <selfCitedRate>44.77%</selfCitedRate>
+          <yearsArticles2>190</yearsArticles2>
+          <yearsCited2>239</yearsCited2>
+          <exImpactFactor>0.69</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2021">
+          <impactFactor>1.26</impactFactor>
+          <impactFactor3>1.14</impactFactor3>
+          <impactFactor4>1.12</impactFactor4>
+          <impactFactor5>1.05</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.989</sjr>
+          <immediacyIndex>0.28</immediacyIndex>
+          <selfCitedRate>28.08%</selfCitedRate>
+          <yearsArticles2>161</yearsArticles2>
+          <yearsCited2>203</yearsCited2>
+          <exImpactFactor>0.91</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2020">
+          <impactFactor>1.15</impactFactor>
+          <impactFactor3>1.14</impactFactor3>
+          <impactFactor4>1.03</impactFactor4>
+          <impactFactor5>1.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>1.014</sjr>
+          <immediacyIndex>0.39</immediacyIndex>
+          <selfCitedRate>39.22%</selfCitedRate>
+          <yearsArticles2>133</yearsArticles2>
+          <yearsCited2>153</yearsCited2>
+          <exImpactFactor>0.7</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2019">
+          <impactFactor>1.09</impactFactor>
+          <impactFactor3>0.93</impactFactor3>
+          <impactFactor4>0.87</impactFactor4>
+          <impactFactor5>0.83</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.843</sjr>
+          <immediacyIndex>0.25</immediacyIndex>
+          <selfCitedRate>33.67%</selfCitedRate>
+          <yearsArticles2>90</yearsArticles2>
+          <yearsCited2>98</yearsCited2>
+          <exImpactFactor>0.72</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2018">
+          <impactFactor>0.86</impactFactor>
+          <impactFactor3>0.82</impactFactor3>
+          <impactFactor4>0.78</impactFactor4>
+          <impactFactor5>0.74</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.642</sjr>
+          <immediacyIndex>0.3</immediacyIndex>
+          <selfCitedRate>54.17%</selfCitedRate>
+          <yearsArticles2>56</yearsArticles2>
+          <yearsCited2>48</yearsCited2>
+          <exImpactFactor>0.39</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2017">
+          <impactFactor>0.76</impactFactor>
+          <impactFactor3>0.75</impactFactor3>
+          <impactFactor4>0.73</impactFactor4>
+          <impactFactor5>0.71</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.813</sjr>
+          <immediacyIndex>0.17</immediacyIndex>
+          <selfCitedRate>38.24%</selfCitedRate>
+          <yearsArticles2>45</yearsArticles2>
+          <yearsCited2>34</yearsCited2>
+          <exImpactFactor>0.47</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2016">
+          <impactFactor>0.4</impactFactor>
+          <impactFactor3>0.37</impactFactor3>
+          <impactFactor4>0.33</impactFactor4>
+          <impactFactor5>-</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.415</sjr>
+          <immediacyIndex>0.26</immediacyIndex>
+          <selfCitedRate>83.33%</selfCitedRate>
+          <yearsArticles2>30</yearsArticles2>
+          <yearsCited2>12</yearsCited2>
+          <exImpactFactor>0.07</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2015">
+          <impactFactor>0.2</impactFactor>
+          <impactFactor3>0.24</impactFactor3>
+          <impactFactor4>0.24</impactFactor4>
+          <impactFactor5>0.24</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>0.451</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>40.0%</selfCitedRate>
+          <yearsArticles2>25</yearsArticles2>
+          <yearsCited2>5</yearsCited2>
+          <exImpactFactor>0.12</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2014">
+          <impactFactor>0.52</impactFactor>
+          <impactFactor3>0.52</impactFactor3>
+          <impactFactor4>0.52</impactFactor4>
+          <impactFactor5>0.52</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>7.69%</selfCitedRate>
+          <yearsArticles2>25</yearsArticles2>
+          <yearsCited2>13</yearsCited2>
+          <exImpactFactor>0.48</exImpactFactor>
+        </journal-citation-index>
+        <journal-citation-index year="2013">
+          <impactFactor>0.0</impactFactor>
+          <impactFactor3>0.0</impactFactor3>
+          <impactFactor4>0.0</impactFactor4>
+          <impactFactor5>0.0</impactFactor5>
+          <wosImpactFactor>-</wosImpactFactor>
+          <sjr>-</sjr>
+          <immediacyIndex>0.0</immediacyIndex>
+          <selfCitedRate>0%</selfCitedRate>
+          <yearsArticles2>0</yearsArticles2>
+          <yearsCited2>0</yearsCited2>
+          <exImpactFactor>0.0</exImpactFactor>
+        </journal-citation-index>
+      </journal-citation-index-history>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>90867998</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART001691952</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000640">
+        <issn>1226-9727</issn>
+        <journal-name>철학연구</journal-name>
+        <publisher-name>대한철학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2012</pub-year>
+        <pub-mon>08</pub-mon>
+        <volume>123</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART001691952">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[자유의 문제: 메를로-퐁티와 사르트르]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Problem of Freedom: Merleau-Ponty and Sartre]]></article-title>
+          <article-title lang="english"><![CDATA[The Problem of Freedom: Merleau-Ponty and Sartre]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1">
+            <name><![CDATA[심귀연]]></name>
+            <name-eng><![CDATA[Sim, Gui Yeon]]></name-eng>
+            <institution>경상대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[우리에게 자유는 너무나 당연한 것으로 여겨진다. 그럼에도 불구하고 자유롭지 못한 현실을 경험하고선 당황한다. 우리는 자유로워야 하며, 자유로울 수밖에 없는 존재인데, 왜 그렇지 않은 현실을 느끼게 되는 것일까? 본고는 이와 같은 생각이 인식론적 사유에서 기인한다고 보면서, 사르트르의 자유 또한 이와 같은 사유 위에서 잘못 평가되고 있음에 주목한다. 특히 사르트르에 대한 이와 같은 평가는 메를로-퐁티 연구자들에 의한 것으로서, 그들에 따르면 ‘메를로-퐁티가 사르트르를 전통적인 인식론적 사유를 기반으로 한 자유론자라고 비판’하고 있다는 것이다. 본고의 목적은 이와 같은 평가의 문제점을 밝히고 사르트르의 자유가 ‘메를로-퐁티가 비판하는 절대적 자유’가 아님을 보여주는데 있다. 이를 위해 먼저 메를로-퐁티가 비판하는 절대적 자유가 어떤 것인지 살펴볼 필요가 있는데, 여기서 우리는 이 ‘절대적 자유’를 인식론적 이원론에 따른 이성의 절대적 자유로 파악한다. 이성의 절대적 자유는 추상적이고 이념적 자유인 까닭에, 메를로-퐁티에 따르면 존재하지 않는 자유로 간주된다. 이와 같은 논점을 전제로 하여 우리가 확인하는 것은 사르트르의 절대적 자유가 인식론적이 아닌 존재론적으로 파악되어야한다는 점이다. 사르트르는 이 문제를 즉자존재와 대자존재와의 관계를 통해 밝혀 보이고 있다. 마지막 장에서 우리는 메를로-퐁티의 조건지어진 자유에 대해 논하면서, 그것이 상황의 자유이자 선택의 자유임을 보여줄 것이다. 이때 우리가 확인하게 될 것은 사르트르가 말하고자 하는 자유 또한 절대적 이성의 자유가 아니고, 상황 속에서 우리가 선택하게 되는 자유라는 점이다. 사르트르는 대자존재의 사실성이 우리를 상황 속에 처하게 하고, 이 상황이 나의 자유의 토대가 된다고 말하고 있다. 따라서 대자존재의 무는 절대적 이성의 다른 모습이 아니라, 부정의 상태로만 존재하는 대자존재의 존재방식을 드러내고 있다는 사실을 주지해야 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[Our freedom is natural, however we are amazed at the fact that we don’t sometimes have the freedom. we have to have a freedom and must be a freedom. But we think our life is restrained. Why do we think that? This is due to epistemological thinking. Also critic of Sartre’ freedom is due to that. Especially Merleau-Ponty’s researchers say that Sartre is an epistemologist on the problem of the freedom and his freedom is an absolute freedom. Aim of this paper is to find out problem of the critic. To achieve this, first we need to exmaine what absoulte freedom is. It is abstract and ideological. According to Merleau-Ponty, it dosen’t exist.
+This paper argues that Sartre’s freedom is not epistemoligical but ontological. It is going to come out in relation between ‘l’être-en-soi’ and ‘l’être-en-soi’. Then, on the problem of the freedom, we can discover that Sartre and Merleau-Ponty are no different from each other. Finally, As I argue about Merleau-Ponty’s freedom, I will show that it is ‘a freedom of situation’ and ‘a freedom of choice’. Also, This freedom is Sartre’s freedom. Sartre showes a situation is my freedom.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[메를로-퐁티]]></keyword>
+          <keyword><![CDATA[사르트르]]></keyword>
+          <keyword><![CDATA[절대적 자유]]></keyword>
+          <keyword><![CDATA[상황의 자유]]></keyword>
+          <keyword><![CDATA[선택의 자유]]></keyword>
+          <keyword><![CDATA[Merleau-Ponty]]></keyword>
+          <keyword><![CDATA[Sartre]]></keyword>
+          <keyword><![CDATA[absolute freedom]]></keyword>
+          <keyword><![CDATA[a freedom of situation]]></keyword>
+          <keyword><![CDATA[a freedom of choice]]></keyword>
+        </keyword-group>
+        <fpage>165</fpage>
+        <lpage>187</lpage>
+        <doi />
+        <uci>G704-000640.2012.123..010</uci>
+        <citation-count kci="4" wos="0">4</citation-count>
+        <fwci create-dt="2025-08-04">0.59</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001691952]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF027074041" type-code="03" type-name="단행본">
+          <title>성찰</title>
+          <author>Descartes, René</author>
+          <pubilisher>서광사</pubilisher>
+          <pubi-year>1988</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074042" type-code="03" type-name="단행본">
+          <title>행동의 구조</title>
+          <author>김웅권</author>
+          <pubilisher>동문선</pubilisher>
+          <pubi-year>2008</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074043" type-code="03" type-name="단행본">
+          <title>지각의 현상학</title>
+          <author>Merleau-Ponty, Mauris</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>2002</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074044" type-code="03" type-name="단행본">
+          <title>존재와 무</title>
+          <author>Sartre, Jean-Poul</author>
+          <pubilisher>동서문화사</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074045" type-code="03" type-name="단행본">
+          <title>메를로-뽕띠와 애매성의 철학</title>
+          <author>김형효</author>
+          <pubilisher>철학과 현실사</pubilisher>
+          <pubi-year>1999</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074046" type-code="03" type-name="단행본">
+          <title>신체의 현상학</title>
+          <author>리처드 M. 자너</author>
+          <pubilisher>인간사랑</pubilisher>
+          <pubi-year>1993</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074047" type-code="03" type-name="단행본">
+          <title>자유와 비극</title>
+          <author>신오현</author>
+          <pubilisher>문학과 지성사</pubilisher>
+          <pubi-year>1986</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074048" type-code="03" type-name="단행본">
+          <title>신체와 자유</title>
+          <author>심귀연</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074049" type-code="03" type-name="단행본">
+          <title>사르트르의 철학</title>
+          <author>아더 단토</author>
+          <pubilisher>민음사</pubilisher>
+          <pubi-year>1995</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074050" arti-id="ART001290363" type-code="01" type-name="학술지(정기간행물)">
+          <title>몸인 세계, 세계인 몸: 사르트르의 몸의 존재론</title>
+          <author>이성환</author>
+          <journal-name>철학논총</journal-name>
+          <pubi-year>2008</pubi-year>
+          <volume>4</volume>
+          <isseue>54</isseue>
+          <serno />
+          <page>383-405</page>
+          <pubilisher>새한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027074051" arti-id="ART001474078" type-code="01" type-name="학술지(정기간행물)">
+          <title>사르트르의 &lt;행위&gt;의 존재론</title>
+          <author>이성환</author>
+          <journal-name>철학연구</journal-name>
+          <pubi-year>2010</pubi-year>
+          <volume>115</volume>
+          <isseue />
+          <serno />
+          <page>193-219</page>
+          <pubilisher>대한철학회</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF027074052" type-code="03" type-name="단행본">
+          <title>헤겔의 정신현상학∥</title>
+          <author>장 이뽈리드</author>
+          <pubilisher>문예출판사</pubilisher>
+          <pubi-year>1994</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF027074053" type-code="03" type-name="단행본">
+          <title>몸의 세계, 세계의 몸</title>
+          <author>조광제</author>
+          <pubilisher>이학사</pubilisher>
+          <pubi-year>2004</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>
